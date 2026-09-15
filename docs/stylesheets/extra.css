@@ -1,0 +1,42 @@
+:root {
+  --md-primary-fg-color: #0b5ea8;
+  --md-primary-fg-color--light: #1976c5;
+  --md-primary-fg-color--dark: #083b68;
+  --md-accent-fg-color: #00a6a6;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0b5ea8 0%, #123c69 58%, #00a6a6 100%);
+  border-radius: 1.25rem;
+  color: #fff;
+  margin: 1rem 0 2rem;
+  padding: clamp(2rem, 7vw, 5rem) clamp(1.25rem, 6vw, 4rem);
+  box-shadow: 0 1rem 2.5rem rgba(8, 59, 104, .18);
+}
+
+.hero h1, .hero h2 { color: #fff; }
+.hero p { max-width: 48rem; font-size: 1.1rem; }
+.hero-actions { margin-top: 2rem; }
+.hero .md-button { margin: .25rem .5rem .25rem 0; }
+.hero .md-button--primary { background: #fff; color: #0b5ea8; border-color: #fff; }
+
+.md-typeset table:not([class]) th { background: rgba(11, 94, 168, .08); }
+.md-typeset .admonition { border-radius: .65rem; }
+.md-typeset img { border-radius: .5rem; box-shadow: 0 .35rem 1rem rgba(0,0,0,.1); }
+.md-header { box-shadow: 0 2px 12px rgba(8, 59, 104, .15); }
+
+/* Añade aire al texto normal y conserva la posición de las cajas verticales. */
+.md-content__inner > p,
+.md-content__inner > ul,
+.md-content__inner > ol,
+.md-content__inner > table,
+.md-content__inner > h2,
+.md-content__inner > h3 {
+  margin-left: clamp(.5rem, 2vw, 1.5rem);
+  margin-right: clamp(.5rem, 2vw, 1.5rem);
+}
+.md-content__inner > blockquote,
+.md-content__inner > .admonition {
+  margin-left: 0;
+  margin-right: 0;
+}
