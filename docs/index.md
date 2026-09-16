@@ -83,3 +83,18 @@ Consulta la [guía completa de evidencias visuales](assets/README.md) para conoc
 ## Publicación y revisión
 
 El profesor mantiene esta plantilla como repositorio de referencia. Cada alumno trabaja en su propia copia, registra sus cambios mediante commits claros y publica el sitio cuando el cuaderno esté revisado.
+
+### Actualización de una práctica durante el curso
+
+Las prácticas pueden actualizarse durante el curso por cambios en el tiempo disponible, los recursos, las muestras, los reactivos o el diseño de la actividad. Cuando el profesor comparta una nueva versión de una práctica por correo electrónico o Drive, sustituye el contenido de la versión anterior en tu repositorio de GitHub:
+
+1. Descarga o abre el nuevo archivo `.md` compartido por el profesor.
+2. Entra en tu repositorio y abre el archivo correspondiente dentro de `docs/practicas/`.
+3. Pulsa el icono del lápiz **Edit this file**.
+4. Selecciona todo el contenido antiguo y sustitúyelo por el contenido completo del nuevo archivo.
+5. Mantén el mismo nombre y la misma ruta del archivo, salvo que el profesor indique expresamente lo contrario.
+6. Pulsa **Preview changes** y comprueba títulos, apartados, enlaces e imágenes.
+7. Escribe un mensaje claro, por ejemplo: `docs: actualizar P04`, y pulsa **Commit changes**.
+8. Espera a que finalice el workflow de GitHub Pages y revisa la página publicada.
+
+Si ya habías escrito respuestas o añadido evidencias en esa práctica, guarda una copia antes de sustituir el contenido: la nueva versión puede reemplazar esos datos. No elimines el archivo del repositorio; debes reemplazar su contenido para conservar los enlaces de la navegación y la dirección de la página.
