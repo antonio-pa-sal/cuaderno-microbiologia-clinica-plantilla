@@ -186,24 +186,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. Describe acciones, decisiones y evidencia sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Planificación y codificación | [Escribe aquí] | [Comparación, autorización, trazabilidad] | [Foto 1, tabla u otra] |
-| Preparación del puesto | [Escribe aquí] | EPI, orden, [PNT](https://www.iso.org/standard/64950.html) | [Escribe aquí] |
-| Toma, demostración, simulación o recepción de datos | [Escribe aquí] | Seguimiento del [PNT](https://www.iso.org/standard/64950.html) / supervisión | [Foto 2, nota u otra] |
-| Custodia o entrega para lectura | [Escribe aquí] | Según [PNT](https://www.iso.org/standard/64950.html) | [Escribe aquí] |
-| Lectura, recuento o revisión de datos | [Escribe aquí] | [Regla de lectura autorizada] | [Foto 3, tabla u otra] |
-| Cálculo e interpretación inicial | [Escribe aquí] | [Unidad y control declarados] | [Escribe aquí] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados, recuento y cálculo
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

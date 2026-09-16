@@ -188,23 +188,6 @@ Antes de revisar la serie, responde:
 
 [Escribe aquí]
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. No describas una inoculación o un cultivo real si solo has trabajado con documentación.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Identificación del caso y control | [Escribe aquí] | [Código, anonimización, referencia] | [Captura 1, nota u otra] |
-| Descripción del cultivo normal | [Escribe aquí] | [Tipo, confluencia, aumento] | [Imagen/tabla] |
-| Revisión de la serie temporal | [Escribe aquí] | [Tiempos comparables] | [Captura 2, nota u otra] |
-| Registro de cambios morfológicos | [Escribe aquí] | [Enfoque, escala, artefactos] | [Imagen/tabla] |
-| Comparación con alternativas | [Escribe aquí] | [Medio, toxicidad, contaminación, daño] | [Escribe aquí] |
-| Clasificación del patrón | [Escribe aquí] | [Criterio utilizado] | [Diagrama/tabla] |
-| Propuesta de confirmación | [Escribe aquí] | [Técnica adicional y límite] | [Escribe aquí] |
-| Comunicación y archivo | [Escribe aquí] | [Fuente, versión, fecha] | [Escribe aquí] |
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

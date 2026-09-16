@@ -185,22 +185,6 @@ Antes de resolver el caso, responde:
 
 [Escribe aquí]
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. Cada selección debe responder a una pregunta del caso.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Lectura y anonimización del caso | [Escribe aquí] | [Código, datos mínimos] | [Captura/tabla 1] |
-| Definición de la pregunta | [Escribe aquí] | [Pregunta verificable] | [Escribe aquí] |
-| Selección de muestra y momento | [Escribe aquí] | [Fase, transporte, volumen] | [Diagrama/tabla] |
-| Selección de técnica | [Escribe aquí] | [Adecuación, controles] | [Escribe aquí] |
-| Revisión del resultado simulado | [Escribe aquí] | [Validez, control, discordancias] | [Captura/tabla 2] |
-| Decisión posterior | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] | [Escribe aquí] |
-| Comunicación y archivo | [Escribe aquí] | [Alcance, fuente, fecha] | [Diagrama/tabla] |
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Selección de muestra y técnica

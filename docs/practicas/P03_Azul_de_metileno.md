@@ -130,19 +130,6 @@ Antes de observar, indica qué diferencia esperas encontrar entre la preparació
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que realizaste realmente. No copies el procedimiento base: anota los ajustes, las decisiones y los problemas detectados.
-
-| Momento | Acción realizada | Ajuste o decisión técnica | Resultado u observación |
-|---|---|---|---|
-| Preparación del puesto y EPI | [Completa] | [Completa] | [Completa] |
-| Depósito de la muestra | [Completa] | [Completa] | [Completa] |
-| Adición y mezcla del colorante | [Completa] | [Completa] | [Completa] |
-| Colocación del cubreobjetos | [Completa] | [Completa] | [Completa] |
-| Enfoque y observación | [Completa] | [Completa] | [Completa] |
-| Limpieza y gestión de residuos | [Completa] | [Completa] | [Completa] |
-
 ## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Comprobación de calidad

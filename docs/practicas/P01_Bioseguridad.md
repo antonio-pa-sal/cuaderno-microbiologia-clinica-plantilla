@@ -129,19 +129,6 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | Higiene de manos | [Describe cuándo y cómo] | [Completa] |
 | Otra barrera o medida | [Completa] | [Completa] |
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que sucedió realmente, incluso si no coincide exactamente con la secuencia prevista. No copies el guion: explica las acciones realizadas y las decisiones tomadas.
-
-| Momento | Acción realizada | Comprobación o decisión tomada | Resultado u observación |
-|---|---|---|---|
-| Análisis del espacio y peligros | [Completa] | [Completa] | [Completa] |
-| Selección de barreras y EPI | [Completa] | [Completa] | [Completa] |
-| Recepción de la muestra | [Completa] | [Completa] | [Completa] |
-| Simulación y resolución del derrame | [Completa] | [Completa] | [Completa] |
-| Segregación, procesamiento y eliminación | [Completa] | [Completa] | [Completa] |
-| Registro final y comunicación | [Completa] | [Completa] | [Completa] |
-
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 9.1 Comprobación de los controles de calidad

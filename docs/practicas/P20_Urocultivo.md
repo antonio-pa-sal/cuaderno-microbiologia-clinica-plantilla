@@ -191,23 +191,6 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. Describe decisiones y evidencias sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Identificación de muestra y medio | [Escribe aquí] | [Código, integridad, autorización] | [Foto 1, tabla u otra] |
-| Homogeneización o revisión del dato inicial | [Escribe aquí] | [Sin espuma / fuente del dato / supervisión] | [Escribe aquí] |
-| Toma con asa, demostración o simulación | [Escribe aquí] | [Volumen, técnica autorizada] | [Foto 2, nota u otra] |
-| Descarga y distribución del inóculo | [Escribe aquí] | [Trazo inicial, superficie y agotamiento] | [Escribe aquí] |
-| Incubación o recepción de placa/datos | [Escribe aquí] | Condición y custodia según [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia14a.pdf) | [Escribe aquí] |
-| Lectura, recuento y morfologías | [Escribe aquí] | [Unidad, pureza, controles] | [Foto 3, tabla u otra] |
-| Cálculo e interpretación inicial | [Escribe aquí] | [Fórmula y referencia] | [Escribe aquí] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

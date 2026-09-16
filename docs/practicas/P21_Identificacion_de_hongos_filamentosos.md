@@ -186,22 +186,6 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. Describe decisiones y evidencias sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Identificación del material y puesto | [Escribe aquí] | [Código, autorización, EPI, contención] | [Foto 1, nota u otra] |
-| Observación macroscópica | [Escribe aquí] | [Colonia cerrada, iluminación, reverso] | [Foto macro, imagen docente u otra] |
-| Preparación por disección o análisis de preparación | [Escribe aquí] | [Reactivo, cubreobjetos, supervisión] | [Foto 2, nota u otra] |
-| Preparación por cinta adhesiva o análisis equivalente | [Escribe aquí] | [Cinta, contacto, contención] | [Escribe aquí] |
-| Observación microscópica | [Escribe aquí] | [Aumento, enfoque, zona, calidad] | [Foto 3, micrografía u otra] |
-| Consulta de clave y decisión | [Escribe aquí] | [Rasgo que sustenta cada paso] | [Tabla/diagrama] |
-| Limpieza, cierre y residuos | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

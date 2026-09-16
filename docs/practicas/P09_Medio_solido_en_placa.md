@@ -131,20 +131,6 @@ Antes de preparar el medio, indica qué aspecto, consistencia, uniformidad y tra
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que realizaste realmente. No copies la secuencia base: incluye los ajustes, los cálculos comprobados, las decisiones tomadas y las incidencias observadas.
-
-| Momento | Acción realizada | Ajuste o decisión técnica | Resultado u observación |
-|---|---|---|---|
-| Revisión de fórmula y cálculo | [Completa] | [Completa] | [Completa] |
-| Pesada o medición de componentes | [Completa] | [Completa] | [Completa] |
-| Disolución y homogeneización | [Completa] | [Completa] | [Completa] |
-| Acondicionamiento y esterilización o alternativa | [Completa] | [Completa] | [Completa] |
-| Dispensación en placas o demostración | [Completa] | [Completa] | [Completa] |
-| Solidificación, etiquetado y conservación | [Completa] | [Completa] | [Completa] |
-| Inspección final y control | [Completa] | [Completa] | [Completa] |
-
 ## 10. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Hoja de cálculo de la fórmula

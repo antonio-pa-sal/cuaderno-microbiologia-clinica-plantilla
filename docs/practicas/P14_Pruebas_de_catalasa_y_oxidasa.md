@@ -187,23 +187,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo que realizaste, observaste o analizaste. Describe decisiones y evidencias, sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Preparación del puesto y consulta de FDS/[PNT](https://asm.org/protocols/catalase-test-protocol) | [Escribe aquí] | [EPI, reactivos, residuos] | [Foto 1, nota u otra] |
-| Identificación de reactivos, controles y material | [Escribe aquí] | [Lote, vigencia, trazabilidad] | [Escribe aquí] |
-| Actividad de catalasa o análisis equivalente | [Escribe aquí] | [PNT](https://asm.org/protocols/catalase-test-protocol) / supervisión | [Foto 2, nota u otra] |
-| Actividad de oxidasa o análisis equivalente | [Escribe aquí] | [Ventana de lectura autorizada] | [Foto 3, nota u otra] |
-| Verificación de controles | [Escribe aquí] | [Respuesta esperada frente a observada] | [Tabla de resultados] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta química y biológica indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Control de validez

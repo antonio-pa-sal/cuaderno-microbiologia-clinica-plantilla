@@ -132,19 +132,6 @@ Antes de observar, describe qué aspecto esperarías encontrar en una preparaci�
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que realizaste o observaste realmente. Si la actividad fue una demostración, una imagen o una preparación permanente, describe tu tarea de observación e interpretación sin presentarla como ejecución propia.
-
-| Momento | Acción realizada u observada | Ajuste o decisión técnica | Resultado u observación |
-|---|---|---|---|
-| Preparación del puesto y EPI | [Completa] | [Completa] | [Completa] |
-| Identificación del material seguro | [Completa] | [Completa] | [Completa] |
-| Demostración o análisis de la secuencia | [Completa] | [Completa] | [Completa] |
-| Observación microscópica | [Completa] | [Completa] | [Completa] |
-| Lectura de controles | [Completa] | [Completa] | [Completa] |
-| Limpieza, residuos o devolución | [Completa] | [Completa] | [Completa] |
-
 ## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Comprobación de calidad

@@ -187,24 +187,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo que realizaste, observaste o analizaste. Describe decisiones y evidencias, sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Preparación del puesto y consulta del [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf) | [Escribe aquí] | [EPI, orden, trazabilidad] | [Foto 1, nota u otra] |
-| Identificación del tubo, medio y cultivo | [Escribe aquí] | [Código, lote, control] | [Escribe aquí] |
-| Inoculación, demostración o simulación | [Escribe aquí] | [Técnica autorizada / supervisión] | [Foto 2, nota u otra] |
-| Custodia e intervalo hasta la lectura | [Escribe aquí] | Según [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf) | [Escribe aquí] |
-| Lectura de superficie y fondo | [Escribe aquí] | [Condición y momento] | [Foto 3, tabla u otra] |
-| Registro de gas y sulfuro | [Escribe aquí] | [Criterio autorizado] | [Escribe aquí] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

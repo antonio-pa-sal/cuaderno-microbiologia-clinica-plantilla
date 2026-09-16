@@ -125,20 +125,6 @@ Hipótesis inicial 1: ⟦...⟧
 Hipótesis inicial 2: ⟦...⟧
 Hipótesis inicial 3 o “no concluyente”: ⟦...⟧
 
-## 8. Registro del desarrollo y circuito de decisiones
-
-**[ALUMNADO · RELLENABLE]** Completa una fila por cada decisión. No dejes una prueba sin pregunta asociada.
-
-| Paso | Pregunta que quieres responder | Prueba o fuente seleccionada | Justificación | Resultado y control | Efecto sobre la hipótesis | Siguiente acción |
-|---:|---|---|---|---|---|---|
-| 0 | ⟦...⟧ | Información inicial | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 1 | ⟦...⟧ | ⟦Gram/morfología/...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 2 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 3 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 4 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 5 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| 6 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-
 ## 9. Matriz de evidencias y controles
 
 **[ALUMNADO · RELLENABLE]** Registra tanto resultados positivos como negativos, dudosos o no realizados.

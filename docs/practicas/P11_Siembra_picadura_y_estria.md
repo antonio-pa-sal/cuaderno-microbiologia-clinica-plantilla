@@ -179,23 +179,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado u observado. Describe acciones y decisiones sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Preparación del puesto | [Escribe aquí] | EPI, orden, identificación, [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) | [Foto 1, nota u otra] |
-| Identificación del tubo y del medio | [Escribe aquí] | [Código y trazabilidad] | [Escribe aquí] |
-| Actividad de inoculación, demostración o simulación | [Escribe aquí] | Seguimiento del [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) / supervisión | [Foto 2, nota u otra] |
-| Cierre, custodia o entrega para lectura | [Escribe aquí] | Según [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) | [Escribe aquí] |
-| Lectura o revisión posterior | [Escribe aquí] | [Condiciones autorizadas] | [Foto 3, tabla u otra] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

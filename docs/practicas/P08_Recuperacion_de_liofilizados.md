@@ -131,19 +131,6 @@ Antes de analizar el caso o el registro, explica qué evidencias necesitarías p
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro del flujo realizado u observado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que realizaste u observaste realmente. En una simulación o demostración, no describas la actividad como una recuperación biológica ejecutada por ti.
-
-| Momento | Acción realizada u observada | Decisión o control aplicado | Resultado, registro o incidencia |
-|---|---|---|---|
-| Selección de la modalidad | [Completa] | [Completa] | [Completa] |
-| Revisión de trazabilidad y autorización | [Completa] | [Completa] | [Completa] |
-| Selección del procedimiento/medio/control | [Completa] | [Completa] | [Completa] |
-| Simulación, demostración o tarea autorizada | [Completa] | [Completa] | [Completa] |
-| Lectura de viabilidad/pureza | [Completa] | [Completa] | [Completa] |
-| Cierre del registro y gestión del material | [Completa] | [Completa] | [Completa] |
-
 ## 10. Trazabilidad, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Matriz de verificación

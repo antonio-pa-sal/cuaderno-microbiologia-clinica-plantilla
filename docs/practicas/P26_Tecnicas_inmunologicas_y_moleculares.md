@@ -189,22 +189,6 @@ Antes de revisar los resultados, responde:
 
 [Escribe aquí]
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo realizado, observado o analizado. No describas una ejecución de laboratorio si solo has interpretado documentación.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Lectura del caso y técnica | [Escribe aquí] | [Código, analito, versión] | [Captura 1, nota u otra] |
-| Revisión de muestra y fase | [Escribe aquí] | [Adecuación, ventana] | [Tabla/diagrama] |
-| Revisión de controles | [Escribe aquí] | [Positivo, negativo, interno, blanco] | [Captura 2, tabla u otra] |
-| Lectura de señal o curva | [Escribe aquí] | [Umbral, unidad, Cq/Ct, fondo] | [Imagen/curva] |
-| Comparación entre técnicas | [Escribe aquí] | [Concordancia/discordancia] | [Tabla] |
-| Decisión posterior | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] | [Diagrama] |
-| Comunicación y archivo | [Escribe aquí] | [Fuente, versión, fecha, límites] | [Informe simulado] |
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

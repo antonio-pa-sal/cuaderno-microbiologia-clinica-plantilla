@@ -128,19 +128,6 @@ Antes de ejecutar u observar la práctica, explica qué patrón de crecimiento o
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro de ejecución [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra lo que realizaste u observaste realmente. En una simulación o con evidencia docente, no describas la actividad como una siembra biológica ejecutada por ti.
-
-| Momento | Acción realizada u observada | Decisión o control aplicado | Resultado, registro o incidencia |
-|---|---|---|---|
-| Confirmación de modalidad y material | [Completa] | [Completa] | [Completa] |
-| Preparación del puesto y EPI | [Completa] | [Completa] | [Completa] |
-| Identificación de la placa y patrón indicado | [Completa] | [Completa] | [Completa] |
-| Siembra supervisada, simulación o análisis | [Completa] | [Completa] | [Completa] |
-| Cierre, entrega y gestión de residuos | [Completa] | [Completa] | [Completa] |
-| Lectura posterior o revisión de evidencia | [Completa] | [Completa] | [Completa] |
-
 ## 10. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 ### 10.1 Comprobación de calidad

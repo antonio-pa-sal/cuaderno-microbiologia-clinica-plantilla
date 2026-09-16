@@ -190,25 +190,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo que realizaste, observaste o analizaste. Describe decisiones y evidencias, sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Preparación del puesto y consulta del [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) | [Escribe aquí] | [EPI, orden, residuos] | [Foto 1, nota u otra] |
-| Identificación del inóculo y medio | [Escribe aquí] | [Código, lote, estandarización] | [Escribe aquí] |
-| Siembra, demostración o simulación | [Escribe aquí] | [Uniformidad / supervisión] | [Foto 2, nota u otra] |
-| Identificación y colocación de discos | [Escribe aquí] | [Código, carga, distribución autorizada] | [Escribe aquí] |
-| Custodia hasta la lectura | [Escribe aquí] | Según [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) | [Escribe aquí] |
-| Medida y lectura de halos | [Escribe aquí] | [Instrumento, unidad, observaciones] | [Foto 3, tabla u otra] |
-| Consulta del estándar e interpretación | [Escribe aquí] | [Versión y aplicabilidad] | [Escribe aquí] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

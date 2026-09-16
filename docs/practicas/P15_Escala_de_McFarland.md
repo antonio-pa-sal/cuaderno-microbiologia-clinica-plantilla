@@ -185,23 +185,6 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 8. Registro del desarrollo
-
-### [ALUMNADO · RELLENABLE]
-
-Registra lo que realizaste, observaste o analizaste. Describe decisiones y evidencias, sin reproducir ni inventar un protocolo distinto del autorizado.
-
-| Momento | Qué se realizó, observó o analizó | Comprobación de calidad o seguridad | Evidencia asociada |
-| --- | --- | --- | --- |
-| Preparación del puesto y consulta de [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/)/FDS | [Escribe aquí] | [EPI, reactivos, residuos] | [Foto 1, nota u otra] |
-| Identificación y revisión de la escala | [Escribe aquí] | [Código, lote, integridad, vigencia] | [Escribe aquí] |
-| Preparación autorizada o disposición para lectura | [Escribe aquí] | [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) / supervisión | [Foto 2, nota u otra] |
-| Comparación visual o lectura instrumental | [Escribe aquí] | [Condición de lectura] | [Foto 3, tabla u otra] |
-| Decisión sobre la suspensión o el patrón | [Escribe aquí] | [Criterio de aceptación] | [Escribe aquí] |
-| Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
-
----
-
 ## 9. Resultados, lectura y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles

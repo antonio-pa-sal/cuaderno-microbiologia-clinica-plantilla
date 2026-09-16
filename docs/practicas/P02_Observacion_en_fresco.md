@@ -126,18 +126,6 @@ Antes de observar, indica qué esperas encontrar o qué características crees q
 
 [Escribe aquí tu hipótesis u observación inicial.]
 
-## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra las acciones que realizaste realmente. No copies el procedimiento base: incluye los ajustes realizados, los problemas detectados y las decisiones tomadas.
-
-| Momento | Acción realizada | Ajuste o decisión técnica | Resultado u observación |
-|---|---|---|---|
-| Preparación del material | [Completa] | [Completa] | [Completa] |
-| Depósito y cubrición de la muestra | [Completa] | [Completa] | [Completa] |
-| Enfoque e iluminación | [Completa] | [Completa] | [Completa] |
-| Recorrido del campo microscópico | [Completa] | [Completa] | [Completa] |
-| Retirada, limpieza y residuos | [Completa] | [Completa] | [Completa] |
-
 ## 10. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Comprobación de calidad de la preparación

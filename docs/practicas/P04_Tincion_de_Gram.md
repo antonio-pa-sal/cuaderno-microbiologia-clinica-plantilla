@@ -131,20 +131,6 @@ Antes de observar, indica qué esperas distinguir mediante la tinción de Gram y
 
 [Escribe aquí tu hipótesis.]
 
-## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
-
-Registra las acciones realizadas realmente. No copies el procedimiento base: anota los ajustes, las decisiones y los problemas detectados.
-
-| Momento | Acción realizada | Ajuste o decisión técnica | Resultado u observación |
-|---|---|---|---|
-| Preparación del puesto y EPI | [Completa] | [Completa] | [Completa] |
-| Frotis o preparación recibida | [Completa] | [Completa] | [Completa] |
-| Aplicación de colorante primario y mordiente | [Completa] | [Completa] | [Completa] |
-| Decoloración y lavados | [Completa] | [Completa] | [Completa] |
-| Colorante de contraste y secado | [Completa] | [Completa] | [Completa] |
-| Observación microscópica | [Completa] | [Completa] | [Completa] |
-| Limpieza y gestión de residuos | [Completa] | [Completa] | [Completa] |
-
 ## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 10.1 Comprobación de calidad
