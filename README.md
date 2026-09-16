@@ -6,6 +6,7 @@ Plantilla MkDocs + Material para publicar el cuaderno digital del alumnado en Gi
 
 - `docs/index.md`: portada con datos del alumno, centro, módulo y curso.
 - `docs/practicas/`: P01–P26, con bloques fijos del profesor y campos rellenables.
+- `docs/assets/`: evidencias visuales del alumnado, organizadas por práctica (P01, P02, etc.).
 - `mkdocs.yml`: tema, navegación, buscador y orden de las páginas.
 - `docs/stylesheets/extra.css`: diseño científico, limpio y adaptable.
 - `.github/workflows/deploy.yml`: publicación automática en GitHub Pages tras cada cambio en `main`.
@@ -21,11 +22,26 @@ El alumnado edita los `.md` desde **Edit** y **Preview** en GitHub, desde `githu
 
 ## Imágenes
 
-Guarda las imágenes en `docs/assets/` y enlázalas desde cada práctica, por ejemplo:
+Las evidencias visuales se almacenan en `docs/assets/` y se organizan en una subcarpeta por práctica. Las subcarpetas se crean cuando sea necesario incorporar la primera imagen; no es necesario crear carpetas vacías por adelantado.
 
-```markdown
-![Preparación del portaobjetos](../assets/P02-portaobjetos.jpg)
-*Figura 1. Portaobjetos preparado antes de la observación.*
+```text
+docs/assets/
+├── P01/
+├── P02/
+└── P03/
 ```
 
-No incluyas datos identificables de pacientes ni fotografías fuera de las normas del centro.
+Usa nombres breves y descriptivos, por ejemplo:
+
+```text
+docs/assets/P04/gram_01.jpg
+```
+
+Desde un archivo situado en `docs/practicas/`, enlaza la imagen con una ruta relativa e incluye un pie de figura:
+
+```markdown
+![Resultado de la tinción de Gram](../assets/P04/gram_01.jpg)
+*Figura 1. Resultado de la tinción de Gram observada durante la práctica.*
+```
+
+Consulta [docs/assets/README.md](docs/assets/README.md) para las normas completas de organización, referencias y privacidad. No publiques rostros, nombres, etiquetas con datos personales, documentación sensible, datos identificables de pacientes ni imágenes cuya realización o publicación esté prohibida por el centro.
