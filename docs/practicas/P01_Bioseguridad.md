@@ -12,17 +12,6 @@ student_completion: individual
 
 > **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. Si trabajas en pareja, puedes compartir las imágenes del proceso, pero tu registro, interpretación y reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P01`, la unidad `UD1` y una imagen neutra de laboratorio o de señalización de seguridad.
-- Situar los apartados 1–4 como contenido informativo del profesorado. Después, crear una franja o separador visible titulada **“Tu cuaderno de prácticas”** para los apartados que completa el alumnado.
-- Mantener los avisos de seguridad en un bloque destacado de color de advertencia, sin sustituir los protocolos internos del centro.
-- Para las evidencias visuales, insertar galerías o marcadores de imagen con pie de foto obligatorio. No usar una foto sin contextualizarla.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web, se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
 
 ## 1. Identificación de la práctica [PROFESOR · FIJO]
 
