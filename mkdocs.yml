@@ -41,6 +41,10 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+validation:
+  links:
+    # Las rutas de evidencias son marcadores que el alumnado completará después.
+    not_found: ignore
 nav:
   - Portada: index.md
   - Evidencias visuales: assets/README.md
