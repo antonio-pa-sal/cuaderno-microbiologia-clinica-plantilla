@@ -14,20 +14,6 @@ reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pd
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P09`, la unidad `UD3` y una imagen neutra de placas de medio sólido correctamente identificadas.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar una tabla de cálculo y formulación en el apartado 10, incluyendo el componente gelificante cuando proceda.
-- Mostrar un bloque visual de controles de placa: uniformidad, espesor aproximado, ausencia de burbujas/condensación limitante, etiquetado, control de esterilidad y conservación.
-- Presentar autoclave, vertido y superficies calientes como actividades condicionadas a formación, autorización y [PNT](https://www.iso.org/standard/53610.html); no convertirlas en instrucciones autónomas.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: pesado/preparación, vertido seguro o demostración y placas finales etiquetadas.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -195,7 +181,7 @@ Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y
 
 ### Imagen 1 — Pesada o preparación de componentes
 
-**Elemento web:** [Subir imagen]
+![Pesada o preparación de componentes](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
 - **Pie de foto:** [Qué se observa: lectura de balanza, agente gelificante, material volumétrico o medida de seguridad]
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
@@ -203,7 +189,7 @@ Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y
 
 ### Imagen 2 — Dispensación segura o demostración
 
-**Elemento web:** [Subir imagen]
+![Dispensación segura o demostración](../assets/P09/dispensacion_segura_o_demostracion_02.jpg)
 
 - **Pie de foto:** [Qué se observa y en qué fase se tomó]
 - **Control de temperatura, asepsia o decisión técnica asociada:** [Completa]
@@ -211,7 +197,7 @@ Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y
 
 ### Imagen 3 — Placas finales etiquetadas o control de calidad
 
-**Elemento web:** [Subir imagen]
+![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_03.jpg)
 
 - **Pie de foto:** [Aspecto, consistencia, etiqueta o control de las placas]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]

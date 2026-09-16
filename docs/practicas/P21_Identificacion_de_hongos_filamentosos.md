@@ -11,12 +11,6 @@ reference_document: "P18_Hongos filamentosos.pdf"
 
 # P21 — Identificación de hongos filamentosos
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, observación macroscópica, montaje, observación microscópica, clave de identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, etiquetas sensibles ni cultivos vivos no autorizados.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -273,7 +267,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 1 — Morfología macroscópica
 
-**Inserta aquí una imagen.** Puede mostrar la colonia sellada, una imagen docente o una representación de la superficie y el reverso.
+![Morfología macroscópica](../assets/P21/morfologia_macroscopica_01.jpg)
+
+> **Indicaciones:** Puede mostrar la colonia sellada, una imagen docente o una representación de la superficie y el reverso.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -281,7 +277,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 2 — Preparación o proceso de montaje
 
-**Inserta aquí una imagen.** Puede mostrar el montaje por disección, cinta adhesiva o una demostración autorizada, sin exponer material biológico fuera de contención.
+![Preparación o proceso de montaje](../assets/P21/preparacion_o_proceso_de_montaje_02.jpg)
+
+> **Indicaciones:** Puede mostrar el montaje por disección, cinta adhesiva o una demostración autorizada, sin exponer material biológico fuera de contención.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -289,7 +287,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 3 — Morfología microscópica y resultado
 
-**Inserta aquí una imagen.** Incluye aumento, estructura señalada y relación con el paso de la clave.
+![Morfología microscópica y resultado](../assets/P21/morfologia_microscopica_y_resultado_03.jpg)
+
+> **Indicaciones:** Incluye aumento, estructura señalada y relación con el paso de la clave.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

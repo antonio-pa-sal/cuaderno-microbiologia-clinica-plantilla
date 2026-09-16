@@ -11,14 +11,6 @@ reference_document: "P14_Antibiograma disco-placa.pdf"
 
 # P18 — Antibiograma por difusión en disco
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden de trabajo: preparación del inóculo, medio y discos, siembra, lectura de halos, interpretación profesional y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos o resultados no autorizados.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -280,7 +272,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación e identificación
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, el medio, el patrón de inóculo o los discos identificados sin datos sensibles.
+![Preparación e identificación](../assets/P18/preparacion_e_identificacion_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, el medio, el patrón de inóculo o los discos identificados sin datos sensibles.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -288,7 +282,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Siembra o distribución de discos
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una simulación o la placa antes de la lectura, siempre que su publicación esté permitida.
+![Siembra o distribución de discos](../assets/P18/siembra_o_distribucion_de_discos_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una simulación o la placa antes de la lectura, siempre que su publicación esté permitida.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -296,7 +292,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Lectura de halos
 
-**Inserta aquí una imagen.** Debe permitir reconocer la placa o el resultado docente y asociar los halos a los discos registrados, sin revelar información sensible.
+![Lectura de halos](../assets/P18/lectura_de_halos_03.jpg)
+
+> **Indicaciones:** Debe permitir reconocer la placa o el resultado docente y asociar los halos a los discos registrados, sin revelar información sensible.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

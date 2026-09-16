@@ -14,19 +14,6 @@ reference_document: "práctica11_TincióndeZielh-Neelsen.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P05`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación teñida segura.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar al inicio un aviso visible: **“No se emplean cultivos de Mycobacterium en esta práctica.”**
-- Presentar la secuencia como una línea de pasos de interpretación. Si existe una demostración autorizada de tinción, diferenciar visualmente sus pasos de los campos de observación del alumnado.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: medida de seguridad o preparación segura, campo microscópico y resultado interpretado.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -191,7 +178,7 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 
 ### Imagen 1 — Preparación segura o medida preventiva
 
-**Elemento web:** [Subir imagen]
+![Preparación segura o medida preventiva](../assets/P05/preparacion_segura_o_medida_preventiva_01.jpg)
 
 - **Pie de foto:** [Qué se observa: EPI, preparación permanente, material docente o medida de seguridad]
 - **Medida de seguridad que demuestra:** [Completa]
@@ -199,7 +186,7 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 
 ### Imagen 2 — Campo microscópico o imagen diagnóstica
 
-**Elemento web:** [Subir imagen o microfotografía]
+![Campo microscópico o imagen diagnóstica](../assets/P05/campo_microscopico_o_imagen_diagnostica_02.jpg)
 
 - **Pie de foto:** [Qué se observa y con qué configuración o fuente]
 - **Estructura o contraste señalado:** [Completa]
@@ -207,7 +194,7 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 
 ### Imagen 3 — Resultado interpretado o control
 
-**Elemento web:** [Subir imagen, esquema rotulado o captura del registro]
+![Resultado interpretado o control](../assets/P05/resultado_interpretado_o_control_03.jpg)
 
 - **Pie de foto:** [Qué control o conclusión técnica apoya]
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la lectura]

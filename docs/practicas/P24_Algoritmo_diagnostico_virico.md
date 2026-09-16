@@ -11,12 +11,6 @@ reference_document: "Actividad documental de diagnóstico virológico"
 
 # P24 — Algoritmo diagnóstico vírico
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: caso, fase de infección, selección de muestra, elección de técnica, controles, interpretación y comunicación. Inserta diagramas e imágenes con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se cultivan virus ni se procesan muestras clínicas reales.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -84,7 +78,6 @@ Completa antes de empezar:
 | Resultados de laboratorio simulados | Interpretación de controles y categorías de resultado. |
 | Documentación de muestras y transporte | Identificación de errores preanalíticos y trazabilidad. |
 | Protocolos o guías vigentes | Criterios para repetir, confirmar, derivar y comunicar. |
-| Herramienta de diagramación de Google Sites | Presentación del algoritmo, tablas y evidencias. |
 
 ### Condiciones de seguridad y confidencialidad
 
@@ -263,7 +256,9 @@ Incluye imágenes o capturas de la construcción del algoritmo, resultados simul
 
 ### Imagen 1 — Caso y pregunta diagnóstica
 
-**Inserta aquí una imagen o captura.** Debe mostrar el caso anonimizado, la pregunta y la información que determina la selección.
+![Caso y pregunta diagnóstica](../assets/P24/caso_y_pregunta_diagnostica_01.jpg)
+
+> **Indicaciones:** Debe mostrar el caso anonimizado, la pregunta y la información que determina la selección.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -271,7 +266,9 @@ Incluye imágenes o capturas de la construcción del algoritmo, resultados simul
 
 ### Imagen 2 — Algoritmo de selección
 
-**Inserta aquí el diagrama de flujo.** Debe permitir seguir muestra, técnica, controles y decisiones.
+![Algoritmo de selección](../assets/P24/algoritmo_de_seleccion_02.jpg)
+
+> **Indicaciones:** Debe permitir seguir muestra, técnica, controles y decisiones.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -279,7 +276,9 @@ Incluye imágenes o capturas de la construcción del algoritmo, resultados simul
 
 ### Imagen 3 — Resultado y comunicación
 
-**Inserta aquí una imagen o captura.** Puede mostrar una tabla de resultados simulados y la salida comunicada.
+![Resultado y comunicación](../assets/P24/resultado_y_comunicacion_03.jpg)
+
+> **Indicaciones:** Puede mostrar una tabla de resultados simulados y la salida comunicada.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

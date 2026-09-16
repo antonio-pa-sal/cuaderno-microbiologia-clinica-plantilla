@@ -11,14 +11,6 @@ reference_document: "P16_Estudio superficies.pdf"
 
 # P13 — Estudio microbiológico de superficies y recuento
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques del alumnado en el orden de trabajo: planificación, toma o análisis, lectura, cálculo, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, ubicaciones sensibles, códigos internos no autorizados ni etiquetas identificativas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -263,7 +255,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 1 — Planificación o identificación segura
 
-**Inserta aquí una imagen.** Puede mostrar un esquema no sensible de la comparación, el material preparado o una tabla de códigos anonimizados.
+![Planificación o identificación segura](../assets/P13/planificacion_o_identificacion_segura_01.jpg)
+
+> **Indicaciones:** Puede mostrar un esquema no sensible de la comparación, el material preparado o una tabla de códigos anonimizados.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -271,7 +265,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 2 — Toma, demostración o simulación
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, un recurso de simulación o una representación del método, sin revelar ubicaciones sensibles.
+![Toma, demostración o simulación](../assets/P13/toma_demostracion_o_simulacion_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, un recurso de simulación o una representación del método, sin revelar ubicaciones sensibles.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -279,7 +275,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 3 — Lectura, recuento o resultado
 
-**Inserta aquí una imagen.** Puede mostrar una placa cerrada autorizada, una cuadrícula de recuento, un resultado docente o una tabla de datos.
+![Lectura, recuento o resultado](../assets/P13/lectura_recuento_o_resultado_03.jpg)
+
+> **Indicaciones:** Puede mostrar una placa cerrada autorizada, una cuadrícula de recuento, un resultado docente o una tabla de datos.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

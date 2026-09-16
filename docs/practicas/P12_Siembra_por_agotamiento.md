@@ -11,14 +11,6 @@ reference_document: "P6_Siembras por agotamiento.pdf"
 
 # P12 — Siembra por agotamiento en placa
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Presenta los apartados rellenables en bloques, tablas o cuadros de texto. Inserta las imágenes con pie de foto técnico, procedencia y una explicación de su valor como evidencia. No publiques rostros, datos personales, códigos sensibles ni material cuya imagen no esté autorizada.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -260,7 +252,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación e identificación segura
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, la placa cerrada y codificada de forma no sensible, o una representación de la simulación.
+![Preparación e identificación segura](../assets/P12/preparacion_e_identificacion_segura_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, la placa cerrada y codificada de forma no sensible, o una representación de la simulación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -268,7 +262,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Desarrollo de la actividad
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una representación del patrón de zonas o la evidencia de una simulación.
+![Desarrollo de la actividad](../assets/P12/desarrollo_de_la_actividad_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una representación del patrón de zonas o la evidencia de una simulación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -276,7 +272,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Lectura de la placa o resultado
 
-**Inserta aquí una imagen.** Debe permitir reconocer las zonas de mayor y menor densidad, o bien un resultado docente que se analice en la tabla.
+![Lectura de la placa o resultado](../assets/P12/lectura_de_la_placa_o_resultado_03.jpg)
+
+> **Indicaciones:** Debe permitir reconocer las zonas de mayor y menor densidad, o bien un resultado docente que se analice en la tabla.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

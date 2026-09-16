@@ -43,32 +43,33 @@ markdown_extensions:
       permalink: true
 nav:
   - Portada: index.md
+  - Evidencias visuales: assets/README.md
   - Prácticas:
-      - P01 · Bioseguridad: practicas/P01_Bioseguridad.md
-      - P02 · Observación en fresco: practicas/P02_Observacion_en_fresco.md
-      - P03 · Tinción con azul de metileno: practicas/P03_Azul_de_metileno.md
+      - P01 · Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad: practicas/P01_Bioseguridad.md
+      - P02 · Observación de agua estancada mediante preparación en fresco: practicas/P02_Observacion_en_fresco.md
+      - P03 · Tinción vital con azul de metileno: practicas/P03_Azul_de_metileno.md
       - P04 · Tinción de Gram: practicas/P04_Tincion_de_Gram.md
       - P05 · Tinción de Ziehl-Neelsen: practicas/P05_Ziehl_Neelsen.md
       - P06 · Tinción de endosporas: practicas/P06_Tincion_de_endosporas.md
-      - P07 · Elaboración de medio líquido: practicas/P07_Medio_liquido.md
+      - P07 · Elaboración de medio de cultivo líquido: practicas/P07_Medio_liquido.md
       - P08 · Recuperación de cultivos liofilizados: practicas/P08_Recuperacion_de_liofilizados.md
-      - P09 · Elaboración de medio sólido en placa: practicas/P09_Medio_solido_en_placa.md
+      - P09 · Elaboración de medio de cultivo sólido en placa: practicas/P09_Medio_solido_en_placa.md
       - P10 · Siembra en estría simple o continua: practicas/P10_Siembra_en_estria.md
-      - P11 · Siembra por picadura y estría: practicas/P11_Siembra_picadura_y_estria.md
-      - P12 · Siembra por agotamiento: practicas/P12_Siembra_por_agotamiento.md
-      - P13 · Estudio de superficies y recuento: practicas/P13_Estudio_microbiologico_de_superficies_y_recuento.md
-      - P14 · Catalasa y oxidasa: practicas/P14_Pruebas_de_catalasa_y_oxidasa.md
-      - P15 · Escala McFarland: practicas/P15_Escala_de_McFarland.md
-      - P16 · Estandarización de inóculos: practicas/P16_Estandarizacion_de_inoculos_bacterianos.md
-      - P17 · Prueba KIA: practicas/P17_Prueba_KIA.md
-      - P18 · Antibiograma: practicas/P18_Antibiograma_por_difusion_en_disco.md
-      - P19 · Identificación bacteriana integrada: practicas/P19_Circuito_integrado_de_identificacion_bacteriana.md
+      - P11 · Siembra por picadura y estría en tubo: practicas/P11_Siembra_picadura_y_estria.md
+      - P12 · Siembra por agotamiento en placa: practicas/P12_Siembra_por_agotamiento.md
+      - P13 · Estudio microbiológico de superficies y recuento: practicas/P13_Estudio_microbiologico_de_superficies_y_recuento.md
+      - P14 · Pruebas de catalasa y oxidasa: practicas/P14_Pruebas_de_catalasa_y_oxidasa.md
+      - P15 · Preparación o lectura de escala de McFarland: practicas/P15_Escala_de_McFarland.md
+      - P16 · Estandarización de inóculos bacterianos: practicas/P16_Estandarizacion_de_inoculos_bacterianos.md
+      - P17 · Prueba KIA (Agar Hierro de Kligler): practicas/P17_Prueba_KIA.md
+      - P18 · Antibiograma por difusión en disco: practicas/P18_Antibiograma_por_difusion_en_disco.md
+      - P19 · Circuito integrado de identificación bacteriana: practicas/P19_Circuito_integrado_de_identificacion_bacteriana.md
       - P20 · Urocultivo: practicas/P20_Urocultivo.md
-      - P21 · Identificación de hongos: practicas/P21_Identificacion_de_hongos_filamentosos.md
+      - P21 · Identificación de hongos filamentosos: practicas/P21_Identificacion_de_hongos_filamentosos.md
       - P22 · Técnica de flotación: practicas/P22_Tecnica_de_flotacion.md
-      - P23 · Anisakis: practicas/P23_Anisakis.md
+      - P23 · Detección e identificación de Anisakis en pescado: practicas/P23_Anisakis.md
       - P24 · Algoritmo diagnóstico vírico: practicas/P24_Algoritmo_diagnostico_virico.md
-      - P25 · Cultivo celular y efecto citopático: practicas/P25_Cultivo_celular_y_efecto_citopatico.md
-      - P26 · Técnicas inmunológicas y moleculares: practicas/P26_Tecnicas_inmunologicas_y_moleculares.md
+      - P25 · Cultivo celular y observación del efecto citopático: practicas/P25_Cultivo_celular_y_efecto_citopatico.md
+      - "P26 · Técnicas inmunológicas y moleculares: interpretación de resultados": practicas/P26_Tecnicas_inmunologicas_y_moleculares.md
 plugins:
   - search

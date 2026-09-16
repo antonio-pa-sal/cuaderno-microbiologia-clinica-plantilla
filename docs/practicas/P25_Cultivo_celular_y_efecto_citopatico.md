@@ -11,12 +11,6 @@ reference_document: "Actividad simulada de cultivo celular y efecto citopático"
 
 # P25 — Cultivo celular y observación del efecto citopático
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: tipo de cultivo, control normal, observación temporal, cambios citopáticos, interpretación y comunicación. Inserta imágenes, micrografías o capturas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad utiliza imágenes, vídeos, preparaciones o datos simulados por defecto: no se cultivan virus.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -262,7 +256,9 @@ Incluye imágenes o capturas validadas por el centro. No incluyas muestras clín
 
 ### Imagen 1 — Morfología normal y control
 
-**Inserta aquí una imagen o micrografía.** Debe mostrar el control y permitir describir tipo de cultivo, confluencia y distribución.
+![Morfología normal y control](../assets/P25/morfologia_normal_y_control_01.jpg)
+
+> **Indicaciones:** Debe mostrar el control y permitir describir tipo de cultivo, confluencia y distribución.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -270,7 +266,9 @@ Incluye imágenes o capturas validadas por el centro. No incluyas muestras clín
 
 ### Imagen 2 — Progresión o cambio citopático
 
-**Inserta aquí una imagen o serie temporal.** Señala el cambio observado, el tiempo y el aumento.
+![Progresión o cambio citopático](../assets/P25/progresion_o_cambio_citopatico_02.jpg)
+
+> **Indicaciones:** Señala el cambio observado, el tiempo y el aumento.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -278,7 +276,9 @@ Incluye imágenes o capturas validadas por el centro. No incluyas muestras clín
 
 ### Imagen 3 — Interpretación y decisión
 
-**Inserta aquí una imagen, tabla o diagrama.** Relaciona el patrón con el control, la alternativa no vírica y la confirmación necesaria.
+![Interpretación y decisión](../assets/P25/interpretacion_y_decision_03.jpg)
+
+> **Indicaciones:** Relaciona el patrón con el control, la alternativa no vírica y la confirmación necesaria.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

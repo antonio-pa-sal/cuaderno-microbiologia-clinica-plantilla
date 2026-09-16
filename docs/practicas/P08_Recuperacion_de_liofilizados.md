@@ -14,19 +14,6 @@ reference_document: "P4_Recuperación de cultivos liofiliados.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La actividad puede realizarse como simulación o demostración, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P08`, la unidad `UD3` y una imagen neutra de un vial cerrado o de documentación de trazabilidad.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar un bloque de estado visible con tres opciones: **simulación no biológica**, **demostración docente** o **ejecución autorizada**. Solo el centro puede seleccionar la última opción tras validar todas las condiciones críticas.
-- No incluir instrucciones detalladas de apertura, reconstitución, inoculación ni incubación. Esas operaciones se remiten al procedimiento vigente de la colección y al protocolo de bioseguridad del centro.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: trazabilidad o vial no biológico, preparación segura/demostración y registro de viabilidad o pureza.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -182,7 +169,7 @@ Resume el estado de la recuperación o del caso analizado. Indica qué puedes co
 
 ### Imagen 1 — Trazabilidad o vial no biológico
 
-**Elemento web:** [Subir imagen]
+![Trazabilidad o vial no biológico](../assets/P08/trazabilidad_o_vial_no_biologico_01.jpg)
 
 - **Pie de foto:** [Qué se observa: vial simulado, etiqueta no sensible, formulario o elemento de trazabilidad]
 - **Modalidad de la evidencia:** [Simulación / demostración / ejecución autorizada]
@@ -190,7 +177,7 @@ Resume el estado de la recuperación o del caso analizado. Indica qué puedes co
 
 ### Imagen 2 — Preparación segura o demostración
 
-**Elemento web:** [Subir imagen]
+![Preparación segura o demostración](../assets/P08/preparacion_segura_o_demostracion_02.jpg)
 
 - **Pie de foto:** [Qué se observa: EPI, puesto, cabina mostrada por el docente o fase de simulación]
 - **Control de seguridad asociado:** [Completa]
@@ -198,7 +185,7 @@ Resume el estado de la recuperación o del caso analizado. Indica qué puedes co
 
 ### Imagen 3 — Registro de viabilidad, pureza o decisión
 
-**Elemento web:** [Subir imagen, esquema rotulado o captura autorizada del registro]
+![Registro de viabilidad, pureza o decisión](../assets/P08/registro_de_viabilidad_pureza_o_decision_03.jpg)
 
 - **Pie de foto:** [Qué resultado o decisión técnica apoya]
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la conclusión]

@@ -14,19 +14,6 @@ reference_document: "P10_Tinción de esporas.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P06`, la unidad `UD2` y una imagen neutra de una preparación de endosporas teñida.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Crear una tabla o tarjeta visual de lectura con los campos: célula vegetativa, endospora, coloración observada y posición de la endospora.
-- Situar el aviso de seguridad en un bloque destacado. Las imágenes de llama, calentamiento o material biológico no deben presentarse como pasos que el alumnado pueda realizar sin autorización expresa.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: preparación segura o medida preventiva, campo microscópico y resultado interpretado/posición de las endosporas.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -194,7 +181,7 @@ Resume si se observaron endosporas, qué evidencias apoyan la lectura, qué posi
 
 ### Imagen 1 — Preparación segura o medida preventiva
 
-**Elemento web:** [Subir imagen]
+![Preparación segura o medida preventiva](../assets/P06/preparacion_segura_o_medida_preventiva_01.jpg)
 
 - **Pie de foto:** [Qué se observa: EPI, preparación permanente, material docente o medida de seguridad]
 - **Medida de seguridad o control que demuestra:** [Completa]
@@ -202,7 +189,7 @@ Resume si se observaron endosporas, qué evidencias apoyan la lectura, qué posi
 
 ### Imagen 2 — Campo microscópico de endosporas
 
-**Elemento web:** [Subir imagen o microfotografía]
+![Campo microscópico de endosporas](../assets/P06/campo_microscopico_de_endosporas_02.jpg)
 
 - **Pie de foto:** [Qué se observa y con qué configuración o fuente]
 - **Célula vegetativa y endospora señaladas:** [Completa]
@@ -210,7 +197,7 @@ Resume si se observaron endosporas, qué evidencias apoyan la lectura, qué posi
 
 ### Imagen 3 — Resultado interpretado o posición de la endospora
 
-**Elemento web:** [Subir imagen, esquema rotulado o captura del registro]
+![Resultado interpretado o posición de la endospora](../assets/P06/resultado_interpretado_o_posicion_de_la_endospora_03.jpg)
 
 - **Pie de foto:** [Qué localización o conclusión técnica apoya]
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la lectura]

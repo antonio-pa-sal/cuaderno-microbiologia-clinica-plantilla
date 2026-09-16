@@ -10,22 +10,9 @@ student_completion: individual
 reference_document: "practica1_Observaciónenfresco.pdf"
 ---
 
-# P02 — Observación en fresco
+# P02 — Observación de agua estancada mediante preparación en fresco
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede realizarse por parejas, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
-
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P02`, la unidad `UD2` y una imagen neutra de microscopía óptica.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Presentar el procedimiento como una línea de pasos numerados y los registros del alumnado como tablas o cuadros de texto editables.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: proceso de preparación, campo microscópico y resultado interpretado.
-- Situar el aviso de seguridad en un bloque destacado. No sustituir con esta página los protocolos vigentes del centro.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
 
 ## 1. Identificación de la práctica
 
@@ -182,7 +169,7 @@ Resume los hallazgos más relevantes y especifica qué resultado procede de obse
 
 ### Imagen 1 — Proceso de preparación
 
-**Elemento web:** [Subir imagen]
+![Proceso de preparación](../assets/P02/proceso_de_preparacion_01.jpg)
 
 - **Pie de foto:** [Qué se observa: preparación del material, depósito de la muestra o colocación del cubreobjetos]
 - **Medida de seguridad o calidad que demuestra:** [Completa]
@@ -190,7 +177,7 @@ Resume los hallazgos más relevantes y especifica qué resultado procede de obse
 
 ### Imagen 2 — Campo microscópico
 
-**Elemento web:** [Subir imagen o microfotografía]
+![Campo microscópico](../assets/P02/campo_microscopico_02.jpg)
 
 - **Pie de foto:** [Qué se observa y con qué aumento o configuración]
 - **Elemento señalado:** [Describe la estructura, organismo o artefacto de interés]
@@ -198,7 +185,7 @@ Resume los hallazgos más relevantes y especifica qué resultado procede de obse
 
 ### Imagen 3 — Resultado interpretado
 
-**Elemento web:** [Subir imagen, esquema rotulado o captura del registro]
+![Resultado interpretado](../assets/P02/resultado_interpretado_03.jpg)
 
 - **Pie de foto:** [Qué conclusión técnica apoya]
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita tu resultado]

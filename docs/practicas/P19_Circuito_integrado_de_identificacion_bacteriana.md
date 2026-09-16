@@ -11,21 +11,6 @@ reference_document: "Actividad integradora del programa práctico"
 
 # P19 — Circuito integrado de identificación bacteriana
 
-> **Uso de esta página:** plantilla para una página de Google Sites que se completa durante y después de la actividad. Conserva los títulos, tablas y rótulos. Sustituye los campos `⟦...⟧` por texto del alumnado y añade las imágenes en los espacios indicados.
-
-## Maquetación de la página en Google Sites
-
-- Mantener una cabecera con el código **P19**, el título, nombre, grupo y fecha.
-- Usar un bloque de texto para cada apartado y tablas para los registros.
-- Mantener visibles las etiquetas **[ALUMNADO · RELLENABLE]**.
-- Insertar las fotografías como galerías o imágenes con pie numerado; no borrar los pies.
-- La resolución final es individual, aunque la discusión inicial se realice por parejas.
-- No publicar rostros, nombres completos de otras personas, etiquetas identificativas ni datos clínicos reales.
-
-**Leyenda**
-
-- **[ALUMNADO · RELLENABLE]**: campo que debe completar o redactar el alumnado.
-
 ## 1. Identificación de la práctica
 
 
@@ -190,17 +175,17 @@ Esquema mínimo que debe aparecer: **dato inicial → hipótesis → prueba eleg
 
 ### Imagen 1 — Datos de partida o preparación del circuito
 
-`[INSERTAR IMAGEN AQUÍ]`
+![Datos de partida o preparación del circuito](../assets/P19/datos_de_partida_o_preparacion_del_circuito_01.jpg)
 Pie: ⟦qué se muestra, modalidad, fuente/código y fecha⟧
 
 ### Imagen 2 — Decisión o prueba discriminante
 
-`[INSERTAR IMAGEN AQUÍ]`
+![Decisión o prueba discriminante](../assets/P19/decision_o_prueba_discriminante_02.jpg)
 Pie: ⟦resultado visible, interpretación y decisión que provocó⟧
 
 ### Imagen 3 — Resultado final y comunicación
 
-`[INSERTAR IMAGEN AQUÍ]`
+![Resultado final y comunicación](../assets/P19/resultado_final_y_comunicacion_03.jpg)
 Pie: ⟦identificación o estado inconcluso, algoritmo/matriz y limitaciones⟧
 
 ## 11. Incidencias y acciones correctoras

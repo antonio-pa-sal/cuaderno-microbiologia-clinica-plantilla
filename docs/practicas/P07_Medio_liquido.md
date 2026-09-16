@@ -14,19 +14,6 @@ reference_document: "P2_Elaboración de medios de cultivo líquidos.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P07`, la unidad `UD3` y una imagen neutra de material volumétrico o medio líquido preparado.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar una calculadora o tabla de escalado en el apartado 10. Debe permitir visualizar la fórmula de partida, el volumen final y los cálculos individuales.
-- Presentar la advertencia sobre autoclave en un bloque de seguridad destacado: su utilización depende de formación, autorización y validación operativa; no se convierte en una instrucción autónoma.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: pesado/preparación, disolución o dispensación y medio final correctamente etiquetado.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -193,7 +180,7 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 
 ### Imagen 1 — Pesada o preparación de los componentes
 
-**Elemento web:** [Subir imagen]
+![Pesada o preparación de los componentes](../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg)
 
 - **Pie de foto:** [Qué se observa: lectura de balanza, material volumétrico o medida de seguridad]
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
@@ -201,7 +188,7 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 
 ### Imagen 2 — Disolución, homogeneización o dispensación
 
-**Elemento web:** [Subir imagen]
+![Disolución, homogeneización o dispensación](../assets/P07/disolucion_homogeneizacion_o_dispensacion_02.jpg)
 
 - **Pie de foto:** [Qué se observa y en qué fase se tomó]
 - **Control o decisión técnica asociada:** [Completa]
@@ -209,7 +196,7 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 
 ### Imagen 3 — Medio final etiquetado o control de calidad
 
-**Elemento web:** [Subir imagen]
+![Medio final etiquetado o control de calidad](../assets/P07/medio_final_etiquetado_o_control_de_calidad_03.jpg)
 
 - **Pie de foto:** [Aspecto del medio, etiqueta o resultado de control]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]

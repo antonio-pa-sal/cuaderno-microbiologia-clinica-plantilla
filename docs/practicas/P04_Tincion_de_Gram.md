@@ -14,19 +14,6 @@ reference_document: "práctica7_TincióndeGram.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La ejecución puede realizarse por parejas, pero el registro, la clasificación razonada, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P04`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación de Gram.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Presentar la secuencia de tinción como una línea de pasos numerados; incluir un bloque destacado para los puntos críticos: frotis, decoloración, controles y lectura microscópica.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: frotis o proceso seguro, campo Gram positivo/negativo o control y resultado interpretado.
-- Situar el aviso de seguridad en un bloque destacado. No sustituir con esta página los protocolos vigentes del centro ni las FDS de los reactivos.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -191,7 +178,7 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 
 ### Imagen 1 — Proceso o frotis seguro
 
-**Elemento web:** [Subir imagen]
+![Proceso o frotis seguro](../assets/P04/proceso_o_frotis_seguro_01.jpg)
 
 - **Pie de foto:** [Qué se observa: preparación, puente de tinción, frotis o una medida de seguridad]
 - **Punto crítico de calidad o seguridad que demuestra:** [Completa]
@@ -199,7 +186,7 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 
 ### Imagen 2 — Campo microscópico teñido
 
-**Elemento web:** [Subir imagen o microfotografía]
+![Campo microscópico teñido](../assets/P04/campo_microscopico_tenido_02.jpg)
 
 - **Pie de foto:** [Qué se observa y con qué configuración microscópica]
 - **Morfología y reacción tintorial señaladas:** [Completa]
@@ -207,7 +194,7 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 
 ### Imagen 3 — Resultado interpretado o control
 
-**Elemento web:** [Subir imagen, composición comparativa, esquema rotulado o captura del registro]
+![Resultado interpretado o control](../assets/P04/resultado_interpretado_o_control_03.jpg)
 
 - **Pie de foto:** [Qué control o conclusión técnica apoya]
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita la clasificación]

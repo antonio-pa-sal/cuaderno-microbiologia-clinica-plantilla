@@ -5,7 +5,7 @@ Plantilla MkDocs + Material para publicar el cuaderno digital del alumnado en Gi
 ## Estructura
 
 - `docs/index.md`: portada con datos del alumno, centro, módulo y curso.
-- `docs/practicas/`: P01–P26, con bloques fijos del profesor y campos rellenables.
+- `docs/practicas/`: P01–P26, con contenidos de referencia, procedimientos y campos rellenables por el alumnado.
 - `docs/assets/`: evidencias visuales del alumnado, organizadas por práctica (P01, P02, etc.).
 - `mkdocs.yml`: tema, navegación, buscador y orden de las páginas.
 - `docs/stylesheets/extra.css`: diseño científico, limpio y adaptable.

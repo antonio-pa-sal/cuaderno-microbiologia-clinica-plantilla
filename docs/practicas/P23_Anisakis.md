@@ -1,5 +1,5 @@
 ---
-title: "P23 — Anisakis"
+title: "P23 — Detección e identificación de Anisakis en pescado"
 practice_id: "P23"
 unit: "UD8 — Parasitología"
 learning_outcomes: "RA06 (CE06.a, CE06.g, CE06.h y CE06.i)"
@@ -9,13 +9,7 @@ student_completion: "Individual o por equipo, según la organización del grupo"
 reference_document: "P20_Anisakis.pdf"
 ---
 
-# P23 — Anisakis
-
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, seguridad alimentaria, inspección del pescado, recuperación o análisis de la larva, observación con lupa/estereomicroscopio, identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, etiquetas personales, datos de trazabilidad sensibles ni pescado o material biológico no autorizado.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
+# P23 — Detección e identificación de Anisakis en pescado
 
 ## 1. Identificación de la práctica
 
@@ -23,7 +17,7 @@ reference_document: "P20_Anisakis.pdf"
 
 | Elemento | Información |
 | --- | --- |
-| Código y título | P23 — Anisakis |
+| Código y título | P23 — Detección e identificación de Anisakis en pescado |
 | Unidad didáctica | UD8 — Parasitología |
 | Resultado de aprendizaje | RA06: detección e identificación de formas parasitarias y reconocimiento de riesgos asociados |
 | Criterios vinculados | CE06.a, CE06.g, CE06.h y CE06.i |
@@ -259,7 +253,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 1 — Ejemplar, zona y seguridad
 
-**Inserta aquí una imagen.** Puede mostrar el ejemplar simulado/preparado, la cubeta o la zona de inspección sin datos identificables.
+![Ejemplar, zona y seguridad](../assets/P23/ejemplar_zona_y_seguridad_01.jpg)
+
+> **Indicaciones:** Puede mostrar el ejemplar simulado/preparado, la cubeta o la zona de inspección sin datos identificables.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -267,7 +263,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 2 — Inspección o recuperación
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una representación del recorrido o una estructura aislada en recipiente codificado.
+![Inspección o recuperación](../assets/P23/inspeccion_o_recuperacion_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una representación del recorrido o una estructura aislada en recipiente codificado.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -275,7 +273,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 3 — Observación y resultado final
 
-**Inserta aquí una imagen.** Señala la estructura, el aumento/escala y el rasgo usado para la clasificación.
+![Observación y resultado final](../assets/P23/observacion_y_resultado_final_03.jpg)
+
+> **Indicaciones:** Señala la estructura, el aumento/escala y el rasgo usado para la clasificación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

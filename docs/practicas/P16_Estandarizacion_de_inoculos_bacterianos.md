@@ -11,14 +11,6 @@ reference_document: "P13_Estandarización de inóculos.pdf"
 
 # P16 — Estandarización de inóculos bacterianos
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden real de trabajo: identificación del inóculo, selección del patrón, ajuste, comprobación, aplicación y reflexión. Inserta imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -270,7 +262,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación y trazabilidad
 
-**Inserta aquí una imagen.** Puede mostrar el patrón cerrado, el puesto preparado o un esquema de identificación no sensible.
+![Preparación y trazabilidad](../assets/P16/preparacion_y_trazabilidad_01.jpg)
+
+> **Indicaciones:** Puede mostrar el patrón cerrado, el puesto preparado o un esquema de identificación no sensible.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -278,7 +272,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Preparación o ajuste del inóculo
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una simulación o la disposición del material sin exponer datos ni cultivos no autorizados.
+![Preparación o ajuste del inóculo](../assets/P16/preparacion_o_ajuste_del_inoculo_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una simulación o la disposición del material sin exponer datos ni cultivos no autorizados.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -286,7 +282,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Comparación o lectura final
 
-**Inserta aquí una imagen.** Debe permitir reconocer el patrón de referencia y la suspensión comparada, o bien la lectura docente/instrumental registrada.
+![Comparación o lectura final](../assets/P16/comparacion_o_lectura_final_03.jpg)
+
+> **Indicaciones:** Debe permitir reconocer el patrón de referencia y la suspensión comparada, o bien la lectura docente/instrumental registrada.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

@@ -11,14 +11,6 @@ reference_document: "P9_Pruebas bioquímicas oxidasa y catalasa.pdf"
 
 # P14 — Pruebas de catalasa y oxidasa
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los espacios rellenables en el orden real de trabajo: preparación, controles, ejecución o análisis, lectura, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y una explicación de lo que demuestran. No publiques rostros, datos personales, códigos sensibles ni etiquetas de reactivos que no estén autorizadas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -248,7 +240,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación y trazabilidad de reactivos
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, una representación de la consulta de FDS/[PNT](https://asm.org/protocols/catalase-test-protocol) o material de simulación; no debe mostrar códigos sensibles.
+![Preparación y trazabilidad de reactivos](../assets/P14/preparacion_y_trazabilidad_de_reactivos_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, una representación de la consulta de FDS/[PNT](https://asm.org/protocols/catalase-test-protocol) o material de simulación; no debe mostrar códigos sensibles.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -256,7 +250,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Evidencia de catalasa
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una simulación, un control o un resultado docente de catalasa.
+![Evidencia de catalasa](../assets/P14/evidencia_de_catalasa_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una simulación, un control o un resultado docente de catalasa.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -264,7 +260,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Evidencia de oxidasa
 
-**Inserta aquí una imagen.** Puede mostrar un control, una simulación o un resultado docente de oxidasa asociado a la ventana de lectura autorizada.
+![Evidencia de oxidasa](../assets/P14/evidencia_de_oxidasa_03.jpg)
+
+> **Indicaciones:** Puede mostrar un control, una simulación o un resultado docente de oxidasa asociado a la ventana de lectura autorizada.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

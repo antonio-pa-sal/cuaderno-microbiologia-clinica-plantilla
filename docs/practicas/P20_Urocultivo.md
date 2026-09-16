@@ -11,12 +11,6 @@ reference_document: "P17_Urocultivo.pdf"
 
 # P20 — Urocultivo
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación de la muestra, siembra o análisis, lectura, recuento, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos clínicos identificables, códigos sensibles ni muestras reales no autorizadas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -295,7 +289,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 1 — Muestra, código y medios
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, medios sin datos sensibles o el esquema de codificación.
+![Muestra, código y medios](../assets/P20/muestra_codigo_y_medios_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, medios sin datos sensibles o el esquema de codificación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -303,7 +299,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 2 — Siembra o distribución del inóculo
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una simulación o una representación del trazo inicial y el agotamiento.
+![Siembra o distribución del inóculo](../assets/P20/siembra_o_distribucion_del_inoculo_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una simulación o una representación del trazo inicial y el agotamiento.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -311,7 +309,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 3 — Lectura, colonias y resultado final
 
-**Inserta aquí una imagen.** Puede mostrar una placa cerrada autorizada, la lectura de morfotipos, el recuento o la tabla de cálculo.
+![Lectura, colonias y resultado final](../assets/P20/lectura_colonias_y_resultado_final_03.jpg)
+
+> **Indicaciones:** Puede mostrar una placa cerrada autorizada, la lectura de morfotipos, el recuento o la tabla de cálculo.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

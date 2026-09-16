@@ -14,19 +14,6 @@ reference_document: "práctica2_Tinciónvital.pdf"
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede realizarse por parejas, pero el registro, la interpretación comparada, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P03`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación teñida.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Usar un bloque visual de dos columnas en el apartado 11 para comparar la preparación en fresco y la preparación teñida.
-- Situar el aviso de seguridad y la información de la FDS en un bloque destacado. No sustituir con esta página el protocolo químico vigente del centro.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: proceso de tinción, campo microscópico teñido y comparación o resultado final.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -178,7 +165,7 @@ Registra lo que realizaste realmente. No copies el procedimiento base: anota los
 
 ## 11. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-| Aspecto comparado | P02 — Preparación en fresco | P03 — Tinción vital con azul de metileno | Interpretación de la diferencia |
+| Aspecto comparado | P02 — Observación de agua estancada mediante preparación en fresco | P03 — Tinción vital con azul de metileno | Interpretación de la diferencia |
 |---|---|---|---|
 | Contraste | [Completa] | [Completa] | [Completa] |
 | Morfología o detalles visibles | [Completa] | [Completa] | [Completa] |
@@ -198,7 +185,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 1 — Proceso de tinción
 
-**Elemento web:** [Subir imagen]
+![Proceso de tinción](../assets/P03/proceso_de_tincion_01.jpg)
 
 - **Pie de foto:** [Qué se observa: preparación, adición del colorante o colocación del cubreobjetos]
 - **Medida de seguridad o calidad que demuestra:** [Completa]
@@ -206,7 +193,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 2 — Campo microscópico teñido
 
-**Elemento web:** [Subir imagen o microfotografía]
+![Campo microscópico teñido](../assets/P03/campo_microscopico_tenido_02.jpg)
 
 - **Pie de foto:** [Qué se observa y con qué aumento o configuración]
 - **Elemento o contraste señalado:** [Describe el elemento de interés]
@@ -214,7 +201,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 ### Imagen 3 — Comparación o resultado final
 
-**Elemento web:** [Subir composición comparativa, esquema rotulado o captura del registro]
+![Comparación o resultado final](../assets/P03/comparacion_o_resultado_final_03.jpg)
 
 - **Pie de foto:** [Qué diferencia entre P02 y P03 o qué conclusión técnica evidencia]
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita tu resultado]

@@ -11,14 +11,6 @@ reference_document: "P11_Agar hierro de Kligler.pdf"
 
 # P17 — Prueba KIA (Agar Hierro de Kligler)
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden de trabajo: identificación del tubo y medio, inoculación o análisis, lectura de zonas, controles, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -269,7 +261,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación e identificación segura
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, un tubo cerrado sin datos sensibles o un esquema de las zonas de lectura.
+![Preparación e identificación segura](../assets/P17/preparacion_e_identificacion_segura_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, un tubo cerrado sin datos sensibles o un esquema de las zonas de lectura.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -277,7 +271,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Inoculación, demostración o simulación
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una representación del procedimiento o el material de simulación.
+![Inoculación, demostración o simulación](../assets/P17/inoculacion_demostracion_o_simulacion_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una representación del procedimiento o el material de simulación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -285,7 +281,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Lectura final del KIA
 
-**Inserta aquí una imagen.** Debe permitir reconocer, cuando sea visible y autorizado, la diferencia entre superficie y fondo y la evidencia de gas o ennegrecimiento.
+![Lectura final del KIA](../assets/P17/lectura_final_del_kia_03.jpg)
+
+> **Indicaciones:** Debe permitir reconocer, cuando sea visible y autorizado, la diferencia entre superficie y fondo y la evidencia de gas o ennegrecimiento.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

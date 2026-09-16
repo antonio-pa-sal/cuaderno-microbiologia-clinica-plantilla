@@ -11,14 +11,6 @@ reference_document: "P7_Siembras en picadura.pdf"
 
 # P11 — Siembra por picadura y estría en tubo
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Inserta las evidencias visuales en formato apaisado cuando sea posible, con pie de foto y procedencia. No publiques datos personales, etiquetas identificativas sensibles ni imágenes de personas sin autorización.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o después de la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -241,7 +233,9 @@ Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen 
 
 ### Imagen 1 — Preparación e identificación segura
 
-**Inserta aquí una imagen.** Puede mostrar el puesto preparado, el material no sensible o una representación de la simulación.
+![Preparación e identificación segura](../assets/P11/preparacion_e_identificacion_segura_01.jpg)
+
+> **Indicaciones:** Puede mostrar el puesto preparado, el material no sensible o una representación de la simulación.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -249,7 +243,9 @@ Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen 
 
 ### Imagen 2 — Desarrollo de la actividad
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, el material de simulación o una evidencia del seguimiento de la actividad.
+![Desarrollo de la actividad](../assets/P11/desarrollo_de_la_actividad_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, el material de simulación o una evidencia del seguimiento de la actividad.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -257,7 +253,9 @@ Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen 
 
 ### Imagen 3 — Lectura o resultado
 
-**Inserta aquí una imagen.** Debe permitir identificar si corresponde a la zona profunda, la zona inclinada, un control o un resultado docente.
+![Lectura o resultado](../assets/P11/lectura_o_resultado_03.jpg)
+
+> **Indicaciones:** Debe permitir identificar si corresponde a la zona profunda, la zona inclinada, un control o un resultado docente.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

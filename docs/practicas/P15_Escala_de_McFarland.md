@@ -11,14 +11,6 @@ reference_document: "P12_Escala de McFarland.pdf"
 
 # P15 — Preparación o lectura de escala de McFarland
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables según el itinerario elegido: preparación, lectura/comparación o análisis de datos. Inserta las imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles, fórmulas internas ni etiquetas de reactivos no autorizadas.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
----
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -267,7 +259,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 1 — Preparación y trazabilidad
 
-**Inserta aquí una imagen.** Puede mostrar la escala cerrada, el puesto preparado o un esquema de niveles, sin etiquetas sensibles.
+![Preparación y trazabilidad](../assets/P15/preparacion_y_trazabilidad_01.jpg)
+
+> **Indicaciones:** Puede mostrar la escala cerrada, el puesto preparado o un esquema de niveles, sin etiquetas sensibles.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -275,7 +269,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 2 — Preparación o comparación
 
-**Inserta aquí una imagen.** Puede mostrar una preparación autorizada, la disposición para comparar o una demostración docente.
+![Preparación o comparación](../assets/P15/preparacion_o_comparacion_02.jpg)
+
+> **Indicaciones:** Puede mostrar una preparación autorizada, la disposición para comparar o una demostración docente.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -283,7 +279,9 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del c
 
 ### Imagen 3 — Lectura o resultado
 
-**Inserta aquí una imagen.** Debe permitir reconocer la comparación, el patrón elegido o la lectura instrumental sin atribuir una precisión que el método no proporciona.
+![Lectura o resultado](../assets/P15/lectura_o_resultado_03.jpg)
+
+> **Indicaciones:** Debe permitir reconocer la comparación, el patrón elegido o la lectura instrumental sin atribuir una precisión que el método no proporciona.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

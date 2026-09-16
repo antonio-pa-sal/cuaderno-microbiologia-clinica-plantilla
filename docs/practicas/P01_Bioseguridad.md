@@ -8,7 +8,7 @@ page_type: practical-notebook
 student_completion: individual
 ---
 
-# P01 — Bioseguridad
+# P01 — Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. Si trabajas en pareja, puedes compartir las imágenes del proceso, pero tu registro, interpretación y reflexión deben ser personales.
 
@@ -153,7 +153,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para prevenir riesgos, 
 
 ### Imagen 1 — Preparación o selección de EPI
 
-**Elemento web:** [Subir imagen]
+![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
 - **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
 - **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
@@ -161,7 +161,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para prevenir riesgos, 
 
 ### Imagen 2 — Punto crítico del proceso
 
-**Elemento web:** [Subir imagen]
+![Punto crítico del proceso](../assets/P01/punto_critico_del_proceso_02.jpg)
 
 - **Pie de foto:** [Qué se observa: señalización, identificación de riesgo, actuación ante el incidente o segregación]
 - **Decisión técnica asociada:** [Explica por qué esa actuación es adecuada]
@@ -169,7 +169,7 @@ Resume qué demuestran tus evidencias sobre tu capacidad para prevenir riesgos, 
 
 ### Imagen 3 — Resultado final o evidencia de cierre
 
-**Elemento web:** [Subir imagen]
+![Resultado final o evidencia de cierre](../assets/P01/resultado_final_o_evidencia_de_cierre_03.jpg)
 
 - **Pie de foto:** [Qué resultado final evidencia: clasificación, circuito de residuos, registro o checklist completado]
 - **Relación con la conclusión:** [Explica qué demuestra la imagen]

@@ -11,12 +11,6 @@ reference_document: "Actividad de concentración parasitaria por flotación"
 
 # P22 — Técnica de flotación
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, principio de concentración, preparación o simulación, observación microscópica, identificación, control de artefactos y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, muestras clínicas reales ni etiquetas sensibles.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -261,7 +255,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 1 — Preparación y sistema de flotación
 
-**Inserta aquí una imagen.** Puede mostrar el material simulado, el sistema de concentración o el esquema del proceso, sin datos sensibles.
+![Preparación y sistema de flotación](../assets/P22/preparacion_y_sistema_de_flotacion_01.jpg)
+
+> **Indicaciones:** Puede mostrar el material simulado, el sistema de concentración o el esquema del proceso, sin datos sensibles.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -269,7 +265,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 2 — Filtrado, montaje o demostración
 
-**Inserta aquí una imagen.** Puede mostrar una demostración autorizada, una preparación cerrada o la secuencia simulada.
+![Filtrado, montaje o demostración](../assets/P22/filtrado_montaje_o_demostracion_02.jpg)
+
+> **Indicaciones:** Puede mostrar una demostración autorizada, una preparación cerrada o la secuencia simulada.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -277,7 +275,9 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ### Imagen 3 — Forma observada y resultado
 
-**Inserta aquí una imagen.** Señala la estructura compatible o el artefacto, el aumento y el rasgo utilizado para decidir.
+![Forma observada y resultado](../assets/P22/forma_observada_y_resultado_03.jpg)
+
+> **Indicaciones:** Señala la estructura compatible o el artefacto, el aumento y el rasgo utilizado para decidir.
 
 - Pie de foto técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

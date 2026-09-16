@@ -11,12 +11,6 @@ reference_document: "Actividad documental de técnicas inmunológicas y molecula
 
 # P26 — Técnicas inmunológicas y moleculares: interpretación de resultados
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: caso, técnica, controles, lectura, interpretación, decisión y comunicación. Inserta imágenes, curvas, capturas o tablas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se procesan muestras clínicas ni se ejecutan ensayos diagnósticos reales.
-
-| Clave de lectura | Uso en la página |
-| --- | --- |
-| **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
-
 ## 1. Identificación de la práctica
 
 ### Datos curriculares
@@ -261,7 +255,9 @@ Incluye imágenes o capturas de resultados simulados, curvas y diagramas. No inc
 
 ### Imagen 1 — Señal inmunológica
 
-**Inserta aquí una imagen o captura.** Puede mostrar fluorescencia, tira, placa o tabla de señal con controles visibles.
+![Señal inmunológica](../assets/P26/senal_inmunologica_01.jpg)
+
+> **Indicaciones:** Puede mostrar fluorescencia, tira, placa o tabla de señal con controles visibles.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -269,7 +265,9 @@ Incluye imágenes o capturas de resultados simulados, curvas y diagramas. No inc
 
 ### Imagen 2 — Curva o resultado molecular
 
-**Inserta aquí una curva de amplificación, tabla Cq/Ct o informe simulado.** Señala controles, umbral y categoría de resultado.
+![Curva o resultado molecular](../assets/P26/curva_o_resultado_molecular_02.jpg)
+
+> **Indicaciones:** Señala controles, umbral y categoría de resultado.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
@@ -277,7 +275,9 @@ Incluye imágenes o capturas de resultados simulados, curvas y diagramas. No inc
 
 ### Imagen 3 — Decisión y comunicación
 
-**Inserta aquí el algoritmo, la tabla comparativa o el informe final.** Relaciona la lectura con la repetición, confirmación o salida elegida.
+![Decisión y comunicación](../assets/P26/decision_y_comunicacion_03.jpg)
+
+> **Indicaciones:** Relaciona la lectura con la repetición, confirmación o salida elegida.
 
 - Pie de figura técnico: [Escribe aquí]
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]

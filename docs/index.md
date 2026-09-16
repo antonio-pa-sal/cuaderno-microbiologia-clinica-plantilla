@@ -47,36 +47,38 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 
 | Código | Práctica | Estado |
 |---|---|---|
-| P01 | Bioseguridad | [ ] Pendiente |
-| P02 | Observación en fresco | [ ] Pendiente |
-| P03 | Tinción con azul de metileno | [ ] Pendiente |
+| P01 | Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad | [ ] Pendiente |
+| P02 | Observación de agua estancada mediante preparación en fresco | [ ] Pendiente |
+| P03 | Tinción vital con azul de metileno | [ ] Pendiente |
 | P04 | Tinción de Gram | [ ] Pendiente |
 | P05 | Tinción de Ziehl-Neelsen | [ ] Pendiente |
 | P06 | Tinción de endosporas | [ ] Pendiente |
-| P07 | Elaboración de medio líquido | [ ] Pendiente |
+| P07 | Elaboración de medio de cultivo líquido | [ ] Pendiente |
 | P08 | Recuperación de cultivos liofilizados | [ ] Pendiente |
-| P09 | Elaboración de medio sólido en placa | [ ] Pendiente |
+| P09 | Elaboración de medio de cultivo sólido en placa | [ ] Pendiente |
 | P10 | Siembra en estría simple o continua | [ ] Pendiente |
-| P11 | Siembra por picadura y estría | [ ] Pendiente |
-| P12 | Siembra por agotamiento | [ ] Pendiente |
+| P11 | Siembra por picadura y estría en tubo | [ ] Pendiente |
+| P12 | Siembra por agotamiento en placa | [ ] Pendiente |
 | P13 | Estudio microbiológico de superficies y recuento | [ ] Pendiente |
 | P14 | Pruebas de catalasa y oxidasa | [ ] Pendiente |
-| P15 | Preparación o lectura de escala McFarland | [ ] Pendiente |
+| P15 | Preparación o lectura de escala de McFarland | [ ] Pendiente |
 | P16 | Estandarización de inóculos bacterianos | [ ] Pendiente |
-| P17 | Prueba KIA | [ ] Pendiente |
-| P18 | Antibiograma | [ ] Pendiente |
+| P17 | Prueba KIA (Agar Hierro de Kligler) | [ ] Pendiente |
+| P18 | Antibiograma por difusión en disco | [ ] Pendiente |
 | P19 | Circuito integrado de identificación bacteriana | [ ] Pendiente |
 | P20 | Urocultivo | [ ] Pendiente |
-| P21 | Identificación de hongos | [ ] Pendiente |
+| P21 | Identificación de hongos filamentosos | [ ] Pendiente |
 | P22 | Técnica de flotación | [ ] Pendiente |
-| P23 | Detección e identificación de *Anisakis* | [ ] Pendiente |
+| P23 | Detección e identificación de Anisakis en pescado | [ ] Pendiente |
 | P24 | Algoritmo diagnóstico vírico | [ ] Pendiente |
 | P25 | Cultivo celular y observación del efecto citopático | [ ] Pendiente |
-| P26 | Técnicas inmunológicas y moleculares | [ ] Pendiente |
+| P26 | Técnicas inmunológicas y moleculares: interpretación de resultados | [ ] Pendiente |
 
 ## Convención de evidencias
 
 Cada fotografía debe incluir: **qué se observa**, **en qué momento se tomó**, **qué muestra o material aparece** y **qué conclusión permite sostener**. No publiques imágenes con datos personales o identificables de pacientes.
+
+Consulta la [guía completa de evidencias visuales](assets/README.md) para conocer la organización de las imágenes, la convención de nombres, las rutas relativas y las normas de privacidad.
 
 ## Publicación y revisión
 

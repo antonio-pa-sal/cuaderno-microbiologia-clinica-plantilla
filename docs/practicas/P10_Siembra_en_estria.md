@@ -13,19 +13,6 @@ student_completion: individual
 
 > **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante la ejecución y durante la lectura posterior. La técnica puede realizarse por parejas cuando el centro lo organice, pero el registro, la descripción macroscópica, las imágenes seleccionadas y la reflexión deben ser personales.
 
-## Instrucciones de maquetación para la página web
-
-> **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
-
-- Usar una cabecera amplia con el título, el código `P10`, la unidad `UD3` y una imagen neutra de una placa etiquetada o de un patrón de estría no identificable.
-- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Diferenciar visualmente dos momentos: **ejecución de la siembra** y **lectura del crecimiento**. La segunda parte solo se completa cuando la lectura sea autorizada y segura.
-- Situar el aviso de bioseguridad en un bloque destacado. No incluir una receta autónoma de inoculación ni datos de incubación; el procedimiento operativo se remite al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) del centro.
-- Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: preparación segura, patrón de siembra y placa leída/resultado docente.
-- Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
-
----
-
 ## 1. Identificación de la práctica
 
 | Campo | Información |
@@ -190,7 +177,7 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 
 ### Imagen 1 — Preparación segura
 
-**Elemento web:** [Subir imagen]
+![Preparación segura](../assets/P10/preparacion_segura_01.jpg)
 
 - **Pie de foto:** [Qué se observa: EPI, puesto desinfectado, placa etiquetada o material de simulación]
 - **Control de seguridad o trazabilidad que demuestra:** [Completa]
@@ -198,7 +185,7 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 
 ### Imagen 2 — Patrón de siembra o demostración
 
-**Elemento web:** [Subir imagen]
+![Patrón de siembra o demostración](../assets/P10/patron_de_siembra_o_demostracion_02.jpg)
 
 - **Pie de foto:** [Qué se observa y en qué modalidad de práctica]
 - **Decisión técnica asociada:** [Completa]
@@ -206,7 +193,7 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 
 ### Imagen 3 — Lectura macroscópica o resultado docente
 
-**Elemento web:** [Subir imagen, esquema rotulado o captura autorizada]
+![Lectura macroscópica o resultado docente](../assets/P10/lectura_macroscopica_o_resultado_docente_03.jpg)
 
 - **Pie de foto:** [Patrón, aspecto general o resultado que se interpreta]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
