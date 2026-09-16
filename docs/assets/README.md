@@ -38,3 +38,13 @@ Antes de publicar una imagen, comprueba que no contiene:
 - imágenes cuya realización o publicación esté prohibida por el centro.
 
 Si la imagen procede de una demostración, simulación, material docente o fuente externa autorizada, indícalo en el pie de figura o en el apartado de evidencias de la práctica. No presentes como ejecución propia una imagen que no lo sea.
+
+## Recomendación práctica para el alumnado
+
+Cada práctica incluye en su plantilla Markdown una ruta y un nombre de archivo de ejemplo para cada evidencia visual. Cuando incorpores una imagen, súbela exactamente a esa ruta y conserva el nombre indicado. Por ejemplo, si la práctica muestra:
+
+```markdown
+![Resultado de la tinción de Gram](../assets/P04/gram_01.jpg)
+```
+
+debes subir la imagen a `docs/assets/P04/gram_01.jpg`. Así la imagen aparecerá automáticamente en la página publicada y se evita que quede una referencia rota. Respeta las mayúsculas, minúsculas y la extensión del archivo. Si necesitas utilizar otro nombre o formato, modifica también la ruta de la imagen en el Markdown de la práctica y comprueba la vista previa antes de confirmar los cambios.
