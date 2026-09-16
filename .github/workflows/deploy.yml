@@ -26,11 +26,13 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
-      - name: Instalar MkDocs Material
-        run: pip install mkdocs-material
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: requirements.txt
+      - name: Instalar dependencias
+        run: python -m pip install -r requirements.txt
       - name: Construir sitio
-        run: mkdocs build --strict
+        run: python -m mkdocs build --strict
       - name: Configurar Pages
         uses: actions/configure-pages@v5
       - name: Cargar artefacto

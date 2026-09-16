@@ -1,1 +1,3 @@
-mkdocs-material>=9.6,<10
+# Dependencias directas fijadas para reproducir la publicación del sitio.
+mkdocs==1.6.1
+mkdocs-material==9.7.7
