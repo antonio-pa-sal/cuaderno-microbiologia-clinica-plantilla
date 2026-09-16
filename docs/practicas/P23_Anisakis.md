@@ -11,16 +11,15 @@ reference_document: "P20_Anisakis.pdf"
 
 # P23 — Anisakis
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: planificación, seguridad alimentaria, inspección del pescado, recuperación o análisis de la larva, observación con lupa/estereomicroscopio, identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, etiquetas personales, datos de trazabilidad sensibles ni pescado o material biológico no autorizado.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, seguridad alimentaria, inspección del pescado, recuperación o análisis de la larva, observación con lupa/estereomicroscopio, identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, etiquetas personales, datos de trazabilidad sensibles ni pescado o material biológico no autorizado.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -45,9 +44,12 @@ reference_document: "P20_Anisakis.pdf"
 | Modalidad de trabajo | [Material simulado / pescado preparado / larva fijada / imagen o datos docentes / material real autorizado] |
 | Código de ejemplar, preparación o imagen | [Escribe aquí, sin datos sensibles] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica estudiarás la detección e identificación de Anisakis en pescado mediante inspección, recuperación y observación segura de un ejemplar real, preparado, fijado o simulado. Registrarás la trazabilidad del material, las medidas de seguridad alimentaria, la búsqueda realizada y las estructuras observadas con lupa o estereomicroscopio. Diferenciarás una larva compatible de fibras, tejidos u otros artefactos y justificarás la identificación con rasgos visibles y fuentes de referencia. El resultado esperado es una conclusión sobre la evidencia encontrada y su grado de confianza, sin extrapolarla a un alimento no estudiado. Incluirás imágenes autorizadas, incidencias, medidas frente a cortes o alérgenos y acciones de confirmación o comunicación.
+
+## 3. Finalidad y resultados esperados
+
 
 Anisakis es un nematodo parásito asociado al ciclo de mamíferos marinos. Los crustáceos actúan como hospedadores intermediarios y peces y cefalópodos pueden transportar las larvas. La ingestión de pescado crudo o insuficientemente tratado puede relacionarse con anisakidosis y con reacciones alérgicas; por ello, el trabajo debe tratarse como una actividad de seguridad alimentaria y de protección frente a alérgenos.
 
@@ -70,9 +72,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -84,11 +86,11 @@ Completa antes de empezar:
 | EPI, desinfección y residuos | Protección frente a cortes, contaminación y alérgenos. |
 | [PNT](https://www.aesan.gob.es/AECOSAN/docs/documentos/seguridad_alimentaria/pncoca/2026/Programa_2.9_Anisakis.pdf) de inspección y documentación de seguridad alimentaria | Referencia para muestreo, hallazgo, inmovilización y comunicación. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad, cortes y alérgenos
+### Condiciones de seguridad, cortes y alérgenos
 
 - La modalidad por defecto será material simulado, pescado previamente preparado, larvas fijadas, imágenes o datos docentes. No se presupone el uso de pescado clínico o de consumo disponible para ingerir.
 - La manipulación de pescado crudo requiere autorización, evaluación de riesgos, higiene, control de temperatura, prevención de cortes y gestión de residuos. El material utilizado en la práctica no se consumirá ni volverá a la cadena alimentaria.
-- El pescado y las larvas pueden implicar riesgo biológico, de corte y de alergia. El profesorado debe informar de las medidas del centro y de las restricciones personales antes de comenzar.
+- El pescado y las larvas pueden implicar riesgo biológico, de corte y de alergia. El centro debe informar de las medidas del centro y de las restricciones personales antes de comenzar.
 - Las herramientas de disección se transportarán con la punta protegida y se usarán sobre una cubeta estable. No se improvisarán cortes ni se manipulará material fuera de la supervisión.
 - Si aparece una estructura sospechosa, se evitará tocarla directamente, se conservará el código y se seguirá el circuito de contención, inmovilización y residuos indicado por el [PNT](https://www.aesan.gob.es/AECOSAN/docs/documentos/seguridad_alimentaria/pncoca/2026/Programa_2.9_Anisakis.pdf).
 - No se fotografiarán etiquetas de proveedores, datos personales, lotes sensibles ni material fuera de la zona autorizada.
@@ -105,9 +107,8 @@ Completa antes de empezar:
 | La cubeta y el material de disección están preparados | [ ] | [Escribe aquí] |
 | Conozco el circuito para un hallazgo sospechoso | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Las larvas de Anisakis pueden localizarse en la cavidad abdominal, alrededor de las vísceras o en el músculo del pescado. La inspección sistemática comienza por identificar el ejemplar y revisar las zonas de mayor probabilidad, manteniendo la integridad y la trazabilidad del material.
 
@@ -123,9 +124,9 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar modalidad, autorización, ejemplar, código, EPI, control de alérgenos y [PNT](https://www.aesan.gob.es/AECOSAN/docs/documentos/seguridad_alimentaria/pncoca/2026/Programa_2.9_Anisakis.pdf).
 2. Colocar el material en la cubeta y realizar la apertura o revisar la preparación según la instrucción autorizada.
@@ -148,7 +149,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Observa con lupa o estereomicroscopio; registra forma, enrollamiento, extremos, escala y tejido asociado.
 7. Clasifica compatible, artefacto, no observado o inconcluso; inmoviliza, comunica y elimina sin consumo.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -164,7 +165,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -194,7 +195,7 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -210,7 +211,7 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Comparación con guía e identificación | [Escribe aquí] | [Rasgos, alternativas, confianza] | [Tabla/diagrama] |
 | Inmovilización, residuos y cierre | [Escribe aquí] | [Ruta indicada; no consumo] | [Escribe aquí] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -250,11 +251,11 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Acción de seguridad/comunicación | [Escribe aquí] |
 | Confianza | [Alta / media / baja; justifica] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del profesor, de material preparado o de una simulación, indícalo expresamente. Evita mostrar etiquetas personales, lotes sensibles, pescado fuera de contención, heridas o material real no autorizado.
+Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del centro, de material preparado o de una simulación, indícalo expresamente. Evita mostrar etiquetas personales, lotes sensibles, pescado fuera de contención, heridas o material real no autorizado.
 
 ### Imagen 1 — Ejemplar, zona y seguridad
 
@@ -280,15 +281,15 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -304,7 +305,7 @@ Redacta una interpretación breve y fundamentada:
 
 > **Recordatorio.** Un hallazgo docente no autoriza el consumo, la liberación de un lote ni una conclusión clínica. El material se mantiene fuera de la cadena alimentaria y se aplica el circuito del centro.
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -312,7 +313,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -334,7 +335,7 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -351,20 +352,3 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 | Guía/[PNT](https://www.aesan.gob.es/AECOSAN/docs/documentos/seguridad_alimentaria/pncoca/2026/Programa_2.9_Anisakis.pdf) y confirmación necesaria | [Escribe aquí] |
 | Incidencias, residuos y comunicación | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad, autorización y alérgenos | Respeta EPI, prevención de cortes, contención, no consumo, confidencialidad y residuos. |
-| Plan e inspección | Identifica ejemplar, zonas, alcance de búsqueda y limitaciones de forma trazable. |
-| Observación | Registra lupa/estereomicroscopio, aumento, estructura, localización y calidad de la evidencia. |
-| Identificación | Diferencia una larva compatible de artefactos y justifica el uso de una guía. |
-| Comunicación profesional | Distingue compatible/presuntivo, no observado, artefacto e inconcluso; propone confirmación. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

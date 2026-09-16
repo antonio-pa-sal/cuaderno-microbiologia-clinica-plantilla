@@ -11,18 +11,17 @@ reference_document: "P6_Siembras por agotamiento.pdf"
 
 # P12 — Siembra por agotamiento en placa
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Conserva los apartados docentes como contenido fijo y presenta los apartados rellenables en bloques, tablas o cuadros de texto. Inserta las imágenes con pie de foto técnico, procedencia y una explicación de su valor como evidencia. No publiques rostros, datos personales, códigos sensibles ni material cuya imagen no esté autorizada.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Presenta los apartados rellenables en bloques, tablas o cuadros de texto. Inserta las imágenes con pie de foto técnico, procedencia y una explicación de su valor como evidencia. No publiques rostros, datos personales, códigos sensibles ni material cuya imagen no esté autorizada.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P6_Siembras por agotamiento.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica practicarás la siembra por agotamiento para conseguir una disminución progresiva de la carga microbiana y favorecer la separación de colonias. Prepararás o analizarás la placa, identificarás las zonas de siembra y registrarás el material, el medio, la modalidad y los controles. Describirás la densidad y el aspecto de las colonias en las zonas inicial, intermedia y final, y valorarás si alguna colonia parece aislada. El resultado esperado es un patrón que permita estudiar la técnica y la lectura, sin confundir una colonia separada con pureza o identificación confirmada. Documentarás imágenes autorizadas, incidencias, cálculos o límites y la prueba posterior que sería necesaria para confirmar el resultado.
+
+## 3. Finalidad y resultados esperados
+
 
 La siembra por agotamiento busca distribuir progresivamente el inóculo sobre la superficie de una placa de medio sólido. Cuando el material, el medio y las condiciones de incubación son adecuados, esa distribución puede permitir que aparezcan colonias suficientemente separadas para su descripción y, si procede, para una posterior actividad autorizada de aislamiento o resiembra.
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,10 +88,10 @@ Completa antes de empezar:
 | EPI y recursos de desinfección | Protección personal, organización del puesto y prevención de contaminación. |
 | [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente, controles y sistema de residuos | Referencia de la ejecución, de la lectura y del cierre seguro de la actividad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - Esta práctica tiene carácter **condicional**: requiere placas, material docente autorizado y circuito local de residuos confirmados.
-- Solo se utilizarán cultivos docentes, controles y condiciones de trabajo autorizados de manera expresa por el profesorado.
+- Solo se utilizarán cultivos docentes, controles y condiciones de trabajo autorizados de manera expresa por el centro.
 - La técnica concreta se desarrollará exclusivamente conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente, sin ampliar ni modificar instrucciones durante la actividad.
 - Se prevendrán aerosoles, contaminación cruzada, contacto accidental y exposición a material biológico mediante técnica aséptica, EPI, desinfección y organización del puesto.
 - Las placas se custodiarán, leerán y eliminarán de acuerdo con la instrucción del centro. No se abrirán, reincubarán ni reutilizarán fuera de lo indicado.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 El agotamiento en placa se basa en una transferencia progresivamente menor de inóculo sobre zonas sucesivas de la superficie del medio. El patrón concreto puede organizarse por sectores u otras disposiciones definidas por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf), pero su objetivo técnico común es favorecer una disminución gradual de la densidad de crecimiento y facilitar la observación de colonias separadas en zonas posteriores.
 
@@ -130,15 +131,15 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad de trabajo, la autorización, los EPI y el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) aplicable.
 2. Identificar la placa, el medio, el material de partida o la evidencia docente y los controles previstos.
 3. Realizar la siembra autorizada, observar una demostración, desarrollar una simulación o analizar una placa preparada, según la modalidad asignada.
 4. Mantener la identificación, la custodia y el cierre de la placa conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf).
-5. Efectuar la lectura o revisión en el momento y en las condiciones indicadas por el profesorado.
+5. Efectuar la lectura o revisión en el momento y en las condiciones indicadas por el centro.
 6. Registrar el aspecto de las zonas iniciales, intermedias y finales, así como las colonias separadas si aparecen.
 7. Documentar incidencias, limitaciones, acciones correctoras y ruta de residuos.
 
@@ -154,7 +155,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Selecciona una colonia aislada solo si está autorizado; no subcultives por cuenta propia.
 7. Gestiona asa, placa y residuos, limpia el puesto y registra resultado e incidencias.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -170,7 +171,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -182,7 +183,7 @@ Antes de realizar o revisar la actividad, responde:
 | Patrón de distribución previsto por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) | [Sectores, zonas u otra denominación autorizada] |
 | Control, referencia o comparación disponible | [Escribe aquí] |
 | Evidencia que espero poder registrar | [Escribe aquí] |
-| Límite de lectura comunicado por el profesorado | [Escribe aquí] |
+| Límite de lectura comunicado por el centro | [Escribe aquí] |
 
 ### [ALUMNADO · RELLENABLE] Decisión de seguridad
 
@@ -192,7 +193,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -209,7 +210,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -251,11 +252,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de una placa de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, etiquetas sensibles o material no autorizado.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de una placa de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, etiquetas sensibles o material no autorizado.
 
 ### Imagen 1 — Preparación e identificación segura
 
@@ -283,17 +284,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -310,7 +311,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -320,7 +321,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -342,7 +343,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -358,20 +359,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y organización | Respeta la modalidad autorizada, las medidas de seguridad, el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y la gestión de residuos. |
-| Trazabilidad | Identifica de forma suficiente la placa, el medio, la modalidad, la evidencia y los controles. |
-| Registro técnico | Describe la evolución del agotamiento por zonas o sectores y registra las colonias de forma objetiva. |
-| Interpretación | Valora de forma proporcionada la posibilidad de aislamiento y explicita límites razonados. |
-| Documentación visual | Aporta tres evidencias pertinentes, con pie de foto, origen y protección de datos. |
-| Reflexión profesional | Responde las cuatro preguntas con argumentos vinculados al procedimiento, la interpretación y el aprendizaje. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

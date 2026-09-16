@@ -17,19 +17,17 @@ reference_document: "Actividad integradora del programa práctico"
 
 - Mantener una cabecera con el código **P19**, el título, nombre, grupo y fecha.
 - Usar un bloque de texto para cada apartado y tablas para los registros.
-- Mantener visibles las etiquetas **[PROFESOR · FIJO]** y **[ALUMNADO · RELLENABLE]**.
+- Mantener visibles las etiquetas **[ALUMNADO · RELLENABLE]**.
 - Insertar las fotografías como galerías o imágenes con pie numerado; no borrar los pies.
 - La resolución final es individual, aunque la discusión inicial se realice por parejas.
 - No publicar rostros, nombres completos de otras personas, etiquetas identificativas ni datos clínicos reales.
 
 **Leyenda**
 
-- **[PROFESOR · FIJO]**: texto, caso, datos o criterios aportados por el profesor.
 - **[ALUMNADO · RELLENABLE]**: campo que debe completar o redactar el alumnado.
 
 ## 1. Identificación de la práctica
 
-**[PROFESOR · FIJO]**
 
 - Unidad: UD5 — Bacteriología: protocolos de identificación.
 - Resultado de aprendizaje: RA05.
@@ -49,9 +47,12 @@ reference_document: "Actividad integradora del programa práctico"
 | Modalidad realizada (documental, panel simulado o material autorizado) | ⟦...⟧ |
 | Caso o código de muestra | ⟦...⟧ |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-**[PROFESOR · FIJO]**
+En esta práctica integrarás resultados de morfología, tinción, crecimiento, pruebas rápidas, bioquímica, sistemas multiprueba y sensibilidad para construir un circuito de identificación bacteriana. Revisarás la información inicial, formularás hipótesis alternativas y elegirás cada prueba según la pregunta que permita resolver. Registrarás controles, fuentes, resultados y cambios de hipótesis, y representarás el razonamiento mediante un algoritmo con flechas. El resultado esperado es una identificación presuntiva, confirmatoria o inconclusa, siempre proporcional a la evidencia disponible. Añadirás imágenes o capturas autorizadas, justificarás las decisiones, explicarás las discordancias y comunicarás las limitaciones y acciones pendientes sin convertir el circuito en un diagnóstico clínico. La trazabilidad de cada dato será esencial.
+
+## 3. Finalidad y resultados esperados
+
 
 La práctica integra resultados de morfología, tinción de Gram, crecimiento, pruebas rápidas, pruebas bioquímicas, sistemas multiprueba y sensibilidad para seleccionar un protocolo de identificación y justificar cada decisión.
 
@@ -63,9 +64,8 @@ Al finalizar, el alumnado debe entregar un algoritmo razonado, un registro traza
 
 Explica con tus palabras qué pregunta microbiológica pretende resolver el circuito y qué resultado esperas obtener: ⟦...⟧
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-**[PROFESOR · FIJO]**
 
 Recursos posibles: caso y resultados de Gram; descripción de morfología colonial y crecimiento; pruebas de catalasa y oxidasa; KIA; sistemas multiprueba; datos de sensibilidad; controles y hojas de interpretación.
 
@@ -82,9 +82,8 @@ Aplicar las normas de bioseguridad del laboratorio, gestionar residuos según el
 
 Indica qué medidas de seguridad y qué modalidad has aplicado: ⟦...⟧
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-**[PROFESOR · FIJO]**
 
 La identificación se construye acumulando evidencias que reducen hipótesis alternativas. Cada prueba debe responder a una pregunta concreta y sus controles deben ser válidos antes de interpretar el resultado. Una discordancia obliga a revisar la pureza, la calidad del dato, la lectura, la selección de la prueba o la hipótesis.
 
@@ -94,9 +93,8 @@ La sensibilidad antimicrobiana aporta un perfil complementario; por sí sola no 
 
 Resume el fundamento del circuito y explica por qué no basta una sola prueba: ⟦...⟧
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-**[PROFESOR · FIJO]**
 
 ### Flujo general
 
@@ -126,9 +124,8 @@ Escribe el criterio que utilizarás para considerar un dato válido y el umbral 
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
-**[PROFESOR · FIJO]**
 
 Inserta aquí el caso, la descripción de la muestra y los resultados iniciales proporcionados: ⟦caso y datos iniciales⟧
 
@@ -139,11 +136,11 @@ Inserta aquí el caso, la descripción de la muestra y los resultados iniciales 
 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 
-Hipótesis inicial 1: ⟦...⟧  
-Hipótesis inicial 2: ⟦...⟧  
+Hipótesis inicial 1: ⟦...⟧
+Hipótesis inicial 2: ⟦...⟧
 Hipótesis inicial 3 o “no concluyente”: ⟦...⟧
 
-## 7. Registro del desarrollo y circuito de decisiones
+## 8. Registro del desarrollo y circuito de decisiones
 
 **[ALUMNADO · RELLENABLE]** Completa una fila por cada decisión. No dejes una prueba sin pregunta asociada.
 
@@ -157,7 +154,7 @@ Hipótesis inicial 3 o “no concluyente”: ⟦...⟧
 | 5 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 | 6 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 
-## 8. Matriz de evidencias y controles
+## 9. Matriz de evidencias y controles
 
 **[ALUMNADO · RELLENABLE]** Registra tanto resultados positivos como negativos, dudosos o no realizados.
 
@@ -170,8 +167,8 @@ Hipótesis inicial 3 o “no concluyente”: ⟦...⟧
 | Sistema multiprueba | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 | Perfil de sensibilidad | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 
-Concordancias relevantes: ⟦...⟧  
-Discordancias o datos que requieren revisión: ⟦...⟧  
+Concordancias relevantes: ⟦...⟧
+Discordancias o datos que requieren revisión: ⟦...⟧
 Controles ausentes o no válidos y su efecto: ⟦...⟧
 
 ### Algoritmo razonado e identificación final
@@ -184,29 +181,29 @@ Esquema mínimo que debe aparecer: **dato inicial → hipótesis → prueba eleg
 |---|---|---|---|---|---|
 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦presuntiva/confirmatoria/inconclusa/incompatible⟧ | ⟦...⟧ |
 
-**Comunicación del resultado (redacción individual):**  
+**Comunicación del resultado (redacción individual):**
 “Con los datos disponibles, la identificación se informa como ⟦...⟧ porque ⟦...⟧. La principal limitación es ⟦...⟧ y sería necesario ⟦...⟧ para confirmarla o resolver la discrepancia.”
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
-**[ALUMNADO · RELLENABLE]** Inserta al menos tres imágenes o capturas, según la modalidad realizada. Si la actividad es documental, identifica cada imagen como **simulada/proporcionada por el profesor**; si se autorizó material real, indica el código de muestra y no fotografíes datos personales.
+**[ALUMNADO · RELLENABLE]** Inserta al menos tres imágenes o capturas, según la modalidad realizada. Si la actividad es documental, identifica cada imagen como **simulada/proporcionada por el centro**; si se autorizó material real, indica el código de muestra y no fotografíes datos personales.
 
 ### Imagen 1 — Datos de partida o preparación del circuito
 
-`[INSERTAR IMAGEN AQUÍ]`  
+`[INSERTAR IMAGEN AQUÍ]`
 Pie: ⟦qué se muestra, modalidad, fuente/código y fecha⟧
 
 ### Imagen 2 — Decisión o prueba discriminante
 
-`[INSERTAR IMAGEN AQUÍ]`  
+`[INSERTAR IMAGEN AQUÍ]`
 Pie: ⟦resultado visible, interpretación y decisión que provocó⟧
 
 ### Imagen 3 — Resultado final y comunicación
 
-`[INSERTAR IMAGEN AQUÍ]`  
+`[INSERTAR IMAGEN AQUÍ]`
 Pie: ⟦identificación o estado inconcluso, algoritmo/matriz y limitaciones⟧
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 **[ALUMNADO · RELLENABLE]**
 
@@ -215,19 +212,19 @@ Pie: ⟦identificación o estado inconcluso, algoritmo/matriz y limitaciones⟧
 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 **[ALUMNADO · RELLENABLE]** Redacta un texto breve que conecte los resultados. Explica qué evidencias son más discriminantes, qué controles permiten confiar en ellas, cómo se resolvieron las discordancias y por qué el nivel de identificación elegido es proporcionado a los datos.
 
 ⟦Redacción del alumnado: ...⟧
 
-## 12. Conclusión
+## 13. Conclusión
 
 **[ALUMNADO · RELLENABLE]** Indica la identificación presuntiva/confirmatoria o declara el caso inconcluso. Incluye las evidencias decisivas, las limitaciones y la prueba o acción siguiente, si procede.
 
 ⟦Conclusión: ...⟧
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 **[ALUMNADO · RELLENABLE]** Responde individualmente a las cuatro preguntas. Justifica las respuestas con registros de esta práctica.
 
@@ -247,7 +244,7 @@ Pie: ⟦identificación o estado inconcluso, algoritmo/matriz y limitaciones⟧
 
    ⟦Respuesta: ...⟧
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 **[ALUMNADO · RELLENABLE]** Comprueba antes de entregar:
 
@@ -260,20 +257,6 @@ Pie: ⟦identificación o estado inconcluso, algoritmo/matriz y limitaciones⟧
 - [ ] Las imágenes no contienen rostros ni datos personales.
 - [ ] La reflexión profesional responde a las cuatro preguntas.
 
-Enlace a la entrega o versión: ⟦...⟧  
-Fecha de entrega: ⟦...⟧  
+Enlace a la entrega o versión: ⟦...⟧
+Fecha de entrega: ⟦...⟧
 Observaciones del alumnado: ⟦...⟧
-
-## 15. Revisión del profesorado
-
-**[PROFESOR · RELLENABLE AL REVISAR]**
-
-| Criterio | Evidencia localizada | Valoración | Comentario o mejora |
-|---|---|---|---|
-| Selecciona pruebas y justifica decisiones (CE05.a–CE05.c) | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Interpreta resultados y controles (CE05.d–CE05.e) | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Revisa hipótesis y comunica límites (CE05.f–CE05.g) | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Mantiene trazabilidad y presentación profesional (CE05.h) | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-
-Retroalimentación final: ⟦...⟧  
-Estado de la evidencia: ⟦pendiente / revisada / requiere mejora / cerrada⟧

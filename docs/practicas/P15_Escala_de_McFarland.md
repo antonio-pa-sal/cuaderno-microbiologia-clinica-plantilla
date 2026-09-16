@@ -11,18 +11,17 @@ reference_document: "P12_Escala de McFarland.pdf"
 
 # P15 — Preparación o lectura de escala de McFarland
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén el contenido docente como información fija y organiza los bloques rellenables según el itinerario elegido: preparación, lectura/comparación o análisis de datos. Inserta las imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles, fórmulas internas ni etiquetas de reactivos no autorizadas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables según el itinerario elegido: preparación, lectura/comparación o análisis de datos. Inserta las imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles, fórmulas internas ni etiquetas de reactivos no autorizadas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P12_Escala de McFarland.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica prepararás, leerás o analizarás una escala de McFarland para comparar la turbidez de una suspensión y disponer de una referencia reproducible. Comprobarás la identificación, integridad, conservación y vigencia del patrón, homogeneizarás la suspensión cuando proceda y registrarás el método de comparación visual o instrumental. Describirás las diferencias observadas, las condiciones de iluminación y cualquier fuente de variabilidad. El resultado esperado es una lectura o preparación trazable, con una estimación prudente de la equivalencia y sus limitaciones. Incluirás fotografías autorizadas del patrón y la suspensión, indicarás si la actividad fue práctica o simulada y explicarás qué control debe realizarse antes de usar el inóculo en otra técnica.
+
+## 3. Finalidad y resultados esperados
+
 
 La escala de McFarland es una referencia de turbidez que permite comparar visualmente o mediante un procedimiento validado una suspensión microbiana con un patrón. La correspondencia entre turbidez y concentración celular es aproximada y depende del microorganismo, el medio, el estado del cultivo, el sistema de lectura y el método empleado. No debe entenderse como una medida universal ni exacta de células viables.
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,7 +88,7 @@ Completa antes de empezar:
 | Tubos, soporte, agitador o lector autorizado | Manipulación y lectura conforme al [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) o a la instrucción del fabricante. |
 | EPI, FDS, desinfección y sistema de residuos | Protección, consulta de peligros y cierre seguro de la actividad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - La preparación propia de patrones solo se realizará con autorización expresa, reactivos identificados y [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) vigente. Se priorizará un patrón comercial o material docente validado cuando esté disponible.
 - Los reactivos históricos de referencia no se convertirán automáticamente en receta operativa. No se manipularán ácidos, sales de bario u otras sustancias sin FDS, supervisión y procedimiento local.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Una escala de McFarland representa distintos niveles de turbidez preparados o certificados para ser utilizados como referencia. La comparación puede hacerse visualmente bajo condiciones constantes o con un sistema instrumental validado. El resultado debe expresar el nivel o intervalo de referencia que mejor se ajusta y la condición de lectura empleada.
 
@@ -130,9 +131,9 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar el itinerario, la autorización, los EPI, la FDS, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) y las rutas de residuos.
 2. Identificar la escala o patrón, su valor o intervalo, fabricante o preparación, lote, fecha y estado.
@@ -154,7 +155,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Revisa control y aceptación; declara no utilizable cualquier patrón precipitado o sin trazabilidad.
 7. Limpia cubetas o tubos y gestiona residuos; archiva lote, lectura, ajuste y responsable.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -169,7 +170,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -192,7 +193,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -209,7 +210,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados, lectura y controles
+## 9. Resultados, lectura y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -258,11 +259,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o información de reactivos que el centro no autorice.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o información de reactivos que el centro no autorice.
 
 ### Imagen 1 — Preparación y trazabilidad
 
@@ -290,17 +291,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -317,7 +318,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -327,7 +328,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -349,7 +350,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -366,20 +367,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y autorización | Respeta la modalidad, la FDS, los EPI, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) y las rutas diferenciadas de residuos. |
-| Trazabilidad | Registra escala/patrón, material de comparación, lote o código, vigencia, estado y responsable. |
-| Preparación o lectura | Ejecuta o analiza la modalidad asignada y documenta condiciones y método sin inventar precisión. |
-| Controles y decisión | Determina si la referencia es utilizable y si la suspensión requiere ajuste, repetición o rechazo. |
-| Interpretación | Explica el carácter aproximado de la turbidez y sus límites para estimar concentración o estandarizar un inóculo. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

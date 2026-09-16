@@ -12,15 +12,15 @@ reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pd
 
 # P09 — Elaboración de medio de cultivo sólido en placa
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P09`, la unidad `UD3` y una imagen neutra de placas de medio sólido correctamente identificadas.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar una tabla de cálculo y formulación en el apartado 9, incluyendo el componente gelificante cuando proceda.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Situar una tabla de cálculo y formulación en el apartado 10, incluyendo el componente gelificante cuando proceda.
 - Mostrar un bloque visual de controles de placa: uniformidad, espesor aproximado, ausencia de burbujas/condensación limitante, etiquetado, control de esterilidad y conservación.
 - Presentar autoclave, vertido y superficies calientes como actividades condicionadas a formación, autorización y [PNT](https://www.iso.org/standard/53610.html); no convertirlas en instrucciones autónomas.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: pesado/preparación, vertido seguro o demostración y placas finales etiquetadas.
@@ -28,7 +28,7 @@ reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pd
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -42,7 +42,11 @@ reference_document: "P3_Elaboración de medios de cultivo sólidos en placa.pd
 | Modalidad prevista | Preparación, esterilización autorizada, dispensación aséptica y documentación de un medio sólido en placa. |
 | Condición operativa | Medios, agar cuando proceda, placas estériles, autoclave y protocolo de dispensación confirmados. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica prepararás o analizarás la elaboración de un medio sólido distribuido en placas. Calcularás la formulación y el volumen necesario, revisarás el componente gelificante, identificarás materiales y lotes y registrarás las condiciones de disolución, esterilización, enfriamiento y vertido previstas. Comprobarás la uniformidad, el espesor, la ausencia de burbujas o condensación limitante, el etiquetado y el control de esterilidad. Si trabajas con una simulación o con placas preparadas, describirás esa modalidad sin presentarla como ejecución propia. El resultado esperado es una placa trazable y utilizable para siembras posteriores, o una valoración clara de sus limitaciones, acompañada de imágenes autorizadas y una conclusión técnica.
+
+## 3. Finalidad y resultados esperados
 
 El medio sólido en placa proporciona nutrientes y una superficie estable para el trabajo posterior con material docente autorizado. Esta práctica se centra en seleccionar la fórmula indicada, calcular y preparar el medio, incorporar el agente gelificante cuando proceda, acondicionarlo para la esterilización, dispensarlo de forma aséptica y documentar su calidad y trazabilidad.
 
@@ -55,7 +59,7 @@ Al finalizar deberás poder:
 - verificar etiquetado, control de esterilidad, conservación y trazabilidad; y
 - comunicar los resultados e incidencias de forma técnica.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** balanza, material volumétrico, recipientes adecuados, medio deshidratado o reactivos, agar u otro agente gelificante cuando proceda, agua adecuada, sistema de calentamiento/agitación, recipientes autoclavables, placas estériles, material de dispensación, etiquetas y autoclave.
 
@@ -65,20 +69,20 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`. El uso del autoclave y el vertido de medio caliente requieren equipo validado, [PNT](https://www.iso.org/standard/53610.html) vigente, EPI, formación y supervisión autorizada. Si no se cumplen estas condiciones, el alumnado podrá calcular, etiquetar, analizar registros, observar una demostración o evaluar placas docentes ya preparadas, declarando siempre la modalidad realizada.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 Un medio de cultivo sólido incorpora un agente gelificante que forma una superficie estable. Esta superficie permite observar patrones de crecimiento y realizar técnicas posteriores cuando exista material docente autorizado. La formulación, la homogeneidad, la esterilidad y el estado de la placa condicionan la validez de cualquier uso posterior.
 
 La calidad de una placa no depende únicamente de que el medio haya solidificado. Exige una fórmula y un cálculo correctos, disolución completa, esterilización validada, dispensación aséptica, volumen y espesor adecuados para el uso previsto, ausencia de burbujas o contaminación visible, etiquetado y conservación conforme al [PNT](https://www.iso.org/standard/53610.html). La presencia de agar u otro gelificante, y su concentración, determina la consistencia del medio; las cantidades concretas proceden siempre de la fórmula aprobada.
 
-El documento adjunto aporta ejemplos históricos de formulación, vertido y conservación. Se utiliza como referencia para entender la lógica de la preparación. Las cantidades, temperaturas, ciclos de esterilización, condiciones de vertido y plazo de uso aplicables serán únicamente los establecidos por el profesorado, el fabricante y los protocolos vigentes.
+El documento adjunto aporta ejemplos históricos de formulación, vertido y conservación. Se utiliza como referencia para entender la lógica de la preparación. Las cantidades, temperaturas, ciclos de esterilización, condiciones de vertido y plazo de uso aplicables serán únicamente los establecidos por el centro, el fabricante y los protocolos vigentes.
 
-## 5. Secuencia de trabajo y controles de calidad [PROFESOR · FIJO]
+## 6. Secuencia de trabajo y controles de calidad
 
 ### Secuencia general
 
 1. Identificar el medio, su fórmula, el volumen final, la cantidad de placas prevista y las FDS de los componentes.
-2. Calcular individualmente las cantidades necesarias y comprobarlas con el profesorado antes de pesar.
+2. Calcular individualmente las cantidades necesarias y comprobarlas con el centro antes de pesar.
 3. Preparar el material limpio, verificar la balanza y pesar o medir los componentes, incluido el agente gelificante cuando corresponda.
 4. Añadir el agua y los componentes siguiendo el orden validado; disolver y homogeneizar usando el sistema autorizado.
 5. Verificar el aspecto del medio y los parámetros que determine el [PNT](https://www.iso.org/standard/53610.html) antes del acondicionamiento.
@@ -91,7 +95,7 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 **[PNT](https://www.iso.org/standard/53610.html) de referencia:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html)
 
 1. Confirma fórmula, volumen, placas, gelificante, fichas de seguridad, autoclave y área de vertido; usa EPI.
-2. Calcula cantidades y comprueba unidades con el profesor antes de pesar; registra lotes y caducidades.
+2. Calcula cantidades y comprueba unidades con el centro antes de pesar; registra lotes y caducidades.
 3. Pesa, disuelve y homogeneiza componentes con equipo autorizado; evita polvo, salpicaduras y sobrecalentamiento.
 4. Esteriliza con ciclo validado y supervisado; registra equipo, ciclo y desviaciones.
 5. Dispensa en placas estériles con técnica aséptica autorizada; controla espesor, burbujas y condensación.
@@ -111,7 +115,7 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -122,9 +126,9 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 - **Nombre o código del medio preparado:** [Completa]
 - **Volumen final previsto y número de placas:** [Completa con unidades]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -135,13 +139,13 @@ El documento adjunto aporta ejemplos históricos de formulación, vertido y cons
 | EPI y medidas de seguridad aplicadas | [Completa] |
 | Autoclave, área de dispensación o alternativa autorizada | [Completa] |
 
-### 7.2 Hipótesis de calidad
+### 8.2 Hipótesis de calidad
 
 Antes de preparar el medio, indica qué aspecto, consistencia, uniformidad y trazabilidad esperas obtener si la fórmula y la dispensación son correctas. Explica qué error podría comprometer en mayor medida el uso posterior de las placas.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste realmente. No copies la secuencia base: incluye los ajustes, los cálculos comprobados, las decisiones tomadas y las incidencias observadas.
 
@@ -155,11 +159,11 @@ Registra lo que realizaste realmente. No copies la secuencia base: incluye los a
 | Solidificación, etiquetado y conservación | [Completa] | [Completa] | [Completa] |
 | Inspección final y control | [Completa] | [Completa] | [Completa] |
 
-## 9. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Hoja de cálculo de la fórmula
+### 10.1 Hoja de cálculo de la fórmula
 
-> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del profesorado antes de pesar.
+> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del centro antes de pesar.
 
 | Componente | Cantidad de referencia | Volumen de referencia | Volumen final solicitado | Cálculo | Cantidad pesada o medida | Lote/caducidad, si procede |
 |---|---:|---:|---:|---|---:|---|
@@ -167,7 +171,7 @@ Registra lo que realizaste realmente. No copies la secuencia base: incluye los a
 | [Componente 2] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
 | [Agente gelificante, si procede] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
 
-### 9.2 Comprobación de calidad
+### 10.2 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -185,7 +189,7 @@ Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de placas ya preparadas, indícalo: no puede presentarse como ejecución propia.
 
@@ -213,25 +217,25 @@ Resume el medio y las placas obtenidas: aspecto, consistencia, identificación y
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de seleccionar, preparar, dispensar y documentar un medio sólido en placa. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con cálculos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -251,7 +255,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -261,22 +265,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / equipo; especifica] |
 | Medio, fórmula, volumen y número de placas | [Completa] |
 | Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.2] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.2] |
+| Resultado | [Resume o enlaza al apartado 10] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos y conservación | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- cálculos individuales correctos y trazables;
-- preparación, dispensación, etiquetado y conservación documentados;
-- controles de calidad interpretados sin asumir resultados pendientes;
-- uso seguro de reactivos, medio caliente y equipos conforme al [PNT](https://www.iso.org/standard/53610.html);
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

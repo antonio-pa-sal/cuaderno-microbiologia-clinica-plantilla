@@ -12,22 +12,22 @@ reference_document: "P4_Recuperación de cultivos liofiliados.pdf"
 
 # P08 — Recuperación de cultivos liofilizados
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La actividad puede realizarse como simulación o demostración, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La actividad puede realizarse como simulación o demostración, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P08`, la unidad `UD3` y una imagen neutra de un vial cerrado o de documentación de trazabilidad.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar un bloque de estado visible con tres opciones: **simulación no biológica**, **demostración docente** o **ejecución autorizada**. Solo el profesorado puede seleccionar la última opción tras validar todas las condiciones críticas.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Situar un bloque de estado visible con tres opciones: **simulación no biológica**, **demostración docente** o **ejecución autorizada**. Solo el centro puede seleccionar la última opción tras validar todas las condiciones críticas.
 - No incluir instrucciones detalladas de apertura, reconstitución, inoculación ni incubación. Esas operaciones se remiten al procedimiento vigente de la colección y al protocolo de bioseguridad del centro.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: trazabilidad o vial no biológico, preparación segura/demostración y registro de viabilidad o pureza.
 - Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -40,7 +40,11 @@ reference_document: "P4_Recuperación de cultivos liofiliados.pdf"
 | Instrumentos vinculados | Caso o protocolo y cuaderno/portfolio; prueba práctica solo si el gate de seguridad permite una ejecución real. |
 | Alternativa completa | Simulación del flujo con vial no biológico e interpretación de registros de recuperación. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica comprenderás cómo se recupera de forma segura y trazable un cultivo liofilizado, aunque la actividad pueda desarrollarse mediante simulación, demostración o análisis documental. Verificarás la identidad y el estado del vial, el grupo de riesgo, el procedimiento aplicable, la infraestructura y la gestión de residuos antes de decidir si la ejecución real es posible. Registrarás la modalidad, los pasos observados, los controles de viabilidad y pureza y cualquier información ausente que obligue a detenerse. El resultado esperado es una valoración razonada de la recuperación, no una afirmación automática de crecimiento. Incluirás evidencias autorizadas, incidencias, límites y propuestas de confirmación posteriores.
+
+## 3. Finalidad y resultados esperados
 
 La liofilización es una forma de conservación a largo plazo que permite mantener material biológico en estado deshidratado. Esta práctica tiene como finalidad comprender el flujo profesional de recuperación de una cepa docente conservada, seleccionando el procedimiento aplicable, manteniendo la trazabilidad y valorando los registros de viabilidad y pureza.
 
@@ -53,11 +57,11 @@ Al finalizar deberás poder:
 - interpretar un registro de recuperación y sus incidencias; y
 - justificar por qué una práctica puede detenerse o sustituirse cuando falta una condición de bioseguridad.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** procedimiento vigente de la colección de cultivos o del proveedor, cepa docente autorizada solo cuando proceda, medio adecuado, sistema de trabajo aséptico, registros de trazabilidad y documentación de seguridad.
 
-**Condiciones críticas que debe confirmar el profesorado:** identidad y grupo de riesgo de la cepa; autorización docente; procedimiento de apertura aplicable; tipo, certificación y disponibilidad de la cabina; competencia y supervisión del personal; ruta de residuos; y disponibilidad de los controles requeridos.
+**Condiciones críticas que debe confirmar el centro:** identidad y grupo de riesgo de la cepa; autorización docente; procedimiento de apertura aplicable; tipo, certificación y disponibilidad de la cabina; competencia y supervisión del personal; ruta de residuos; y disponibilidad de los controles requeridos.
 
 **Riesgos:** exposición a material biológico, generación de aerosoles, pérdida de trazabilidad, contaminación cruzada, error de identificación y gestión incorrecta de residuos.
 
@@ -65,7 +69,7 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La ejecución real está prohibida mientras falte cualquiera de las condiciones críticas. En ese caso se realizará la alternativa completa: simulación con vial no biológico, lectura del protocolo y análisis de registros de recuperación. Esta alternativa permite evaluar la selección del proceso, la trazabilidad y la interpretación sin manipular material biológico.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 La liofilización combina congelación y eliminación de agua por sublimación en condiciones controladas, lo que facilita la conservación prolongada de determinados cultivos. El material liofilizado debe recuperarse utilizando un procedimiento específico de la colección o proveedor, compatible con su identidad, condiciones de conservación y nivel de riesgo.
 
@@ -73,7 +77,7 @@ La calidad de una recuperación no se demuestra por abrir un vial ni por observa
 
 El PDF adjunto introduce el fundamento de la liofilización y remite al procedimiento de la colección de cultivos. Se utiliza como referencia conceptual. Los pasos operativos se aplicarán exclusivamente desde el procedimiento vigente, por personal autorizado y con las condiciones de bioseguridad confirmadas.
 
-## 5. Flujo de trabajo y controles de calidad [PROFESOR · FIJO]
+## 6. Flujo de trabajo y controles de calidad
 
 ### Flujo general
 
@@ -110,7 +114,7 @@ El PDF adjunto introduce el fundamento de la liofilización y remite al procedim
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -121,9 +125,9 @@ El PDF adjunto introduce el fundamento de la liofilización y remite al procedim
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
 - **Responsable que confirmó la modalidad:** [Completa]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -134,13 +138,13 @@ El PDF adjunto introduce el fundamento de la liofilización y remite al procedim
 | EPI y medidas de seguridad aplicadas | [Completa] |
 | Límite de actuación autorizado al alumnado | [Completa] |
 
-### 7.2 Hipótesis de calidad
+### 8.2 Hipótesis de calidad
 
 Antes de analizar el caso o el registro, explica qué evidencias necesitarías para considerar que una recuperación es trazable y que sus resultados de viabilidad/pureza pueden evaluarse. Indica qué ausencia de información te obligaría a detener la decisión.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del flujo realizado u observado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del flujo realizado u observado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste u observaste realmente. En una simulación o demostración, no describas la actividad como una recuperación biológica ejecutada por ti.
 
@@ -153,9 +157,9 @@ Registra lo que realizaste u observaste realmente. En una simulación o demostra
 | Lectura de viabilidad/pureza | [Completa] | [Completa] | [Completa] |
 | Cierre del registro y gestión del material | [Completa] | [Completa] | [Completa] |
 
-## 9. Trazabilidad, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Trazabilidad, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Matriz de verificación
+### 10.1 Matriz de verificación
 
 | Control o criterio | Evidencia disponible | ¿Resultado válido? | Decisión o justificación |
 |---|---|---|---|
@@ -166,13 +170,13 @@ Registra lo que realizaste u observaste realmente. En una simulación o demostra
 | Registro de pureza disponible e interpretable | [Completa] | [Sí / No / Pendiente] | [Completa] |
 | Incidencias documentadas y escaladas si procede | [Completa] | [Sí / No / No hubo] | [Completa] |
 
-### 9.2 Resultado principal
+### 10.2 Resultado principal
 
 Resume el estado de la recuperación o del caso analizado. Indica qué puedes concluir sobre la trazabilidad, viabilidad y pureza; qué evidencia falta, si la hubiera; y cuál es la decisión correcta: continuar, repetir, detener o escalar.
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, códigos confidenciales, etiquetas sensibles ni imágenes de material biológico no autorizadas. Si la evidencia procede de una simulación, demostración o registro docente, indícalo de manera expresa: no puede presentarse como una ejecución biológica propia.
 
@@ -200,25 +204,25 @@ Resume el estado de la recuperación o del caso analizado. Indica qué puedes co
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la conclusión]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la trazabilidad, la viabilidad y la pureza a partir de los registros disponibles. Explica por qué la modalidad elegida era adecuada, qué condición habría impedido una ejecución real y cómo una incidencia de identificación, contaminación o falta de registro modifica la decisión profesional.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de comprender o, solo si fue autorizado, participar en el flujo de recuperación de una cepa docente conservada. Sustenta tu conclusión con evidencias de trazabilidad y controles, e identifica cualquier límite que impida declarar la recuperación válida.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -238,7 +242,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -248,22 +252,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja / equipo; especifica] |
 | Modalidad y origen de la evidencia | [Completa] |
 | Referencia autorizada de protocolo o caso | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 10.2] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias, medidas y escalado | [Resume o enlaza al apartado 12] |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- modalidad de práctica identificada con veracidad;
-- selección del protocolo, trazabilidad y condiciones críticas documentadas;
-- lectura razonada de viabilidad, pureza e incidencias;
-- decisión profesional coherente con las evidencias disponibles;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

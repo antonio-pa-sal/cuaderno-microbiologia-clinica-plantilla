@@ -11,18 +11,17 @@ reference_document: "P7_Siembras en picadura.pdf"
 
 # P11 — Siembra por picadura y estría en tubo
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén separados los bloques de información docente y los bloques rellenables por el alumnado. Inserta las evidencias visuales en formato apaisado cuando sea posible, con pie de foto y procedencia. No publiques datos personales, etiquetas identificativas sensibles ni imágenes de personas sin autorización.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Inserta las evidencias visuales en formato apaisado cuando sea posible, con pie de foto y procedencia. No publiques datos personales, etiquetas identificativas sensibles ni imágenes de personas sin autorización.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o después de la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P7_Siembras en picadura.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica compararás dos patrones de inoculación en tubo: la siembra por picadura y la estría sobre la superficie inclinada. Identificarás el medio, el material de partida y la modalidad autorizada, y registrarás cómo se introduce el inóculo y qué zonas se pretende estudiar. Observarás o analizarás el crecimiento en profundidad y en la superficie, comprobarás los controles y describirás cualquier desviación, contaminación o ausencia de crecimiento. El resultado esperado es un registro que relacione cada patrón con su finalidad y permita valorar si la evidencia es interpretable. Añadirás fotografías autorizadas del proceso y del resultado, una conclusión prudente y propuestas de comprobación posterior cuando sean necesarias.
+
+## 3. Finalidad y resultados esperados
+
 
 En esta práctica se trabaja el uso de un medio sólido o semisólido dispuesto en tubo. Según el diseño docente y el procedimiento normalizado de trabajo ([PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf)) vigente, el medio puede presentar una zona profunda, una superficie inclinada o ambas. La siembra por picadura y la estría sobre la superficie inclinada permiten registrar dónde se ha depositado el inóculo y describir el resultado observable en cada zona.
 
@@ -72,21 +74,21 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
 | Tubos con medio sólido o semisólido apropiado | Soporte de la actividad práctica, demostración o análisis de resultados. |
 | Asa, hilo o aguja de inoculación autorizada | Instrumental definido por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y por la modalidad de trabajo. |
-| Cultivo docente autorizado o material alternativo seguro | Material de partida únicamente cuando el profesorado lo autorice. |
+| Cultivo docente autorizado o material alternativo seguro | Material de partida únicamente cuando el centro lo autorice. |
 | EPI y recursos de desinfección | Aplicación de las medidas de protección y de organización del puesto. |
 | [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente, hoja de trazabilidad y sistema de residuos | Referencia para la ejecución, el registro y la eliminación segura. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
-- Solo se utilizarán materiales, cultivos docentes y condiciones expresamente autorizados por el profesorado.
+- Solo se utilizarán materiales, cultivos docentes y condiciones expresamente autorizados por el centro.
 - La técnica concreta se realizará exclusivamente conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente del centro y bajo la supervisión prevista.
 - Se deben prevenir la punción accidental, la generación de aerosoles, la rotura del tubo, las contaminaciones y la exposición a material biológico.
 - No se abrirán, manipularán ni reincubarán tubos fuera de la instrucción recibida.
@@ -106,9 +108,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Los medios contenidos en tubo permiten organizar la inoculación y la lectura en espacios físicos diferenciados. Una zona profunda o semisólida puede revisarse separadamente de una superficie inclinada. La técnica de picadura deposita el inóculo en la zona indicada por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf); la estría se realiza sobre la superficie inclinada cuando esa es la finalidad prevista. En una práctica combinada, ambos registros deben mantenerse diferenciados.
 
@@ -126,15 +127,15 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad de trabajo, la autorización, los EPI y el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) aplicable.
 2. Identificar el tubo, el tipo de medio, el material de partida o la evidencia docente y los controles previstos.
 3. Ejecutar la técnica autorizada, observar una demostración o desarrollar la simulación, sin apartarse de las instrucciones del centro.
 4. Asegurar el cierre, la identificación y la custodia del material conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf).
-5. Realizar la lectura o revisión en el momento y las condiciones indicadas por el profesorado.
+5. Realizar la lectura o revisión en el momento y las condiciones indicadas por el centro.
 6. Registrar por separado las evidencias de la zona profunda y de la zona inclinada, cuando proceda.
 7. Documentar incidencias, limitaciones, medidas adoptadas y ruta de residuos.
 
@@ -150,7 +151,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Registra por separado crecimiento en profundidad y superficie, controles y limitaciones.
 7. Desecha el material, desinfecta y documenta trazabilidad y desviaciones.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -165,7 +166,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -176,7 +177,7 @@ Antes de realizar o revisar la actividad, responde:
 | Código o descripción autorizada del material | [Escribe aquí] |
 | Control, referencia o comparación disponible | [Escribe aquí] |
 | Evidencia que espero poder registrar | [Escribe aquí] |
-| Límite de lectura comunicado por el profesorado | [Escribe aquí] |
+| Límite de lectura comunicado por el centro | [Escribe aquí] |
 
 ### [ALUMNADO · RELLENABLE] Decisión de seguridad
 
@@ -186,7 +187,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -203,7 +204,7 @@ Registra lo realizado u observado. Describe acciones y decisiones sin reproducir
 
 ---
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -232,11 +233,11 @@ Registra lo realizado u observado. Describe acciones y decisiones sin reproducir
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen procede del profesorado, de una simulación o de un material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales o etiquetas no autorizadas.
+Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen procede del centro, de una simulación o de un material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales o etiquetas no autorizadas.
 
 ### Imagen 1 — Preparación e identificación segura
 
@@ -264,17 +265,17 @@ Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen 
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -290,7 +291,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -300,7 +301,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -322,7 +323,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -338,20 +339,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y organización | Respeta la modalidad autorizada, las medidas de seguridad, el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y la gestión de residuos. |
-| Trazabilidad | Identifica de forma suficiente el material, el medio, la modalidad, la evidencia y los controles. |
-| Registro técnico | Diferencia la zona profunda y la inclinada cuando corresponde; describe con precisión y sin inventar datos. |
-| Interpretación | Relaciona el resultado con la finalidad de la actividad y expone límites razonados. |
-| Documentación visual | Aporta tres evidencias pertinentes, con pie de foto, origen y protección de datos. |
-| Reflexión profesional | Responde las cuatro preguntas con argumentos vinculados al procedimiento, la interpretación y el aprendizaje. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

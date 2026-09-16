@@ -10,10 +10,10 @@ student_completion: individual
 
 # P01 — Bioseguridad
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. Si trabajas en pareja, puedes compartir las imágenes del proceso, pero tu registro, interpretación y reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. Si trabajas en pareja, puedes compartir las imágenes del proceso, pero tu registro, interpretación y reflexión deben ser personales.
 
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -24,7 +24,11 @@ student_completion: individual
 | Modalidad prevista | Demostración grupal, estaciones por parejas y resolución individual de casos. |
 | Modalidad de seguridad | Actividad inicial sin manipulación de cultivos. Si los procedimientos internos del centro no están formalmente disponibles, se realizará con material limpio y simulación documental. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica aprenderás a reconocer los riesgos habituales del laboratorio de microbiología y a elegir las barreras y los equipos de protección individual adecuados. Revisarás la higiene de manos, la organización del puesto, la señalización y la separación de residuos. También analizarás un incidente simulado y decidirás cómo detener la actividad, protegerte, comunicar lo ocurrido y mantener la trazabilidad. Registrarás tus observaciones, las medidas aplicadas, los controles y las evidencias visuales autorizadas. El resultado esperado es un plan de actuación seguro, ordenado y justificable, que puedas trasladar a todas las prácticas posteriores y que reduzca la probabilidad de exposición, contaminación o errores de identificación.
+
+## 3. Finalidad y resultados esperados
 
 Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no en un contenido únicamente teórico. Al terminarla deberás poder:
 
@@ -35,17 +39,17 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - decidir el circuito de segregación de residuos; y
 - documentar las medidas de prevención y la trazabilidad de la actuación.
 
-## 3. Recursos, riesgos y condiciones de ejecución [PROFESOR · FIJO]
+## 4. Recursos, riesgos y condiciones de ejecución
 
 **Recursos previstos:** laboratorio, señalización, EPI, fichas de datos de seguridad, recipientes o ejemplos de segregación de residuos y documentación del centro.
 
 **Riesgos que se trabajan:** exposición, confusión de residuos y uso incorrecto del EPI.
 
-**Medidas generales:** seguir las indicaciones del profesorado, mantener el puesto despejado, usar el EPI indicado, aplicar higiene de manos y respetar el circuito de residuos comunicado por el centro.
+**Medidas generales:** seguir las indicaciones del centro, mantener el puesto despejado, usar el EPI indicado, aplicar higiene de manos y respetar el circuito de residuos comunicado por el centro.
 
 > **Aviso de seguridad.** Los protocolos internos de bioseguridad, residuos e incidencias deben estar validados por el centro antes de aplicarlos como procedimiento real. Esta página no sustituye esos protocolos ni autoriza ninguna técnica.
 
-## 4. Secuencia prevista y criterios de calidad [PROFESOR · FIJO]
+## 5. Secuencia prevista y criterios de calidad
 
 ### Secuencia general
 
@@ -64,7 +68,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 2. Identifica peligros mediante fichas de seguridad, etiquetas y mapa de residuos; relaciona cada riesgo con una barrera preventiva concreta.
 3. Selecciona bata, guantes y protección ocular según el riesgo; comprueba talla, integridad y colocación antes de trabajar.
 4. Prepara material limpio, recipientes de residuos y registro; mantén superficies despejadas, rotuladas y accesibles.
-5. Resuelve un incidente simulado con material limpio; detén la actividad, avisa al profesor y aplica la contención indicada.
+5. Resuelve un incidente simulado con material limpio; detén la actividad, avisa al centro y aplica la contención indicada.
 6. Segrega los residuos en recipientes designados; no mezcles vidrio, químicos y biológicos y registra la ruta utilizada.
 7. Retira el EPI, realiza higiene de manos y completa la trazabilidad; comunica cualquier desviación o duda.
 
@@ -79,7 +83,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 # Tu cuaderno de prácticas
 
-## 5. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -88,15 +92,15 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Real / simulación con material limpio / actividad documental / otra; descríbela]
 
-## 6. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 6.1 Observación del espacio
+### 7.1 Observación del espacio
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
 [Escribe aquí tu observación inicial.]
 
-### 6.2 Riesgos identificados
+### 7.2 Riesgos identificados
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
@@ -104,7 +108,7 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | [Completa] | [Completa] | [Completa] |
 | [Completa] | [Completa] | [Completa] |
 
-### 6.3 EPI y barreras seleccionados
+### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
@@ -114,7 +118,7 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 | Higiene de manos | [Describe cuándo y cómo] | [Completa] |
 | Otra barrera o medida | [Completa] | [Completa] |
 
-## 7. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que sucedió realmente, incluso si no coincide exactamente con la secuencia prevista. No copies el guion: explica las acciones realizadas y las decisiones tomadas.
 
@@ -126,9 +130,9 @@ Registra lo que sucedió realmente, incluso si no coincide exactamente con la se
 | Segregación de residuos | [Completa] | [Completa] | [Completa] |
 | Registro final | [Completa] | [Completa] | [Completa] |
 
-## 8. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### 8.1 Comprobación de los controles de calidad
+### 9.1 Comprobación de los controles de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -137,13 +141,13 @@ Registra lo que sucedió realmente, incluso si no coincide exactamente con la se
 | Respuesta al incidente simulado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Registro trazable | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 8.2 Resultado principal de la práctica
+### 9.2 Resultado principal de la práctica
 
 Resume qué demuestran tus evidencias sobre tu capacidad para prevenir riesgos, usar EPI, gestionar residuos y documentar una actuación segura.
 
 [Escribe aquí el resultado principal.]
 
-## 9. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias y pertinentes. No incluyas rostros, datos personales, documentación sensible ni material cuya fotografía esté prohibida por el centro. Si la imagen procede de una simulación, de material docente o de una fuente externa autorizada, indícalo expresamente. Una imagen no sustituye la explicación técnica.
 
@@ -171,25 +175,25 @@ Resume qué demuestran tus evidencias sobre tu capacidad para prevenir riesgos, 
 - **Relación con la conclusión:** [Explica qué demuestra la imagen]
 - **Momento del procedimiento:** [Completa]
 
-## 10. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 11. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Interpreta los resultados de la práctica. Relaciona los riesgos identificados, el EPI seleccionado, la actuación ante la incidencia y el circuito de residuos. Justifica tus decisiones con la información aportada por el profesorado y con el protocolo del centro cuando esté disponible.
+Interpreta los resultados de la práctica. Relaciona los riesgos identificados, el EPI seleccionado, la actuación ante la incidencia y el circuito de residuos. Justifica tus decisiones con la información aportada por el centro y con el protocolo del centro cuando esté disponible.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 12. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
 [Escribe aquí tu conclusión.]
 
-## 13. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -209,7 +213,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 14. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -218,22 +222,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | [Individual / pareja / equipo; especifica] |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 8] |
-| Resultado | [Resume o enlaza al apartado 8.2] |
-| Interpretación | [Resume o enlaza al apartado 11] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 10] |
+| Controles | [Resume o enlaza al apartado 9] |
+| Resultado | [Resume o enlaza al apartado 9.2] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos aplicada | [Completa]
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- registro individual completo y trazable;
-- observaciones y decisiones técnicamente justificadas;
-- controles y resultados interpretados;
-- incidencias y medidas correctoras documentadas cuando existan;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusiones y reflexión profesional coherentes con el trabajo realizado.

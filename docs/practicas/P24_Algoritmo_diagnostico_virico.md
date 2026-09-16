@@ -11,16 +11,15 @@ reference_document: "Actividad documental de diagnóstico virológico"
 
 # P24 — Algoritmo diagnóstico vírico
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: caso, fase de infección, selección de muestra, elección de técnica, controles, interpretación y comunicación. Inserta diagramas e imágenes con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se cultivan virus ni se procesan muestras clínicas reales.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: caso, fase de infección, selección de muestra, elección de técnica, controles, interpretación y comunicación. Inserta diagramas e imágenes con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se cultivan virus ni se procesan muestras clínicas reales.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información, caso, resultados o criterios que se mantienen visibles y no se modifican. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -46,13 +45,16 @@ reference_document: "Actividad documental de diagnóstico virológico"
 | Código del caso o conjunto de datos | [Escribe aquí, sin datos identificables] |
 | Versión del algoritmo o [PNT](https://iris.who.int/bitstream/handle/10665/254621/9789241549981-eng.pdf) consultado | [Escribe aquí] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica construirás un algoritmo diagnóstico vírico a partir de un caso, la fase de infección, la muestra disponible y la pregunta clínica planteada. Seleccionarás técnicas de detección directa o indirecta, justificarás controles y criterios de validez y ordenarás las decisiones mediante un diagrama. Interpretarás resultados simulados de antígeno, anticuerpos o material genético, teniendo en cuenta sensibilidad, especificidad, umbrales, errores preanalíticos y discordancias. El resultado esperado es una recomendación técnica razonada que diferencie positivo, negativo, indeterminado e inválido, sin emitir un diagnóstico clínico real. Documentarás las fuentes, las evidencias visuales autorizadas, las limitaciones y la comunicación adecuada del resultado.
+
+## 3. Finalidad y resultados esperados
+
 
 El diagnóstico virológico comienza con una pregunta clínica o de vigilancia y continúa con la elección de la muestra, el momento de recogida, el transporte, la técnica disponible y los controles. Un algoritmo útil hace explícitas las decisiones y permite reconocer cuándo un resultado no es válido o necesita confirmación.
 
-La técnica seleccionada debe corresponder a la fase de infección y a la pregunta planteada. Según el caso, pueden analizarse métodos de detección directa de material genético o antígeno, métodos indirectos de respuesta inmunitaria u otros procedimientos descritos por el profesor. En esta práctica no se cultivan virus ni se realizan procedimientos clínicos sobre personas.
+La técnica seleccionada debe corresponder a la fase de infección y a la pregunta planteada. Según el caso, pueden analizarse métodos de detección directa de material genético o antígeno, métodos indirectos de respuesta inmunitaria u otros procedimientos descritos por el centro. En esta práctica no se cultivan virus ni se realizan procedimientos clínicos sobre personas.
 
 Al finalizar, el alumnado deberá ser capaz de:
 
@@ -71,9 +73,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -84,12 +86,12 @@ Completa antes de empezar:
 | Protocolos o guías vigentes | Criterios para repetir, confirmar, derivar y comunicar. |
 | Herramienta de diagramación de Google Sites | Presentación del algoritmo, tablas y evidencias. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad y confidencialidad
+### Condiciones de seguridad y confidencialidad
 
 - La modalidad por defecto es documental. No se manipulan virus, muestras clínicas reales, cultivos celulares ni material potencialmente infeccioso.
 - Todos los casos, datos y resultados deben estar anonimizados o ser simulados. No se copiarán nombres, identificadores, historias clínicas ni datos de contacto.
 - La actividad no sustituye la formación clínica ni autoriza a emitir informes diagnósticos fuera del entorno docente.
-- Las fichas técnicas y los puntos de decisión deben llevar organismo, versión y fecha cuando el profesor los proporcione.
+- Las fichas técnicas y los puntos de decisión deben llevar organismo, versión y fecha cuando el centro los proporcione.
 - Si se utiliza una imagen de un resultado, debe estar preparada para docencia o autorizada; se evitarán datos de pacientes y códigos internos sensibles.
 
 > **Alternativa segura.** Si se presenta una muestra física solo será para demostración controlada, sin apertura ni procesamiento por el alumnado. El registro debe indicar que se observó una demostración y no que se realizó un diagnóstico.
@@ -104,9 +106,8 @@ Completa antes de empezar:
 | Dispongo de la guía/protocolo y versión aplicable | [ ] | [Escribe aquí] |
 | Sé cómo registrar un resultado inválido o discordante | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Un algoritmo diagnóstico relaciona cinco elementos: **pregunta**, **muestra**, **momento**, **método** y **decisión**. La fase preanalítica comprende indicación, identificación, recogida, transporte y conservación. La fase analítica incluye controles, procedimiento y validez del ensayo. La fase postanalítica comprende interpretación, comunicación, repetición y archivo.
 
@@ -122,9 +123,9 @@ Antes de resolver el caso, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Leer el caso y formular una pregunta diagnóstica concreta.
 2. Identificar fase de infección, localización probable, antecedentes relevantes y finalidad del análisis.
@@ -147,7 +148,7 @@ Antes de resolver el caso, responde:
 6. Construye diagrama con flechas entre caso, muestra, técnica, control, resultado y comunicación.
 7. Redacta informe docente anonimizado con fuente, versión, fecha e incertidumbre; no emitas diagnóstico clínico.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -163,7 +164,7 @@ Antes de resolver el caso, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de caso
 
@@ -191,7 +192,7 @@ Antes de resolver el caso, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -207,7 +208,7 @@ Registra lo realizado, observado o analizado. Cada selección debe responder a u
 | Decisión posterior | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] | [Escribe aquí] |
 | Comunicación y archivo | [Escribe aquí] | [Alcance, fuente, fecha] | [Diagrama/tabla] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Selección de muestra y técnica
 
@@ -227,13 +228,13 @@ Registra lo realizado, observado o analizado. Cada selección debe responder a u
 | Posible contaminación, inhibición o reactividad cruzada | [No / posible / confirmada] | [Escribe aquí] | [Escribe aquí] |
 | Criterio y versión consultados | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
 
-### [PROFESOR · FIJO] Resultados simulados del caso
+### Resultados simulados del caso
 
-El profesor inserta aquí los resultados, controles y condiciones necesarios para resolver el algoritmo. No se deben añadir datos clínicos identificables.
+Se incorporan aquí los resultados, controles y condiciones necesarios para resolver el algoritmo. No se deben añadir datos clínicos identificables.
 
 | Prueba/código | Resultado aportado | Control/validez | Observación docente |
 | --- | --- | --- | --- |
-| [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] |
+| [Completar] | [Completar] | [Completar] | [Completar] |
 
 ### [ALUMNADO · RELLENABLE] Interpretación del resultado
 
@@ -254,7 +255,7 @@ Inserta un diagrama de flujo con, como mínimo: **caso → pregunta → muestra/
 | 4 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
 | 5 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -284,15 +285,15 @@ Incluye imágenes o capturas de la construcción del algoritmo, resultados simul
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, error preanalítico o discordancia | Riesgo o efecto posible | Acción adoptada | Comunicación al profesor | Impacto en el algoritmo |
+| Incidencia, error preanalítico o discordancia | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el algoritmo |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -306,7 +307,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -314,7 +315,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -336,7 +337,7 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tu algoritmo
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -353,20 +354,3 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tu algoritmo
 | Resultado comunicado y limitaciones | [Escribe aquí] |
 | Guía/[PNT](https://iris.who.int/bitstream/handle/10665/254621/9789241549981-eng.pdf), organismo, versión y fecha | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y confidencialidad | Trabaja con casos anonimizados/simulados y no procesa virus ni muestras clínicas reales. |
-| Pregunta y selección | Formula la pregunta y justifica muestra, momento y técnica. |
-| Errores preanalíticos y controles | Detecta fallos de identificación, transporte, calidad, inhibición o controles. |
-| Algoritmo | Relaciona resultados con decisiones de repetición, confirmación, derivación o cierre. |
-| Interpretación y comunicación | Distingue resultado docente, incertidumbre y diagnóstico clínico. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

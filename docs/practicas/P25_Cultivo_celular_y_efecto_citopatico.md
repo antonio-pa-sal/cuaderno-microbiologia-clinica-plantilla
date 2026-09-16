@@ -11,16 +11,15 @@ reference_document: "Actividad simulada de cultivo celular y efecto citopático"
 
 # P25 — Cultivo celular y observación del efecto citopático
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: tipo de cultivo, control normal, observación temporal, cambios citopáticos, interpretación y comunicación. Inserta imágenes, micrografías o capturas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad utiliza imágenes, vídeos, preparaciones o datos simulados por defecto: no se cultivan virus.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: tipo de cultivo, control normal, observación temporal, cambios citopáticos, interpretación y comunicación. Inserta imágenes, micrografías o capturas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad utiliza imágenes, vídeos, preparaciones o datos simulados por defecto: no se cultivan virus.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información, imágenes, resultados o criterios que se mantienen visibles y no se modifican. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -46,9 +45,12 @@ reference_document: "Actividad simulada de cultivo celular y efecto citopático"
 | Modalidad de trabajo | [Imagen / vídeo / datos simulados / preparación no infectada autorizada / demostración] |
 | Código del caso, serie o imagen | [Escribe aquí, sin datos sensibles] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica estudiarás cultivos celulares y reconocerás cambios compatibles con efecto citopático mediante imágenes, vídeos, preparaciones o datos simulados. Describirás la morfología celular normal, la confluencia, la adhesión, la distribución y los detritos, y compararás controles con series temporales o condiciones diferentes. Clasificarás cambios como redondeamiento, desprendimiento, sincitios u otras alteraciones, considerando también causas no víricas y posibles artefactos. El resultado esperado es una interpretación del efecto observado con un nivel de confianza y límites claros, sin cultivar virus ni convertir el CPE en identificación o diagnóstico. Incluirás capturas autorizadas, registrarás incidencias y explicarás qué confirmación sería necesaria. Registrarás la fuente y la modalidad de cada evidencia.
+
+## 3. Finalidad y resultados esperados
+
 
 El cultivo celular proporciona un sistema de observación de células mantenidas en condiciones controladas. Puede utilizarse para estudiar morfología, crecimiento, viabilidad y cambios producidos por un agente, siempre con procedimientos autorizados y controles apropiados. En esta práctica, el alumnado trabaja con imágenes, vídeos, preparaciones o datos simulados para reconocer la morfología celular normal y los cambios compatibles con efecto citopático (CPE).
 
@@ -56,7 +58,7 @@ El CPE describe alteraciones observables como redondeamiento, refractilidad, vac
 
 Al finalizar, el alumnado deberá ser capaz de:
 
-- distinguir cultivos en monocapa, suspensión u otras modalidades descritas por el profesor;
+- distinguir cultivos en monocapa, suspensión u otras modalidades descritas por el centro;
 - establecer un control de morfología normal y comparar imágenes tomadas en tiempos equivalentes;
 - reconocer cambios compatibles con CPE y distinguirlos de artefactos o problemas del cultivo;
 - describir la progresión temporal sin inventar una cinética no observada;
@@ -71,9 +73,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -84,7 +86,7 @@ Completa antes de empezar:
 | Diagrama de flujo y hoja de registro | Documentación del proceso y decisiones. |
 | Guía de bioseguridad y residuos | Referencia para cualquier material físico autorizado. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad y confidencialidad
+### Condiciones de seguridad y confidencialidad
 
 - La modalidad por defecto es simulada o documental. No se cultivan virus, no se inoculan células y no se manipulan muestras clínicas.
 - El uso de incubador o de cultivos celulares reales queda condicionado a la confirmación del centro, la evaluación de riesgos y la supervisión correspondiente.
@@ -104,9 +106,8 @@ Completa antes de empezar:
 | He identificado el tiempo, aumento y fuente de cada imagen | [ ] | [Escribe aquí] |
 | Conozco los límites de interpretación y el circuito de residuos | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Las células cultivadas pueden organizarse como monocapas adherentes, suspensiones u otros sistemas. En una monocapa normal se valoran, entre otros rasgos, la forma celular, la adhesión, la distribución, la confluencia, los bordes y la ausencia de detritos o contaminación visible. La referencia debe corresponder al mismo tipo de cultivo y a condiciones temporales comparables.
 
@@ -122,9 +123,9 @@ Antes de revisar la serie, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar modalidad, código, fuente, tiempo, aumento y control normal.
 2. Identificar el tipo de cultivo y describir su morfología basal.
@@ -147,7 +148,7 @@ Antes de revisar la serie, responde:
 6. Clasifica patrón compatible, alteración no vírica, ausencia visible o no interpretable.
 7. Propón confirmación adicional, comunica límites y archiva imágenes y procedencia sin datos sensibles.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -163,7 +164,7 @@ Antes de revisar la serie, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -193,7 +194,7 @@ Antes de revisar la serie, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -210,7 +211,7 @@ Registra lo realizado, observado o analizado. No describas una inoculación o un
 | Propuesta de confirmación | [Escribe aquí] | [Técnica adicional y límite] | [Escribe aquí] |
 | Comunicación y archivo | [Escribe aquí] | [Fuente, versión, fecha] | [Escribe aquí] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -253,11 +254,11 @@ Registra lo realizado, observado o analizado. No describas una inoculación o un
 | Técnica adicional necesaria | [Escribe aquí] |
 | Nivel de confianza | [Alta / media / baja; justifica] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes o capturas validadas por el profesor. No incluyas muestras clínicas, datos personales, pantallas restringidas ni cultivos vivos no autorizados.
+Incluye imágenes o capturas validadas por el centro. No incluyas muestras clínicas, datos personales, pantallas restringidas ni cultivos vivos no autorizados.
 
 ### Imagen 1 — Morfología normal y control
 
@@ -283,15 +284,15 @@ Incluye imágenes o capturas validadas por el profesor. No incluyas muestras cl�
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesor | Impacto en la interpretación |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en la interpretación |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -305,7 +306,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -313,7 +314,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -335,7 +336,7 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tus registro
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -352,20 +353,3 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tus registro
 | Clasificación, confianza y confirmación necesaria | [Escribe aquí] |
 | Incidencias y cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y modalidad | Trabaja con imágenes, vídeos, datos o preparaciones autorizadas y no cultiva virus. |
-| Control y trazabilidad | Identifica cultivo, control, tiempo, aumento, fuente y código. |
-| Observación morfológica | Describe forma, adhesión, confluencia, detritos y cambios sin sobreinterpretar. |
-| Interpretación diferencial | Considera CPE y causas alternativas no víricas. |
-| Comunicación profesional | Distingue patrón compatible, ausencia visible, artefacto y no interpretable; propone confirmación. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

@@ -11,16 +11,15 @@ reference_document: "P18_Hongos filamentosos.pdf"
 
 # P21 — Identificación de hongos filamentosos
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: planificación, observación macroscópica, montaje, observación microscópica, clave de identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, etiquetas sensibles ni cultivos vivos no autorizados.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, observación macroscópica, montaje, observación microscópica, clave de identificación, resultados y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, etiquetas sensibles ni cultivos vivos no autorizados.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -45,9 +44,12 @@ reference_document: "P18_Hongos filamentosos.pdf"
 | Modalidad de trabajo | [Preparación segura / colonia sellada / imagen macro-microscópica / simulación / cultivo autorizado] |
 | Código de muestra, colonia o imagen | [Escribe aquí, sin datos sensibles] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica identificarás hongos filamentosos mediante observación macroscópica y microscópica de un cultivo seguro, una preparación permanente, imágenes o datos simulados. Describirás color, textura, topografía y velocidad aparente del crecimiento, y prepararás o analizarás un montaje por disección o cinta adhesiva según la modalidad autorizada. Observarás hifas, septos, ramificaciones, conidióforos, conidios u otras estructuras y utilizarás una clave para justificar la identificación. El resultado esperado es una identificación orientativa con nivel de confianza y límites claros, diferenciando rasgos reales de artefactos o contaminación. Documentarás imágenes autorizadas, incidencias, controles, conclusión y la confirmación que propondrías. La trazabilidad de la preparación será esencial.
+
+## 3. Finalidad y resultados esperados
+
 
 Los hongos son organismos eucariotas heterótrofos. Los hongos filamentosos están formados por hifas que se ramifican y entrelazan para formar un micelio, y pueden producir estructuras reproductoras cuya morfología es diferente de la vegetativa. La identificación se apoya en la observación conjunta de características macroscópicas y microscópicas.
 
@@ -68,9 +70,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -79,11 +81,11 @@ Completa antes de empezar:
 | Portaobjetos y cubreobjetos | Montaje de la preparación. |
 | Asa, pinzas y cinta adhesiva transparente | Transferencia o muestreo de material según el montaje autorizado. |
 | Azul de lactofenol u otro reactivo validado | Medio de montaje y contraste indicado por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia21.pdf). |
-| Microscopio óptico | Observación con los objetivos indicados por el profesorado; el documento histórico propone 40× y 100×. |
+| Microscopio óptico | Observación con los objetivos indicados por el centro; el documento histórico propone 40× y 100×. |
 | EPI, contención y residuos | Prevención de aerosoles/esporas, protección y cierre seguro. |
 | Clave dicotómica y documentación técnica | Comparación de rasgos e identificación razonada. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - Los hongos filamentosos pueden liberar esporas y generar aerosoles. La manipulación de cultivos vivos queda condicionada a la evaluación de riesgos, la contención y la autorización del centro.
 - La alternativa preferente es trabajar con colonias selladas, preparaciones permanentes, imágenes macro/microscópicas o material previamente fijado/preparado.
@@ -91,7 +93,7 @@ Completa antes de empezar:
 - El azul de lactofenol y cualquier otro reactivo se utilizarán según su ficha, el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia21.pdf) y las medidas de protección indicadas.
 - El material y los residuos se gestionarán por la ruta local. No se transportarán cultivos ni preparaciones fuera del circuito autorizado.
 
-> **Alternativa segura.** Si no se autoriza el cultivo o el montaje, se analizarán imágenes, preparaciones o resultados proporcionados por el profesor. Debe registrarse la modalidad real: observar una imagen no equivale a haber manipulado un cultivo.
+> **Alternativa segura.** Si no se autoriza el cultivo o el montaje, se analizarán imágenes, preparaciones o resultados proporcionados por el centro. Debe registrarse la modalidad real: observar una imagen no equivale a haber manipulado un cultivo.
 
 ### [ALUMNADO · RELLENABLE] Comprobación previa
 
@@ -103,13 +105,12 @@ Completa antes de empezar:
 | He identificado el reactivo y la técnica de montaje autorizada | [ ] | [Escribe aquí] |
 | Conozco los límites de observación, transporte y residuos | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 La observación macroscópica registra la colonia completa: velocidad o edad del crecimiento, textura, relieve, aspecto de la superficie, coloración del anverso y del reverso, pigmentos difusibles, exudados y cambios del medio cuando sean apreciables. Estos datos deben describirse con vocabulario común y bajo condiciones comparables.
 
-La observación microscópica permite valorar hifas, septos, ramificación, conidióforos, conidios, esporangios u otras estructuras presentes. La preparación por disección obtiene material del micelio y de la zona aérea; el montaje con cinta adhesiva transfiere parte del material superficial a una gota de colorante. El montaje y la observación se realizan únicamente con el procedimiento seguro indicado por el profesorado.
+La observación microscópica permite valorar hifas, septos, ramificación, conidióforos, conidios, esporangios u otras estructuras presentes. La preparación por disección obtiene material del micelio y de la zona aérea; el montaje con cinta adhesiva transfiere parte del material superficial a una gota de colorante. El montaje y la observación se realizan únicamente con el procedimiento seguro indicado por el centro.
 
 La identificación se construye comparando el conjunto de rasgos con una clave o guía. La ausencia de una estructura puede deberse a edad, zona muestreada, calidad del montaje o aumento; no debe convertirse automáticamente en un rasgo negativo de la especie.
 
@@ -121,9 +122,9 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar modalidad, autorización, código, EPI, contención y límite de manipulación.
 2. Revisar la fuente del material y describir la colonia sin abrirla si no está autorizado.
@@ -131,7 +132,7 @@ Antes de realizar o revisar la actividad, responde:
 4. Preparar el portaobjetos con el reactivo y el cubreobjetos según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia21.pdf) autorizado.
 5. Observar con los aumentos indicados y registrar aumento, enfoque, zona observada y calidad de la preparación.
 6. Describir macro y micromorfología separando dato observado, comparación con la clave e inferencia.
-7. Revisar la identificación con una segunda observación, rasgo adicional o consulta al profesor cuando proceda.
+7. Revisar la identificación con una segunda observación, rasgo adicional o consulta al centro cuando proceda.
 8. Cerrar la actividad, gestionar residuos y comunicar identificación y limitaciones.
 
 ### Procedimiento específico
@@ -146,7 +147,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Considera artefactos, contaminación y edad del cultivo antes de proponer identificación.
 7. Cierra, gestiona residuos y comunica identificación compatible o presuntiva y confirmación pendiente.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -162,7 +163,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -191,7 +192,7 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -207,7 +208,7 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Consulta de clave y decisión | [Escribe aquí] | [Rasgo que sustenta cada paso] | [Tabla/diagrama] |
 | Limpieza, cierre y residuos | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -264,11 +265,11 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Prueba o preparación adicional necesaria | [Escribe aquí] |
 | Confianza | [Alta / media / baja; justifica] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del profesor, de una preparación permanente o de una simulación, indícalo expresamente. Evita mostrar rostros, etiquetas, ubicaciones sensibles, cultivos abiertos o material no autorizado.
+Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del centro, de una preparación permanente o de una simulación, indícalo expresamente. Evita mostrar rostros, etiquetas, ubicaciones sensibles, cultivos abiertos o material no autorizado.
 
 ### Imagen 1 — Morfología macroscópica
 
@@ -294,15 +295,15 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en la identificación |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en la identificación |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -316,7 +317,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -324,7 +325,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -346,7 +347,7 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -363,20 +364,3 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 | Identificación y nivel de confianza | [Escribe aquí] |
 | Incidencias, residuos y cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad, autorización y trazabilidad | Respeta la modalidad, la contención, los EPI, la confidencialidad y la ruta de residuos. |
-| Descripción macroscópica | Registra rasgos de colonia con vocabulario técnico y sin sobreinterpretación. |
-| Montaje y observación | Realiza o analiza el montaje autorizado y documenta aumento, zona, estructuras y limitaciones. |
-| Uso de la clave | Vincula cada decisión con un rasgo observable o reconoce que no es valorable. |
-| Identificación y comunicación | Distingue resultado compatible/presuntivo de confirmación y explica las pruebas pendientes. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

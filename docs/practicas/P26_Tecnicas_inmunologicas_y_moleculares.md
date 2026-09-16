@@ -11,16 +11,15 @@ reference_document: "Actividad documental de técnicas inmunológicas y molecula
 
 # P26 — Técnicas inmunológicas y moleculares: interpretación de resultados
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: caso, técnica, controles, lectura, interpretación, decisión y comunicación. Inserta imágenes, curvas, capturas o tablas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se procesan muestras clínicas ni se ejecutan ensayos diagnósticos reales.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: caso, técnica, controles, lectura, interpretación, decisión y comunicación. Inserta imágenes, curvas, capturas o tablas solo cuando estén autorizadas, con pie técnico, procedencia y finalidad. Esta actividad es documental o simulada por defecto: no se procesan muestras clínicas ni se ejecutan ensayos diagnósticos reales.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información, imágenes, datos, informes o criterios que se mantienen visibles y no se modifican. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla, diagrama o texto que completa el alumnado durante o tras la actividad. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -47,9 +46,12 @@ reference_document: "Actividad documental de técnicas inmunológicas y molecula
 | Código del caso, ensayo o conjunto de datos | [Escribe aquí, sin datos sensibles] |
 | Técnica o técnicas analizadas | [Inmunológica / inmunofluorescencia / molecular / combinación] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica interpretarás resultados simulados de técnicas inmunológicas y moleculares, como señales de color, fluorescencia, curvas de amplificación o valores Cq/Ct. Revisarás la pregunta del caso, los controles, los umbrales, la validez del ensayo y las posibles interferencias antes de clasificar cada resultado. Compararás evidencias concordantes o discordantes y decidirás si procede repetir, confirmar, derivar o cerrar la actividad. El resultado esperado es una lectura trazable que distinga positivo, negativo, indeterminado e inválido y comunique la incertidumbre. Añadirás imágenes, curvas o tablas autorizadas, justificarás la conclusión y dejarás claro que la práctica documental no equivale a realizar un diagnóstico clínico real.
+
+## 3. Finalidad y resultados esperados
+
 
 Las técnicas inmunológicas detectan antígenos, anticuerpos u otras interacciones específicas. Las técnicas moleculares detectan material genético mediante amplificación u otros métodos. Cada resultado depende de la muestra, la fase de la infección, el analito, los controles, la calibración y los criterios de lectura.
 
@@ -72,9 +74,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -85,13 +87,13 @@ Completa antes de empezar:
 | Diagramas y hoja de registro | Trazabilidad del razonamiento y comunicación final. |
 | Equipamiento docente seguro, si se confirma | Demostración no diagnóstica; no se presupone disponibilidad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad y confidencialidad
+### Condiciones de seguridad y confidencialidad
 
 - La modalidad por defecto utiliza imágenes, datos, curvas e informes simulados o anonimizados. No se procesan muestras clínicas ni se manipulan agentes infecciosos.
 - Cualquier demostración física requiere equipamiento, reactivos, evaluación de riesgos y autorización del centro; no es necesaria para acreditar la interpretación básica.
 - No se publicarán nombres, identificadores, historias clínicas, códigos de laboratorio sensibles ni pantallas de sistemas restringidos.
 - La interpretación docente no autoriza a emitir informes clínicos, indicar aislamiento, recomendar tratamientos ni comunicar resultados a pacientes.
-- Las fichas, controles y criterios deben conservar organismo, versión y fecha cuando el profesor los proporcione.
+- Las fichas, controles y criterios deben conservar organismo, versión y fecha cuando el centro los proporcione.
 
 > **Alternativa segura.** Las imágenes de fluorescencia, las curvas de amplificación y los informes simulados permiten practicar la lectura sin realizar ensayos ni generar residuos biológicos.
 
@@ -105,9 +107,8 @@ Completa antes de empezar:
 | Dispongo de la ficha técnica y versión aplicable | [ ] | [Escribe aquí] |
 | Sé cómo registrar un resultado inválido o discordante | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 Las técnicas inmunológicas se basan en la unión específica entre antígeno y anticuerpo. La lectura puede expresarse como color, fluorescencia, señal en una tira, absorbancia u otra variable. La señal debe compararse con blanco, control negativo, control positivo y umbral del ensayo. La reactividad cruzada, el fondo alto, la autofluorescencia o una lectura fuera de tiempo pueden producir interpretaciones erróneas.
 
@@ -123,9 +124,9 @@ Antes de revisar los resultados, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Leer el caso y formular la pregunta que debe responder el ensayo.
 2. Identificar analito, tipo de muestra, fase, técnica y criterio de lectura.
@@ -148,7 +149,7 @@ Antes de revisar los resultados, responde:
 6. Decide repetir, confirmar, derivar o cerrar y justifica la decisión en la ficha técnica.
 7. Redacta comunicación docente trazable con incertidumbre, fuente, versión y límites clínicos.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -164,7 +165,7 @@ Antes de revisar los resultados, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha del caso y ensayo
 
@@ -194,7 +195,7 @@ Antes de revisar los resultados, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -210,7 +211,7 @@ Registra lo realizado, observado o analizado. No describas una ejecución de lab
 | Decisión posterior | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] | [Diagrama] |
 | Comunicación y archivo | [Escribe aquí] | [Fuente, versión, fecha, límites] | [Informe simulado] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -244,15 +245,15 @@ Registra lo realizado, observado o analizado. No describas una ejecución de lab
 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] |
 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
 
-### [PROFESOR · FIJO] Resultados simulados del caso
+### Resultados simulados del caso
 
-El profesor inserta aquí las imágenes, curvas, tablas, controles y criterios necesarios. No se incluyen datos clínicos identificables.
+Se incorporan aquí las imágenes, curvas, tablas, controles y criterios necesarios. No se incluyen datos clínicos identificables.
 
 | Técnica/código | Resultado aportado | Controles y criterio | Observación docente |
 | --- | --- | --- | --- |
-| [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] |
+| [Completar] | [Completar] | [Completar] | [Completar] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -282,15 +283,15 @@ Incluye imágenes o capturas de resultados simulados, curvas y diagramas. No inc
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, error de lectura o discordancia | Riesgo o efecto posible | Acción adoptada | Comunicación al profesor | Impacto en la conclusión |
+| Incidencia, error de lectura o discordancia | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en la conclusión |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -304,7 +305,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -312,7 +313,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -334,7 +335,7 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tus registro
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -351,20 +352,3 @@ Responde individualmente a las cuatro preguntas y relaciónalas con tus registro
 | Decisión posterior y comunicación | [Escribe aquí] |
 | Incidencias y cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y modalidad | Trabaja con imágenes, datos e informes simulados y no procesa muestras clínicas. |
-| Técnica y analito | Identifica qué detecta cada método y su relación con la fase y la muestra. |
-| Controles y lectura | Comprueba controles, umbral, señal, unidad, curva y criterios de validez. |
-| Interpretación diferencial | Reconoce reactividad cruzada, fondo, inhibición, contaminación y discordancias. |
-| Comunicación profesional | Distingue categorías de resultado, incertidumbre y diagnóstico clínico. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

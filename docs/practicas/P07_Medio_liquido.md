@@ -12,22 +12,22 @@ reference_document: "P2_Elaboración de medios de cultivo líquidos.pdf"
 
 # P07 — Elaboración de medio de cultivo líquido
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P07`, la unidad `UD3` y una imagen neutra de material volumétrico o medio líquido preparado.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Situar una calculadora o tabla de escalado en el apartado 9. Debe permitir visualizar la fórmula de partida, el volumen final y los cálculos individuales.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Situar una calculadora o tabla de escalado en el apartado 10. Debe permitir visualizar la fórmula de partida, el volumen final y los cálculos individuales.
 - Presentar la advertencia sobre autoclave en un bloque de seguridad destacado: su utilización depende de formación, autorización y validación operativa; no se convierte en una instrucción autónoma.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: pesado/preparación, disolución o dispensación y medio final correctamente etiquetado.
 - Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -41,7 +41,11 @@ reference_document: "P2_Elaboración de medios de cultivo líquidos.pdf"
 | Modalidad prevista | Preparación, acondicionamiento, esterilización autorizada y documentación de un medio líquido. |
 | Condición operativa | Medios/reactivos disponibles, autoclave operativo y protocolo de uso confirmado. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica prepararás o analizarás la elaboración de un medio de cultivo líquido destinado a mantener o multiplicar microorganismos en condiciones controladas. Calcularás las cantidades para el volumen de trabajo, identificarás los componentes, registrarás lotes y caducidades y revisarás el ajuste de pH, la homogeneidad, el envasado y la esterilización prevista. Cuando la actividad sea simulada, trabajarás con formulaciones, datos o recipientes preparados. El resultado esperado es un medio correctamente documentado, con aspecto uniforme, trazabilidad y controles de esterilidad o de calidad definidos. Explicarás qué errores de cálculo, contaminación o acondicionamiento podrían impedir su uso posterior y aportarás fotografías autorizadas del proceso o del resultado.
+
+## 3. Finalidad y resultados esperados
 
 El medio de cultivo líquido proporciona nutrientes en solución para permitir el desarrollo controlado de microorganismos cuando se utilice posteriormente material docente autorizado. Esta práctica se centra en seleccionar la fórmula indicada, calcular cantidades, preparar y homogeneizar el medio, acondicionarlo para la esterilización, etiquetarlo y documentar sus controles.
 
@@ -54,7 +58,7 @@ Al finalizar deberás poder:
 - verificar controles básicos de calidad, incluida la trazabilidad; y
 - comunicar el resultado y las incidencias de forma técnica.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** balanza, material volumétrico, recipientes adecuados, medio deshidratado o reactivos, agua adecuada, sistema de calentamiento o agitación si procede, recipientes autoclavables, etiquetas y autoclave.
 
@@ -64,20 +68,20 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`. El uso del autoclave requiere `AUTOCLAVE_OPERATIONAL_VALIDATION`, protocolo vigente, formación acreditada o supervisión autorizada. Si este requisito no se cumple, el alumnado podrá preparar, calcular, etiquetar y documentar el medio, mientras que la esterilización se observará mediante demostración, registro docente o evidencia equivalente.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 Un medio de cultivo es una preparación que aporta nutrientes y condiciones adecuadas para el desarrollo controlado de microorganismos. En un medio líquido, los componentes se encuentran en solución; a diferencia de un medio sólido, no incorpora un agente gelificante para crear una superficie estable.
 
 La calidad del medio no depende solo de la fórmula. También exige cálculos correctos, pesada precisa, disolución homogénea, recipientes y cierre adecuados, esterilización conforme al procedimiento validado, etiquetado y conservación según las indicaciones del fabricante y del centro. Un error en cualquiera de estas fases puede comprometer el uso posterior del medio y la trazabilidad del proceso.
 
-El documento adjunto presenta ejemplos históricos de formulaciones, escalado y esterilización. Se utiliza como referencia para entender la secuencia general. Las fórmulas, cantidades, volúmenes, temperaturas, tiempos de esterilización y condiciones de almacenamiento que se apliquen serán exclusivamente las indicadas por el profesorado y los protocolos vigentes.
+El documento adjunto presenta ejemplos históricos de formulaciones, escalado y esterilización. Se utiliza como referencia para entender la secuencia general. Las fórmulas, cantidades, volúmenes, temperaturas, tiempos de esterilización y condiciones de almacenamiento que se apliquen serán exclusivamente las indicadas por el centro y los protocolos vigentes.
 
-## 5. Secuencia de trabajo y controles de calidad [PROFESOR · FIJO]
+## 6. Secuencia de trabajo y controles de calidad
 
 ### Secuencia general
 
 1. Identificar el medio indicado, su fórmula, el volumen final y las FDS de los componentes.
-2. Calcular individualmente las cantidades necesarias para el volumen de trabajo y comprobarlas con el profesorado.
+2. Calcular individualmente las cantidades necesarias para el volumen de trabajo y comprobarlas con el centro.
 3. Preparar el material limpio, comprobar la balanza y pesar o medir los componentes conforme a la fórmula validada.
 4. Añadir el agua y los componentes siguiendo el orden indicado; homogeneizar con el equipo y método autorizados.
 5. Verificar el aspecto del medio y, cuando el protocolo lo establezca, medir o ajustar parámetros como el volumen o el pH.
@@ -90,7 +94,7 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 **[PNT](https://www.iso.org/standard/53610.html) de referencia:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html)
 
 1. Confirma fórmula, volumen, componentes, fichas de seguridad, recipientes, balanza y autoclave validado; trabaja con autorización.
-2. Calcula cantidades y registra unidades; verifica el escalado con el profesor antes de pesar.
+2. Calcula cantidades y registra unidades; verifica el escalado con el centro antes de pesar.
 3. Pesa o mide componentes con material calibrado; identifica lotes y evita dispersar polvos.
 4. Disuelve y homogeneiza en el orden indicado usando agua y agitador autorizados; comprueba aspecto y pH si procede.
 5. Dispensa en recipientes compatibles, deja espacio de seguridad, cierra y etiqueta antes de esterilizar.
@@ -110,7 +114,7 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -121,9 +125,9 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 - **Nombre o código del medio preparado:** [Completa]
 - **Volumen final previsto:** [Completa con unidad]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -134,13 +138,13 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 | Autoclave o alternativa de esterilización autorizada | [Completa] |
 | Etiqueta y ruta de residuos preparadas | [Completa] |
 
-### 7.2 Hipótesis de calidad
+### 8.2 Hipótesis de calidad
 
 Antes de preparar el medio, indica qué aspecto, homogeneidad y trazabilidad esperas obtener si la fórmula, las cantidades y el acondicionamiento son correctos. Explica qué posible error alteraría más el resultado.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste realmente. No copies la secuencia base: incluye los ajustes, los cálculos comprobados, las decisiones tomadas y las incidencias observadas.
 
@@ -154,11 +158,11 @@ Registra lo que realizaste realmente. No copies la secuencia base: incluye los a
 | Esterilización o evidencia alternativa | [Completa] | [Completa] | [Completa] |
 | Enfriamiento, inspección y conservación | [Completa] | [Completa] | [Completa] |
 
-## 9. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Hoja de cálculo de la fórmula
+### 10.1 Hoja de cálculo de la fórmula
 
-> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del profesorado antes de pesar.
+> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del centro antes de pesar.
 
 | Componente | Cantidad de referencia | Volumen de referencia | Volumen final solicitado | Cálculo | Cantidad pesada o medida | Lote/caducidad, si procede |
 |---|---:|---:|---:|---|---:|---|
@@ -166,7 +170,7 @@ Registra lo que realizaste realmente. No copies la secuencia base: incluye los a
 | [Componente 2] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
 | [Componente 3] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
 
-### 9.2 Comprobación de calidad
+### 10.2 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -183,7 +187,7 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de material preparado, indícalo: no puede presentarse como ejecución propia.
 
@@ -211,25 +215,25 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si el medio obtenido cumple los criterios de fórmula, homogeneidad, acondicionamiento, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de seleccionar, preparar, acondicionar y documentar un medio líquido. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con cálculos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -249,7 +253,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -259,22 +263,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / equipo; especifica] |
 | Medio, fórmula y volumen final | [Completa] |
 | Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.2] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.2] |
+| Resultado | [Resume o enlaza al apartado 10] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos y conservación | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- cálculos individuales correctos y trazables;
-- preparación, acondicionamiento y etiquetado documentados;
-- controles de calidad interpretados sin asumir resultados pendientes;
-- uso seguro de reactivos, calor y equipos conforme al protocolo;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

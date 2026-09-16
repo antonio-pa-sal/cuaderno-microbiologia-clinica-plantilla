@@ -11,18 +11,17 @@ reference_document: "P14_Antibiograma disco-placa.pdf"
 
 # P18 — Antibiograma por difusión en disco
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén el contenido docente como información fija y organiza los bloques rellenables en el orden de trabajo: preparación del inóculo, medio y discos, siembra, lectura de halos, interpretación profesional y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos o resultados no autorizados.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden de trabajo: preparación del inóculo, medio y discos, siembra, lectura de halos, interpretación profesional y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos o resultados no autorizados.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,13 +47,16 @@ reference_document: "P14_Antibiograma disco-placa.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica realizarás o analizarás un antibiograma por difusión en disco para observar halos de inhibición y clasificarlos según el estándar vigente aplicable. Prepararás o revisarás el inóculo estandarizado, el medio, los discos y los controles, y registrarás la siembra, la incubación prevista y las medidas de cada halo. Comprobarás la calidad de la placa y separarás el dato bruto de su interpretación. El resultado esperado es una tabla trazable de diámetros y categorías de sensibilidad, siempre vinculada al microorganismo, el antimicrobiano y el estándar utilizado. Incluirás imágenes autorizadas, explicarás anomalías y dejarás claro que el ejercicio no prescribe tratamientos ni sustituye una validación clínica.
+
+## 3. Finalidad y resultados esperados
+
 
 El antibiograma por difusión en disco permite observar la inhibición del crecimiento bacteriano alrededor de discos que contienen antimicrobianos. El principio general es que el antimicrobiano difunde desde el disco en el medio y forma un gradiente de concentración; el diámetro del halo se relaciona con la respuesta de la cepa únicamente cuando se han controlado el inóculo, el medio, los discos, las condiciones de incubación y la lectura.
 
-La medida del halo es un dato bruto. Para transformarlo en una categoría interpretativa se necesita el microorganismo correctamente identificado o asignado al panel docente, el antimicrobiano y su carga, el medio, la metodología y el estándar profesional vigente que corresponda. Los puntos de corte no se fijan en esta página: deben ser aportados y citados por el profesorado en la fecha de la práctica.
+La medida del halo es un dato bruto. Para transformarlo en una categoría interpretativa se necesita el microorganismo correctamente identificado o asignado al panel docente, el antimicrobiano y su carga, el medio, la metodología y el estándar profesional vigente que corresponda. Los puntos de corte no se fijan en esta página: deben ser aportados y citados por el centro en la fecha de la práctica.
 
 Al finalizar, el alumnado deberá ser capaz de:
 
@@ -74,21 +76,21 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
 | Medio adecuado para difusión en disco | Soporte de la siembra y de la lectura cuando el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) lo autorice. |
-| Discos antimicrobianos identificados | Panel docente definido por el profesorado, con carga, lote y vigencia registrados. |
+| Discos antimicrobianos identificados | Panel docente definido por el centro, con carga, lote y vigencia registrados. |
 | Inóculo estandarizado | Suspensión docente preparada o analizada conforme a la P15/P16 y al [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/). |
 | Cepa docente autorizada, placa preparada o datos de referencia | Material de trabajo según la modalidad. |
 | Regla, calibre o sistema de lectura autorizado | Medida del diámetro de los halos y registro del dato bruto. |
 | Estándar profesional vigente y controles de calidad | Asignación de categorías y verificación de la validez del ensayo. |
 | EPI, desinfección y sistema de residuos | Protección y cierre seguro de la actividad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - La ejecución es **condicional**: requiere medio, discos, inóculo, estándar y residuos confirmados.
 - Solo se utilizarán cepas docentes, controles, discos y materiales expresamente autorizados.
@@ -111,9 +113,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 En la difusión en disco, un crecimiento suficientemente uniforme permite observar zonas de inhibición alrededor de cada disco. El diámetro debe medirse como dato bruto en la unidad indicada por el método, anotando cualquier rasgo que dificulte delimitar el borde: crecimiento dentro del halo, colonias puntiformes, doble zona, swarming, efecto de borde, contaminación o halos que se solapan.
 
@@ -133,9 +134,9 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad, la autorización, los EPI, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/), el estándar vigente y la ruta de residuos.
 2. Identificar cepa o evidencia, inóculo, medio, discos, control y equipo de lectura.
@@ -158,7 +159,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Consulta puntos de corte EUCAST vigentes y clasifica solo con controles y método válidos.
 7. Comunica categorías y limitaciones sin prescribir tratamiento; elimina residuos según el circuito.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -174,7 +175,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -197,7 +198,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -216,7 +217,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -271,11 +272,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de una placa preparada, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o resultados de muestras no autorizadas.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de una placa preparada, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o resultados de muestras no autorizadas.
 
 ### Imagen 1 — Preparación e identificación
 
@@ -303,17 +304,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -331,7 +332,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -341,7 +342,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -363,7 +364,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -381,20 +382,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y autorización | Respeta la modalidad, la técnica aséptica, los EPI, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) y la gestión de residuos. |
-| Preparación y trazabilidad | Identifica inóculo, medio, discos, controles, fecha, responsable y uso de un estándar vigente. |
-| Ejecución o análisis | Obtiene o reconoce una siembra uniforme y una distribución de discos adecuada para la lectura. |
-| Medida | Registra diámetros, método, anomalías y unidad de forma reproducible. |
-| Interpretación | Separa dato bruto, categoría profesional y limitación; no fija puntos de corte obsoletos ni prescribe tratamientos. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

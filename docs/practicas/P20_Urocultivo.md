@@ -11,16 +11,15 @@ reference_document: "P17_Urocultivo.pdf"
 
 # P20 — Urocultivo
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: planificación de la muestra, siembra o análisis, lectura, recuento, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos clínicos identificables, códigos sensibles ni muestras reales no autorizadas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación de la muestra, siembra o análisis, lectura, recuento, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos clínicos identificables, códigos sensibles ni muestras reales no autorizadas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -45,13 +44,16 @@ reference_document: "P17_Urocultivo.pdf"
 | Modalidad de trabajo | [Muestra simulada / control docente / demostración / análisis de datos / muestra real autorizada] |
 | Código de muestra, placa o evidencia | [Escribe aquí, sin datos sensibles] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica estudiarás el flujo de un urocultivo desde la trazabilidad de la muestra hasta el recuento y la interpretación del crecimiento. Registrarás el tipo de muestra, el volumen inoculado, el medio, las condiciones de incubación previstas, las colonias y los morfotipos observados. Calcularás las unidades formadoras de colonia cuando los datos lo permitan y valorarás el crecimiento en agar sangre y CLED según el criterio vigente. El resultado esperado es una comunicación prudente que diferencie crecimiento predominante, mixto, contaminante o no interpretable. Incluirás imágenes autorizadas sin datos identificables, describirás las incidencias y señalarás qué identificación o confirmación posterior sería necesaria.
+
+## 3. Finalidad y resultados esperados
+
 
 El urocultivo permite relacionar el crecimiento de microorganismos viables con una muestra de orina y estimar su carga mediante unidades formadoras de colonias por mililitro (UFC/mL). El recuento informa sobre células capaces de crecer en las condiciones empleadas; no incluye necesariamente bacterias muertas o no cultivables.
 
-La práctica integra la trazabilidad de la muestra, la siembra con asa calibrada o equivalente, el crecimiento en medios apropiados —por ejemplo, agar sangre y agar CLED—, el recuento, la observación de morfologías coloniales, la identificación posterior y la comunicación de un resultado. El significado clínico depende del tipo de muestra, la forma de recogida, el paciente, la calidad del cultivo, los controles y los criterios vigentes aportados por el profesorado.
+La práctica integra la trazabilidad de la muestra, la siembra con asa calibrada o equivalente, el crecimiento en medios apropiados —por ejemplo, agar sangre y agar CLED—, el recuento, la observación de morfologías coloniales, la identificación posterior y la comunicación de un resultado. El significado clínico depende del tipo de muestra, la forma de recogida, el paciente, la calidad del cultivo, los controles y los criterios vigentes aportados por el centro.
 
 Al finalizar, el alumnado deberá ser capaz de:
 
@@ -70,9 +72,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -83,7 +85,7 @@ Completa antes de empezar:
 | EPI, campana o puesto aséptico y residuos | Protección, prevención de exposición y cierre seguro. |
 | [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia14a.pdf), controles y criterios vigentes | Referencia para la siembra, lectura, cálculo e interpretación. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad y confidencialidad
+### Condiciones de seguridad y confidencialidad
 
 - La modalidad por defecto es muestra simulada, control docente, placa preparada o conjunto de datos. No se presupone el uso de orina clínica real.
 - Una muestra real solo se utilizará con autorización, anonimización, evaluación de riesgos, supervisión y circuito de bioseguridad del centro.
@@ -103,9 +105,8 @@ Completa antes de empezar:
 | He identificado el volumen del asa y la unidad de cálculo | [ ] | [Escribe aquí] |
 | Conozco las condiciones de lectura y la ruta de residuos | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 El recuento de viables se expresa como UFC/mL porque cada colonia visible representa, de forma aproximada, una unidad capaz de originar crecimiento en el medio y las condiciones empleadas. La relación general es:
 
@@ -115,7 +116,7 @@ Cuando se usa un asa calibrada sin dilución adicional, 1 µL equivale a 0,001 m
 
 El agar sangre permite observar crecimiento y rasgos coloniales; el agar CLED ayuda a valorar crecimiento y ciertas diferencias cualitativas del cultivo urinario. Ninguno de estos medios identifica por sí solo una especie ni permite interpretar un resultado sin considerar pureza, número de morfotipos, tipo de muestra y contexto.
 
-Los criterios de significación dependen del tipo de muestra y del paciente. Las tablas históricas del documento de referencia sirven para plantear el ejercicio, pero los puntos de corte y comentarios clínicos deben ser aportados o validados por el profesorado con la referencia vigente aplicable.
+Los criterios de significación dependen del tipo de muestra y del paciente. Las tablas históricas del documento de referencia sirven para plantear el ejercicio, pero los puntos de corte y comentarios clínicos deben ser aportados o validados por el centro con la referencia vigente aplicable.
 
 ### [ALUMNADO · RELLENABLE] Hipótesis de trabajo
 
@@ -125,9 +126,9 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar modalidad, autorización, código, [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia14a.pdf), EPI y límites de manipulación.
 2. Revisar o homogenizar suavemente la muestra según la instrucción autorizada.
@@ -150,7 +151,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Cuenta colonias, separa morfotipos y calcula UFC/mL con volumen, dilución y fórmula trazables.
 7. Compara con criterio vigente, valora crecimiento mixto y comunica identificación o confirmación pendiente.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -166,7 +167,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -196,7 +197,7 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -213,7 +214,7 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Cálculo e interpretación inicial | [Escribe aquí] | [Fórmula y referencia] | [Escribe aquí] |
 | Gestión final de residuos y puesto | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -249,13 +250,13 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 
 [Escribe aquí]
 
-### [PROFESOR · FIJO] Tabla de referencia para la actividad
+### Tabla de referencia para la actividad
 
-El profesorado debe insertar la tabla o el criterio vigente aplicable al tipo de muestra y al contexto del caso. Como mínimo, debe indicar tipo de muestra, población o situación relevante, umbral o regla, condiciones de validez, interpretación de crecimiento mixto y fuente/fecha.
+Se debe incorporar la tabla o el criterio vigente aplicable al tipo de muestra y al contexto del caso. Como mínimo, debe indicar tipo de muestra, población o situación relevante, umbral o regla, condiciones de validez, interpretación de crecimiento mixto y fuente/fecha.
 
-| Tipo de muestra o situación | Criterio/umbral aportado por el profesor | Condiciones de validez | Interpretación docente |
+| Tipo de muestra o situación | Criterio/umbral aportado por el centro | Condiciones de validez | Interpretación |
 | --- | --- | --- | --- |
-| [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] | [Completar por el profesor] |
+| [Completar] | [Completar] | [Completar] | [Completar] |
 
 ### [ALUMNADO · RELLENABLE] Valoración del resultado
 
@@ -270,7 +271,7 @@ El profesorado debe insertar la tabla o el criterio vigente aplicable al tipo de
 
 ### [ALUMNADO · RELLENABLE] Preguntas técnicas del caso
 
-1. Calcula el número de UFC/mL en el agar sangre y valora el resultado según el criterio proporcionado por el profesorado.
+1. Calcula el número de UFC/mL en el agar sangre y valora el resultado según el criterio proporcionado por el centro.
 
    [Respuesta y operación]
 
@@ -286,11 +287,11 @@ El profesorado debe insertar la tabla o el criterio vigente aplicable al tipo de
 
    [Respuesta]
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del profesorado, de una simulación o de material de referencia, indícalo expresamente. Evita fotografiar etiquetas, datos clínicos, rostros, ubicaciones sensibles o cultivos no autorizados.
+Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del centro, de una simulación o de material de referencia, indícalo expresamente. Evita fotografiar etiquetas, datos clínicos, rostros, ubicaciones sensibles o cultivos no autorizados.
 
 ### Imagen 1 — Muestra, código y medios
 
@@ -316,15 +317,15 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -333,12 +334,12 @@ Redacta una interpretación breve y fundamentada:
 1. Describe la modalidad, la calidad de la muestra o del dato y la validez de los controles.
 2. Explica el cálculo de UFC/mL y conserva la unidad, el volumen y cualquier factor aplicado.
 3. Relaciona el número de morfotipos y el aspecto de agar sangre/CLED con una hipótesis de crecimiento predominante, mixto o no interpretable.
-4. Compara el resultado con el criterio vigente aportado por el profesorado y señala qué confirmación o identificación sería necesaria.
+4. Compara el resultado con el criterio vigente aportado por el centro y señala qué confirmación o identificación sería necesaria.
 5. Distingue un resultado docente presuntivo de un diagnóstico clínico y no recomienda tratamientos.
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -346,7 +347,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -368,7 +369,7 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -385,20 +386,3 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 | Criterio vigente y fuente consultada | [Escribe aquí] |
 | Ruta de residuos o cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad, autorización y confidencialidad | Respeta la modalidad, los EPI, la anonimización, el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia14a.pdf) y el circuito de residuos. |
-| Muestra, siembra y trazabilidad | Identifica muestra/dato, medio, volumen, fecha, responsable y fuente de evidencia. |
-| Recuento y cálculo | Conserva colonias, morfotipos, volumen, dilución, fórmula, UFC/mL y unidad. |
-| Lectura e interpretación | Valora agar sangre/CLED, crecimiento mixto y controles sin sobreinterpretar. |
-| Comunicación profesional | Distingue resultado presuntivo, contaminación, no interpretación y pasos posteriores; no prescribe tratamientos. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

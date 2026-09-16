@@ -11,16 +11,15 @@ reference_document: "Actividad de concentración parasitaria por flotación"
 
 # P22 — Técnica de flotación
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques rellenables en el orden de trabajo: planificación, principio de concentración, preparación o simulación, observación microscópica, identificación, control de artefactos y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, muestras clínicas reales ni etiquetas sensibles.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques rellenables en el orden de trabajo: planificación, principio de concentración, preparación o simulación, observación microscópica, identificación, control de artefactos y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, muestras clínicas reales ni etiquetas sensibles.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -45,9 +44,12 @@ reference_document: "Actividad de concentración parasitaria por flotación"
 | Modalidad de trabajo | [Material simulado / preparado fijado / demostración / imagen o datos docentes / muestra real autorizada] |
 | Código de muestra, preparación o imagen | [Escribe aquí, sin datos sensibles] |
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica comprenderás la técnica de flotación como método de concentración para recuperar estructuras parasitarias en una muestra simulada, preparada o autorizada. Revisarás el principio de separación por densidad, identificarás el material y registrarás la modalidad, los controles y las condiciones de observación. Analizarás el sedimento o la superficie de recuperación al microscopio, distinguirás estructuras compatibles de artefactos y describirás los campos observados. El resultado esperado es una interpretación prudente que indique presencia, ausencia o resultado no valorable según la calidad de la preparación. Añadirás imágenes autorizadas, explicarás las limitaciones del método y señalarás qué confirmación sería necesaria antes de comunicar un resultado parasitológico.
+
+## 3. Finalidad y resultados esperados
+
 
 La flotación es una técnica de concentración basada en la diferencia de densidad entre una solución validada y determinadas formas parasitarias. En condiciones adecuadas, algunas formas ascienden hacia la superficie mientras parte de los restos más densos queda separada. El material concentrado se observa después al microscopio.
 
@@ -70,9 +72,9 @@ Completa antes de empezar:
 
 > Mi objetivo técnico en esta práctica es [escribe una acción observable y segura que quieras realizar o comprender].
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -84,9 +86,9 @@ Completa antes de empezar:
 | EPI, desinfección y residuos | Protección frente a material potencialmente contaminado y cierre seguro. |
 | Clave parasitológica y documentación técnica | Comparación de estructuras y comunicación de límites. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad y confidencialidad
+### Condiciones de seguridad y confidencialidad
 
-- No se presupone el uso de heces clínicas reales. La modalidad por defecto es material simulado, fijado o preparado por el profesorado.
+- No se presupone el uso de heces clínicas reales. La modalidad por defecto es material simulado, fijado o preparado por el centro.
 - Una muestra clínica real solo se utilizará con autorización, anonimización, evaluación de riesgos, supervisión y circuito de bioseguridad del centro.
 - No se abrirán, agitarán, centrifugarán ni transferirán muestras fuera de la instrucción local. Si el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia7.pdf) contempla centrifugación u otra etapa, el alumnado seguirá únicamente esa instrucción.
 - La solución de flotación se manejará según su ficha de seguridad y el protocolo de residuos; no se verterá sin autorización.
@@ -104,9 +106,8 @@ Completa antes de empezar:
 | He identificado la solución de flotación y su [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia7.pdf) | [ ] | [Escribe aquí] |
 | Conozco los límites de manipulación y la ruta de residuos | [ ] | [Escribe aquí] |
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 La concentración por flotación utiliza una solución cuya densidad favorece que determinadas estructuras asciendan o queden próximas a la superficie. El filtrado reduce partículas gruesas y mejora la lectura. El material recuperado se coloca en un portaobjetos y se observa buscando estructuras compatibles, siempre con control del fondo y de los artefactos.
 
@@ -122,9 +123,9 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar modalidad, autorización, código, EPI, contención y [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia7.pdf).
 2. Homogeneizar o revisar el material simulado conforme a la instrucción recibida.
@@ -147,7 +148,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Compara con la clave y descarta burbujas, cristales, polen, fibras y detritos.
 7. Comunica compatible, negativo limitado, artefacto o inconcluso; gestiona solución y residuos.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -163,7 +164,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -192,7 +193,7 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -209,7 +210,7 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Consulta de clave y comunicación | [Escribe aquí] | [Rasgos, control, limitaciones] | [Tabla/diagrama] |
 | Limpieza y cierre | [Escribe aquí] | [Ruta indicada] | [Escribe aquí] |
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -252,11 +253,11 @@ Registra lo realizado, observado o analizado. Describe decisiones y evidencias s
 | Prueba o técnica complementaria necesaria | [Escribe aquí] |
 | Confianza | [Alta / media / baja; justifica] |
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del profesor, de una preparación fijada o de una simulación, indícalo expresamente. Evita mostrar muestras clínicas, datos identificables, recipientes abiertos o material no autorizado.
+Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del centro, de una preparación fijada o de una simulación, indícalo expresamente. Evita mostrar muestras clínicas, datos identificables, recipientes abiertos o material no autorizado.
 
 ### Imagen 1 — Preparación y sistema de flotación
 
@@ -282,15 +283,15 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 - Autoría y procedencia: [Propia / docente / simulación / material de referencia]
 - Qué demuestra y qué no permite concluir: [Escribe aquí]
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -304,7 +305,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -312,7 +313,7 @@ Redacta una interpretación breve y fundamentada:
 
 [Escribe aquí]
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -334,7 +335,7 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 
    [Respuesta]
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -351,20 +352,3 @@ Responde individualmente a las cuatro preguntas y relaciona tus respuestas con l
 | Clave o guía consultada | [Escribe aquí] |
 | Incidencias, residuos y cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad, autorización y trazabilidad | Respeta la modalidad, el EPI, la contención, la confidencialidad y la ruta de residuos. |
-| Principio y secuencia | Explica la separación por densidad y registra la secuencia de concentración conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia7.pdf). |
-| Preparación y microscopía | Documenta filtrado/montaje, aumento, campos, calidad y limitaciones. |
-| Identificación | Describe rasgos, utiliza una clave y diferencia formas compatibles de artefactos. |
-| Comunicación profesional | Distingue positivo presuntivo, negativo limitado, artefacto y resultado no concluyente. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

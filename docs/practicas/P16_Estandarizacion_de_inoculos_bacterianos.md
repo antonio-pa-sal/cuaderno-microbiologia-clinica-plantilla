@@ -11,18 +11,17 @@ reference_document: "P13_Estandarización de inóculos.pdf"
 
 # P16 — Estandarización de inóculos bacterianos
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén el contenido docente como información fija y organiza los bloques rellenables en el orden real de trabajo: identificación del inóculo, selección del patrón, ajuste, comprobación, aplicación y reflexión. Inserta imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden real de trabajo: identificación del inóculo, selección del patrón, ajuste, comprobación, aplicación y reflexión. Inserta imágenes con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P13_Estandarización de inóculos.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica estandarizarás un inóculo bacteriano mediante una escala de turbidez, un patrón comercial o una lectura instrumental validada. Identificarás el cultivo o la suspensión, elegirás la referencia, ajustarás la turbidez y registrarás volúmenes, tiempos, condiciones de lectura y controles. Compararás el resultado con el intervalo esperado y valorarás las fuentes de variabilidad, como homogeneización insuficiente, iluminación, material inadecuado o demora en el uso. El resultado esperado es un inóculo reproducible para una prueba posterior, aunque la turbidez no equivalga exactamente a células viables. Documentarás la modalidad real, las imágenes autorizadas, las incidencias y la decisión sobre su utilización o repetición.
+
+## 3. Finalidad y resultados esperados
+
 
 Estandarizar un inóculo significa ajustar una suspensión microbiana a una referencia definida para que la cantidad de material utilizada en una técnica posterior sea lo más reproducible posible. En el contexto docente, la turbidez puede compararse con una escala de McFarland, con un patrón comercial o con una lectura instrumental validada. El resultado es aproximado: la turbidez no equivale por sí sola a una concentración exacta de células viables.
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,9 +88,9 @@ Completa antes de empezar:
 | Tubos, material de transferencia y equipo de mezcla o lectura | Manipulación y lectura conforme a la instrucción autorizada. |
 | EPI, FDS cuando proceda, desinfección y sistema de residuos | Protección, consulta de peligros y cierre seguro de la actividad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
-- Solo se utilizarán cultivos, suspensiones, patrones y equipos docentes autorizados por el profesorado.
+- Solo se utilizarán cultivos, suspensiones, patrones y equipos docentes autorizados por el centro.
 - La preparación del inóculo y cualquier mezcla se realizará conforme al [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) vigente, con control de aerosoles y técnica aséptica.
 - No se emplearán muestras clínicas ni cultivos ambientales desconocidos, ni se abrirán o manipularán materiales fuera de la instrucción recibida.
 - Se prevendrán salpicaduras, aerosoles, rotura de tubos y contaminación cruzada mediante EPI, organización del puesto y cierre seguro.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 La turbidez de una suspensión aumenta, en términos generales, con la cantidad de partículas presentes en ella. Una escala de McFarland proporciona una referencia visual o instrumental para ajustar esa turbidez a un nivel de trabajo. Sin embargo, la relación entre turbidez y células viables depende del tamaño, la forma, la agregación, el pigmento, el medio, la edad del cultivo y las condiciones de lectura.
 
@@ -130,9 +131,9 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad, la autorización, los EPI, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) y el uso posterior previsto.
 2. Identificar el cultivo o suspensión de partida, el patrón, los tubos, el equipo y los controles.
@@ -155,7 +156,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Usa el inóculo dentro del intervalo establecido para la técnica posterior; registra tiempo y destino.
 7. Cierra, desinfecta y elimina residuos; documenta desviaciones y control de calidad.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -171,7 +172,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -194,7 +195,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -212,7 +213,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados, controles y decisión
+## 9. Resultados, controles y decisión
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -261,11 +262,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o suspensiones y cultivos no autorizados.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o suspensiones y cultivos no autorizados.
 
 ### Imagen 1 — Preparación y trazabilidad
 
@@ -293,17 +294,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -320,7 +321,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -330,7 +331,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -352,7 +353,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -369,20 +370,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y autorización | Respeta la modalidad, la técnica aséptica, los EPI, el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) y la gestión local de residuos. |
-| Trazabilidad | Identifica patrón, suspensión o cultivo, equipo, fecha, responsable y uso posterior previsto. |
-| Ajuste y lectura | Realiza o analiza la comparación de turbidez y registra el nivel o intervalo sin inventar precisión. |
-| Reproducibilidad y errores | Reconoce fuentes de variación y documenta ajustes, controles, repeticiones o rechazo. |
-| Interpretación | Justifica la importancia del inóculo estandarizado y limita sus conclusiones al uso previsto. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

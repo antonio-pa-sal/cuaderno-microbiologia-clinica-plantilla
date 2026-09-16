@@ -12,14 +12,14 @@ reference_document: "P10_Tinción de esporas.pdf"
 
 # P06 — Tinción de endosporas
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P06`, la unidad `UD2` y una imagen neutra de una preparación de endosporas teñida.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
 - Crear una tabla o tarjeta visual de lectura con los campos: célula vegetativa, endospora, coloración observada y posición de la endospora.
 - Situar el aviso de seguridad en un bloque destacado. Las imágenes de llama, calentamiento o material biológico no deben presentarse como pasos que el alumnado pueda realizar sin autorización expresa.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: preparación segura o medida preventiva, campo microscópico y resultado interpretado/posición de las endosporas.
@@ -27,7 +27,7 @@ reference_document: "P10_Tinción de esporas.pdf"
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -42,7 +42,11 @@ reference_document: "P10_Tinción de esporas.pdf"
 | Modalidad prevista | Preparados o cultivos docentes expresamente autorizados, reactivos vigentes y sistema de calentamiento seguro cuando el protocolo validado lo requiera. |
 | Alternativa | Preparaciones permanentes, imágenes de alta calidad o resultados docentes. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica aprenderás a reconocer endosporas y células vegetativas mediante una tinción diferencial, trabajando con preparados, imágenes o una demostración segura según la modalidad autorizada. Revisarás el material, los controles, el uso de calor y los riesgos asociados, sin convertir la guía histórica en una receta autónoma. Observarás la preparación y registrarás el color de la espora y de la célula, su posición, la morfología y la calidad del fondo. El resultado esperado es una descripción que permita diferenciar una endospora de un artefacto y valorar si la tinción es interpretable. Añadirás imágenes autorizadas, incidencias, conclusión y límites de la evidencia obtenida.
+
+## 3. Finalidad y resultados esperados
 
 Esta práctica permite ejecutar o interpretar una tinción diferencial de estructuras de resistencia. La finalidad es reconocer endosporas y células vegetativas, describir la localización de las endosporas y explicar por qué requieren una técnica específica distinta de una tinción de Gram convencional.
 
@@ -55,11 +59,11 @@ Al finalizar deberás poder:
 - relacionar la calidad de la tinción con la validez de la interpretación; y
 - comunicar el resultado y sus limitaciones mediante texto, registro e imagen.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** preparados o cultivos docentes expresamente autorizados, microscopio óptico, portaobjetos, material de tinción, reactivos vigentes y un sistema de calentamiento seguro únicamente cuando el protocolo validado lo requiera.
 
-**Condición operativa:** no se presupone que un cultivo o material biológico concreto sea apto para docencia. La ejecución con colorantes y calor requiere autorización del material, FDS, EPI, equipo operativo, evaluación de riesgos y circuito de residuos confirmado. El profesorado decide si la actividad es una demostración, una ejecución supervisada o una interpretación de preparados permanentes/imágenes.
+**Condición operativa:** no se presupone que un cultivo o material biológico concreto sea apto para docencia. La ejecución con colorantes y calor requiere autorización del material, FDS, EPI, equipo operativo, evaluación de riesgos y circuito de residuos confirmado. El centro decide si la actividad es una demostración, una ejecución supervisada o una interpretación de preparados permanentes/imágenes.
 
 **Riesgos:** colorantes y decolorantes, calentamiento, superficies calientes, salpicaduras, vidrio y posible contacto con material biológico.
 
@@ -67,7 +71,7 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`. Si no se validan reactivos, calentamiento, material docente y residuos, se realizará mediante preparados permanentes, imágenes o resultados docentes. Esta alternativa permite evidenciar la interpretación sin asumir un riesgo no autorizado.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 Las endosporas son estructuras de resistencia formadas por determinadas bacterias en condiciones desfavorables. Debido a sus características, no siempre se visualizan adecuadamente con una tinción de Gram convencional y requieren una técnica diferencial específica.
 
@@ -75,9 +79,9 @@ La técnica de Schaeffer-Fulton utiliza un colorante primario que debe alcanzar 
 
 La lectura debe incluir la presencia o ausencia de endosporas, su apariencia y su localización —central, subterminal o terminal— solo cuando la calidad de la imagen permita afirmarlo. Una tinción no permite identificar por sí sola una especie bacteriana ni establecer condiciones de cultivo, patogenicidad o diagnóstico.
 
-El PDF adjunto aporta la técnica histórica de Schaeffer-Fulton y plantea comparar imágenes o registros de distintas fases de crecimiento. Se utiliza como referencia técnica. Los reactivos, condiciones de calentamiento, material docente y cualquier comparación temporal serán únicamente los autorizados por el profesorado.
+El PDF adjunto aporta la técnica histórica de Schaeffer-Fulton y plantea comparar imágenes o registros de distintas fases de crecimiento. Se utiliza como referencia técnica. Los reactivos, condiciones de calentamiento, material docente y cualquier comparación temporal serán únicamente los autorizados por el centro.
 
-## 5. Secuencia de observación y controles de calidad [PROFESOR · FIJO]
+## 6. Secuencia de observación y controles de calidad
 
 ### Secuencia general
 
@@ -114,7 +118,7 @@ El PDF adjunto aporta la técnica histórica de Schaeffer-Fulton y plantea compa
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -125,9 +129,9 @@ El PDF adjunto aporta la técnica histórica de Schaeffer-Fulton y plantea compa
 - **Código o descripción del material observado:** [Completa sin incluir datos personales o clínicos]
 - **¿Hubo manipulación de reactivos o calor por el alumnado?:** [Sí / No; describe solo lo autorizado]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -138,13 +142,13 @@ El PDF adjunto aporta la técnica histórica de Schaeffer-Fulton y plantea compa
 | Configuración microscópica utilizada | [Completa] |
 | Ruta de residuos o devolución del material | [Completa] |
 
-### 7.2 Hipótesis de lectura
+### 8.2 Hipótesis de lectura
 
 Antes de observar, describe qué diferencias esperas encontrar entre una célula vegetativa y una endospora tras una tinción diferencial. Indica también qué condición de calidad necesitas para poder informar la posición de una endospora.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste o observaste realmente. Si la actividad se desarrolló con una demostración, imágenes o preparados permanentes, describe tu trabajo de observación e interpretación sin presentarlo como ejecución propia.
 
@@ -157,9 +161,9 @@ Registra lo que realizaste o observaste realmente. Si la actividad se desarroll�
 | Lectura de control o referencia | [Completa] | [Completa] | [Completa] |
 | Limpieza, residuos o devolución | [Completa] | [Completa] | [Completa] |
 
-## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Comprobación de calidad
+### 10.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -170,7 +174,7 @@ Registra lo que realizaste o observaste realmente. Si la actividad se desarroll�
 | Diferenciación de artefactos y endosporas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Gestión de residuos o devolución correcta | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 9.2 Registro de hallazgos
+### 10.2 Registro de hallazgos
 
 | Campo o preparación observada | Célula vegetativa: morfología y color | Endosporas: presencia y color | Posición, si puede determinarse | Limitación o duda |
 |---|---|---|---|---|
@@ -184,7 +188,7 @@ Resume si se observaron endosporas, qué evidencias apoyan la lectura, qué posi
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, imagen docente o demostración, indícalo: no puede presentarse como una ejecución propia.
 
@@ -212,25 +216,25 @@ Resume si se observaron endosporas, qué evidencias apoyan la lectura, qué posi
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la lectura]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la presencia, apariencia y posición de las endosporas observadas. Explica cómo la calidad de la tinción y los controles sostienen o limitan la lectura, qué artefactos podrían confundirse con una endospora y por qué la observación no identifica por sí sola una especie bacteriana.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de ejecutar o interpretar una tinción diferencial de endosporas mediante material seguro. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, los controles o la modalidad utilizada.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -250,7 +254,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -260,22 +264,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Reactivos o referencias, si proceden | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 10.2] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- registro individual completo y trazable;
-- identificación clara de la modalidad segura empleada;
-- reconocimiento y localización de endosporas sustentados por las evidencias disponibles;
-- distinción entre estructuras, artefactos e interpretación limitada;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

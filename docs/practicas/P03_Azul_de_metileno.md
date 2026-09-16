@@ -12,22 +12,22 @@ reference_document: "práctica2_Tinciónvital.pdf"
 
 # P03 — Tinción vital con azul de metileno
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede realizarse por parejas, pero el registro, la interpretación comparada, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede realizarse por parejas, pero el registro, la interpretación comparada, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P03`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación teñida.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
-- Usar un bloque visual de dos columnas en el apartado 10 para comparar la preparación en fresco y la preparación teñida.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Usar un bloque visual de dos columnas en el apartado 11 para comparar la preparación en fresco y la preparación teñida.
 - Situar el aviso de seguridad y la información de la FDS en un bloque destacado. No sustituir con esta página el protocolo químico vigente del centro.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: proceso de tinción, campo microscópico teñido y comparación o resultado final.
 - Los textos entre corchetes `[ ... ]` son campos que el alumnado debe sustituir por su respuesta. En la web se transformarán en cuadros de texto, tablas editables o zonas de subida de imágenes.
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -40,7 +40,11 @@ reference_document: "práctica2_Tinciónvital.pdf"
 | Instrumentos vinculados | Prueba práctica, cuaderno o portfolio de prácticas y prueba teórica. |
 | Modalidad prevista | Muestra autorizada o material docente seguro, colorante azul de metileno vigente y documentación de seguridad disponible. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica aplicarás o interpretarás una tinción vital con azul de metileno para aumentar el contraste de una preparación y observar mejor algunas estructuras celulares. Prepararás el material, identificarás la muestra y el reactivo, aplicarás la secuencia de tinción indicada y compararás el resultado con una observación en fresco. Registrarás concentraciones, tiempos, aumentos, controles y posibles cambios producidos por el colorante. También valorarás si la preparación permite interpretar la morfología o si existen artefactos. El resultado esperado es una comparación razonada entre ambas preparaciones, con imágenes autorizadas, descripción técnica y una conclusión que no confunda la mejora del contraste con una identificación definitiva.
+
+## 3. Finalidad y resultados esperados
 
 La tinción vital con azul de metileno se utiliza para incrementar el contraste de una preparación y facilitar la observación microscópica. Esta práctica permite seleccionar el material y el colorante apropiados, preparar una muestra teñida, realizar una observación de calidad y compararla con la preparación en fresco de P02.
 
@@ -52,11 +56,11 @@ Al finalizar deberás poder:
 - comparar el contraste, la morfología observable y las limitaciones de una preparación teñida frente a una preparación en fresco; y
 - comunicar el resultado mediante registro técnico, imágenes y una interpretación razonada.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** microscopio óptico, portaobjetos y cubreobjetos limpios, pipeta Pasteur o gotero, papel absorbente, muestra o preparación docente autorizada y solución de azul de metileno apta para uso docente.
 
-**Responsabilidad del profesorado:** proporcionar un reactivo vigente, correctamente etiquetado y con la ficha de datos de seguridad (FDS) accesible. La preparación de disoluciones, las concentraciones, el posible uso de vaselina, la opción de concentrar una muestra y los aumentos del microscopio deben ajustarse al protocolo validado por el centro; no se deducen automáticamente de la guía histórica de referencia.
+**Responsabilidad del centro:** proporcionar un reactivo vigente, correctamente etiquetado y con la ficha de datos de seguridad (FDS) accesible. La preparación de disoluciones, las concentraciones, el posible uso de vaselina, la opción de concentrar una muestra y los aumentos del microscopio deben ajustarse al protocolo validado por el centro; no se deducen automáticamente de la guía histórica de referencia.
 
 **Riesgos:** exposición al colorante, salpicaduras, manchas, contacto con muestra autorizada, rotura o corte con vidrio y gestión incorrecta de residuos químicos.
 
@@ -64,21 +68,21 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`: requiere reactivo vigente, FDS disponible, material docente autorizado, EPI y circuito de residuos químicos confirmado. Si falta alguno de estos elementos, se utilizarán preparaciones teñidas, imágenes o resultados docentes ya preparados, identificándolos como tales.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 Las tinciones vitales emplean colorantes de baja toxicidad y a baja concentración para aumentar el contraste de la preparación y mejorar la visualización. El azul de metileno puede resaltar determinadas estructuras, pero la tinción puede modificar la percepción de la muestra y no debe interpretarse como una identificación definitiva.
 
 La comparación con la preparación en fresco es esencial: la tinción puede facilitar el reconocimiento de contornos y detalles, mientras que la preparación sin teñir puede aportar otra información sobre el comportamiento de la muestra. Cualquier movimiento observado debe analizarse con cautela, diferenciándolo de corrientes, vibraciones o artefactos.
 
-El documento adjunto propone una preparación directa y otra tras concentración, así como una formulación histórica de la disolución. Se utiliza solo como referencia técnica. La concentración, el método de preparación, la centrifugación y el sellado efectivos serán los que establezca el profesorado conforme a la FDS y los protocolos actuales.
+El documento adjunto propone una preparación directa y otra tras concentración, así como una formulación histórica de la disolución. Se utiliza solo como referencia técnica. La concentración, el método de preparación, la centrifugación y el sellado efectivos serán los que establezca el centro conforme a la FDS y los protocolos actuales.
 
-## 5. Procedimiento y controles de calidad [PROFESOR · FIJO]
+## 6. Procedimiento y controles de calidad
 
 ### Procedimiento base
 
 1. Revisar la autorización de la muestra o del material docente, la FDS, el EPI y el circuito de residuos.
 2. Preparar un portaobjetos y cubreobjetos limpios, y etiquetar la preparación según las indicaciones recibidas.
-3. Depositar la cantidad de muestra indicada por el profesorado en el portaobjetos.
+3. Depositar la cantidad de muestra indicada por el centro en el portaobjetos.
 4. Añadir la cantidad indicada de solución de azul de metileno y homogeneizar con el método autorizado, evitando salpicaduras y exceso de manipulación.
 5. Colocar el cubreobjetos inclinado para reducir la formación de burbujas; aplicar el método de sellado únicamente si ha sido autorizado.
 6. Observar al microscopio de menor a mayor aumento, registrando el aumento y los ajustes efectivamente utilizados.
@@ -110,7 +114,7 @@ El documento adjunto propone una preparación directa y otra tras concentración
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -119,11 +123,11 @@ El documento adjunto propone una preparación directa y otra tras concentración
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Muestra autorizada / preparación docente teñida / imagen o vídeo / otra; descríbela]
 - **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
-- **Reactivo utilizado:** [Nombre, concentración indicada por el profesorado, lote o referencia si procede]
+- **Reactivo utilizado:** [Nombre, concentración indicada por el centro, lote o referencia si procede]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -133,13 +137,13 @@ El documento adjunto propone una preparación directa y otra tras concentración
 | Estado del portaobjetos y cubreobjetos | [Completa] |
 | Aumento(s) utilizado(s) | [Completa] |
 
-### 7.2 Hipótesis de comparación
+### 8.2 Hipótesis de comparación
 
 Antes de observar, indica qué diferencia esperas encontrar entre la preparación en fresco de P02 y la preparación teñida con azul de metileno. Si trabajaste con una imagen o preparación docente, formula la hipótesis a partir de la información disponible.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste realmente. No copies el procedimiento base: anota los ajustes, las decisiones y los problemas detectados.
 
@@ -152,9 +156,9 @@ Registra lo que realizaste realmente. No copies el procedimiento base: anota los
 | Enfoque y observación | [Completa] | [Completa] | [Completa] |
 | Limpieza y gestión de residuos | [Completa] | [Completa] | [Completa] |
 
-## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Comprobación de calidad
+### 10.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -164,7 +168,7 @@ Registra lo que realizaste realmente. No copies el procedimiento base: anota los
 | Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 9.2 Registro de hallazgos
+### 10.2 Registro de hallazgos
 
 | Campo o elemento observado | Aspecto tras la tinción | ¿Qué detalle permite apreciar? | Limitación o duda |
 |---|---|---|---|
@@ -172,7 +176,7 @@ Registra lo que realizaste realmente. No copies el procedimiento base: anota los
 | [Observación 2] | [Completa] | [Completa] | [Completa] |
 | [Observación 3] | [Completa] | [Completa] | [Completa] |
 
-## 10. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Comparación con la observación en fresco [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 | Aspecto comparado | P02 — Preparación en fresco | P03 — Tinción vital con azul de metileno | Interpretación de la diferencia |
 |---|---|---|---|
@@ -188,7 +192,7 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 
 [Escribe aquí el resultado principal.]
 
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 12. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación docente, una imagen de referencia o un vídeo, indícalo: no puede presentarse como una ejecución propia.
 
@@ -216,25 +220,25 @@ Resume qué aportó la tinción a la observación y qué información debe inter
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita tu resultado]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 13. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la tinción usando los controles de calidad, las observaciones y la comparación con P02. Explica qué información se hizo más visible, qué posible artefacto o limitación introdujo el colorante y por qué la tinción no permite por sí sola una identificación definitiva.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y comparar una tinción vital con azul de metileno. Sustenta tu conclusión con evidencias concretas y menciona una limitación de la práctica o del material utilizado.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -254,7 +258,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 17. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -264,22 +268,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
 | Reactivo y lote o referencia | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 10] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 11] |
+| Interpretación | [Resume o enlaza al apartado 14] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 13] |
 | Ruta de residuos aplicada | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- registro individual completo y trazable;
-- uso seguro y documentado del colorante conforme a la FDS;
-- preparación, controles de calidad y hallazgos correctamente descritos;
-- comparación razonada con la observación en fresco;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

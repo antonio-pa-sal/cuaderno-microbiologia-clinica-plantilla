@@ -12,14 +12,14 @@ reference_document: "práctica7_TincióndeGram.pdf"
 
 # P04 — Tinción de Gram
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La ejecución puede realizarse por parejas, pero el registro, la clasificación razonada, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La ejecución puede realizarse por parejas, pero el registro, la clasificación razonada, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P04`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación de Gram.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
 - Presentar la secuencia de tinción como una línea de pasos numerados; incluir un bloque destacado para los puntos críticos: frotis, decoloración, controles y lectura microscópica.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: frotis o proceso seguro, campo Gram positivo/negativo o control y resultado interpretado.
 - Situar el aviso de seguridad en un bloque destacado. No sustituir con esta página los protocolos vigentes del centro ni las FDS de los reactivos.
@@ -27,7 +27,7 @@ reference_document: "práctica7_TincióndeGram.pdf"
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -40,7 +40,11 @@ reference_document: "práctica7_TincióndeGram.pdf"
 | Instrumentos vinculados | Prueba práctica, cuaderno o portfolio de prácticas y caso clínico o profesional. |
 | Modalidad prevista | Kit de Gram vigente y preparaciones o cultivos docentes autorizados. Alternativa: preparaciones permanentes, imágenes o resultados docentes. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica realizarás o interpretarás una tinción de Gram para diferenciar bacterias según la retención del complejo de colorante y relacionar el resultado con su morfología. Prepararás el frotis, aplicarás la secuencia de colorante primario, mordiente, decoloración y contraste conforme al procedimiento vigente, y observarás la preparación al microscopio. Registrarás controles, tiempos, aspecto celular, agrupación y posibles errores de decoloración o contaminación. El resultado esperado es una clasificación Gram positiva o Gram negativa justificada por la evidencia, acompañada de imágenes con pie técnico. También explicarás qué información aporta la tinción y qué pruebas adicionales serían necesarias para identificar el microorganismo.
+
+## 3. Finalidad y resultados esperados
 
 La tinción de Gram es una tinción diferencial central en bacteriología. Permite observar morfología, disposición celular y reacción tintorial, clasificando de forma orientativa las bacterias como Gram positivas o Gram negativas cuando la preparación y los controles son válidos.
 
@@ -53,9 +57,9 @@ Al finalizar deberás poder:
 - utilizar controles para valorar la validez de la práctica; y
 - comunicar una clasificación razonada sin convertirla en identificación microbiológica definitiva.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** kit de Gram vigente, microscopio óptico, portaobjetos, puente de tinción, sistema de lavado y recogida de residuos, material absorbente y preparaciones o cultivos docentes autorizados. El kit suele incluir colorante primario, mordiente, decolorante y colorante de contraste; el profesorado confirmará los reactivos concretos, su estado y sus FDS.
+**Recursos previstos:** kit de Gram vigente, microscopio óptico, portaobjetos, puente de tinción, sistema de lavado y recogida de residuos, material absorbente y preparaciones o cultivos docentes autorizados. El kit suele incluir colorante primario, mordiente, decolorante y colorante de contraste; el centro confirmará los reactivos concretos, su estado y sus FDS.
 
 **Condición operativa:** el inventario histórico identificó un kit de Gram caducado. La reposición o verificación documental de un kit vigente es obligatoria antes de la ejecución real.
 
@@ -65,15 +69,15 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`: requiere kit vigente, FDS, preparaciones o cultivos docentes autorizados, EPI y rutas de residuos confirmadas. Si alguna condición no se cumple, se trabajará con preparaciones permanentes, imágenes de alta calidad o resultados docentes, identificándolos expresamente como tales.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 La tinción de Gram diferencia bacterias según su comportamiento tintorial, relacionado con la composición de su envoltura celular. En una preparación válida, las bacterias Gram positivas suelen conservar el complejo del colorante primario y aparecer azuladas o violáceas; las Gram negativas se decoloran y adquieren el color de contraste, habitualmente rojizo o rosado.
 
 La lectura depende de la calidad del frotis, del orden de los reactivos, del lavado y, especialmente, de la decoloración. Una tinción no válida o unos controles incorrectos impiden concluir la reacción de Gram con seguridad. El resultado debe interpretarse junto con morfología, disposición celular, edad de la preparación y controles; no identifica por sí solo una especie.
 
-El documento adjunto aporta la secuencia tradicional de colorante primario, mordiente, decoloración y contraste. Sus tiempos, formulaciones y condiciones son una referencia histórica. El protocolo operativo será exclusivamente el validado por el profesorado a partir del kit vigente y de las FDS.
+El documento adjunto aporta la secuencia tradicional de colorante primario, mordiente, decoloración y contraste. Sus tiempos, formulaciones y condiciones son una referencia histórica. El protocolo operativo será exclusivamente el validado por el centro a partir del kit vigente y de las FDS.
 
-## 5. Procedimiento y controles de calidad [PROFESOR · FIJO]
+## 6. Procedimiento y controles de calidad
 
 ### Procedimiento base
 
@@ -110,7 +114,7 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -121,9 +125,9 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 - **Código o descripción del material observado:** [Completa sin incluir datos personales o clínicos]
 - **Kit o referencia de reactivos utilizado:** [Completa]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -134,13 +138,13 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 | Ruta de residuos comunicada | [Completa] |
 | Configuración microscópica utilizada | [Completa] |
 
-### 7.2 Hipótesis de lectura
+### 8.2 Hipótesis de lectura
 
 Antes de observar, indica qué esperas distinguir mediante la tinción de Gram y qué dato deberás comprobar antes de aceptar una clasificación como válida.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra las acciones realizadas realmente. No copies el procedimiento base: anota los ajustes, las decisiones y los problemas detectados.
 
@@ -154,9 +158,9 @@ Registra las acciones realizadas realmente. No copies el procedimiento base: ano
 | Observación microscópica | [Completa] | [Completa] | [Completa] |
 | Limpieza y gestión de residuos | [Completa] | [Completa] | [Completa] |
 
-## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Comprobación de calidad
+### 10.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -167,7 +171,7 @@ Registra las acciones realizadas realmente. No copies el procedimiento base: ano
 | Control Gram negativo, si procede | [Completa / No disponible] | [Sí / No / No aplicaba] | [Completa] |
 | Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 9.2 Registro de hallazgos
+### 10.2 Registro de hallazgos
 
 | Campo o preparación observada | Morfología y disposición | Reacción tintorial observada | Clasificación orientativa | Limitación o duda |
 |---|---|---|---|---|
@@ -181,7 +185,7 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, una imagen docente o un vídeo, indícalo: no puede presentarse como una ejecución propia.
 
@@ -209,25 +213,25 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita la clasificación]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la morfología, disposición y reacción tintorial observadas. Explica si los controles permiten aceptar la práctica, qué efecto tendría una sobredecoloración o una decoloración insuficiente y por qué el resultado no equivale a una identificación definitiva de especie.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de realizar o analizar una tinción de Gram válida. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, de los controles o del material utilizado.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -247,7 +251,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -257,22 +261,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Kit, reactivos y lotes o referencias | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 10.2] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos aplicada | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- registro individual completo y trazable;
-- uso seguro y documentado de reactivos y material conforme a las FDS y al protocolo;
-- secuencia técnica y controles de calidad correctamente descritos;
-- clasificación orientativa prudente y razonada;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

@@ -11,14 +11,14 @@ student_completion: individual
 
 # P10 — Siembra en estría simple o continua
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante la ejecución y durante la lectura posterior. La técnica puede realizarse por parejas cuando el profesorado lo organice, pero el registro, la descripción macroscópica, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante la ejecución y durante la lectura posterior. La técnica puede realizarse por parejas cuando el centro lo organice, pero el registro, la descripción macroscópica, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P10`, la unidad `UD3` y una imagen neutra de una placa etiquetada o de un patrón de estría no identificable.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
 - Diferenciar visualmente dos momentos: **ejecución de la siembra** y **lectura del crecimiento**. La segunda parte solo se completa cuando la lectura sea autorizada y segura.
 - Situar el aviso de bioseguridad en un bloque destacado. No incluir una receta autónoma de inoculación ni datos de incubación; el procedimiento operativo se remite al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) del centro.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: preparación segura, patrón de siembra y placa leída/resultado docente.
@@ -26,7 +26,7 @@ student_completion: individual
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -40,7 +40,11 @@ student_completion: individual
 | Modalidad prevista | Placas con medio, asa o material de inoculación y cultivo docente autorizado. |
 | Alternativa | Simulación técnica con material no biológico, placas preparadas, imágenes o resultados docentes para interpretar el patrón de crecimiento. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica realizarás o analizarás una siembra en estría simple o continua para distribuir un inóculo sobre la superficie de un medio y obtener un patrón de crecimiento interpretable. Identificarás la placa, el medio, el material de inoculación y la modalidad real de trabajo. Aplicarás la técnica aséptica y registrarás el recorrido de la estría, la densidad observada, los controles, las incidencias y la lectura posterior. Cuando uses una placa preparada, una imagen o una simulación, lo declararás expresamente. El resultado esperado es una descripción del gradiente de crecimiento y de la calidad de la siembra, con evidencias visuales autorizadas y una interpretación que no permita afirmar pureza o identidad sin confirmación.
+
+## 3. Finalidad y resultados esperados
 
 La siembra en estría simple o continua es una técnica básica de inoculación. Su finalidad es aplicar una técnica aséptica, producir un patrón de crecimiento interpretable y describir macroscópicamente el resultado dentro de los límites del material docente autorizado.
 
@@ -53,7 +57,7 @@ Al finalizar deberás poder:
 - diferenciar entre una observación macroscópica y una identificación definitiva; y
 - registrar la técnica, la trazabilidad, las incidencias y el resultado de forma rigurosa.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
 **Recursos previstos:** placas con medio, asa u otro material de inoculación, cultivo docente autorizado, equipo de protección individual, sistema de desinfección y contenedores de residuos establecidos por el centro.
 
@@ -65,19 +69,19 @@ Al finalizar deberás poder:
 
 > **Aviso de seguridad.** La ejecución real exige material docente autorizado, protocolo de técnica aséptica confirmado, supervisión y ruta de residuos validada. Si falta alguna condición, se realizará una simulación técnica o se analizarán placas, imágenes o registros docentes, declarando siempre la modalidad real.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 La siembra en estría distribuye un inóculo sobre la superficie de una placa mediante un patrón controlado. La técnica permite observar la distribución del crecimiento y entrenar la manipulación aséptica. El patrón resultante depende de la calidad de la siembra, del medio, de las condiciones autorizadas de trabajo y de la integridad de la placa.
 
 La descripción macroscópica debe limitarse a lo realmente observable: presencia o ausencia de crecimiento, distribución, densidad relativa, aspecto general y posibles indicios de contaminación. No permite por sí sola identificar una especie ni confirmar pureza sin los controles y procedimientos correspondientes. La ausencia de crecimiento tampoco debe interpretarse automáticamente como un fallo técnico: debe revisarse la trazabilidad, el material y las condiciones del proceso.
 
-## 5. Secuencia de trabajo y controles de calidad [PROFESOR · FIJO]
+## 6. Secuencia de trabajo y controles de calidad
 
 ### Secuencia general
 
 1. Confirmar la modalidad de práctica: ejecución supervisada, simulación técnica o análisis de evidencia docente.
 2. Verificar la autorización del material, la identificación de la placa, los controles, el EPI y la ruta de residuos.
-3. Preparar el puesto y aplicar el patrón de estría exclusivamente según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y las indicaciones del profesorado.
+3. Preparar el puesto y aplicar el patrón de estría exclusivamente según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y las indicaciones del centro.
 4. Cerrar, identificar y entregar o conservar la placa conforme al procedimiento; no decidir por cuenta propia condiciones de incubación o lectura.
 5. Cuando la lectura posterior esté autorizada, observar el resultado seguro o el registro docente y describir el patrón de crecimiento.
 6. Registrar controles, incidencias, medidas correctoras y límites de la interpretación.
@@ -107,7 +111,7 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha de ejecución:** [dd/mm/aaaa]
@@ -118,26 +122,26 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 - **Modalidad realmente realizada:** [Ejecución supervisada / simulación técnica / análisis de placa o imagen docente / otra; descríbela]
 - **Código autorizado de placa, medio o evidencia:** [Completa sin incluir datos sensibles]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
 | Modalidad de práctica y autorización del material | [Completa] |
 | Placa, medio y evidencia correctamente identificados | [Completa] |
 | EPI, desinfección y medidas de bioseguridad aplicadas | [Completa] |
-| Patrón de estría indicado por el profesorado | [Completa] |
+| Patrón de estría indicado por el centro | [Completa] |
 | Control o evidencia de referencia disponible | [Completa / No disponible] |
 | Ruta de residuos y límite de lectura confirmados | [Completa] |
 
-### 7.2 Hipótesis de resultado
+### 8.2 Hipótesis de resultado
 
 Antes de ejecutar u observar la práctica, explica qué patrón de crecimiento o distribución esperarías si la técnica se aplica correctamente. Indica qué dato necesitarías para distinguir un patrón técnico de una posible incidencia.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro de ejecución [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro de ejecución [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste u observaste realmente. En una simulación o con evidencia docente, no describas la actividad como una siembra biológica ejecutada por ti.
 
@@ -150,9 +154,9 @@ Registra lo que realizaste u observaste realmente. En una simulación o con evid
 | Cierre, entrega y gestión de residuos | [Completa] | [Completa] | [Completa] |
 | Lectura posterior o revisión de evidencia | [Completa] | [Completa] | [Completa] |
 
-## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-### 9.1 Comprobación de calidad
+### 10.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -163,7 +167,7 @@ Registra lo que realizaste u observaste realmente. En una simulación o con evid
 | Lectura autorizada y registro macroscópico suficiente | [Completa] | [Sí / No / Pendiente / No aplicaba] | [Completa] |
 | Incidencias y acciones registradas | [Completa] | [Sí / No / No hubo] | [Completa] |
 
-### 9.2 Descripción macroscópica del resultado
+### 10.2 Descripción macroscópica del resultado
 
 | Aspecto observado | Registro |
 |---|---|
@@ -180,7 +184,7 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas sensibles ni material biológico cuya fotografía o apertura esté prohibida. Si la evidencia procede de una simulación, placa preparada, imagen o registro docente, indícalo: no puede presentarse como una ejecución propia.
 
@@ -208,25 +212,25 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la calidad de la técnica y el patrón de crecimiento observado. Explica qué controles apoyan la lectura, qué incidencia podría explicar un resultado no esperado y por qué una descripción macroscópica no permite identificar de forma definitiva un microorganismo ni declarar pureza sin controles posteriores.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de ejecutar, simular o interpretar una siembra en estría simple o continua de forma segura. Sustenta tu conclusión con registros, controles e imágenes, e identifica una limitación o resultado pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -246,7 +250,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -256,22 +260,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Placa, medio y referencia autorizada | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 10.2] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias, medidas y escalado | [Resume o enlaza al apartado 12] |
 | Ruta de residuos y estado final de la placa | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- modalidad de práctica identificada con veracidad;
-- técnica aséptica, trazabilidad y gestión de residuos documentadas;
-- descripción macroscópica prudente y vinculada a la evidencia disponible;
-- distinción clara entre patrón de crecimiento, pureza e identificación;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

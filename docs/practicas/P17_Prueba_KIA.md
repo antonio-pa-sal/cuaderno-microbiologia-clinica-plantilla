@@ -11,18 +11,17 @@ reference_document: "P11_Agar hierro de Kligler.pdf"
 
 # P17 — Prueba KIA (Agar Hierro de Kligler)
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén el contenido docente como información fija y organiza los bloques rellenables en el orden de trabajo: identificación del tubo y medio, inoculación o análisis, lectura de zonas, controles, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Organiza los bloques rellenables en el orden de trabajo: identificación del tubo y medio, inoculación o análisis, lectura de zonas, controles, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y finalidad. No publiques rostros, datos personales, códigos sensibles ni imágenes de cultivos no autorizadas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P11_Agar hierro de Kligler.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica interpretarás un medio KIA para relacionar el crecimiento bacteriano con la fermentación de azúcares, la producción de gas y la formación de sulfuro de hidrógeno. Identificarás el tubo, el medio, la modalidad de inoculación y los controles, y registrarás por separado el pico y el fondo. Observarás cambios de color, ennegrecimiento, grietas, burbujas o crecimiento superficial y valorarás si la lectura es válida. El resultado esperado es una descripción del patrón KIA y una interpretación presuntiva coherente con las evidencias, sin convertirla en identificación definitiva. Añadirás fotografías autorizadas, incidencias, una síntesis del resultado y las pruebas complementarias que propondrías.
+
+## 3. Finalidad y resultados esperados
+
 
 El Agar Hierro de Kligler (KIA) es un medio diferencial que permite observar un patrón de utilización de carbohidratos y determinados productos de reacción en un tubo con superficie inclinada y fondo. La lectura se organiza separando la reacción de la zona inclinada y la del fondo, y registrando además la presencia de gas y de ennegrecimiento compatible con producción de sulfuro de hidrógeno cuando el medio y el procedimiento lo permiten.
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,10 +88,10 @@ Completa antes de empezar:
 | Controles y tabla de lectura aprobada por el centro | Verificación de la prueba e interpretación del patrón. |
 | EPI, desinfección y sistema de residuos | Protección, organización del puesto y eliminación segura del material. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - La ejecución es **condicional**: requiere tubos KIA vigentes, cultivo docente autorizado y protocolo confirmado.
-- Solo se utilizarán cultivos docentes, controles y materiales expresamente autorizados por el profesorado.
+- Solo se utilizarán cultivos docentes, controles y materiales expresamente autorizados por el centro.
 - El manejo del hilo de inoculación y del tubo se realizará con técnica aséptica, prevención de punciones y control de aerosoles.
 - No se abrirán, reincubarán ni manipularán tubos fuera de la instrucción recibida. La posible producción de gas o sulfuro se tratará conforme al [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf).
 - Todo material biológico y punzante se eliminará por la ruta local indicada. No se deducirá el residuo a partir del color del tubo.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 El KIA contiene carbohidratos y un indicador de pH que permite visualizar diferencias de reacción en las zonas con distinta disponibilidad de oxígeno y distinta relación entre superficie y fondo. La zona inclinada y el fondo no reciben exactamente las mismas condiciones, por lo que deben observarse y registrarse por separado.
 
@@ -130,9 +131,9 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad, la autorización, los EPI, el [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf), los controles y la gestión de residuos.
 2. Identificar el tubo KIA, su lote o código, el medio, el cultivo o la evidencia docente y la fecha de lectura.
@@ -155,7 +156,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Compara control y tabla validada; declara dudosa cualquier zona no observable.
 7. Elimina material, limpia y registra interpretación e incidencias.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -171,7 +172,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -194,7 +195,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -212,7 +213,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -260,11 +261,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de un tubo preparado, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o cultivos no autorizados.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de un tubo preparado, indícalo expresamente. Evita mostrar rostros, datos personales, códigos sensibles o cultivos no autorizados.
 
 ### Imagen 1 — Preparación e identificación segura
 
@@ -292,17 +293,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -319,7 +320,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -329,7 +330,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -351,7 +352,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -368,20 +369,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y autorización | Respeta la modalidad, la técnica aséptica, los EPI, el [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf) y la gestión de residuos. |
-| Trazabilidad | Identifica tubo, medio, cultivo/evidencia, control, fecha y responsable. |
-| Lectura técnica | Diferencia superficie y fondo y registra gas y sulfuro compatible con criterios objetivos. |
-| Validez | Utiliza controles, momento de lectura y declaración de dudas o no valorables. |
-| Interpretación | Integra el patrón en una orientación presuntiva y propone pruebas complementarias sin sobrediagnosticar. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

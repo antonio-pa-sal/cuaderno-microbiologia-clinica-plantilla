@@ -11,18 +11,17 @@ reference_document: "P9_Pruebas bioquímicas oxidasa y catalasa.pdf"
 
 # P14 — Pruebas de catalasa y oxidasa
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén el contenido docente como información fija y agrupa los espacios rellenables en el orden real de trabajo: preparación, controles, ejecución o análisis, lectura, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y una explicación de lo que demuestran. No publiques rostros, datos personales, códigos sensibles ni etiquetas de reactivos que no estén autorizadas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los espacios rellenables en el orden real de trabajo: preparación, controles, ejecución o análisis, lectura, interpretación y reflexión. Inserta las evidencias visuales con pie de foto técnico, procedencia y una explicación de lo que demuestran. No publiques rostros, datos personales, códigos sensibles ni etiquetas de reactivos que no estén autorizadas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P9_Pruebas bioquímicas oxidasa y catalasa.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica compararás las pruebas de catalasa y oxidasa para orientar la identificación de un microorganismo a partir de una colonia, un preparado o un resultado simulado. Revisarás el material, los reactivos, los controles y la modalidad de trabajo, y registrarás la reacción observada dentro del tiempo válido de lectura. Diferenciarás un resultado positivo, negativo, dudoso o no valorable y analizarás posibles interferencias, contaminación o reactivo caducado. El resultado esperado es una tabla de resultados coherente y una interpretación que relacione cada prueba con los siguientes pasos del algoritmo, sin afirmar una especie solo con estas reacciones. Añadirás imágenes autorizadas, incidencias, conclusión y límites.
+
+## 3. Finalidad y resultados esperados
+
 
 Las pruebas de catalasa y oxidasa son ensayos rápidos que aportan información fenotípica útil dentro de un algoritmo de identificación bacteriana. La catalasa se relaciona con la descomposición del peróxido de hidrógeno en agua y oxígeno; en condiciones válidas, la formación observable de burbujas es el indicador de reacción. La oxidasa se basa en el cambio de un reactivo cromogénico cuando se detecta actividad compatible con citocromo c oxidasa, dentro de la ventana de lectura establecida por el fabricante y el [PNT](https://asm.org/protocols/catalase-test-protocol).
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,10 +88,10 @@ Completa antes de empezar:
 | Material de manipulación y soporte indicado por el [PNT](https://asm.org/protocols/catalase-test-protocol) | Aplicación de la técnica autorizada sin incorporar alternativas no validadas. |
 | EPI, FDS, recursos de desinfección y sistema de residuos | Protección, consulta de peligros y cierre seguro de la actividad. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
 - Se utilizarán únicamente reactivos vigentes, identificados y autorizados, conforme a la ficha de datos de seguridad (FDS) y al [PNT](https://asm.org/protocols/catalase-test-protocol) local.
-- La manipulación de cultivos docentes, controles y reactivos se realizará solo en la modalidad y condiciones autorizadas por el profesorado.
+- La manipulación de cultivos docentes, controles y reactivos se realizará solo en la modalidad y condiciones autorizadas por el centro.
 - Se prevendrán contacto químico, salpicaduras, exposición a material biológico, contaminación cruzada y errores de identificación de reactivos.
 - No se modificarán concentraciones, soportes, tiempos de lectura, condiciones de almacenamiento ni rutas de residuos fuera de la instrucción recibida.
 - Los residuos de reactivos y de material biológico se gestionarán por las rutas separadas que establezca el centro.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 La prueba de catalasa explora una actividad enzimática relacionada con la protección frente a especies reactivas de oxígeno. Si la reacción se desarrolla en las condiciones definidas, la liberación de oxígeno puede apreciarse por la aparición de burbujas. La intensidad, el momento y las condiciones de observación se registran tal como los defina el [PNT](https://asm.org/protocols/catalase-test-protocol), sin convertir una apreciación subjetiva en un resultado definitivo.
 
@@ -130,9 +131,9 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad de trabajo, la autorización, los EPI, el [PNT](https://asm.org/protocols/catalase-test-protocol), la FDS y las rutas de residuos.
 2. Identificar los reactivos, su lote, vigencia, condiciones de uso, controles y material docente o evidencia asignada.
@@ -155,7 +156,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Integra resultados con Gram, morfología y algoritmo; no identifiques especie con una sola reacción.
 7. Desecha reactivos y soportes por la ruta indicada, limpia y registra incidencias.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -171,7 +172,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Planificación y datos iniciales
+## 7. Planificación y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Ficha de trabajo
 
@@ -194,7 +195,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -211,7 +212,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 8. Resultados y controles
+## 9. Resultados y controles
 
 ### [ALUMNADO · RELLENABLE] Control de validez
 
@@ -222,7 +223,7 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 | Oxidasa | Positivo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 | Oxidasa | Negativo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
-> Si un control no es válido, no interpretes la muestra como positiva o negativa. Registra el resultado como no válido o no valorable y sigue la indicación del profesorado.
+> Si un control no es válido, no interpretes la muestra como positiva o negativa. Registra el resultado como no válido o no valorable y sigue la indicación del centro.
 
 ### [ALUMNADO · RELLENABLE] Registro de resultados de la muestra
 
@@ -239,11 +240,11 @@ Registra lo que realizaste, observaste o analizaste. Describe decisiones y evide
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo si su captura está autorizada. Si proceden del profesorado, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, etiquetas sensibles o material no autorizado.
+Incluye imágenes propias solo si su captura está autorizada. Si proceden del centro, de una simulación o de material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales, etiquetas sensibles o material no autorizado.
 
 ### Imagen 1 — Preparación y trazabilidad de reactivos
 
@@ -271,17 +272,17 @@ Incluye imágenes propias solo si su captura está autorizada. Si proceden del p
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -298,7 +299,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -308,7 +309,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -330,7 +331,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -346,20 +347,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y preparación | Respeta la modalidad autorizada, los EPI, la FDS, el [PNT](https://asm.org/protocols/catalase-test-protocol) y la gestión diferenciada de residuos. |
-| Selección y trazabilidad | Justifica la prueba y registra de forma suficiente muestra/evidencia, reactivos, lotes o códigos, vigencia y controles. |
-| Ejecución y lectura | Sigue o analiza el procedimiento autorizado y registra la observación en la ventana de lectura definida. |
-| Controles y validez | Determina correctamente si los controles permiten interpretar la muestra. |
-| Interpretación | Relaciona catalasa y oxidasa con su finalidad y limita las conclusiones a un algoritmo de identificación. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]

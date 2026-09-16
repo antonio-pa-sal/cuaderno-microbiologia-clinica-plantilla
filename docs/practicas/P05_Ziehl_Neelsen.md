@@ -12,14 +12,14 @@ reference_document: "práctica11_TincióndeZielh-Neelsen.pdf"
 
 # P05 — Tinción de Ziehl-Neelsen
 
-> **Estado de esta página:** conserva sin modificar los bloques marcados como **[PROFESOR · FIJO]**. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La observación o la demostración puede ser compartida, pero el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
 
 ## Instrucciones de maquetación para la página web
 
 > **Para quien cree la página en Google Sites. No forma parte de la respuesta del alumnado.**
 
 - Usar una cabecera amplia con el título, el código `P05`, la unidad `UD2` y una imagen neutra de microscopía o de una preparación teñida segura.
-- Mantener los apartados 1–5 como contenido bloqueado del profesorado. Después, crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
+- Crear una franja visible titulada **“Tu cuaderno de prácticas”** para los apartados editables.
 - Situar al inicio un aviso visible: **“No se emplean cultivos de Mycobacterium en esta práctica.”**
 - Presentar la secuencia como una línea de pasos de interpretación. Si existe una demostración autorizada de tinción, diferenciar visualmente sus pasos de los campos de observación del alumnado.
 - Para las evidencias visuales, crear tres marcadores de imagen con pie de foto obligatorio: medida de seguridad o preparación segura, campo microscópico y resultado interpretado.
@@ -27,7 +27,7 @@ reference_document: "práctica11_TincióndeZielh-Neelsen.pdf"
 
 ---
 
-## 1. Identificación de la práctica [PROFESOR · FIJO]
+## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
@@ -41,7 +41,11 @@ reference_document: "práctica11_TincióndeZielh-Neelsen.pdf"
 | Modalidad ordinaria | Preparados fijados, comerciales o material docente expresamente autorizado. |
 | Alternativa | Preparaciones permanentes, imágenes diagnósticas o resultados docentes. |
 
-## 2. Finalidad y resultados esperados [PROFESOR · FIJO]
+## 2. Resumen
+
+En esta práctica estudiarás la tinción de Ziehl-Neelsen y el reconocimiento de microorganismos ácido-alcohol resistentes mediante preparados seguros, imágenes o una demostración validada. Identificarás la modalidad realizada, revisarás los reactivos y las condiciones de seguridad, y observarás los controles y la preparación con el aumento apropiado. Registrarás el color, la forma, la disposición de las estructuras y cualquier indicio de decoloración incorrecta o fondo excesivo. El resultado esperado es una lectura prudente que distinga bacilos compatibles, ausencia de señal interpretable y artefactos. Documentarás las evidencias autorizadas y explicarás por qué esta observación no equivale por sí sola a un diagnóstico ni a una identificación definitiva.
+
+## 3. Finalidad y resultados esperados
 
 La tinción de Ziehl-Neelsen permite comprender y reconocer la reacción tintorial de microorganismos ácido-alcohol resistentes. La actividad se orienta a observar material seguro, identificar de forma razonada una tinción compatible con BAAR y distinguirla de una preparación no ácido-alcohol resistente, sin convertir el resultado en un diagnóstico clínico.
 
@@ -54,27 +58,27 @@ Al finalizar deberás poder:
 - comunicar una lectura orientativa y sus límites; y
 - aplicar los principios de seguridad química, térmica y biológica correspondientes.
 
-## 3. Recursos, seguridad y autorización [PROFESOR · FIJO]
+## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** preparados fijados o comerciales, microscopio óptico, imágenes diagnósticas o material docente expresamente autorizado y reactivos vigentes solo cuando el profesorado haya validado una demostración segura.
+**Recursos previstos:** preparados fijados o comerciales, microscopio óptico, imágenes diagnósticas o material docente expresamente autorizado y reactivos vigentes solo cuando el centro haya validado una demostración segura.
 
 **Restricción esencial:** **no se presupone ni se autoriza el uso de cultivos de *Mycobacterium*.** La opción ordinaria preferente es trabajar con preparados seguros/fijados o con imágenes. Una demostración con reactivos o calentamiento solo puede realizarse si el centro ha validado el protocolo, las FDS, los equipos, el EPI y la gestión de residuos; no será una instrucción autónoma para el alumnado.
 
 **Riesgos:** exposición a colorantes, decolorantes y disolventes; calentamiento; salpicaduras; vidrio; y riesgo biológico potencial si se usara material no seguro.
 
-**Medidas obligatorias:** seguir las indicaciones del profesorado, consultar las FDS aplicables, usar el EPI requerido, mantener alejadas las fuentes de ignición de productos inflamables, no improvisar calentamientos, gestionar los residuos químicos y de vidrio por las rutas establecidas, y comunicar de inmediato cualquier derrame o incidencia.
+**Medidas obligatorias:** seguir las indicaciones del centro, consultar las FDS aplicables, usar el EPI requerido, mantener alejadas las fuentes de ignición de productos inflamables, no improvisar calentamientos, gestionar los residuos químicos y de vidrio por las rutas establecidas, y comunicar de inmediato cualquier derrame o incidencia.
 
 > **Aviso de seguridad.** La práctica es `CONDITIONAL`. Si no se confirma la seguridad de los reactivos, el calentamiento o el material, se realizará exclusivamente como interpretación de preparados permanentes, imágenes o resultados docentes. Esa modalidad es válida y debe registrarse como tal.
 
-## 4. Fundamento técnico [PROFESOR · FIJO]
+## 5. Fundamento técnico
 
 La tinción de Ziehl-Neelsen es una tinción diferencial empleada para visualizar microorganismos ácido-alcohol resistentes. En una preparación válida, las estructuras ácido-alcohol resistentes conservan el colorante primario tras la decoloración y se observan en tonos rojizos o fucsias; el material no ácido-alcohol resistente adquiere el color del contraste, habitualmente azulado.
 
 El resultado depende de la calidad del preparado, de la aplicación correcta de los reactivos, de la decoloración y del control de posibles precipitados o artefactos. La observación de una estructura compatible con BAAR exige interpretar la calidad de la preparación y sus controles. No determina, por sí sola, una especie ni confirma una enfermedad.
 
-El PDF adjunto describe una técnica clásica con calor y reactivos concretos. Se emplea como referencia histórica para comprender la lógica de la tinción, no como autorización de ejecución. El único procedimiento operativo es el que facilite el profesorado conforme a los protocolos y FDS vigentes.
+El PDF adjunto describe una técnica clásica con calor y reactivos concretos. Se emplea como referencia histórica para comprender la lógica de la tinción, no como autorización de ejecución. El único procedimiento operativo es el que facilite el centro conforme a los protocolos y FDS vigentes.
 
-## 5. Secuencia de observación y controles de calidad [PROFESOR · FIJO]
+## 6. Secuencia de observación y controles de calidad
 
 ### Secuencia general
 
@@ -111,7 +115,7 @@ El PDF adjunto describe una técnica clásica con calor y reactivos concretos. S
 
 # Tu cuaderno de prácticas
 
-## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
+## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
 - **Nombre y apellidos:** [Escribe tu nombre y apellidos]
 - **Fecha real de realización:** [dd/mm/aaaa]
@@ -122,9 +126,9 @@ El PDF adjunto describe una técnica clásica con calor y reactivos concretos. S
 - **Código o descripción del material observado:** [Completa sin incluir datos personales o clínicos]
 - **¿Hubo manipulación de reactivos por el alumnado?:** [Sí / No; describe solo lo autorizado]
 
-## 7. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### 7.1 Verificación previa
+### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
@@ -135,13 +139,13 @@ El PDF adjunto describe una técnica clásica con calor y reactivos concretos. S
 | Configuración microscópica utilizada | [Completa] |
 | Ruta de residuos o devolución del material | [Completa] |
 
-### 7.2 Hipótesis de lectura
+### 8.2 Hipótesis de lectura
 
 Antes de observar, describe qué aspecto esperarías encontrar en una preparación compatible con una reacción ácido-alcohol resistente y qué control o condición deberías comprobar antes de aceptarla como válida.
 
 [Escribe aquí tu hipótesis.]
 
-## 8. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Registro del procedimiento realizado [ALUMNADO · RELLENABLE · DURANTE]
 
 Registra lo que realizaste o observaste realmente. Si la actividad fue una demostración, una imagen o una preparación permanente, describe tu tarea de observación e interpretación sin presentarla como ejecución propia.
 
@@ -154,9 +158,9 @@ Registra lo que realizaste o observaste realmente. Si la actividad fue una demos
 | Lectura de controles | [Completa] | [Completa] | [Completa] |
 | Limpieza, residuos o devolución | [Completa] | [Completa] | [Completa] |
 
-## 9. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
 
-### 9.1 Comprobación de calidad
+### 10.1 Comprobación de calidad
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -167,7 +171,7 @@ Registra lo que realizaste o observaste realmente. Si la actividad fue una demos
 | Diferenciación de artefactos y estructuras teñidas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Gestión de residuos o devolución correcta | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 9.2 Registro de hallazgos
+### 10.2 Registro de hallazgos
 
 | Campo o preparación observada | Morfología y disposición | Coloración o contraste observado | Interpretación orientativa | Limitación o duda |
 |---|---|---|---|---|
@@ -181,7 +185,7 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 
 [Escribe aquí el resultado principal.]
 
-## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, una imagen diagnóstica o una demostración docente, indícalo: no puede presentarse como una ejecución propia.
 
@@ -209,25 +213,25 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la lectura]
 - **Autoría y origen:** [Completa]
 
-## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la morfología, disposición y coloración observadas. Explica cómo los controles apoyan o limitan la lectura, qué artefactos podrían confundirse con estructuras teñidas y por qué una observación compatible con BAAR no identifica por sí sola un microorganismo ni establece un diagnóstico.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de reconocer e interpretar una tinción de Ziehl-Neelsen mediante material seguro. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, la imagen, los controles o la modalidad empleada.
 
 [Escribe aquí tu conclusión.]
 
-## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -247,7 +251,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -257,22 +261,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Reactivos o referencias, si proceden | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.2] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Controles | [Resume o enlaza al apartado 10.1] |
+| Resultado | [Resume o enlaza al apartado 10.2] |
+| Interpretación | [Resume o enlaza al apartado 13] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
-
-## Criterios de revisión del profesorado [PROFESOR · FIJO]
-
-La página se revisará atendiendo a la calidad y coherencia de las evidencias, no a la mera existencia de texto o fotografías. Debe mostrar:
-
-- registro individual completo y trazable;
-- identificación clara de la modalidad segura empleada;
-- interpretación razonada de coloración, controles y artefactos;
-- distinción expresa entre lectura orientativa, identificación y diagnóstico;
-- imágenes pertinentes, seguras y correctamente etiquetadas; y
-- conclusión y reflexión profesional coherentes con el trabajo realizado.

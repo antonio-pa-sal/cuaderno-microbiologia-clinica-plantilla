@@ -11,18 +11,17 @@ reference_document: "P16_Estudio superficies.pdf"
 
 # P13 — Estudio microbiológico de superficies y recuento
 
-> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Mantén los contenidos del profesorado visibles y sin edición. Agrupa los bloques del alumnado en el orden de trabajo: planificación, toma o análisis, lectura, cálculo, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, ubicaciones sensibles, códigos internos no autorizados ni etiquetas identificativas.
+> **Estructura de la página en Google Sites.** Usa el título como encabezado principal. Agrupa los bloques del alumnado en el orden de trabajo: planificación, toma o análisis, lectura, cálculo, interpretación y reflexión. Inserta imágenes solo cuando estén autorizadas, con pie de foto técnico, procedencia y finalidad. No muestres rostros, datos personales, ubicaciones sensibles, códigos internos no autorizados ni etiquetas identificativas.
 
 | Clave de lectura | Uso en la página |
 | --- | --- |
-| **[PROFESOR · FIJO]** | Información que se mantiene visible y no se modifica. |
 | **[ALUMNADO · RELLENABLE]** | Campo, tabla o texto que completa el alumnado durante o tras la práctica. |
 
 ---
 
 ## 1. Identificación de la práctica
 
-### [PROFESOR · FIJO] Datos curriculares
+### Datos curriculares
 
 | Elemento | Información |
 | --- | --- |
@@ -48,9 +47,12 @@ reference_document: "P16_Estudio superficies.pdf"
 
 ---
 
-## 2. Finalidad y resultados esperados
+## 2. Resumen
 
-### [PROFESOR · FIJO]
+En esta práctica estudiarás una superficie mediante muestreo microbiológico autorizado, demostración, placas preparadas o datos simulados, y relacionarás la evidencia con un recuento. Definirás la superficie o escenario, el método, el área o volumen de referencia y las condiciones de toma o análisis. Registrarás los controles, las colonias observadas, los morfotipos, las diluciones y las unidades utilizadas para calcular el resultado. El resultado esperado es un recuento trazable y una interpretación prudente sobre la carga o la higiene del escenario, sin extrapolar más allá del método. Incluirás imágenes autorizadas del proceso o de las placas, explicarás las incidencias y señalarás qué confirmaciones serían necesarias.
+
+## 3. Finalidad y resultados esperados
+
 
 Esta práctica vincula el muestreo microbiológico de superficies con el control de condiciones de higiene ambiental. La evidencia puede proceder de una toma autorizada, de una demostración docente, de placas preparadas o de un conjunto de datos. En todos los casos, el alumnado debe mantener la trazabilidad entre la superficie o escenario, el método empleado, la unidad de registro, la lectura y el cálculo realizado.
 
@@ -74,9 +76,9 @@ Completa antes de empezar:
 
 ---
 
-## 3. Recursos, seguridad y autorización
+## 4. Recursos, seguridad y autorización
 
-### [PROFESOR · FIJO] Recursos previstos
+### Recursos previstos
 
 | Recurso | Uso previsto |
 | --- | --- |
@@ -86,9 +88,9 @@ Completa antes de empezar:
 | EPI y recursos de desinfección | Protección personal, organización del puesto y prevención de exposición o contaminación. |
 | [PNT](https://www.iso.org/standard/64950.html) vigente, control de calidad y sistema de residuos | Referencia para la ejecución, la lectura, el cálculo y el cierre seguro. |
 
-### [PROFESOR · FIJO] Condiciones de seguridad
+### Condiciones de seguridad
 
-- El muestreo de superficies solo se realizará si el profesorado lo autoriza y existe un [PNT](https://www.iso.org/standard/64950.html) o instrucción de centro aplicable.
+- El muestreo de superficies solo se realizará si el centro lo autoriza y existe un [PNT](https://www.iso.org/standard/64950.html) o instrucción de centro aplicable.
 - No se muestrearán áreas clínicas, zonas restringidas, espacios con información sensible ni superficies no autorizadas.
 - El crecimiento de flora ambiental puede ser desconocido. El cultivo, la custodia, la lectura y la eventual apertura posterior de placas quedan condicionados por la evaluación de riesgos y el protocolo del centro.
 - No se abrirán, seleccionarán, reincubarán ni manipularán placas o cultivos fuera de la instrucción recibida.
@@ -108,9 +110,8 @@ Completa antes de empezar:
 
 ---
 
-## 4. Fundamento técnico
+## 5. Fundamento técnico
 
-### [PROFESOR · FIJO]
 
 El estudio microbiológico de una superficie transforma una observación localizada en un resultado trazable. Para que dos resultados puedan compararse, debe mantenerse constante o registrarse cualquier cambio relevante en la superficie elegida, la zona o área de referencia, el momento de la toma, la situación de limpieza, el sistema de muestreo y la regla de lectura.
 
@@ -130,15 +131,15 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 5. Flujo de trabajo y criterios de calidad
+## 6. Flujo de trabajo y criterios de calidad
 
-### [PROFESOR · FIJO] Flujo general
+### Flujo general
 
 1. Confirmar la modalidad de trabajo, la autorización, los EPI, el [PNT](https://www.iso.org/standard/64950.html) y el límite de manipulación.
 2. Definir o identificar el plan de muestreo: superficie o escenario autorizado, comparación prevista, unidad de referencia y código de muestra.
 3. Realizar la toma autorizada, observar la demostración, desarrollar la simulación o recibir datos/placas preparadas, según corresponda.
 4. Mantener la identificación, custodia y cierre del sistema de muestreo conforme al [PNT](https://www.iso.org/standard/64950.html).
-5. Efectuar la lectura o revisión en las condiciones indicadas por el profesorado.
+5. Efectuar la lectura o revisión en las condiciones indicadas por el centro.
 6. Registrar el recuento, el cálculo y la unidad de expresión aplicable.
 7. Interpretar con el control, el contexto y la limitación correspondiente; proponer una mejora razonada.
 8. Documentar incidencias, acciones correctoras y ruta de residuos.
@@ -155,7 +156,7 @@ Antes de realizar o revisar la actividad, responde:
 6. Calcula la unidad final usando área, volumen o factor indicado; conserva fórmula y limitaciones.
 7. Compara con criterio vigente, propone acción proporcional y gestiona residuos según el circuito.
 
-### [PROFESOR · FIJO] Criterios de calidad del registro
+### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
@@ -170,7 +171,7 @@ Antes de realizar o revisar la actividad, responde:
 
 # Tu cuaderno de prácticas
 
-## 6. Plan de muestreo y datos iniciales
+## 7. Plan de muestreo y datos iniciales
 
 ### [ALUMNADO · RELLENABLE] Planificación
 
@@ -193,7 +194,7 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 7. Registro del desarrollo
+## 8. Registro del desarrollo
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -211,7 +212,7 @@ Registra lo realizado, observado o analizado. Describe acciones, decisiones y ev
 
 ---
 
-## 8. Resultados, recuento y cálculo
+## 9. Resultados, recuento y cálculo
 
 ### [ALUMNADO · RELLENABLE] Comprobación de controles
 
@@ -254,11 +255,11 @@ Registra lo realizado, observado o analizado. Describe acciones, decisiones y ev
 
 ---
 
-## 9. Evidencias visuales
+## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del profesorado, de una simulación o de material de referencia, indícalo expresamente. Evita fotografiar espacios restringidos, información identificativa, rostros o etiquetas sensibles.
+Incluye imágenes propias únicamente si su captura está autorizada. Si proceden del centro, de una simulación o de material de referencia, indícalo expresamente. Evita fotografiar espacios restringidos, información identificativa, rostros o etiquetas sensibles.
 
 ### Imagen 1 — Planificación o identificación segura
 
@@ -286,17 +287,17 @@ Incluye imágenes propias únicamente si su captura está autorizada. Si procede
 
 ---
 
-## 10. Incidencias y acciones correctoras
+## 11. Incidencias y acciones correctoras
 
 ### [ALUMNADO · RELLENABLE]
 
-| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al profesorado | Impacto en el resultado |
+| Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
 | [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
 
 ---
 
-## 11. Interpretación técnica
+## 12. Interpretación técnica
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -313,7 +314,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 12. Conclusión
+## 13. Conclusión
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -323,7 +324,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 13. Reflexión profesional
+## 14. Reflexión profesional
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -345,7 +346,7 @@ Redacta una interpretación breve y fundamentada:
 
 ---
 
-## 14. Trazabilidad y entrega
+## 15. Trazabilidad y entrega
 
 ### [ALUMNADO · RELLENABLE]
 
@@ -361,20 +362,3 @@ Redacta una interpretación breve y fundamentada:
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
-
-## 15. Revisión del profesorado
-
-### [PROFESOR · FIJO] Criterios de valoración
-
-| Criterio | Evidencia esperada |
-| --- | --- |
-| Seguridad y autorización | Respeta la modalidad autorizada, los límites de manipulación, los EPI y el circuito de residuos. |
-| Plan y trazabilidad | Define una comparación justificable e identifica escenario, método, códigos, unidad y evidencia de forma segura. |
-| Recuento y cálculo | Conserva datos brutos, regla de cálculo, unidad final y comprobación de plausibilidad. |
-| Interpretación | Relaciona el resultado con las condiciones de muestreo y expone límites razonados, sin sobreinterpretar. |
-| Propuesta de mejora | Formula una acción de mejora, repetición o comprobación adicional proporcionada a la evidencia. |
-| Documentación visual y reflexión | Aporta tres evidencias pertinentes y responde las cuatro preguntas con argumentos profesionales. |
-
-### [PROFESOR · RELLENABLE] Retroalimentación
-
-> [Observaciones del profesorado]
