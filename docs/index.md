@@ -47,32 +47,32 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 
 | Código | Práctica | Estado |
 |---|---|---|
-| P01 | Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad | [ ] Pendiente |
-| P02 | Observación de agua estancada mediante preparación en fresco | [ ] Pendiente |
-| P03 | Tinción vital con azul de metileno | [ ] Pendiente |
-| P04 | Tinción de Gram | [ ] Pendiente |
-| P05 | Tinción de Ziehl-Neelsen | [ ] Pendiente |
-| P06 | Tinción de endosporas | [ ] Pendiente |
-| P07 | Elaboración de medio de cultivo líquido | [ ] Pendiente |
-| P08 | Recuperación de cultivos liofilizados | [ ] Pendiente |
-| P09 | Elaboración de medio de cultivo sólido en placa | [ ] Pendiente |
-| P10 | Siembra en estría simple o continua | [ ] Pendiente |
-| P11 | Siembra por picadura y estría en tubo | [ ] Pendiente |
-| P12 | Siembra por agotamiento en placa | [ ] Pendiente |
-| P13 | Estudio microbiológico de superficies y recuento | [ ] Pendiente |
-| P14 | Pruebas de catalasa y oxidasa | [ ] Pendiente |
-| P15 | Preparación o lectura de escala de McFarland | [ ] Pendiente |
-| P16 | Estandarización de inóculos bacterianos | [ ] Pendiente |
-| P17 | Prueba KIA (Agar Hierro de Kligler) | [ ] Pendiente |
-| P18 | Antibiograma por difusión en disco | [ ] Pendiente |
-| P19 | Circuito integrado de identificación bacteriana | [ ] Pendiente |
-| P20 | Urocultivo | [ ] Pendiente |
-| P21 | Identificación de hongos filamentosos | [ ] Pendiente |
-| P22 | Técnica de flotación | [ ] Pendiente |
-| P23 | Detección e identificación de Anisakis en pescado | [ ] Pendiente |
-| P24 | Algoritmo diagnóstico vírico | [ ] Pendiente |
-| P25 | Cultivo celular y observación del efecto citopático | [ ] Pendiente |
-| P26 | Técnicas inmunológicas y moleculares: interpretación de resultados | [ ] Pendiente |
+| P01 | [Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad](practicas/P01_Bioseguridad.md) | [ ] Pendiente |
+| P02 | [Observación de agua estancada mediante preparación en fresco](practicas/P02_Observacion_en_fresco.md) | [ ] Pendiente |
+| P03 | [Tinción vital con azul de metileno](practicas/P03_Azul_de_metileno.md) | [ ] Pendiente |
+| P04 | [Tinción de Gram](practicas/P04_Tincion_de_Gram.md) | [ ] Pendiente |
+| P05 | [Tinción de Ziehl-Neelsen](practicas/P05_Ziehl_Neelsen.md) | [ ] Pendiente |
+| P06 | [Tinción de endosporas](practicas/P06_Tincion_de_endosporas.md) | [ ] Pendiente |
+| P07 | [Elaboración de medio de cultivo líquido](practicas/P07_Medio_liquido.md) | [ ] Pendiente |
+| P08 | [Recuperación de cultivos liofilizados](practicas/P08_Recuperacion_de_liofilizados.md) | [ ] Pendiente |
+| P09 | [Elaboración de medio de cultivo sólido en placa](practicas/P09_Medio_solido_en_placa.md) | [ ] Pendiente |
+| P10 | [Siembra en estría simple o continua](practicas/P10_Siembra_en_estria.md) | [ ] Pendiente |
+| P11 | [Siembra por picadura y estría en tubo](practicas/P11_Siembra_picadura_y_estria.md) | [ ] Pendiente |
+| P12 | [Siembra por agotamiento en placa](practicas/P12_Siembra_por_agotamiento.md) | [ ] Pendiente |
+| P13 | [Estudio microbiológico de superficies y recuento](practicas/P13_Estudio_microbiologico_de_superficies_y_recuento.md) | [ ] Pendiente |
+| P14 | [Pruebas de catalasa y oxidasa](practicas/P14_Pruebas_de_catalasa_y_oxidasa.md) | [ ] Pendiente |
+| P15 | [Preparación o lectura de escala de McFarland](practicas/P15_Escala_de_McFarland.md) | [ ] Pendiente |
+| P16 | [Estandarización de inóculos bacterianos](practicas/P16_Estandarizacion_de_inoculos_bacterianos.md) | [ ] Pendiente |
+| P17 | [Prueba KIA (Agar Hierro de Kligler)](practicas/P17_Prueba_KIA.md) | [ ] Pendiente |
+| P18 | [Antibiograma por difusión en disco](practicas/P18_Antibiograma_por_difusion_en_disco.md) | [ ] Pendiente |
+| P19 | [Circuito integrado de identificación bacteriana](practicas/P19_Circuito_integrado_de_identificacion_bacteriana.md) | [ ] Pendiente |
+| P20 | [Urocultivo](practicas/P20_Urocultivo.md) | [ ] Pendiente |
+| P21 | [Identificación de hongos filamentosos](practicas/P21_Identificacion_de_hongos_filamentosos.md) | [ ] Pendiente |
+| P22 | [Técnica de flotación](practicas/P22_Tecnica_de_flotacion.md) | [ ] Pendiente |
+| P23 | [Detección e identificación de Anisakis en pescado](practicas/P23_Anisakis.md) | [ ] Pendiente |
+| P24 | [Algoritmo diagnóstico vírico](practicas/P24_Algoritmo_diagnostico_virico.md) | [ ] Pendiente |
+| P25 | [Cultivo celular y observación del efecto citopático](practicas/P25_Cultivo_celular_y_efecto_citopatico.md) | [ ] Pendiente |
+| P26 | [Técnicas inmunológicas y moleculares: interpretación de resultados](practicas/P26_Tecnicas_inmunologicas_y_moleculares.md) | [ ] Pendiente |
 
 ## Convención de evidencias
 
