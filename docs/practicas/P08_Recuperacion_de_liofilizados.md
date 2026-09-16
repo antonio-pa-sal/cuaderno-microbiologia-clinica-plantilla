@@ -1,7 +1,7 @@
 ---
 title: "P08 — Recuperación de cultivos liofilizados"
 practice_id: P08
-unit: UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento
+unit: "UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento"
 learning_outcomes: RA03, RA04
 assessment_criteria: CE03.d–CE03.h; CE04.a–CE04.e
 transversal_learning_outcome: RA01

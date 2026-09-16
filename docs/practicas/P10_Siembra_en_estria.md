@@ -1,7 +1,7 @@
 ---
 title: "P10 — Siembra en estría simple o continua"
 practice_id: P10
-unit: UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento
+unit: "UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento"
 learning_outcome: RA04
 assessment_criteria: CE04.a–CE04.e
 transversal_learning_outcome: RA01

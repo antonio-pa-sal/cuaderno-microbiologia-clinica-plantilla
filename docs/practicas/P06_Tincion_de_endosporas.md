@@ -1,7 +1,7 @@
 ---
 title: "P06 — Tinción de endosporas"
 practice_id: P06
-unit: UD2 — Bacteriología: técnicas de tinción y observación
+unit: "UD2 — Bacteriología: técnicas de tinción y observación"
 learning_outcome: RA02
 assessment_criteria: CE02.a–CE02.g
 transversal_learning_outcome: RA01

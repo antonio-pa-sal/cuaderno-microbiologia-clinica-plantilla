@@ -1,7 +1,7 @@
 ---
 title: "P03 — Tinción vital con azul de metileno"
 practice_id: P03
-unit: UD2 — Bacteriología: técnicas de tinción y observación
+unit: "UD2 — Bacteriología: técnicas de tinción y observación"
 learning_outcome: RA02
 assessment_criteria: CE02.a–CE02.g
 transversal_learning_outcome: RA01

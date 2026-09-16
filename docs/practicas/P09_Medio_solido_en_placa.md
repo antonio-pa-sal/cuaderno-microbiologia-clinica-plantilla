@@ -1,7 +1,7 @@
 ---
 title: "P09 — Elaboración de medio de cultivo sólido en placa"
 practice_id: P09
-unit: UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento
+unit: "UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento"
 learning_outcome: RA03
 assessment_criteria: CE03.a–CE03.h
 transversal_learning_outcome: RA01
