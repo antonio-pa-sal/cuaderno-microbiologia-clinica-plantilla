@@ -42,11 +42,11 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 4. Recursos, riesgos y condiciones de ejecución
 
-**Recursos previstos:** zona de recepción señalizada, muestra líquida no biológica en recipiente primario estanco, documentación o formulario de solicitud simulado, etiquetas, bandeja de contención, recipiente secundario hermético, EPI, material absorbente, pinzas o recogedor, recipientes de residuos y desinfectante validado por el centro.
+**Recursos previstos:** zona de recepción señalizada, simulante líquido no biológico en recipiente primario estanco, envío secundario hermético, solicitud y etiquetas simuladas, bandeja de contención, recipiente secundario de reserva, EPI, absorbente, pinzas o recogedor, recipientes de residuos y desinfectante validado por el centro. El cambio opcional de envase requiere un recipiente de recambio compatible y material de transferencia.
 
 **Riesgos que se trabajan:** aceptación de una muestra mal identificada o con fugas, salpicaduras, contaminación de superficies, generación de aerosoles durante un derrame, contacto con desinfectantes y segregación incorrecta de residuos.
 
-**Condiciones de ejecución:** la actividad se realizará con una muestra líquida segura, no biológica, preferentemente coloreada para hacer visible el derrame. No se abrirán ni cultivarán muestras clínicas, ni se utilizarán agentes biológicos reales. El ejercicio se desarrollará con supervisión y se detendrá ante cualquier condición no prevista.
+**Condiciones de ejecución:** se usará un simulante líquido no biológico, preferentemente coloreado, y material limpio. Se reproducirán de forma realista la recepción, la trazabilidad y las decisiones ante incidencias, sin datos personales ni agentes biológicos. No se manipularán muestras clínicas ni cultivos. La transferencia de envase será opcional, solo con autorización docente y zona de contención; la actividad tendrá supervisión y se detendrá ante condiciones imprevistas.
 
 **Medidas generales:** seguir el procedimiento normalizado de trabajo (PNT) del centro, mantener el puesto despejado, separar la documentación de la muestra, usar el EPI indicado, aplicar higiene de manos y respetar el circuito de residuos comunicado por el centro.
 
@@ -67,18 +67,43 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 7. Segregar, procesar y eliminar correctamente los residuos propuestos.
 8. Registrar la actuación y las decisiones tomadas.
 
-### Procedimiento específico
+### Procedimientos específicos
 
-**[PNT](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1) de referencia:** [OMS, Manual de bioseguridad en el laboratorio, cuarta edición](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1). Si existe un PNT local validado, prevalece sobre esta referencia.
+**[PNT](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1) de referencia:** [OMS, Manual de bioseguridad en el laboratorio, cuarta edición](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1). Para la descontaminación, consulta también la [monografía complementaria de la OMS sobre descontaminación y gestión de desechos](https://iris.who.int/bitstream/handle/10665/374887/9789240059504-spa.pdf?sequence=1). Si existe un PNT local validado, prevalece sobre estas referencias.
 
-1. Delimita la zona de recepción y revisa señalización, iluminación, bandeja, absorbente y residuos; mantén la documentación separada y el paso despejado.
-2. Comprueba solicitud, identificación, origen, fecha, prueba, cierre, integridad y correspondencia del recipiente simulado; registra cualquier fuga o discrepancia sin abrirlo.
-3. Selecciona bata, guantes y protección ocular; verifica talla, integridad y colocación. Añade protección facial o barrera secundaria si el riesgo lo exige.
-4. Recibe la muestra simulada en un recipiente secundario estanco; acéptala solo si es trazable e íntegra. Aísla, cierra y comunica cualquier envase irregular.
-5. Provoca el derrame controlado dentro de una bandeja con líquido no biológico; detén la actividad, avisa, señaliza y restringe el acceso sin tocar ni barrer.
-6. Cubre el derrame con absorbente, aplica el desinfectante validado desde el perímetro hacia el centro y respeta el tiempo de contacto; recoge con útiles, nunca con las manos.
-7. Segrega absorbentes y líquidos según la ruta autorizada; deposita punzantes en contenedor rígido, descontamina reutilizables y no mezcles residuos incompatibles.
-8. Retira el EPI de forma segura, realiza higiene de manos, restablece la zona y completa el registro de recepción, derrame, residuos, decisiones y desviaciones.
+#### Procedimiento 1 — Recogida del envío, recepción y registro de la muestra simulada
+
+1. Confirma que se trabajará únicamente con el simulante no biológico preparado y que los formularios, códigos y datos son ficticios.
+2. Prepara la zona señalizada; comprueba iluminación, bandeja, recipiente secundario, desinfectante aprobado, residuos y material de contención.
+3. Colócate el EPI previsto para el ejercicio y verifica su integridad; añade protección ocular o facial si la evaluación del riesgo simulado lo requiere.
+4. Recoge el envío simulado por su recipiente secundario cerrado, manteniéndolo estable y separado de documentos, material limpio y zonas de paso.
+5. Inspecciona el exterior sin abrir: comprueba cierre, integridad, humedad, manchas, fugas y correspondencia entre la identificación del envío y la solicitud.
+6. Si el embalaje está dañado o presenta fugas, no lo abras; introdúcelo en el sobreenvase hermético, restringe el acceso y avisa al docente.
+7. Registra la incidencia simulada y comunica el defecto al remitente ficticio; en una recepción real, se seguiría el circuito de notificación del centro.
+8. Si el embalaje está íntegro, abre el recipiente secundario en la zona indicada, con cuidado y sin movimientos bruscos ni salpicaduras.
+9. Separa la solicitud del recipiente; mantenla protegida y comprueba que no presenta contaminación antes de transcribir o registrar datos ficticios.
+10. Inspecciona el recipiente primario cerrado; verifica integridad, ausencia de contaminación exterior, etiqueta legible y concordancia con la solicitud.
+11. Decide aceptar, aislar para evaluación o rechazar la muestra simulada según los criterios entregados; registra el motivo y la acción elegida.
+12. Si el ejercicio lo requiere, transfiere solo el simulante no biológico a un envase compatible, dentro de la zona de contención designada y con material limpio.
+13. Conserva la identificación y trazabilidad durante la transferencia; en muestras reales, solo se cambiaría el envase con procedimiento local validado y contención apropiada.
+14. Cierra el registro, coloca el recipiente aceptado en el envase secundario previsto, ordena la zona, retira el EPI y realiza higiene de manos.
+
+#### Procedimiento 2 — Respuesta ante un derrame simulado
+
+1. Comprueba que el simulante es no biológico, la bandeja está estable y el kit de derrames, el absorbente y los recipientes de residuos están disponibles.
+2. Revisa con el docente el escenario asignado: derrame pequeño contenido o incidente hipotético de mayor volumen, aerosolización o exposición.
+3. Vierte el simulante dentro de la bandeja, usando un recipiente irrompible y sin salpicar, pulverizar ni generar aerosoles deliberadamente.
+4. Detén la actividad, avisa a las personas cercanas y no toques, pises, barras ni seques el líquido.
+5. Desde una posición segura, valora extensión, ubicación, material implicado, presencia hipotética de aerosoles, objetos cortantes y personas expuestas.
+6. Si el escenario representa gran volumen, aerosoles o agente de alto riesgo, simula la evacuación inmediata y restringe el acceso; no inicies la limpieza.
+7. Señaliza la zona y comunica el incidente al supervisor y al responsable de bioseguridad, indicando ubicación, material y posibles exposiciones.
+8. Representa la respuesta ante una posible exposición: asistencia inmediata y derivación para evaluación médica según el plan de emergencia, sin exponer realmente a nadie.
+9. En el escenario de alto riesgo, espera la autorización del responsable antes de reentrar; el tiempo depende de ventilación y protocolo, no de un plazo universal.
+10. Para el derrame pequeño contenido, limpia solo tras confirmar el escenario, con el EPI indicado y siguiendo las instrucciones del docente y del centro.
+11. Cubre el líquido suavemente con absorbente, sin presionar ni salpicar; evita extenderlo fuera de la bandeja.
+12. Aplica el desinfectante aprobado desde el perímetro hacia el centro y respeta la concentración y el tiempo de contacto validados por el centro.
+13. Recoge el absorbente con pinzas o útiles; separa los residuos y usa un contenedor rígido únicamente si el escenario incluye punzantes simulados.
+14. Descontamina la zona y los útiles reutilizables según el procedimiento indicado, segrega residuos, retira el EPI, realiza higiene de manos y registra decisiones e incidencias.
 
 ### Controles de calidad
 
