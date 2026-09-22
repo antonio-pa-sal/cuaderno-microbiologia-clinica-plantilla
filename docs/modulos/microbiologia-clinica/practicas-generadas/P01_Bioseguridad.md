@@ -22,11 +22,11 @@ student_completion: individual
 | Resultado de aprendizaje | `RA01` |
 | Criterios de evaluación | `CE01.a–CE01.i` |
 | Modalidad prevista | Recepción simulada de una muestra líquida, simulación controlada de derrame y resolución individual del registro. |
-| Modalidad de seguridad | Actividad sin manipulación de cultivos ni muestras clínicas. Se utilizará una muestra líquida no biológica y material limpio, salvo autorización expresa y procedimiento validado por el centro. |
+| Modalidad de seguridad | La modalidad ordinaria utiliza simulante líquido no biológico y material limpio; no se manipulan muestras clínicas ni cultivos salvo autorización expresa del centro y procedimiento validado específico. |
 
 ## 2. Resumen
 
-En esta práctica aprenderás a recibir una muestra líquida de forma segura y trazable y a responder ante un derrame simulado. Analizarás el espacio de recepción, la señalización y los peligros antes de seleccionar barreras y EPI. Con una muestra no biológica revisarás la documentación, la identificación, la integridad del envase y el acondicionamiento antes de aceptarla o aislarla. Después provocarás un derrame controlado y aplicarás la respuesta prevista: detener la actividad, señalizar, comunicar, contener, descontaminar y gestionar los residuos. Registrarás las decisiones, los tiempos y las desviaciones. El resultado será un circuito documentado que conecte recepción, incidente, eliminación y trazabilidad, sin manipular muestras clínicas ni cultivos reales.
+En esta práctica aprenderás a recibir una muestra líquida de forma segura y trazable y a responder ante un derrame simulado. Analizarás el espacio de recepción, la señalización y los peligros antes de seleccionar barreras y EPI. Con una muestra no biológica revisarás la documentación, la identificación, la integridad del envase y el acondicionamiento antes de aceptarla o aislarla. Después provocarás un derrame controlado y aplicarás la respuesta prevista: detener la actividad, señalizar, comunicar, contener, descontaminar y gestionar los residuos. Registrarás las decisiones, los tiempos y las desviaciones. El resultado será un circuito documentado que conecte recepción, incidente, eliminación y trazabilidad. La modalidad ordinaria no usa muestras clínicas ni cultivos; cualquier excepción requiere autorización expresa del centro y un PNT validado.
 
 ## 3. Finalidad y resultados esperados
 
@@ -42,11 +42,11 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 4. Recursos, riesgos y condiciones de ejecución
 
-**Recursos previstos:** zona de recepción señalizada, simulante líquido no biológico en recipiente primario estanco, envío secundario hermético, solicitud y etiquetas simuladas, bandeja de contención, recipiente secundario de reserva, EPI, absorbente, pinzas o recogedor, recipientes de residuos y desinfectante validado por el centro. El cambio opcional de envase requiere un recipiente de recambio compatible y material de transferencia.
+**Recursos previstos:** zona de recepción señalizada, simulante líquido no biológico en recipiente primario estanco, envío secundario hermético, solicitud y etiquetas simuladas, bandeja de contención, recipiente secundario de reserva y material de transferencia para el cambio opcional de envase. Kit de derrames: EPI apropiado, absorbente, desinfectante validado, pinzas o recogedor, bolsa o recipiente para residuos, señalización y, si hay punzantes simulados, contenedor rígido resistente a perforaciones. Si no se dispone de kit preparado, se reunirán estos componentes antes de empezar.
 
 **Riesgos que se trabajan:** aceptación de una muestra mal identificada o con fugas, salpicaduras, contaminación de superficies, generación de aerosoles durante un derrame, contacto con desinfectantes y segregación incorrecta de residuos.
 
-**Condiciones de ejecución:** se usará un simulante líquido no biológico, preferentemente coloreado, y material limpio. Se reproducirán de forma realista la recepción, la trazabilidad y las decisiones ante incidencias, sin datos personales ni agentes biológicos. No se manipularán muestras clínicas ni cultivos. La transferencia de envase será opcional, solo con autorización docente y zona de contención; la actividad tendrá supervisión y se detendrá ante condiciones imprevistas.
+**Condiciones de ejecución:** se usará un simulante líquido no biológico, preferentemente coloreado, y material limpio. Se reproducirán de forma realista la recepción, la trazabilidad y las decisiones ante incidencias, sin datos personales ni agentes biológicos. No se manipularán muestras clínicas ni cultivos salvo autorización expresa del centro, procedimiento validado y supervisión. La transferencia de envase será opcional y requerirá autorización docente y zona de contención; la actividad se detendrá ante condiciones imprevistas.
 
 **Medidas generales:** seguir el procedimiento normalizado de trabajo (PNT) del centro, mantener el puesto despejado, separar la documentación de la muestra, usar el EPI indicado, aplicar higiene de manos y respetar el circuito de residuos comunicado por el centro.
 
@@ -71,28 +71,28 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 **[PNT](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1) de referencia:** [OMS, Manual de bioseguridad en el laboratorio, cuarta edición](https://iris.who.int/bitstream/handle/10665/365600/9789240059306-spa.pdf?sequence=1). Para la descontaminación, consulta también la [monografía complementaria de la OMS sobre descontaminación y gestión de desechos](https://iris.who.int/bitstream/handle/10665/374887/9789240059504-spa.pdf?sequence=1). Si existe un PNT local validado, prevalece sobre estas referencias.
 
-#### Procedimiento 1 — Recogida del envío, recepción y registro de la muestra simulada
+#### Procedimiento 1 — Recogida del envío, recepción y registro de la muestra
 
-1. Confirma que se trabajará únicamente con el simulante no biológico preparado y que los formularios, códigos y datos son ficticios.
+1. Confirma la modalidad: la simulación usa simulante y datos ficticios; material real requiere autorización expresa, PNT validado y supervisión. No registres identificadores personales.
 2. Prepara la zona señalizada; comprueba iluminación, bandeja, recipiente secundario, desinfectante aprobado, residuos y material de contención.
 3. Colócate el EPI previsto para el ejercicio y verifica su integridad; añade protección ocular o facial si la evaluación del riesgo simulado lo requiere.
-4. Recoge el envío simulado por su recipiente secundario cerrado, manteniéndolo estable y separado de documentos, material limpio y zonas de paso.
+4. Recoge el envío por su recipiente secundario cerrado, manteniéndolo estable y separado de documentos, material limpio y zonas de paso.
 5. Inspecciona el exterior sin abrir: comprueba cierre, integridad, humedad, manchas, fugas y correspondencia entre la identificación del envío y la solicitud.
-6. Si el embalaje está dañado o presenta fugas, no lo abras; introdúcelo en el sobreenvase hermético, restringe el acceso y avisa al docente.
+6. Si el embalaje está dañado o presenta fugas, no lo abras; introdúcelo en el sobreenvase hermético, restringe el acceso y avisa al docente y al responsable.
 7. Registra la incidencia simulada y comunica el defecto al remitente ficticio; en una recepción real, se seguiría el circuito de notificación del centro.
 8. Si el embalaje está íntegro, abre el recipiente secundario en la zona indicada, con cuidado y sin movimientos bruscos ni salpicaduras.
-9. Separa la solicitud del recipiente; mantenla protegida y comprueba que no presenta contaminación antes de transcribir o registrar datos ficticios.
+9. Separa la solicitud del recipiente; protégela y comprueba que no esté contaminada. Registra solo los datos necesarios y nunca identificadores personales.
 10. Inspecciona el recipiente primario cerrado; verifica integridad, ausencia de contaminación exterior, etiqueta legible y concordancia con la solicitud.
-11. Decide aceptar, aislar para evaluación o rechazar la muestra simulada según los criterios entregados; registra el motivo y la acción elegida.
-12. Si el ejercicio lo requiere, transfiere solo el simulante no biológico a un envase compatible, dentro de la zona de contención designada y con material limpio.
-13. Conserva la identificación y trazabilidad durante la transferencia; en muestras reales, solo se cambiaría el envase con procedimiento local validado y contención apropiada.
+11. Decide aceptar, aislar o rechazar según los criterios entregados; si no existen, no improvises: registra su ausencia como error o riesgo y detén la aceptación hasta recibir indicación docente.
+12. Si el ejercicio lo requiere, transfiere el simulante a un envase compatible en la zona de contención designada; una muestra real requiere autorización expresa, PNT validado y contención apropiada.
+13. Conserva identificación y trazabilidad durante la transferencia; en muestras reales, cambia el envase solo con procedimiento local validado y contención apropiada.
 14. Cierra el registro, coloca el recipiente aceptado en el envase secundario previsto, ordena la zona, retira el EPI y realiza higiene de manos.
 
 #### Procedimiento 2 — Respuesta ante un derrame simulado
 
-1. Comprueba que el simulante es no biológico, la bandeja está estable y el kit de derrames, el absorbente y los recipientes de residuos están disponibles.
-2. Revisa con el docente el escenario asignado: derrame pequeño contenido o incidente hipotético de mayor volumen, aerosolización o exposición.
-3. Vierte el simulante dentro de la bandeja, usando un recipiente irrompible y sin salpicar, pulverizar ni generar aerosoles deliberadamente.
+1. En el simulacro, confirma que el simulante es no biológico y que la bandeja está estable; material real exige autorización expresa, PNT validado y supervisión.
+2. Comprueba que está disponible el kit; si falta, prepáralo con los componentes enumerados en Recursos. Revisa con el docente el escenario pequeño o hipotético de alto riesgo.
+3. Vierte únicamente el simulante dentro de la bandeja, con un recipiente irrompible y sin salpicar, pulverizar ni generar aerosoles deliberadamente; nunca provoques un derrame real.
 4. Detén la actividad, avisa a las personas cercanas y no toques, pises, barras ni seques el líquido.
 5. Desde una posición segura, valora extensión, ubicación, material implicado, presencia hipotética de aerosoles, objetos cortantes y personas expuestas.
 6. Si el escenario representa gran volumen, aerosoles o agente de alto riesgo, simula la evacuación inmediata y restringe el acceso; no inicies la limpieza.
@@ -124,8 +124,8 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Grupo:** [Indica tu grupo]
 - **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real / simulación con material limpio / actividad documental / otra; descríbela]
-- **Tipo de muestra líquida simulada:** [Describe el material seguro utilizado]
+- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
+- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
 - **Código o identificación de la muestra:** [Completa sin datos personales]
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
