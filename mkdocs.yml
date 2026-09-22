@@ -1,5 +1,5 @@
-site_name: Cuaderno de Prácticas · Microbiología Clínica
-site_description: Plantilla editable para el cuaderno digital de prácticas de Microbiología Clínica
+site_name: Cuadernos de prácticas FP
+site_description: Cuadernos digitales de prácticas organizados por módulo
 site_author: Centro educativo
 theme:
   name: material
@@ -47,33 +47,38 @@ validation:
     not_found: ignore
 nav:
   - Portada: index.md
-  - Evidencias visuales: assets/README.md
-  - Prácticas:
-      - P01 · Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad: practicas/P01_Bioseguridad.md
-      - P02 · Observación de agua estancada mediante preparación en fresco: practicas/P02_Observacion_en_fresco.md
-      - P03 · Tinción vital con azul de metileno: practicas/P03_Azul_de_metileno.md
-      - P04 · Tinción de Gram: practicas/P04_Tincion_de_Gram.md
-      - P05 · Tinción de Ziehl-Neelsen: practicas/P05_Ziehl_Neelsen.md
-      - P06 · Tinción de endosporas: practicas/P06_Tincion_de_endosporas.md
-      - P07 · Elaboración de medio de cultivo líquido: practicas/P07_Medio_liquido.md
-      - P08 · Recuperación de cultivos liofilizados: practicas/P08_Recuperacion_de_liofilizados.md
-      - P09 · Elaboración de medio de cultivo sólido en placa: practicas/P09_Medio_solido_en_placa.md
-      - P10 · Siembra en estría simple o continua: practicas/P10_Siembra_en_estria.md
-      - P11 · Siembra por picadura y estría en tubo: practicas/P11_Siembra_picadura_y_estria.md
-      - P12 · Siembra por agotamiento en placa: practicas/P12_Siembra_por_agotamiento.md
-      - P13 · Estudio microbiológico de superficies y recuento: practicas/P13_Estudio_microbiologico_de_superficies_y_recuento.md
-      - P14 · Pruebas de catalasa y oxidasa: practicas/P14_Pruebas_de_catalasa_y_oxidasa.md
-      - P15 · Preparación o lectura de escala de McFarland: practicas/P15_Escala_de_McFarland.md
-      - P16 · Estandarización de inóculos bacterianos: practicas/P16_Estandarizacion_de_inoculos_bacterianos.md
-      - P17 · Prueba KIA (Agar Hierro de Kligler): practicas/P17_Prueba_KIA.md
-      - P18 · Antibiograma por difusión en disco: practicas/P18_Antibiograma_por_difusion_en_disco.md
-      - P19 · Circuito integrado de identificación bacteriana: practicas/P19_Circuito_integrado_de_identificacion_bacteriana.md
-      - P20 · Urocultivo: practicas/P20_Urocultivo.md
-      - P21 · Identificación de hongos filamentosos: practicas/P21_Identificacion_de_hongos_filamentosos.md
-      - P22 · Técnica de flotación: practicas/P22_Tecnica_de_flotacion.md
-      - P23 · Detección e identificación de Anisakis en pescado: practicas/P23_Anisakis.md
-      - P24 · Algoritmo diagnóstico vírico: practicas/P24_Algoritmo_diagnostico_virico.md
-      - P25 · Cultivo celular y observación del efecto citopático: practicas/P25_Cultivo_celular_y_efecto_citopatico.md
-      - "P26 · Técnicas inmunológicas y moleculares: interpretación de resultados": practicas/P26_Tecnicas_inmunologicas_y_moleculares.md
+  - Módulos:
+      - Microbiología Clínica:
+          - Cuaderno: modulos/microbiologia-clinica/index.md
+          - Evidencias visuales: modulos/microbiologia-clinica/assets/README.md
+          - Prácticas:
+              - P01 · Inducción de bioseguridad, riesgos, EPI, residuos y trazabilidad: modulos/microbiologia-clinica/practicas-generadas/P01_Bioseguridad.md
+              - P02 · Observación de agua estancada mediante preparación en fresco: modulos/microbiologia-clinica/practicas-generadas/P02_Observacion_en_fresco.md
+              - P03 · Tinción vital con azul de metileno: modulos/microbiologia-clinica/practicas-generadas/P03_Azul_de_metileno.md
+              - P04 · Tinción de Gram: modulos/microbiologia-clinica/practicas-generadas/P04_Tincion_de_Gram.md
+              - P05 · Tinción de Ziehl-Neelsen: modulos/microbiologia-clinica/practicas-generadas/P05_Ziehl_Neelsen.md
+              - P06 · Tinción de endosporas: modulos/microbiologia-clinica/practicas-generadas/P06_Tincion_de_endosporas.md
+              - P07 · Elaboración de medio de cultivo líquido: modulos/microbiologia-clinica/practicas-generadas/P07_Medio_liquido.md
+              - P08 · Recuperación de cultivos liofilizados: modulos/microbiologia-clinica/practicas-generadas/P08_Recuperacion_de_liofilizados.md
+              - P09 · Elaboración de medio de cultivo sólido en placa: modulos/microbiologia-clinica/practicas-generadas/P09_Medio_solido_en_placa.md
+              - P10 · Siembra en estría simple o continua: modulos/microbiologia-clinica/practicas-generadas/P10_Siembra_en_estria.md
+              - P11 · Siembra por picadura y estría en tubo: modulos/microbiologia-clinica/practicas-generadas/P11_Siembra_picadura_y_estria.md
+              - P12 · Siembra por agotamiento en placa: modulos/microbiologia-clinica/practicas-generadas/P12_Siembra_por_agotamiento.md
+              - P13 · Estudio microbiológico de superficies y recuento: modulos/microbiologia-clinica/practicas-generadas/P13_Estudio_microbiologico_de_superficies_y_recuento.md
+              - P14 · Pruebas de catalasa y oxidasa: modulos/microbiologia-clinica/practicas-generadas/P14_Pruebas_de_catalasa_y_oxidasa.md
+              - P15 · Preparación o lectura de escala de McFarland: modulos/microbiologia-clinica/practicas-generadas/P15_Escala_de_McFarland.md
+              - P16 · Estandarización de inóculos bacterianos: modulos/microbiologia-clinica/practicas-generadas/P16_Estandarizacion_de_inoculos_bacterianos.md
+              - P17 · Prueba KIA (Agar Hierro de Kligler): modulos/microbiologia-clinica/practicas-generadas/P17_Prueba_KIA.md
+              - P18 · Antibiograma por difusión en disco: modulos/microbiologia-clinica/practicas-generadas/P18_Antibiograma_por_difusion_en_disco.md
+              - P19 · Circuito integrado de identificación bacteriana: modulos/microbiologia-clinica/practicas-generadas/P19_Circuito_integrado_de_identificacion_bacteriana.md
+              - P20 · Urocultivo: modulos/microbiologia-clinica/practicas-generadas/P20_Urocultivo.md
+              - P21 · Identificación de hongos filamentosos: modulos/microbiologia-clinica/practicas-generadas/P21_Identificacion_de_hongos_filamentosos.md
+              - P22 · Técnica de flotación: modulos/microbiologia-clinica/practicas-generadas/P22_Tecnica_de_flotacion.md
+              - P23 · Detección e identificación de Anisakis en pescado: modulos/microbiologia-clinica/practicas-generadas/P23_Anisakis.md
+              - P24 · Algoritmo diagnóstico vírico: modulos/microbiologia-clinica/practicas-generadas/P24_Algoritmo_diagnostico_virico.md
+              - P25 · Cultivo celular y observación del efecto citopático: modulos/microbiologia-clinica/practicas-generadas/P25_Cultivo_celular_y_efecto_citopatico.md
+              - "P26 · Técnicas inmunológicas y moleculares: interpretación de resultados": modulos/microbiologia-clinica/practicas-generadas/P26_Tecnicas_inmunologicas_y_moleculares.md
+exclude_docs: |
+  /modulos/**/fuentes-canonicas/**
 plugins:
   - search
