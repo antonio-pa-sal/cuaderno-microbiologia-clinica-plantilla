@@ -75,12 +75,12 @@ El documento de referencia adjunto aporta dos posibilidades de preparación —d
 
 ### Procedimiento específico
 
-**[PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) de referencia:** [SEIMC, procedimiento 1a: recogida, transporte y procesamiento general de muestras](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf)
+**Guía de manejo del microscopio:** [Boronat Gil y López Pérez, *Una visión cercana de la Microscopía en el Laboratorio de Educación Secundaria* (PDF, Consejería de Educación de la Región de Murcia)](https://www.carm.es/edu/pub/19800_2020/files/una-version-cercana-de-la-microscopia.pdf). La guía describe el enfoque inicial a bajo aumento, el paso a 10× y 40× con ajuste micrométrico y el ajuste micrométrico para el objetivo de inmersión 100×.
 
 1. Confirma muestra autorizada, portaobjetos, cubreobjetos y microscopio; usa EPI y etiqueta antes de preparar.
 2. Deposita la muestra indicada con pipeta o asa; evita salpicaduras, contaminación cruzada y exceso de volumen.
 3. Apoya el cubreobjetos inclinado para reducir burbujas; sella solo con autorización y reactivo compatible.
-4. Enfoca desde menor a mayor aumento; ajusta iluminación sin tocar la preparación con el objetivo.
+4. Enfoca primero con el objetivo de menor aumento. Pasa a 10× y 40× corrigiendo con el tornillo micrométrico; para 100×, añade aceite de inmersión y ajusta el enfoque con el micrométrico. No permitas que el objetivo toque el portaobjetos.
 5. Recorre campos ordenadamente y registra forma, disposición y movimiento; diferencia movilidad real de corrientes o vibraciones.
 6. Captura una imagen con aumento, código y procedencia; no fotografíes datos sensibles ni rostros.
 7. Elimina la preparación según la ruta de residuos, limpia la óptica y documenta incidencias.
