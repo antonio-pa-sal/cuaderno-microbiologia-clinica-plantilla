@@ -7,7 +7,7 @@ assessment_criteria: CE02.a, CE02.c, CE02.f, CE02.g
 transversal_learning_outcome: RA01
 page_type: practical-notebook
 student_completion: individual
-reference_document: "practica1_Observaciónenfresco.pdf"
+reference_document: "P1_Observación de agua estancada.pdf"
 ---
 
 # P02 — Observación de agua estancada mediante preparación en fresco
@@ -59,7 +59,7 @@ La preparación en fresco es una técnica rápida que permite observar material 
 
 La movilidad debe interpretarse con prudencia: un desplazamiento puede deberse a movilidad propia, pero también a corrientes del líquido, vibración de la preparación, convección térmica o movimiento browniano. Por ello, la observación debe realizarse de forma sistemática y acompañarse de una descripción razonada.
 
-El documento de referencia adjunto aporta dos posibilidades de preparación —directa y tras concentración— y un anexo visual para apoyar la identificación orientativa de organismos de agua dulce. Sus condiciones concretas son una referencia histórica: el centro solo incorporará al procedimiento los pasos, ajustes de centrífuga y recursos que estén validados actualmente por el centro.
+El guion de práctica aportado por el profesorado, *P1_Observación de agua estancada.pdf* (autoría y fecha de edición no identificadas en la copia recibida), describe una preparación directa y otra tras concentración, con los parámetros de centrifugación indicados en ese documento. Se toman como referencia de trabajo; el centro debe validar el rotor, los parámetros y el procedimiento antes de autorizar su uso. Las láminas del anexo se recibieron como material visual docente; las capturas no identifican su fuente editorial original.
 
 ## 6. Procedimiento y controles de calidad
 
@@ -75,7 +75,43 @@ El documento de referencia adjunto aporta dos posibilidades de preparación —d
 
 ### Procedimiento específico
 
-**Referencia para el manejo del microscopio:** [Boronat Gil y López Pérez, *Una visión cercana de la Microscopía en el Laboratorio de Educación Secundaria* (PDF, Consejería de Educación de la Región de Murcia)](https://www.carm.es/edu/pub/19800_2020/files/una-version-cercana-de-la-microscopia.pdf). Se sigue su enfoque a bajo aumento y el paso a 10×/40× con ajuste micrométrico; esta práctica se realiza con objetivo seco de 40×. Los parámetros de centrifugación se toman del documento adjunto y requieren validación previa del centro.<br><br>**A. Preparación húmeda sin concentración de microorganismos**<br>1. Confirma autorización de la muestra ambiental y normas de seguridad; no uses muestras clínicas ni material no autorizado.<br>2. Ponte el EPI indicado; revisa que microscopio, portaobjetos y cubreobjetos estén limpios e íntegros.<br>3. Identifica el portaobjetos con el código de muestra, sin datos personales.<br>4. Homogeneiza suavemente la muestra cerrada solo si lo indica el centro y evita salpicaduras.<br>5. Con pipeta Pasteur, deposita una gota de muestra en el centro del portaobjetos.<br>6. Apoya un borde del cubreobjetos junto a la gota y bájalo lentamente a unos 45° para reducir burbujas.<br>7. Si está autorizado, sella los bordes con poca vaselina para limitar corrientes; no presiones el cubreobjetos.<br>8. Sujeta la preparación en la platina, centra la gota, selecciona el objetivo 4× e ilumina el campo.<br>9. Mirando desde un lado, aproxima cuidadosamente la platina al objetivo sin que se toquen.<br>10. Mira por el ocular y separa despacio la platina con el macrométrico hasta que aparezca la imagen; afina con el micrométrico.<br>11. Pasa a 10× y luego a 40×; corrige el enfoque solo con el micrométrico y evita el contacto del objetivo con el cubreobjetos.<br>12. Recorre la preparación de forma ordenada y registra aumento, morfología, disposición y movimiento.<br>13. Distingue movilidad propia de corrientes o vibraciones; contrasta con el anexo y considera la identificación orientativa.<br>14. Retira la preparación, elimina muestra y vidrio según la ruta del centro, limpia la óptica con material adecuado y registra incidencias.<br><br>**B. Preparación húmeda con concentración de microorganismos por centrifugación**<br>1. Confirma autorización y validación local de la centrifugación, el tubo, el rotor y los parámetros; no continúes si falta alguna.<br>2. Ponte el EPI indicado y comprueba que el tubo sea compatible, esté íntegro y pueda cerrarse de forma segura.<br>3. Mide 5 mL de muestra ambiental y pásalos al tubo identificado, según el PDF adjunto.<br>4. Prepara un tubo de compensación con igual volumen y equilibra ambos tubos enfrentados según el equipo.<br>5. Centrifuga los tubos cerrados a 2300 rpm durante 3 minutos solo si esos valores se han validado para el rotor disponible; de lo contrario sigue los valores aprobados por el centro.<br>6. Espera a que el rotor se detenga por completo antes de abrir; ante fuga o rotura, no manipules el contenido y avisa al docente.<br>7. Retira el tubo con cuidado y mantenlo vertical para no resuspender el sedimento.<br>8. Con una pipeta Pasteur limpia, toma una gota de la zona del sedimento y deposítala en un portaobjetos limpio e identificado.<br>9. Baja el cubreobjetos lentamente desde un ángulo aproximado de 45° para evitar burbujas; no presiones la preparación.<br>10. Si está autorizado, sella el borde con poca vaselina para reducir corrientes del líquido.<br>11. Sujeta la preparación en la platina, centra la gota, selecciona el objetivo 4× y ajusta la iluminación.<br>12. Mirando desde un lado, aproxima la platina al objetivo sin contacto; después mira por el ocular y aléjala lentamente con el macrométrico hasta encontrar la imagen; afina con el micrométrico.<br>13. Pasa a 10× y 40× usando solo el micrométrico; recorre varios campos y registra el aumento, las estructuras y el movimiento.<br>14. Interpreta los hallazgos con cautela; elimina preparación y tubo según la ruta del centro, limpia el material, desinfecta el puesto y comunica incidencias.
+**Manejo del microscopio:** la secuencia de enfoque progresivo a bajo aumento y ajuste fino al cambiar a mayores aumentos toma como referencia a Boronat Gil y López Pérez, [*Una visión cercana de la Microscopía en el Laboratorio de Educación Secundaria* (PDF, Consejería de Educación de la Región de Murcia)](https://www.carm.es/edu/pub/19800_2020/files/una-version-cercana-de-la-microscopia.pdf). Esta guía se cita para el manejo del microscopio; no es la fuente de los parámetros de centrifugación.
+
+**Documento de práctica:** *P1_Observación de agua estancada.pdf*, aportado por el profesorado; la copia recibida no identifica autoría ni fecha de edición. Sus parámetros de centrifugación son orientativos y requieren validación del centro para el equipo disponible.
+
+**A. Preparación húmeda sin concentración de microorganismos**
+
+1. Confirma la autorización de la muestra ambiental y las normas de seguridad; no uses muestras clínicas ni material no autorizado.
+2. Ponte el EPI indicado y comprueba que el microscopio, los portaobjetos y los cubreobjetos estén limpios e íntegros.
+3. Identifica el portaobjetos con el código de muestra, sin incluir datos personales.
+4. Homogeneiza suavemente la muestra cerrada solo si lo indica el centro y evita salpicaduras.
+5. Con una pipeta Pasteur, deposita una gota de muestra en el centro del portaobjetos.
+6. Apoya un borde del cubreobjetos junto a la gota y bájalo lentamente en un ángulo aproximado de 45° para reducir burbujas.
+7. De manera opcional pueden sellarse los bordes del cubreobjetos con una pequeña cantidad de vaselina, si está autorizado, para limitar corrientes; no lo presiones.
+8. Sujeta la preparación en la platina, centra la gota, selecciona el objetivo 4× y ajusta la iluminación.
+9. Mira por el ocular y aproxima lentamente la platina con el macrométrico hasta que aparezca la imagen; detente al enfocar y evita el contacto con la preparación.
+10. Afina el enfoque con un ligero ajuste del micrométrico.
+11. Cambia a 10× y después a 40×; al cambiar de objetivo recupera el enfoque con un ligero ajuste del micrométrico, sin usar el macrométrico.
+12. Recorre la preparación de forma ordenada y registra el aumento, la morfología, la disposición y el movimiento observados.
+13. Intenta identificar los microorganismos observados utilizando el anexo; distingue la posible movilidad propia de corrientes o vibraciones y considera la identificación orientativa.
+14. Retira la preparación, elimina muestra y vidrio por la ruta del centro, limpia la óptica con material adecuado y registra incidencias.
+
+**B. Preparación húmeda con concentración de microorganismos por centrifugación**
+
+1. Confirma la autorización y la validación local de la centrifugación, el tubo, el rotor y los parámetros; no continúes si falta alguna.
+2. Ponte el EPI indicado y comprueba que el tubo sea compatible, esté íntegro y pueda cerrarse de forma segura.
+3. Mide 5 mL de muestra ambiental y pásalos al tubo identificado, según el documento de la práctica.
+4. Prepara un tubo de compensación con igual volumen y equilibra ambos tubos enfrentados según las instrucciones del equipo.
+5. Centrifuga los tubos cerrados a 2300 rpm durante 3 minutos solo si esos valores están validados para el rotor; de lo contrario, sigue los aprobados por el centro.
+6. Espera a que el rotor se detenga por completo antes de abrir; ante fuga o rotura, no manipules el contenido y avisa al docente.
+7. Retira el tubo con cuidado y mantenlo vertical para no resuspender el sedimento.
+8. Con una pipeta Pasteur limpia, toma una gota de la zona del sedimento y deposítala en un portaobjetos limpio e identificado.
+9. Baja el cubreobjetos lentamente desde un ángulo aproximado de 45° para evitar burbujas; no presiones la preparación.
+10. De manera opcional pueden sellarse los bordes del cubreobjetos con una pequeña cantidad de vaselina, si está autorizado, para reducir corrientes.
+11. Sujeta la preparación en la platina, centra la gota, selecciona el objetivo 4× y ajusta la iluminación.
+12. Mira por el ocular y aproxima lentamente la platina con el macrométrico hasta que aparezca la imagen; detente al enfocar y evita el contacto con la preparación.
+13. Cambia a 10× y después a 40×; recupera el enfoque con un ligero ajuste del micrométrico, recorre varios campos y registra estructuras y movimiento.
+14. Intenta identificar los microorganismos observados utilizando el anexo y formula conclusiones con cautela; elimina preparación y tubo por la ruta del centro, limpia y desinfecta el puesto, y comunica incidencias.
 
 ### Controles de calidad
 
@@ -118,9 +154,9 @@ Antes de observar, indica qué esperas encontrar o qué características crees q
 
 [Escribe aquí tu hipótesis u observación inicial.]
 
-## 10. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### 10.1 Comprobación de calidad de la preparación
+### 9.1 Comprobación de calidad de la preparación
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
@@ -129,67 +165,80 @@ Antes de observar, indica qué esperas encontrar o qué características crees q
 | Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 | Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
 
-### 10.2 Registro de hallazgos
+### 9.2 Registro de hallazgos
 
-| Campo o elemento observado | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
-|---|---|---|---|
-| [Observación 1] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Observación 2] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Observación 3] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
+|---|---|---|---|---|
+| [Hallazgo 1] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| [Hallazgo 2] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| [Hallazgo 3] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| [Hallazgo 4] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| [Hallazgo 5] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| [Hallazgo 6] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
 
-### 10.3 Resultado principal
+### 9.3 Resultado principal
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
 [Escribe aquí el resultado principal.]
 
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-> Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de un vídeo, una imagen docente o una preparación comercial, indícalo: no puede presentarse como observación real propia.
+Añade las imágenes propias después de realizar la práctica y en el orden cronológico indicado. Fotografía solo modalidades realmente realizadas y autorizadas; no incluyas rostros, nombres, etiquetas con datos personales ni pasos que incumplan las normas del centro. Si no realizaste una modalidad, marca «No aplica» y explica el motivo; no sustituyas la evidencia por una imagen ajena o simulada.
 
-### Imagen 1 — Proceso de preparación
+### Imagen 1 — Preparación húmeda sin concentración
 
-![Proceso de preparación](../assets/P02/proceso_de_preparacion_01.jpg)
+- **Archivo previsto:** `../assets/P02/01_preparacion_sin_concentracion.jpg`
+- **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
+- **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
-- **Pie de foto:** [Qué se observa: preparación del material, depósito de la muestra o colocación del cubreobjetos]
-- **Medida de seguridad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+### Imagen 2 — Campo microscópico de la preparación sin concentración
 
-### Imagen 2 — Campo microscópico
+- **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
+- **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
+- **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
-![Campo microscópico](../assets/P02/campo_microscopico_02.jpg)
+### Imagen 3 — Centrifugación de la muestra
 
-- **Pie de foto:** [Qué se observa y con qué aumento o configuración]
-- **Elemento señalado:** [Describe la estructura, organismo o artefacto de interés]
-- **Origen de la imagen:** [Observación propia / material docente / vídeo; especifica]
+- **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
+- **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
+- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
-### Imagen 3 — Resultado interpretado
+### Imagen 4 — Campo microscópico de la preparación concentrada
 
-![Resultado interpretado](../assets/P02/resultado_interpretado_03.jpg)
+- **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
+- **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
+- **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
 
-- **Pie de foto:** [Qué conclusión técnica apoya]
-- **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita tu resultado]
-- **Autoría y origen:** [Completa]
+### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+- **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
+- **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
+- **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
+- **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -209,7 +258,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -219,11 +268,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen de la muestra o evidencia | [Completa] |
 | Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 10.3] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Controles | [Resume o enlaza al apartado 9.1] |
+| Resultado | [Resume o enlaza al apartado 9.3] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos aplicada | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
+
+## Anexo. Láminas de organismos microscópicos y microfauna de agua dulce
+
+Las láminas reúnen ejemplos de organismos que pueden aparecer en muestras de agua dulce: eucariotas unicelulares —rizópodos, flagelados, ciliados, algas unicelulares y diatomeas— y formas pluricelulares microscópicas o de pequeño tamaño —cladóceros, copépodos, rotíferos y algas pluricelulares—. Los dibujos y nombres sirven para comparar rasgos morfológicos y proponer identificaciones orientativas; la presencia depende de la muestra y no confirma por sí sola lo observado. Las capturas fueron proporcionadas como material docente y no muestran los datos de autoría ni la publicación original.
+
+![Láminas de referencia con categorías, dibujos y nombres de organismos unicelulares y pluricelulares de agua dulce](../assets/P02/anexo_microorganismos.jpg)
+
+*Figura. Láminas docentes de consulta morfológica; no son fotografías de la muestra examinada ni permiten confirmar una identificación.*
