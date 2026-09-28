@@ -133,20 +133,19 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 ### 9.1 Comprobación de calidad
 
-| Control o criterio | Evidencia observada | ¿Adecuado? | Justificación |
+| Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
 | Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
 | Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Método/fórmula/criterio aplicado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Modalidad y límites correctamente registrados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
 
 ### 9.2 Registro de observaciones o cálculos
 
-| Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
-|---|---|---|---|---|
-| [Registro 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] | [Completa] | [Completa] |
+| Observación, variable o cálculo | Dato/evidencia | Comentario |
+|---|---|---|
+| [Registro 1] | [Completa] | [Completa] |
+| [Registro 2] | [Completa] | [Completa] |
+| [Registro 3] | [Completa] | [Completa] |
 
 ### 9.3 Resultado principal
 
@@ -158,60 +157,60 @@ Resume el resultado y especifica qué procede de observación real, demostració
 
 Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases principales del procedimiento y el resultado final. Incorpora solo imágenes cuya captura y publicación estén autorizadas. Identifica si cada evidencia es propia, de demostración, simulada o documental; no atribuyas al alumnado imágenes que no haya generado.
 
-### Imagen 1 — Materiales y preparación inicial
+### Imagen 1 — Preparación de los medios
 
-- **Archivo previsto:** `../assets/P01/P01_01_preparacion.jpg`
-- **Texto alternativo:** Documenta los materiales y la preparación inicial de la actividad asignada.
-- **Pie de foto:** [Describe lo que se observa en Ósmosis en patata: modelo de tonicidad, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P01/P01_01_preparacion_medios.jpg`
+- **Texto alternativo:** Preparación y rotulado del agua destilada y de la disolución de NaCl al 5 %.
+- **Pie de foto:** Preparación de 100 mL de disolución de NaCl al 5 % (m/v) y rotulado de ambos medios: agua destilada (hipotónico) y NaCl (hipertónico).
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta los materiales y la preparación inicial de la actividad asignada.](../assets/P01/P01_01_preparacion.jpg)
+![Preparación y rotulado del agua destilada y de la disolución de NaCl al 5 %.](../assets/P01/P01_01_preparacion_medios.jpg)
 
-*Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
+*Figura 1. Medios preparados y rotulados antes de iniciar la comparación.*
 
-### Imagen 2 — Identificación y preparación
+### Imagen 2 — Corte de las porciones de patata
 
-- **Archivo previsto:** `../assets/P01/P01_02_identificacion.jpg`
-- **Texto alternativo:** Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.
-- **Pie de foto:** [Describe lo que se observa en Ósmosis en patata: modelo de tonicidad, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P01/P01_02_corte_porciones.jpg`
+- **Texto alternativo:** Corte supervisado de porciones prismáticas de patata de 3 × 3 × 0,8 cm.
+- **Pie de foto:** Corte con bisturí o cuchilla y regla de seis porciones de patata sin piel, con dimensiones aproximadas de 3 × 3 × 0,8 cm.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.](../assets/P01/P01_02_identificacion.jpg)
+![Corte supervisado de porciones prismáticas de patata de 3 × 3 × 0,8 cm.](../assets/P01/P01_02_corte_porciones.jpg)
 
-*Figura 2. ¿Cómo se identificó y preparó el material o la fuente antes de la fase principal?*
+*Figura 2. Porciones prismáticas cortadas y listas para agruparse por condición.*
 
-### Imagen 3 — Fase principal del procedimiento
+### Imagen 3 — Pesada inicial e inmersión
 
-- **Archivo previsto:** `../assets/P01/P01_03_procedimiento.jpg`
-- **Texto alternativo:** Documenta una fase principal del procedimiento o el análisis de la fuente asignada.
-- **Pie de foto:** [Describe lo que se observa en Ósmosis en patata: modelo de tonicidad, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P01/P01_03_pesada_inmersion.jpg`
+- **Texto alternativo:** Pesada inicial de los grupos de patata e inmersión separada en cada medio.
+- **Pie de foto:** Registro de la masa inicial de cada grupo y colocación de tres porciones en cada recipiente, cubiertas por el medio correspondiente.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta una fase principal del procedimiento o el análisis de la fuente asignada.](../assets/P01/P01_03_procedimiento.jpg)
+![Pesada inicial de los grupos de patata e inmersión separada en cada medio.](../assets/P01/P01_03_pesada_inmersion.jpg)
 
-*Figura 3. ¿Qué fase principal se observa y qué acción o criterio se aplicó?*
+*Figura 3. Grupos identificados al inicio de la inmersión en agua destilada y NaCl al 5 %.*
 
-### Imagen 4 — Control, lectura o registro
+### Imagen 4 — Retirada y pesada final
 
-- **Archivo previsto:** `../assets/P01/P01_04_control_lectura.jpg`
-- **Texto alternativo:** Documenta el control de calidad, la lectura o el registro de datos.
-- **Pie de foto:** [Describe lo que se observa en Ósmosis en patata: modelo de tonicidad, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P01/P01_04_retirada_pesada_final.jpg`
+- **Texto alternativo:** Porciones retiradas tras 24 horas, secadas superficialmente y pesadas por condición.
+- **Pie de foto:** Tras 24 h, los grupos se retiran por separado, se secan con el mismo criterio y se registra la masa final de cada condición.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el control de calidad, la lectura o el registro de datos.](../assets/P01/P01_04_control_lectura.jpg)
+![Porciones retiradas tras 24 horas, secadas superficialmente y pesadas por condición.](../assets/P01/P01_04_retirada_pesada_final.jpg)
 
-*Figura 4. ¿Qué control o lectura permite valorar la calidad del registro?*
+*Figura 4. Pesada final de los grupos, manteniendo separados los dos medios.*
 
-### Imagen 5 — Resultado final
+### Imagen 5 — Comparación de resultados
 
-- **Archivo previsto:** `../assets/P01/P01_05_resultado_final.jpg`
-- **Texto alternativo:** Documenta el resultado final y la evidencia que apoya la interpretación limitada.
-- **Pie de foto:** [Describe lo que se observa en Ósmosis en patata: modelo de tonicidad, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P01/P01_05_comparacion_resultados.jpg`
+- **Texto alternativo:** Comparación final de las porciones y de las masas iniciales y finales en ambos medios.
+- **Pie de foto:** Comparación de los grupos tras la inmersión y de sus masas iniciales y finales; anota el cambio observado sin extrapolarlo fuera del modelo vegetal.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el resultado final y la evidencia que apoya la interpretación limitada.](../assets/P01/P01_05_resultado_final.jpg)
+![Comparación final de las porciones y de las masas iniciales y finales en ambos medios.](../assets/P01/P01_05_comparacion_resultados.jpg)
 
-*Figura 5. ¿Cuál es el resultado final y qué conclusión limitada permite sostener?*
+*Figura 5. Resultado final de ambas condiciones y evidencia usada para la comparación.*
 
 Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; conserva la secuencia y la misma convención de nombres.
 
