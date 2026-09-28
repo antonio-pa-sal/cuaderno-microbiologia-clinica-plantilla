@@ -8,14 +8,19 @@ Repositorio MkDocs Material para organizar cuadernos digitales por módulo profe
 docs/
 ├── index.md
 └── modulos/
-    └── microbiologia-clinica/
+    ├── microbiologia-clinica/
         ├── fuentes-canonicas/       # registro y procedencia de las fuentes
         ├── practicas-generadas/     # Markdown que alimenta el sitio
         ├── assets/                  # guía y evidencias visuales del módulo
         └── index.md                 # portada del cuaderno del módulo
+    └── tecnicas-analisis-hematologico/
+        ├── fuentes-canonicas/       # registro de procedencia, no contiene originales
+        ├── practicas-generadas/     # prácticas P01–P20
+        ├── assets/                  # guía y evidencias visuales
+        └── index.md                 # portada del cuaderno del módulo
 ```
 
-Cada módulo utiliza un slug estable y mantiene separadas sus fuentes canónicas, fichas generadas y evidencias. El registro de las fuentes canónicas de Microbiología Clínica está en `docs/modulos/microbiologia-clinica/fuentes-canonicas/README.md`; los documentos fuente se mantienen en el proyecto que los produjo y no se duplican aquí.
+Cada módulo utiliza un slug estable y mantiene separadas sus fuentes canónicas, fichas generadas y evidencias. Los documentos fuente se mantienen en el proyecto que los produjo y no se duplican aquí.
 
 El proceso reutilizable y las instrucciones de Codex se mantienen en el repositorio separado [cuadernos-practicas-workflow](https://github.com/antonio-pa-sal/cuadernos-practicas-workflow). Para incorporar otro módulo, sigue ambos documentos y crea su propia carpeta dentro de `docs/modulos/`.
 
