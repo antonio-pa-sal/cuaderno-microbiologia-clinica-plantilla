@@ -236,19 +236,19 @@ Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué 
 
 Responde individualmente y relaciona cada respuesta con datos, observaciones o imágenes de esta ficha.
 
-**1. Procedimiento:** ¿Qué decisión del flujo influyó más en la calidad del trabajo y cómo lo comprobaste?
+**1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
    [Respuesta del alumnado]
 
-**2. Interpretación:** ¿Qué hallazgo o cálculo requiere mayor cautela y qué otra explicación considerarías?
+**2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
    [Respuesta del alumnado]
 
-**3. Conclusiones:** ¿Qué evidencia respalda mejor tu conclusión y cuál es su principal limitación?
+**3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
    [Respuesta del alumnado]
 
-**4. Aprendizaje y transferencia:** ¿Qué mejorarías y cómo aplicarías este aprendizaje a otra técnica hematológica?
+**4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
    [Respuesta del alumnado]
 
