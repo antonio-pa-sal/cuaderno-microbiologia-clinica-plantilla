@@ -12,7 +12,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P02"
 
 # P02 — Separación de componentes sanguíneos por centrifugación
 
-> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad inicial es **CONDITIONAL** según el programa canónico. Una demostración, imagen o conjunto de datos no acredita una ejecución real.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad prevista es una práctica real supervisada con sangre total con EDTA procedente del Banco de Sangre del SES, autorizada para docencia según la información del profesorado. El estado sigue siendo **CONDITIONAL**: la sesión real requiere PNT, evaluación de riesgos y compatibilidad de tubo, rotor y centrífuga confirmados. Si falta alguna condición, utiliza la alternativa docente; una imagen o demostración no acredita ejecución real.
 
 ## 1. Identificación de la práctica
 
@@ -23,16 +23,16 @@ reference_document: "PRACTICAL_PROGRAM.md — P02"
 | Resultado(s) de aprendizaje | `RA07` |
 | Criterios de evaluación | `CE07.c` |
 | Agrupamiento | Trabajo guiado; interpretación, registro y reflexión individuales. |
-| Modalidad prevista | Observación de tubo modelo, imagen o dataset por defecto; muestra real solo con autorización y PNT local. |
+| Modalidad prevista | Centrifugación supervisada de muestra real autorizada y desidentificada; tubo modelo, imagen o datos si falta una condición local. |
 | Estado de ejecución | **CONDITIONAL**; no equivale a autorización del centro. |
 
 ## 2. Resumen
 
-Reconocer las capas de una muestra modelo y explicar que la separación observada no equivale al procesamiento estandarizado de componentes transfusionales. Observación de tubo modelo, imagen o dataset por defecto; muestra real solo con autorización y PNT local. Registrarás observaciones, cálculos o decisiones como datos reales, simulados o documentales según corresponda, y mantendrás explícitos los límites de interpretación.
+Observar la separación por centrifugación de una muestra real de sangre total con EDTA, identificar el plasma, la capa leucoplaquetaria cuando sea visible y los eritrocitos, y transferir el plasma a un tubo secundario. La muestra procede de extracciones a donantes realizadas por el Banco de Sangre del Servicio Extremeño de Salud; según la información del profesorado, ha superado los controles establecidos por el servicio y se ha autorizado para docencia. Esta aceptación no elimina el riesgo biológico ni equivale a producir componentes transfusionales. Registra si la actividad fue real, demostrativa, simulada o documental.
 
 ## 3. Finalidad y resultados esperados
 
-Reconocer las capas de una muestra modelo y explicar que la separación observada no equivale al procesamiento estandarizado de componentes transfusionales.
+Realizar, bajo supervisión y con el PNT local autorizado, la centrifugación de un tubo de extracción de aproximadamente 9 mL y 16 × 100 mm con EDTA; reconocer las fases visibles y transferir el plasma sin perturbar la interfaz celular. Explicar por qué esta demostración docente no valida la obtención de componentes para transfusión.
 
 Al finalizar deberás poder:
 
@@ -44,15 +44,15 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** Observación de tubo modelo, imagen o dataset por defecto; muestra real solo con autorización y PNT local. El equipo, los reactivos, los materiales y su disponibilidad deben confirmarse antes de la sesión.
+**Recursos previstos:** Tubo de sangre total con EDTA de aproximadamente 9 mL y 16 × 100 mm, procedente del Banco de Sangre del SES y autorizado para docencia; centrífuga clínica, rotor/adaptador compatibles, tubo secundario rotulado, pipeta plástica desechable, gradilla y material de limpieza. Confirma marca/modelo del tubo, centrífuga, rotor, PNT y parámetros antes de la sesión.
 
-**Riesgos y límites:** No se presupone sangre autorizada. Si el centro autorizara una demostración real, deben estar confirmados evaluación de riesgos, PNT, rotor/tubo compatibles, cierre, mantenimiento, EPI y residuos. No se aportan RPM ni tiempos.
+**Riesgos y límites:** La aceptación del donante y los controles del Banco de Sangre no convierten la muestra en material estéril ni eliminan el riesgo de exposición. Trátala como sangre humana potencialmente infecciosa; aplica evaluación de riesgos, protección, contención, limpieza y residuos del centro. No uses datos identificativos. Si falta una condición local, sustituye la sangre por un modelo, imagen o dataset.
 
 > **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si faltan PNT, evaluación de riesgos, recursos, supervisión o autorización local, utiliza exclusivamente la modalidad alternativa indicada por el profesorado.
 
 ## 5. Fundamento técnico
 
-La centrifugación separa componentes según propiedades físicas y condiciones del sistema. El resultado depende de muestra, tubo, rotor y procedimiento; la producción de componentes sanguíneos exige un proceso validado y trazable.
+El EDTA evita la coagulación de la muestra durante su manejo. La centrifugación sedimenta las células según sus propiedades y las condiciones del sistema. En sangre anticoagulada con EDTA pueden distinguirse una fase superior de plasma, una capa leucoplaquetaria en la interfaz si la resolución lo permite y una fase inferior rica en eritrocitos. La fuerza centrífuga relativa (RCF), tiempo, temperatura, frenado, tubo y rotor condicionan el resultado. La demostración y el trasvase docente no producen componentes transfusionales validados.
 
 Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro ni autorizan parámetros que no documenten. Si no existe un procedimiento público aplicable al producto/equipo concreto, se indica expresamente y se reserva la ejecución para una validación local.
 
@@ -60,39 +60,50 @@ Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no 
 
 ### Procedimiento base
 
-Revisa la modalidad → inspecciona el esquema o tubo modelo → identifica las fases → contrasta con el flujo transfusional regulado → registra límites.
+Confirma la autorización y el PNT local → verifica muestra, tubo y centrífuga → equilibra y centrifuga con parámetros aprobados → identifica las fases → transfiere plasma a un tubo secundario → registra límites y gestiona residuos.
 
 ### Procedimiento específico
 
-Los pasos siguientes describen una ruta didáctica segura. Para cualquier operación húmeda, reactivo o equipo, el PNT local y las instrucciones vigentes del fabricante prevalecen; si no están confirmados, usa imagen, caso o datos simulados.
+**PNT y procedimiento de referencia (base y alcance):** La [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1), p. 8, describe para plasma sangre anticoagulada con EDTA a 2000–3000 × g durante al menos 15 min. La [European Vaccine Initiative, *SOP Whole Blood Processing*, apartado 7.4](https://www.euvaccine.eu/_files/ugd/e40e76_8f643d61e49c4e8d80ef8150edfa056a.pdf), muestra el trasvase evitando la capa leucoplaquetaria y los eritrocitos; para sus tubos citados indica 1300 × g (BD) o 2500 × g (Sarstedt), 10 min a temperatura ambiente. Estas diferencias confirman que no se deben copiar valores a otro tubo o equipo. El segundo giro de esa SOP, destinado a plasma libre de plaquetas, no forma parte de esta práctica. La [OMS, *Laboratory biosafety manual*, 4.ª edición](https://www.who.int/publications/i/item/9789240011311), aporta el enfoque de evaluación del riesgo y contención. Ninguna fuente sustituye el PNT del centro ni valida el conjunto disponible.
 
-**PNT de referencia (alcance limitado):** [OMS, SOP de uso y mantenimiento de centrífuga](https://extranet.who.int/lqsi/content/tb-sop-use-and-maintenance-centrifuge). El procedimiento de la OMS se dirige a uso y mantenimiento de centrífugas en laboratorios de tuberculosis; sirve como referencia de equipo, pero no valida la separación de componentes sanguíneos ni sus parámetros. Para el procesamiento transfusional, consulta además la [guía JPAC de componentes de sangre total](https://www.transfusionguidelines.org/red-book/chapter-7/7-2).
+**Parámetros que el docente debe completar desde el PNT local y las instrucciones del fabricante antes de la sesión real:** tubo/marca y referencia: [completar]; centrífuga y rotor/adaptador: [completar]; RCF: [completar en × g]; tiempo: [completar]; temperatura y freno, si proceden: [completar]; contención/cubeta de seguridad: [completar]; código y versión del PNT: [completar]. No conviertas rpm sin la tabla del fabricante ni extrapoles parámetros publicados para otros tubos. Si falta una confirmación, no centrifugues sangre real.
 
-1. Confirma que la actividad usa tubo modelo, imagen o dataset; detente si se propone sangre sin autorización documentada.
-2. Comprueba que el material visual identifica su origen y que no contiene datos personales.
-3. Observa las fases representadas y descríbelas por posición y aspecto, sin asignar especificaciones de producto.
-4. Relaciona la separación observada con el principio de sedimentación y las variables indicadas en la fuente.
-5. Consulta el [manual de mantenimiento de equipos de la OMS](https://www.who.int/publications/i/item/9789241596350) y el [capítulo JPAC de componentes sanguíneos](https://www.transfusionguidelines.org/red-book/chapter-7/7-2).
-6. Explica por qué una demostración escolar no valida un proceso de obtención de componentes.
-7. Completa el esquema del flujo de trabajo y marca como pendientes los parámetros dependientes del centro.
-8. Guarda el material docente y registra dudas o limitaciones de la evidencia.
+**Material e instrumental:** muestra autorizada en tubo EDTA de aproximadamente 9 mL y 16 × 100 mm; centrífuga clínica; rotor, adaptadores y cubetas compatibles; tubo secundario con tapa; pipeta plástica de transferencia; gradilla; etiquetas con código anónimo; protección individual, absorbente y material de limpieza indicados por el centro; contenedor de residuos biosanitarios.
+
+1. Confirma con el docente que la muestra del Banco de Sangre del SES está autorizada para docencia y tiene un código anónimo; no uses nombres, números de donación ni datos clínicos.
+2. Lee el PNT local, la evaluación de riesgos y las instrucciones del fabricante. Si falta autorización, PNT o compatibilidad tubo/rotor, sustituye la sangre por el material alternativo docente.
+3. Ponte la bata, guantes y protección ocular indicada; prepara gradilla, absorbente, pipeta de transferencia, tubo secundario rotulado y contenedor de residuos biosanitarios.
+4. Inspecciona el tubo cerrado: confirma EDTA, dimensiones 16 × 100 mm, identificación codificada y ausencia de fugas, fisuras, tapón defectuoso o coágulos.
+5. Comprueba mantenimiento y estado de cámara, rotor, adaptadores y cubetas; verifica que admiten el tubo cargado, su volumen y la RCF aprobada.
+6. Anota RCF, tiempo, temperatura y freno tomados del PNT. No copies valores de esta ficha ni conviertas rpm sin la tabla del fabricante para ese rotor.
+7. Rotula el tubo secundario con el mismo código anónimo y «plasma — uso docente»; mantenlo cerrado en una gradilla, separado de muestras clínicas.
+8. Homogeneiza el tubo primario mediante inversiones suaves según las instrucciones de su fabricante; comprueba el cierre y evita agitarlo o generar aerosoles.
+9. Equilibra la muestra frente a un contrapeso compatible por masa, con agua solo en el contrapeso si lo permite el fabricante; distribuye simétricamente y nunca añadas líquido a la muestra.
+10. Coloca los tubos en adaptadores compatibles y cierra las cubetas de seguridad cuando lo exijan el PNT o la evaluación de riesgos; cierra la tapa e inicia el programa aprobado.
+11. Vigila el inicio sin tocar el equipo; ante vibración, golpe o ruido anormal, detén el ciclo según el manual. No abras hasta que el rotor se haya detenido completamente.
+12. Retira el tubo verticalmente y sin agitar. Registra plasma, capa leucoplaquetaria si es visible y eritrocitos; ante fuga o rotura, no manipules y activa el protocolo de derrames.
+13. Bajo supervisión y en la contención indicada, transfiere con pipeta plástica desechable solo el plasma al tubo secundario, sin aspirar la interfaz; cierra ambos tubos y no lo declares libre de plaquetas.
+14. Registra el resultado sin datos identificativos; desecha sangre y consumibles según la ruta biosanitaria local, descontamina el equipo conforme al PNT y realiza higiene de manos.
 
 ### Controles de calidad
 
-- Procedencia de imagen/dataset; distinción entre demostración y proceso validado; ausencia de parámetros inventados; conclusiones acordes con la resolución visual.
+- Autorización docente, código anónimo y procedencia de la muestra; PNT vigente; tubo, rotor y adaptador compatibles; RCF, tiempo, temperatura y freno registrados desde el PNT.
+- Tubos cerrados e íntegros, carga equilibrada, cubetas y cierre según evaluación local, ausencia de vibración anormal, separación visible y transferencia sin perturbar la interfaz.
+- Diferenciación explícita entre plasma, capa leucoplaquetaria y eritrocitos; no atribuir esterilidad, ausencia de plaquetas ni utilidad transfusional.
+- Gestión de residuos, descontaminación e incidencias conforme al procedimiento del centro; alternativa simulada si falta un control previo.
 - La fuente y la modalidad de cada imagen, registro o dato quedan identificadas.
 - Los datos simulados no se presentan como resultados de paciente ni como ejecución del alumnado.
 - Las incidencias, resultados no válidos y limitaciones se conservan en el registro.
 
 ### Referencia técnica
 
-- [OMS, manual de mantenimiento de equipos de laboratorio](https://www.who.int/publications/i/item/9789241596350) (consultado el 28/09/2026). Referencia complementaria para el fundamento o control de calidad; no constituye el PNT local.
-- [OMS, SOP de uso y mantenimiento de centrífuga](https://extranet.who.int/lqsi/content/tb-sop-use-and-maintenance-centrifuge) (consultado el 28/09/2026). Referencia complementaria; no constituye el PNT local ni valida parámetros del centro.
-- [JPAC, componentes de sangre total, capítulo 7.2](https://www.transfusionguidelines.org/red-book/chapter-7/7-2) (consultado el 28/09/2026). Referencia complementaria; no constituye el PNT local ni valida parámetros del centro.
+- [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2 (2002)](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1) (consultado el 05/10/2026), p. 8. Describe 2000–3000 × g durante al menos 15 min para plasma de sangre anticoagulada; es una referencia general, no un ajuste validado para el tubo/rotor disponibles.
+- [European Vaccine Initiative, *SOP Whole Blood Processing*, versión 01 (24/05/2021)](https://www.euvaccine.eu/_files/ugd/e40e76_8f643d61e49c4e8d80ef8150edfa056a.pdf) (consultado el 05/10/2026), apartado 7.4. Describe centrifugación y trasvase de plasma en tubos EDTA concretos (1300 × g para un modelo BD y 2500 × g para uno Sarstedt, 10 min a temperatura ambiente); no son ajustes transferibles al tubo de esta práctica sin comprobar su referencia e instrucciones.
+- [OMS, *Laboratory biosafety manual*, 4.ª edición (2020)](https://www.who.int/publications/i/item/9789240011311) (consultado el 05/10/2026). Sustenta la evaluación de riesgos y la selección de medidas de contención; deben aplicarse las instrucciones locales vigentes.
 
-Fecha de consulta de las referencias enlazadas: **28/09/2026**.
+Fecha de consulta de las referencias enlazadas: **05/10/2026**.
 
-Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan contexto o control de calidad, no una receta lista para ejecutar. El docente debe confirmar el PNT específico antes de autorizar un procedimiento real.
+La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exacta del tubo y no contiene el PNT del centro. Por ello no fija una RCF, tiempo, temperatura o frenado ejecutables. El docente debe completar y validar esos datos antes de autorizar la ruta real; de lo contrario se utilizará la alternativa docente.
 
 # Tu cuaderno de prácticas
 
@@ -112,10 +123,11 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
+| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
+| PNT local consultado | [Código, versión y fecha; o modalidad alternativa] |
+| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
+| RCF, tiempo, temperatura y freno autorizados | [Transcribe del PNT; no los infieras] |
+| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
 | Condición de los datos (real/simulada/documental) | [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
@@ -128,24 +140,26 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 ### 9.1 Comprobación de calidad
 
-| Control o criterio | Evidencia observada | ¿Adecuado? | Justificación |
+| Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Método/fórmula/criterio aplicado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Modalidad y límites correctamente registrados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
+| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Parámetros transcritos del PNT y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Transferencia, residuos y descontaminación según PNT | [Completa] | [Sí / No / Parcial] | [Completa] |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| [Registro 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] | [Completa] | [Completa] |
+| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
+| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
+| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [Según PNT] | [Completa] |
+| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
+| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
 
 ### 9.3 Resultado principal
 
-Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
+Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental. Incluye un esquema rotulado de las fases observadas e indica si la capa leucoplaquetaria se distinguió claramente.
 
 [Escribe aquí el resultado principal.]
 
@@ -153,60 +167,60 @@ Resume el resultado y especifica qué procede de observación real, demostració
 
 Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases principales del procedimiento y el resultado final. Incorpora solo imágenes cuya captura y publicación estén autorizadas. Identifica si cada evidencia es propia, de demostración, simulada o documental; no atribuyas al alumnado imágenes que no haya generado.
 
-### Imagen 1 — Materiales y preparación inicial
+### Imagen 1 — Muestra autorizada y preparación del puesto
 
-- **Archivo previsto:** `../assets/P02/P02_01_preparacion.jpg`
-- **Texto alternativo:** Documenta los materiales y la preparación inicial de la actividad asignada.
-- **Pie de foto:** [Describe lo que se observa en Separación de componentes sanguíneos por centrifugación, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P02/P02_01_muestra_puesto.jpg`
+- **Texto alternativo:** Tubo EDTA codificado sin datos identificativos y material dispuesto para la práctica supervisada.
+- **Pie de foto:** Muestra docente codificada y material preparado antes de la centrifugación; no deben aparecer etiquetas, nombres ni números de donación.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta los materiales y la preparación inicial de la actividad asignada.](../assets/P02/P02_01_preparacion.jpg)
+![Tubo EDTA codificado sin datos identificativos y material dispuesto para la práctica supervisada.](../assets/P02/P02_01_muestra_puesto.jpg)
 
-*Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
+*Figura 1. Preparación de la muestra docente y el puesto, con cualquier dato del donante fuera de encuadre.*
 
-### Imagen 2 — Identificación y preparación
+### Imagen 2 — Comprobación del tubo y la centrífuga
 
-- **Archivo previsto:** `../assets/P02/P02_02_identificacion.jpg`
-- **Texto alternativo:** Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.
-- **Pie de foto:** [Describe lo que se observa en Separación de componentes sanguíneos por centrifugación, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P02/P02_02_comprobacion_equipo.jpg`
+- **Texto alternativo:** Comprobación del tubo cerrado, adaptador, rotor y parámetros transcritos del PNT local.
+- **Pie de foto:** Verificación previa de integridad y compatibilidad del tubo de 16 × 100 mm, el adaptador y el rotor; los parámetros visibles deben proceder del PNT autorizado.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.](../assets/P02/P02_02_identificacion.jpg)
+![Comprobación del tubo cerrado, adaptador, rotor y parámetros transcritos del PNT local.](../assets/P02/P02_02_comprobacion_equipo.jpg)
 
-*Figura 2. ¿Cómo se identificó y preparó el material o la fuente antes de la fase principal?*
+*Figura 2. Equipo y tubo comprobados antes del giro; protege cualquier identificador de la muestra.*
 
-### Imagen 3 — Fase principal del procedimiento
+### Imagen 3 — Carga equilibrada y centrifugación
 
-- **Archivo previsto:** `../assets/P02/P02_03_procedimiento.jpg`
-- **Texto alternativo:** Documenta una fase principal del procedimiento o el análisis de la fuente asignada.
-- **Pie de foto:** [Describe lo que se observa en Separación de componentes sanguíneos por centrifugación, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P02/P02_03_carga_centrifuga.jpg`
+- **Texto alternativo:** Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.
+- **Pie de foto:** Carga equilibrada y distribuida según el manual del equipo; registra la RCF y el tiempo autorizados sin fotografiar datos identificativos.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta una fase principal del procedimiento o el análisis de la fuente asignada.](../assets/P02/P02_03_procedimiento.jpg)
+![Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.](../assets/P02/P02_03_carga_centrifuga.jpg)
 
-*Figura 3. ¿Qué fase principal se observa y qué acción o criterio se aplicó?*
+*Figura 3. Disposición equilibrada inmediatamente antes del ciclo establecido por el PNT.*
 
-### Imagen 4 — Control, lectura o registro
+### Imagen 4 — Fases tras la centrifugación
 
-- **Archivo previsto:** `../assets/P02/P02_04_control_lectura.jpg`
-- **Texto alternativo:** Documenta el control de calidad, la lectura o el registro de datos.
-- **Pie de foto:** [Describe lo que se observa en Separación de componentes sanguíneos por centrifugación, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P02/P02_04_fases_separadas.jpg`
+- **Texto alternativo:** Tubo cerrado tras el giro con plasma, interfaz leucoplaquetaria si es visible y eritrocitos sedimentados.
+- **Pie de foto:** Aspecto de las fases después de detenerse el rotor; la capa leucoplaquetaria puede ser muy fina o no distinguirse con claridad.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el control de calidad, la lectura o el registro de datos.](../assets/P02/P02_04_control_lectura.jpg)
+![Tubo cerrado tras el giro con plasma, interfaz leucoplaquetaria si es visible y eritrocitos sedimentados.](../assets/P02/P02_04_fases_separadas.jpg)
 
-*Figura 4. ¿Qué control o lectura permite valorar la calidad del registro?*
+*Figura 4. Fases observadas en el tubo primario sin agitar ni abrirlo para la fotografía.*
 
-### Imagen 5 — Resultado final
+### Imagen 5 — Trasvase docente del plasma
 
-- **Archivo previsto:** `../assets/P02/P02_05_resultado_final.jpg`
-- **Texto alternativo:** Documenta el resultado final y la evidencia que apoya la interpretación limitada.
-- **Pie de foto:** [Describe lo que se observa en Separación de componentes sanguíneos por centrifugación, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P02/P02_05_trasvase_plasma.jpg`
+- **Texto alternativo:** Transferencia del plasma a un tubo secundario codificado, evitando la interfaz celular.
+- **Pie de foto:** Plasma transferido al tubo secundario con el mismo código anónimo; la pipeta se detuvo antes de aspirar la capa leucoplaquetaria o los eritrocitos.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el resultado final y la evidencia que apoya la interpretación limitada.](../assets/P02/P02_05_resultado_final.jpg)
+![Transferencia del plasma a un tubo secundario codificado, evitando la interfaz celular.](../assets/P02/P02_05_trasvase_plasma.jpg)
 
-*Figura 5. ¿Cuál es el resultado final y qué conclusión limitada permite sostener?*
+*Figura 5. Resultado del trasvase y correspondencia entre tubo secundario y código anónimo.*
 
 Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; conserva la secuencia y la misma convención de nombres.
 
@@ -218,13 +232,13 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Reconocer las capas de una muestra modelo y explicar que la separación observada no equivale al procesamiento estandarizado de componentes transfusionales. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
+Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugación las separó. Relaciona la transferencia con la preservación de la interfaz celular, y distingue plasma de componentes transfusionales preparados mediante procesos validados. Separa observación e inferencia; no atribuyas esterilidad, ausencia de plaquetas ni utilidad clínica a la muestra.
 
 [Escribe aquí tu interpretación técnica.]
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
+Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
 [Escribe aquí tu conclusión.]
 
@@ -232,19 +246,19 @@ Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué 
 
 Responde individualmente y relaciona cada respuesta con datos, observaciones o imágenes de esta ficha.
 
-**1. Procedimiento:** ¿Qué decisión del flujo influyó más en la calidad del trabajo y cómo lo comprobaste?
+**1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente?
 
    [Respuesta del alumnado]
 
-**2. Interpretación:** ¿Qué hallazgo o cálculo requiere mayor cautela y qué otra explicación considerarías?
+**2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? ¿Qué límite tuvo su identificación?
 
    [Respuesta del alumnado]
 
-**3. Conclusiones:** ¿Qué evidencia respalda mejor tu conclusión y cuál es su principal limitación?
+**3. Conclusiones:** ¿Qué demuestra el trasvase del plasma y por qué no equivale a preparar componentes para transfusión?
 
    [Respuesta del alumnado]
 
-**4. Aprendizaje y transferencia:** ¿Qué mejorarías y cómo aplicarías este aprendizaje a otra técnica hematológica?
+**4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica qué condición de calidad aplicarías también allí.
 
    [Respuesta del alumnado]
 
