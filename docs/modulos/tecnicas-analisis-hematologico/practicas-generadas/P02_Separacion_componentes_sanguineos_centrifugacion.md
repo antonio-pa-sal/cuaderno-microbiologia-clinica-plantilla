@@ -12,7 +12,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P02"
 
 # P02 — Separación de componentes sanguíneos por centrifugación
 
-> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad prevista es una práctica real supervisada con sangre total con EDTA procedente del Banco de Sangre del SES, autorizada para docencia según la información del profesorado. El estado sigue siendo **CONDITIONAL**: la sesión real requiere PNT, evaluación de riesgos y compatibilidad de tubo, rotor y centrífuga confirmados. Si falta alguna condición, utiliza la alternativa docente; una imagen o demostración no acredita ejecución real.
+> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad prevista es una práctica real supervisada con sangre total con EDTA procedente del Banco de Sangre del SES, autorizada para docencia según la información del profesorado. El estado sigue siendo **CONDITIONAL**: se seguirá el PNT local si existe; si no, se tomará como referencia el protocolo de centrifugación de la OMS y su manual de bioseguridad para evaluar riesgos. En ambos casos deben confirmarse autorización y compatibilidad de tubo, rotor y centrífuga.
 
 ## 1. Identificación de la práctica
 
@@ -23,7 +23,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P02"
 | Resultado(s) de aprendizaje | `RA07` |
 | Criterios de evaluación | `CE07.c` |
 | Agrupamiento | Trabajo guiado; interpretación, registro y reflexión individuales. |
-| Modalidad prevista | Centrifugación supervisada de muestra real autorizada y desidentificada; tubo modelo, imagen o datos si falta una condición local. |
+| Modalidad prevista | Centrifugación supervisada de muestra real autorizada y desidentificada con PNT local o referencia OMS; tubo modelo, imagen o datos si falta autorización, evaluación de riesgos o compatibilidad. |
 | Estado de ejecución | **CONDITIONAL**; no equivale a autorización del centro. |
 
 ## 2. Resumen
@@ -32,7 +32,7 @@ Observar la separación por centrifugación de una muestra real de sangre total 
 
 ## 3. Finalidad y resultados esperados
 
-Realizar, bajo supervisión y con el PNT local autorizado, la centrifugación de un tubo de extracción de aproximadamente 9 mL y 16 × 100 mm con EDTA; reconocer las fases visibles y transferir el plasma sin perturbar la interfaz celular. Explicar por qué esta demostración docente no valida la obtención de componentes para transfusión.
+Realizar, bajo supervisión, la centrifugación de un tubo de extracción de aproximadamente 9 mL y 16 × 100 mm con EDTA siguiendo el PNT local o, si no existe, el protocolo de referencia de la OMS; reconocer las fases y transferir el plasma sin perturbar la interfaz celular. Explicar por qué esta actividad no valida componentes transfusionales.
 
 Al finalizar deberás poder:
 
@@ -44,42 +44,42 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** Tubo de sangre total con EDTA de aproximadamente 9 mL y 16 × 100 mm, procedente del Banco de Sangre del SES y autorizado para docencia; centrífuga clínica, rotor/adaptador compatibles, tubo secundario rotulado, pipeta plástica desechable, gradilla y material de limpieza. Confirma marca/modelo del tubo, centrífuga, rotor, PNT y parámetros antes de la sesión.
+**Recursos previstos:** Tubo de sangre total con EDTA de aproximadamente 9 mL y 16 × 100 mm, procedente del Banco de Sangre del SES y autorizado para docencia; centrífuga clínica, rotor/adaptador compatibles, tubo secundario rotulado, pipeta plástica desechable, gradilla y material de limpieza. Confirma la referencia del tubo, el equipo y el rotor; aplica el PNT local o, si no existe, el protocolo OMS.
 
-**Riesgos y límites:** La aceptación del donante y los controles del Banco de Sangre no convierten la muestra en material estéril ni eliminan el riesgo de exposición. Trátala como sangre humana potencialmente infecciosa; aplica evaluación de riesgos, protección, contención, limpieza y residuos del centro. No uses datos identificativos. Si falta una condición local, sustituye la sangre por un modelo, imagen o dataset.
+**Riesgos y límites:** La aceptación del donante y los controles del Banco de Sangre no eliminan el riesgo biológico. Trata la muestra como potencialmente infecciosa y documenta la evaluación de riesgos y medidas de bioseguridad con el manual de la OMS y las reglas del centro. No uses datos identificativos. Si faltan autorización, evaluación o compatibilidad, usa la alternativa docente.
 
-> **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si faltan PNT, evaluación de riesgos, recursos, supervisión o autorización local, utiliza exclusivamente la modalidad alternativa indicada por el profesorado.
+> **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si no existe PNT local, se empleará el protocolo OMS enlazado; si faltan evaluación documentada de riesgos, recursos, supervisión, autorización o compatibilidad del equipo, utiliza la modalidad alternativa indicada por el profesorado.
 
 ## 5. Fundamento técnico
 
 El EDTA evita la coagulación de la muestra durante su manejo. La centrifugación sedimenta las células según sus propiedades y las condiciones del sistema. En sangre anticoagulada con EDTA pueden distinguirse una fase superior de plasma, una capa leucoplaquetaria en la interfaz si la resolución lo permite y una fase inferior rica en eritrocitos. La fuerza centrífuga relativa (RCF), tiempo, temperatura, frenado, tubo y rotor condicionan el resultado. La demostración y el trasvase docente no producen componentes transfusionales validados.
 
-Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro ni autorizan parámetros que no documenten. Si no existe un procedimiento público aplicable al producto/equipo concreto, se indica expresamente y se reserva la ejecución para una validación local.
+Las fuentes enlazadas respaldan el procedimiento de referencia y la evaluación de riesgos. Si existe un PNT local, este prevalece; si no existe, se usa el procedimiento OMS para centrifugación y el manual de bioseguridad OMS para orientar y documentar la evaluación. Ninguna fuente elimina la autorización docente ni la comprobación de compatibilidad del tubo, rotor y equipo.
 
 ## 6. Procedimiento y controles de calidad
 
 ### Procedimiento base
 
-Confirma la autorización y el PNT local → verifica muestra, tubo y centrífuga → equilibra y centrifuga con parámetros aprobados → identifica las fases → transfiere plasma a un tubo secundario → registra límites y gestiona residuos.
+Confirma autorización y evaluación de riesgos → consulta el PNT local o, si no existe, el protocolo OMS → verifica tubo, rotor y equipo → equilibra y centrifuga → identifica las fases, transfiere plasma y registra resultados y residuos.
 
 ### Procedimiento específico
 
-**PNT y procedimiento de referencia (base y alcance):** La [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1), p. 8, describe para plasma sangre anticoagulada con EDTA a 2000–3000 × g durante al menos 15 min. La [European Vaccine Initiative, *SOP Whole Blood Processing*, apartado 7.4](https://www.euvaccine.eu/_files/ugd/e40e76_8f643d61e49c4e8d80ef8150edfa056a.pdf), muestra el trasvase evitando la capa leucoplaquetaria y los eritrocitos; para sus tubos citados indica 1300 × g (BD) o 2500 × g (Sarstedt), 10 min a temperatura ambiente. Estas diferencias confirman que no se deben copiar valores a otro tubo o equipo. El segundo giro de esa SOP, destinado a plasma libre de plaquetas, no forma parte de esta práctica. La [OMS, *Laboratory biosafety manual*, 4.ª edición](https://www.who.int/publications/i/item/9789240011311), aporta el enfoque de evaluación del riesgo y contención. Ninguna fuente sustituye el PNT del centro ni valida el conjunto disponible.
+**PNT y procedimiento de referencia (base y alcance):** Si existe PNT local vigente, síguelo. Si no existe, toma como protocolo de centrifugación la [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1), p. 8: sangre con EDTA a 2000–3000 × g durante al menos 15 min; para separar plasma, mantener 15–24 °C. Usa el [manual de bioseguridad de laboratorio de la OMS, 4.ª edición](https://www.who.int/publications/i/item/9789240011311) como fuente para evaluar riesgos y definir medidas de bioseguridad, junto con los requisitos del centro. La [European Vaccine Initiative, *SOP Whole Blood Processing*, apartado 7.4](https://www.euvaccine.eu/_files/ugd/e40e76_8f643d61e49c4e8d80ef8150edfa056a.pdf), sirve de referencia complementaria para el trasvase: sus ajustes de 1300 × g (BD) o 2500 × g (Sarstedt), 10 min, corresponden a tubos concretos y no sustituyen el protocolo OMS si no hay PNT local. El segundo giro de esa SOP para plasma libre de plaquetas queda fuera de esta práctica. Antes de ejecutar, verifica que el tubo, rotor y centrífuga admitan las condiciones aplicadas; si no, detén la práctica real y consulta al responsable.
 
-**Parámetros que el docente debe completar desde el PNT local y las instrucciones del fabricante antes de la sesión real:** tubo/marca y referencia: [completar]; centrífuga y rotor/adaptador: [completar]; RCF: [completar en × g]; tiempo: [completar]; temperatura y freno, si proceden: [completar]; contención/cubeta de seguridad: [completar]; código y versión del PNT: [completar]. No conviertas rpm sin la tabla del fabricante ni extrapoles parámetros publicados para otros tubos. Si falta una confirmación, no centrifugues sangre real.
+**Parámetros que el docente debe registrar antes de la sesión real:** tubo/marca y referencia: [completar]; centrífuga y rotor/adaptador: [completar]; procedimiento aplicado: [PNT local, código/versión; o protocolo OMS]; RCF y tiempo: [PNT o, si no existe, 2000–3000 × g durante al menos 15 min]; temperatura: [PNT o, si no existe, 15–24 °C]; freno y contención: [según fabricante y evaluación OMS/local]. No conviertas rpm sin la tabla del rotor. Si el equipo o el tubo no admiten estas condiciones, no centrifugues sangre real.
 
 **Material e instrumental:** muestra autorizada en tubo EDTA de aproximadamente 9 mL y 16 × 100 mm; centrífuga clínica; rotor, adaptadores y cubetas compatibles; tubo secundario con tapa; pipeta plástica de transferencia; gradilla; etiquetas con código anónimo; protección individual, absorbente y material de limpieza indicados por el centro; contenedor de residuos biosanitarios.
 
 1. Confirma con el docente que la muestra del Banco de Sangre del SES está autorizada para docencia y tiene un código anónimo; no uses nombres, números de donación ni datos clínicos.
-2. Lee el PNT local, la evaluación de riesgos y las instrucciones del fabricante. Si falta autorización, PNT o compatibilidad tubo/rotor, sustituye la sangre por el material alternativo docente.
+2. Consulta el PNT local; si no existe, usa OMS (2000–3000 × g, ≥15 min) y su manual de bioseguridad para evaluar riesgos. Confirma autorización docente y compatibilidad del fabricante; si falta cualquiera, usa material alternativo.
 3. Ponte la bata, guantes y protección ocular indicada; prepara gradilla, absorbente, pipeta de transferencia, tubo secundario rotulado y contenedor de residuos biosanitarios.
 4. Inspecciona el tubo cerrado: confirma EDTA, dimensiones 16 × 100 mm, identificación codificada y ausencia de fugas, fisuras, tapón defectuoso o coágulos.
 5. Comprueba mantenimiento y estado de cámara, rotor, adaptadores y cubetas; verifica que admiten el tubo cargado, su volumen y la RCF aprobada.
-6. Anota RCF, tiempo, temperatura y freno tomados del PNT. No copies valores de esta ficha ni conviertas rpm sin la tabla del fabricante para ese rotor.
+6. Anota RCF, tiempo, temperatura y freno del PNT o, si no existe, del protocolo OMS (2000–3000 × g, ≥15 min; 15–24 °C). No conviertas rpm sin la tabla del rotor.
 7. Rotula el tubo secundario con el mismo código anónimo y «plasma — uso docente»; mantenlo cerrado en una gradilla, separado de muestras clínicas.
 8. Homogeneiza el tubo primario mediante inversiones suaves según las instrucciones de su fabricante; comprueba el cierre y evita agitarlo o generar aerosoles.
 9. Equilibra la muestra frente a un contrapeso compatible por masa, con agua solo en el contrapeso si lo permite el fabricante; distribuye simétricamente y nunca añadas líquido a la muestra.
-10. Coloca los tubos en adaptadores compatibles y cierra las cubetas de seguridad cuando lo exijan el PNT o la evaluación de riesgos; cierra la tapa e inicia el programa aprobado.
+10. Coloca los tubos en adaptadores compatibles y cierra las cubetas de seguridad según la evaluación OMS/local y el fabricante; cierra la tapa e inicia los parámetros del PNT o protocolo OMS.
 11. Vigila el inicio sin tocar el equipo; ante vibración, golpe o ruido anormal, detén el ciclo según el manual. No abras hasta que el rotor se haya detenido completamente.
 12. Retira el tubo verticalmente y sin agitar. Registra plasma, capa leucoplaquetaria si es visible y eritrocitos; ante fuga o rotura, no manipules y activa el protocolo de derrames.
 13. Bajo supervisión y en la contención indicada, transfiere con pipeta plástica desechable solo el plasma al tubo secundario, sin aspirar la interfaz; cierra ambos tubos y no lo declares libre de plaquetas.
@@ -87,7 +87,7 @@ Confirma la autorización y el PNT local → verifica muestra, tubo y centrífug
 
 ### Controles de calidad
 
-- Autorización docente, código anónimo y procedencia de la muestra; PNT vigente; tubo, rotor y adaptador compatibles; RCF, tiempo, temperatura y freno registrados desde el PNT.
+- Autorización docente, código anónimo y procedencia; PNT local o, si no existe, protocolo OMS registrado; evaluación de riesgos basada en el manual OMS; tubo, rotor y adaptador compatibles; parámetros anotados con su fuente.
 - Tubos cerrados e íntegros, carga equilibrada, cubetas y cierre según evaluación local, ausencia de vibración anormal, separación visible y transferencia sin perturbar la interfaz.
 - Diferenciación explícita entre plasma, capa leucoplaquetaria y eritrocitos; no atribuir esterilidad, ausencia de plaquetas ni utilidad transfusional.
 - Gestión de residuos, descontaminación e incidencias conforme al procedimiento del centro; alternativa simulada si falta un control previo.
@@ -97,13 +97,13 @@ Confirma la autorización y el PNT local → verifica muestra, tubo y centrífug
 
 ### Referencia técnica
 
-- [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2 (2002)](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1) (consultado el 05/10/2026), p. 8. Describe 2000–3000 × g durante al menos 15 min para plasma de sangre anticoagulada; es una referencia general, no un ajuste validado para el tubo/rotor disponibles.
+- [OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2 (2002)](https://iris.who.int/bitstream/handle/10665/65957/WHO_DIL_LAB_99.1_REV.2.pdf?sequence=1) (consultado el 05/10/2026), p. 8. Es el protocolo de referencia de centrifugación si el centro no dispone de PNT local: 2000–3000 × g durante al menos 15 min y 15–24 °C para separar plasma. Aplicarlo requiere confirmar compatibilidad del tubo y rotor.
 - [European Vaccine Initiative, *SOP Whole Blood Processing*, versión 01 (24/05/2021)](https://www.euvaccine.eu/_files/ugd/e40e76_8f643d61e49c4e8d80ef8150edfa056a.pdf) (consultado el 05/10/2026), apartado 7.4. Describe centrifugación y trasvase de plasma en tubos EDTA concretos (1300 × g para un modelo BD y 2500 × g para uno Sarstedt, 10 min a temperatura ambiente); no son ajustes transferibles al tubo de esta práctica sin comprobar su referencia e instrucciones.
 - [OMS, *Laboratory biosafety manual*, 4.ª edición (2020)](https://www.who.int/publications/i/item/9789240011311) (consultado el 05/10/2026). Sustenta la evaluación de riesgos y la selección de medidas de contención; deben aplicarse las instrucciones locales vigentes.
 
 Fecha de consulta de las referencias enlazadas: **05/10/2026**.
 
-La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exacta del tubo y no contiene el PNT del centro. Por ello no fija una RCF, tiempo, temperatura o frenado ejecutables. El docente debe completar y validar esos datos antes de autorizar la ruta real; de lo contrario se utilizará la alternativa docente.
+La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exacta del tubo y no confirma si existe PNT local. Antes de la sesión, el docente registrará cuál aplica: PNT local o, si no existe, protocolo OMS (2000–3000 × g, al menos 15 min y 15–24 °C). La ruta real requiere además evaluación de riesgos con el manual OMS, autorización y compatibilidad confirmadas; si falla alguna, se usará la alternativa docente.
 
 # Tu cuaderno de prácticas
 
@@ -124,9 +124,10 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Comprobación | Registro |
 |---|---|
 | Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| PNT local consultado | [Código, versión y fecha; o modalidad alternativa] |
+| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
+| Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
 | Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno autorizados | [Transcribe del PNT; no los infieras] |
+| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
 | Protección, contención y gestión de residuos | [Completa o indica alternativa] |
 | Condición de los datos (real/simulada/documental) | [Completa] |
 
@@ -144,8 +145,8 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 |---|---|---|---|
 | Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
 | Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Transferencia, residuos y descontaminación según PNT | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
 
 ### 9.2 Registro de observaciones o cálculos
 
@@ -153,7 +154,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 |---|---|---|---|---|
 | Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
 | Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [Según PNT] | [Completa] |
+| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
 | Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
 | Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
 
@@ -181,11 +182,11 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 ### Imagen 2 — Comprobación del tubo y la centrífuga
 
 - **Archivo previsto:** `../assets/P02/P02_02_comprobacion_equipo.jpg`
-- **Texto alternativo:** Comprobación del tubo cerrado, adaptador, rotor y parámetros transcritos del PNT local.
-- **Pie de foto:** Verificación previa de integridad y compatibilidad del tubo de 16 × 100 mm, el adaptador y el rotor; los parámetros visibles deben proceder del PNT autorizado.
+- **Texto alternativo:** Comprobación del tubo cerrado, adaptador, rotor y parámetros del PNT local o protocolo OMS.
+- **Pie de foto:** Verificación previa de integridad y compatibilidad del tubo de 16 × 100 mm, el adaptador y el rotor; identifica si los parámetros proceden del PNT local o de la referencia OMS.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Comprobación del tubo cerrado, adaptador, rotor y parámetros transcritos del PNT local.](../assets/P02/P02_02_comprobacion_equipo.jpg)
+![Comprobación del tubo cerrado, adaptador, rotor y parámetros del PNT local o protocolo OMS.](../assets/P02/P02_02_comprobacion_equipo.jpg)
 
 *Figura 2. Equipo y tubo comprobados antes del giro; protege cualquier identificador de la muestra.*
 
@@ -193,12 +194,12 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 - **Archivo previsto:** `../assets/P02/P02_03_carga_centrifuga.jpg`
 - **Texto alternativo:** Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.
-- **Pie de foto:** Carga equilibrada y distribuida según el manual del equipo; registra la RCF y el tiempo autorizados sin fotografiar datos identificativos.
+- **Pie de foto:** Carga equilibrada según el manual del equipo; registra si la RCF y el tiempo proceden del PNT local o del protocolo OMS, sin fotografiar identificadores.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Tubos y contrapesos distribuidos simétricamente en el rotor antes de cerrar la centrífuga.](../assets/P02/P02_03_carga_centrifuga.jpg)
 
-*Figura 3. Disposición equilibrada inmediatamente antes del ciclo establecido por el PNT.*
+*Figura 3. Disposición equilibrada inmediatamente antes del ciclo establecido por el PNT local o, si no existe, por el protocolo OMS.*
 
 ### Imagen 4 — Fases tras la centrifugación
 
@@ -238,7 +239,7 @@ Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugac
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
+Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT o del protocolo OMS aplicado, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
 [Escribe aquí tu conclusión.]
 
