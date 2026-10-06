@@ -1,5 +1,5 @@
 ---
-title: "P07 — Elaboración de medio de cultivo líquido"
+title: "P07 — Elaboración de caldo BHI: seis tubos de 8 mL por grupo"
 practice_id: P07
 unit: "UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento"
 learning_outcome: RA03
@@ -7,95 +7,106 @@ assessment_criteria: CE03.a–CE03.h
 transversal_learning_outcome: RA01
 page_type: practical-notebook
 student_completion: individual
-reference_document: "P2_Elaboración de medios de cultivo líquidos.pdf"
+reference_document: "PRACTICAL_PROGRAM.md — P07; etiqueta o ficha técnica del caldo BHI utilizado"
 ---
 
-# P07 — Elaboración de medio de cultivo líquido
+# P07 — Elaboración de caldo BHI: seis tubos de 8 mL por grupo
 
-> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después de la práctica. La preparación puede desarrollarse por estaciones o en pequeño grupo, pero los cálculos, el registro, la interpretación, las imágenes seleccionadas y la reflexión deben ser personales.
+> **Estado de esta página:** Cada grupo prepara un lote; cada estudiante completa individualmente los cálculos, registros, interpretación y reflexión. Identifica si una fase fue realizada, observada como demostración o analizada documentalmente.
 
 ## 1. Identificación de la práctica
 
 | Campo | Información |
 |---|---|
-| Código y título | `P07 — Elaboración de medio de cultivo líquido` |
+| Código y título | `P07 — Elaboración de caldo BHI: seis tubos de 8 mL por grupo` |
 | Unidad didáctica | `UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento` |
 | Resultado de aprendizaje | `RA03` |
 | Criterios de evaluación | `CE03.a–CE03.h` |
 | Aprendizaje transversal | `RA01 — bioseguridad` |
-| Agrupamiento | Estaciones en grupos pequeños; cálculos y registro individual. |
-| Instrumentos vinculados | Prueba práctica, cuaderno o portfolio de prácticas y prueba teórica. |
-| Modalidad prevista | Preparación, acondicionamiento, esterilización autorizada y documentación de un medio líquido. |
-| Condición operativa | Medios/reactivos disponibles, autoclave operativo y protocolo de uso confirmado. |
+| Agrupamiento | Grupos pequeños; cálculos y registro individuales. |
+| Instrumentos vinculados | Prueba práctica, cuaderno o portfolio y prueba teórica. |
+| Producto previsto por grupo | Seis tubos con 8 mL de caldo BHI dispensados en cada uno antes de esterilizar. |
+| Preparación por grupo | 50 mL según las instrucciones del producto deshidratado. |
+| Modalidad y condición operativa | `CONDITIONAL`: producto disponible, tubos compatibles, autoclave operativo y protocolo confirmado. |
 
 ## 2. Resumen
 
-En esta práctica prepararás o analizarás la elaboración de un medio de cultivo líquido destinado a mantener o multiplicar microorganismos en condiciones controladas. Calcularás las cantidades para el volumen de trabajo, identificarás los componentes, registrarás lotes y caducidades y revisarás el ajuste de pH, la homogeneidad, el envasado y la esterilización prevista. Cuando la actividad sea simulada, trabajarás con formulaciones, datos o recipientes preparados. El resultado esperado es un medio correctamente documentado, con aspecto uniforme, trazabilidad y controles de esterilidad o de calidad definidos. Explicarás qué errores de cálculo, contaminación o acondicionamiento podrían impedir su uso posterior y aportarás fotografías autorizadas del proceso o del resultado.
+Cada grupo elaborará **50 mL de caldo BHI (Brain Heart Infusion)** a partir del medio deshidratado con corrector de pH incorporado. La cantidad de polvo y la preparación con agua destilada se calcularán siguiendo la etiqueta o ficha técnica del producto disponible. Después se dispensarán **8 mL en cada uno de seis tubos** y se esterilizará el medio **ya distribuido en los tubos**, bajo el protocolo autorizado del centro.
+
+Los seis tubos requieren **48 mL**. La diferencia teórica de **2 mL** proporciona un pequeño margen para las pérdidas de transferencia; no garantiza que quede ese volumen como sobrante real. Esta práctica termina con la preparación, esterilización y documentación del medio, sin inoculación.
 
 ## 3. Finalidad y resultados esperados
 
-El medio de cultivo líquido proporciona nutrientes en solución para permitir el desarrollo controlado de microorganismos cuando se utilice posteriormente material docente autorizado. Esta práctica se centra en seleccionar la fórmula indicada, calcular cantidades, preparar y homogeneizar el medio, acondicionarlo para la esterilización, etiquetarlo y documentar sus controles.
+La actividad concreta la finalidad de P07 del programa práctico: preparar, acondicionar, esterilizar y documentar un medio líquido. Al finalizar deberás poder:
 
-Al finalizar deberás poder:
-
-- diferenciar un medio líquido de un medio sólido y explicar la función de sus componentes;
-- escalar una fórmula a un volumen de trabajo concreto;
-- pesar, medir y disolver los componentes con precisión;
-- reconocer los requisitos de acondicionamiento, etiquetado y esterilización;
-- verificar controles básicos de calidad, incluida la trazabilidad; y
-- comunicar el resultado y las incidencias de forma técnica.
+- obtener de la etiqueta o ficha técnica la dosis de medio deshidratado y escalarla a 50 mL;
+- preparar el caldo BHI con agua destilada sin modificar su formulación;
+- dispensar seis alícuotas de 8 mL con material de medida adecuado;
+- identificar y acondicionar los tubos para esterilizarlos en autoclave;
+- documentar el ciclo, el aspecto final y los controles pendientes; y
+- distinguir entre un medio esterilizado y un medio cuya aptitud de uso está comprobada.
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** balanza, material volumétrico, recipientes adecuados, medio deshidratado o reactivos, agua adecuada, sistema de calentamiento o agitación si procede, recipientes autoclavables, etiquetas y autoclave.
+**Recursos previstos:** caldo BHI deshidratado con corrector de pH incorporado, etiqueta o ficha técnica y FDS; agua destilada; balanza, espátula y recipiente de pesada; material volumétrico adecuado a 50 mL; recipiente de preparación y agitación; pipeta o dispensador adecuado para medir 8 mL; seis tubos autoclavables con capacidad suficiente para el volumen y el espacio de seguridad; cierres compatibles, gradilla o cestillo autoclavable, etiquetas y autoclave. Si la ficha exige calentamiento, se utilizará el equipo autorizado.
 
-**Riesgos:** exposición a polvo químico, derrames, vidrio, superficies calientes, vapor y presión del autoclave, así como errores de identificación o de volumen que comprometan la trazabilidad del medio.
+**Riesgos y medidas:** evitar inhalar o dispersar el polvo; usar el EPI indicado por la FDS y el centro; no pipetear con la boca; comprobar el vidrio y los cierres; prevenir quemaduras por líquido caliente, vapor y presión; identificar los tubos antes de esterilizar. No clasifiques automáticamente el caldo sin inocular como residuo infeccioso: aplica la ruta de eliminación indicada por el centro según su composición y posible contaminación.
 
-**Medidas obligatorias:** usar el EPI indicado; consultar las FDS de los reactivos; minimizar la dispersión de polvo; comprobar la compatibilidad de los recipientes; etiquetar antes de esterilizar; mantener el puesto limpio; gestionar residuos conforme al protocolo; y utilizar el autoclave solo bajo formación, autorización y supervisión previstas por el centro.
-
-> **Aviso de seguridad.** La práctica es `CONDITIONAL`. El uso del autoclave requiere `AUTOCLAVE_OPERATIONAL_VALIDATION`, protocolo vigente, formación acreditada o supervisión autorizada. Si este requisito no se cumple, el alumnado podrá preparar, calcular, etiquetar y documentar el medio, mientras que la esterilización se observará mediante demostración, registro docente o evidencia equivalente.
+> **Autorización del autoclave.** Se mantienen los requisitos de `AUTOCLAVE_OPERATIONAL_VALIDATION`, protocolo vigente y personal formado o supervisión autorizada. La carga, ciclo, enfriamiento y apertura se realizan conforme al protocolo del equipo. Si no está autorizada la esterilización real, documenta la preparación y la demostración o evidencia docente; no declares los tubos esterilizados por ti.
 
 ## 5. Fundamento técnico
 
-Un medio de cultivo es una preparación que aporta nutrientes y condiciones adecuadas para el desarrollo controlado de microorganismos. En un medio líquido, los componentes se encuentran en solución; a diferencia de un medio sólido, no incorpora un agente gelificante para crear una superficie estable.
+El caldo BHI es un medio nutritivo líquido. Se utiliza la mezcla deshidratada completa; la composición y las condiciones de reconstitución corresponden al producto concreto, no a una fórmula genérica tomada de otra marca. En esta práctica el corrector de pH ya está incorporado: **no se añade corrector ni se ajusta el pH por iniciativa propia**. Si la ficha prescribe comprobar el pH, el docente indicará cómo hacerlo y cómo actuar ante una desviación.
 
-La calidad del medio no depende solo de la fórmula. También exige cálculos correctos, pesada precisa, disolución homogénea, recipientes y cierre adecuados, esterilización conforme al procedimiento validado, etiquetado y conservación según las indicaciones del fabricante y del centro. Un error en cualquiera de estas fases puede comprometer el uso posterior del medio y la trazabilidad del proceso.
+### Cálculo para el lote del grupo
 
-El documento adjunto presenta ejemplos históricos de formulaciones, escalado y esterilización. Se utiliza como referencia para entender la secuencia general. Las fórmulas, cantidades, volúmenes, temperaturas, tiempos de esterilización y condiciones de almacenamiento que se apliquen serán exclusivamente las indicadas por el centro y los protocolos vigentes.
+Si la etiqueta expresa la dosis como **C gramos por litro**, la masa para la preparación de 50 mL se calcula así:
+
+**m (g) = C (g/L) × 0,050 L**
+
+Si expresa **M gramos para V mL**, utiliza **m (g) = M (g) × 50 mL / V (mL)**. Copia la dosis real del producto antes de sustituir los valores; no se fija una masa universal para el BHI.
+
+Respeta la redacción de la ficha: «suspender en un volumen de agua» y «completar hasta un volumen final» son instrucciones distintas. Escala a 50 mL la preparación indicada y no añadas agua de nuevo arbitrariamente tras disolver.
+
+**Volumen dispensado: 6 × 8 mL = 48 mL. Margen teórico: 50 − 48 = 2 mL.** No alteres la concentración para compensar pérdidas. Si no alcanza para seis tubos, registra la incidencia y consulta al docente.
 
 ## 6. Secuencia de trabajo y controles de calidad
 
 ### Secuencia general
 
-1. Identificar el medio indicado, su fórmula, el volumen final y las FDS de los componentes.
-2. Calcular individualmente las cantidades necesarias para el volumen de trabajo y comprobarlas con el centro.
-3. Preparar el material limpio, comprobar la balanza y pesar o medir los componentes conforme a la fórmula validada.
-4. Añadir el agua y los componentes siguiendo el orden indicado; homogeneizar con el equipo y método autorizados.
-5. Verificar el aspecto del medio y, cuando el protocolo lo establezca, medir o ajustar parámetros como el volumen o el pH.
-6. Dispensar en recipientes compatibles, cerrar o preparar los cierres según la norma del centro y etiquetar antes de la esterilización.
-7. Esterilizar únicamente mediante el procedimiento autorizado y con el equipo validado; registrar el ciclo o la evidencia de la demostración.
-8. Tras el enfriamiento y la inspección indicados, registrar el aspecto final, la identificación, el control de esterilidad previsto y la ubicación de conservación.
+Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con agua destilada → seis tubos de 8 mL → esterilización del medio en los tubos → enfriamiento, inspección y registro.
 
 ### Procedimiento específico
 
-**[PNT](https://www.iso.org/standard/53610.html) de referencia:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html)
+**[PNT/procedimiento institucional de referencia: Universidad de Granada, «Preparación de medios de cultivo», apartado «Medios líquidos»](https://www.ugr.es/~pomif/pom-bac/pb-i/pb-i-3-metodos.htm).** Se utiliza como referencia docente pública para la rehidratación según el fabricante y el acondicionamiento en tubos antes de esterilizar; no sustituye el protocolo operativo del centro.
 
-1. Confirma fórmula, volumen, componentes, fichas de seguridad, recipientes, balanza y autoclave validado; trabaja con autorización.
-2. Calcula cantidades y registra unidades; verifica el escalado con el centro antes de pesar.
-3. Pesa o mide componentes con material calibrado; identifica lotes y evita dispersar polvos.
-4. Disuelve y homogeneiza en el orden indicado usando agua y agitador autorizados; comprueba aspecto y pH si procede.
-5. Dispensa en recipientes compatibles, deja espacio de seguridad, cierra y etiqueta antes de esterilizar.
-6. Esteriliza solo con ciclo validado y supervisión; registra parámetros del equipo o de la demostración.
-7. Inspecciona aspecto, volumen, integridad y control de esterilidad; conserva y registra incidencias.
+1. Lee la etiqueta o ficha técnica del BHI disponible; registra fabricante, referencia, lote, caducidad, dosis, instrucciones de reconstitución y esterilización. Confirma con el docente su aplicación a esta preparación.
+2. Comprueba los recursos de 8.1, la limpieza del material y la compatibilidad de seis tubos y cierres con el autoclave. Usa el EPI indicado y verifica la autorización del equipo.
+3. Calcula la masa de BHI para 50 mL usando la dosis de la etiqueta. Comprueba que seis tubos de 8 mL requieren 48 mL y dejan un margen teórico de 2 mL.
+4. Pesa la masa calculada con la balanza verificada y material limpio. Registra la masa realmente pesada, evita dispersar el polvo y cierra el envase del medio deshidratado.
+5. Reconstituye el BHI con agua destilada siguiendo la ficha, incluida la forma de medir el agua o completar el volumen. Homogeneiza; aplica calentamiento solo si lo exige el producto y está autorizado.
+6. Comprueba la disolución y el aspecto conforme a la ficha. No añadas corrector de pH: ya está incorporado. Si se exige comprobar el pH, sigue la indicación docente y registra el resultado.
+7. Identifica seis tubos con BHI, grupo, fecha y numeración 1–6. Dispensa 8 mL en cada tubo con pipeta o dispensador adecuado; evita contaminar el contenido y conserva el espacio de seguridad.
+8. Acondiciona los cierres según el protocolo del autoclave y coloca los tubos verticales en soporte compatible. No esterilices recipientes herméticamente cerrados; registra cualquier sobrante y gestiona su destino según el centro.
+9. Esteriliza el caldo ya dispensado en los seis tubos mediante el ciclo validado para líquidos y esta carga. El personal autorizado verificará su compatibilidad con la ficha del BHI; registra ciclo, parámetros y controles.
+10. Deja enfriar y descarga solo cuando el equipo y el protocolo lo permitan. Manipula con protección adecuada, comprueba integridad, cierres y aspecto, y registra pérdidas o cambios sin rellenar los tubos por iniciativa propia.
+11. Identifica el lote y su estado de control. Conserva los tubos según la ficha y el centro; registra los controles de esterilidad y calidad previstos, realizados o pendientes, sin inocularlos en esta práctica.
 
 ### Controles de calidad
 
-- Fórmula, unidades y cálculo de escalado verificados.
-- Componentes, lotes y caducidades registrados cuando sean relevantes.
-- Medio homogéneo, sin precipitados o contaminación visible no esperada.
-- Volumen, recipiente, cierre y etiqueta conformes al protocolo.
-- Ciclo de esterilización o evidencia alternativa trazable, cuando proceda.
-- Control de esterilidad y conservación documentados de acuerdo con el procedimiento del centro.
+- Dosis trazable a la etiqueta/ficha del producto y cálculo para 50 mL verificado.
+- Masa pesada y preparación con agua destilada registradas; corrector de pH incorporado, sin adiciones no indicadas.
+- Seis tubos identificados y 8 mL dispensados en cada uno antes de esterilizar; incidencias de volumen registradas.
+- Aspecto acorde al producto, tubos íntegros y cierre adecuado para cada fase.
+- Ciclo del autoclave y controles del proceso documentados. El aspecto por sí solo no acredita esterilidad ni capacidad nutritiva.
+- Estado de los controles de esterilidad/calidad y conservación indicado; no afirmar aptitud de uso mientras falte una comprobación exigida.
+
+### Referencias técnicas y alcance
+
+- **Universidad de Granada:** [«Preparación de medios de cultivo», «Medios líquidos» y acondicionamiento para esterilización](https://www.ugr.es/~pomif/pom-bac/pb-i/pb-i-3-metodos.htm). Procedimiento docente sin fecha o versión identificada en la página; consultado el **06/10/2026**.
+- **Universidad Miguel Hernández de Elche, Docencia de Microbiología:** [«1. Preparación de medios de cultivo»](https://docenciamicrobiologia.umh.es/indice-de-practicas/1-preparacion-de-medios-de-cultivo/). Corrobora la disolución según el fabricante y la distribución del medio líquido en tubos antes de autoclavar. Sus volúmenes de ejemplo no se trasladan a esta práctica; el encargo docente fija seis tubos de 8 mL. Sin fecha o versión identificada; consultado el **06/10/2026**.
+- **Etiqueta/ficha técnica del caldo BHI disponible:** fuente operativa para dosis, reconstitución, características, esterilización y conservación. El alumnado registrará su identificación; fabricante y referencia todavía no aportados.
+- **Protocolo del autoclave del centro:** determina la operación segura y el ciclo validado para la carga. Su identificación y parámetros se completarán con el docente.
 
 ---
 
@@ -109,8 +120,8 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 - **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Nombre o código del medio preparado:** [Completa]
-- **Volumen final previsto:** [Completa con unidad]
+- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -136,37 +147,70 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
+| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
+| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de material preparado, indícalo: no puede presentarse como ejecución propia.
 
-### Imagen 1 — Pesada o preparación de los componentes
+### Imagen 1 — Pesada del BHI deshidratado
 
-![Pesada o preparación de los componentes](../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg)
+- **Archivo previsto:** `../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg`
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, material volumétrico o medida de seguridad]
-- **Dato de trazabilidad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+![Pesada del BHI deshidratado](../assets/P07/pesada_o_preparacion_de_los_componentes_01.jpg)
 
-### Imagen 2 — Disolución, homogeneización o dispensación
+*Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
-![Disolución, homogeneización o dispensación](../assets/P07/disolucion_homogeneizacion_o_dispensacion_02.jpg)
+- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
 
-- **Pie de foto:** [Qué se observa y en qué fase se tomó]
-- **Control o decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia / demostración docente / registro docente; especifica]
+### Imagen 2 — Disolución del lote de 50 mL
 
-### Imagen 3 — Medio final etiquetado o control de calidad
+- **Archivo previsto:** `../assets/P07/disolucion_homogeneizacion_o_dispensacion_02.jpg`
 
-![Medio final etiquetado o control de calidad](../assets/P07/medio_final_etiquetado_o_control_de_calidad_03.jpg)
+![Disolución del lote de 50 mL](../assets/P07/disolucion_homogeneizacion_o_dispensacion_02.jpg)
 
-- **Pie de foto:** [Aspecto del medio, etiqueta o resultado de control]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
-- **Autoría y origen:** [Completa]
+*Figura 2. Preparación del BHI con agua destilada; indica cómo se midió el volumen y el aspecto de la disolución.*
+
+- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+
+### Imagen 3 — Dispensación de 8 mL y seis tubos identificados
+
+- **Archivo previsto:** `../assets/P07/dispensacion_seis_tubos_04.jpg`
+
+![Dispensación de 8 mL y seis tubos identificados](../assets/P07/dispensacion_seis_tubos_04.jpg)
+
+*Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
+
+- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+
+### Imagen 4 — Acondicionamiento y registro del ciclo
+
+- **Archivo previsto:** `../assets/P07/acondicionamiento_autoclave_05.jpg`
+
+![Acondicionamiento y registro del ciclo](../assets/P07/acondicionamiento_autoclave_05.jpg)
+
+*Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
+
+- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+
+### Imagen 5 — Caldo BHI final y estado de control
+
+- **Archivo previsto:** `../assets/P07/medio_final_etiquetado_o_control_de_calidad_03.jpg`
+
+![Caldo BHI final y estado de control](../assets/P07/medio_final_etiquetado_o_control_de_calidad_03.jpg)
+
+*Figura 5. Tubos de BHI tras el enfriamiento; describe aspecto, integridad y controles realizados o pendientes.*
+
+- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
+- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+
+Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imágenes para documentar una fase no realizada. Sube cada archivo a la ruta indicada y comprueba la vista previa.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -176,13 +220,13 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Interpreta si el medio obtenido cumple los criterios de fórmula, homogeneidad, acondicionamiento, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
+Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
 [Escribe aquí tu interpretación técnica.]
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo de seleccionar, preparar, acondicionar y documentar un medio líquido. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
+Indica si alcanzaste el objetivo de preparar 50 mL de BHI y obtener seis tubos con 8 mL dispensados antes de esterilizar el medio en los propios tubos. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
@@ -190,19 +234,19 @@ Indica si alcanzaste el objetivo de seleccionar, preparar, acondicionar y docume
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con cálculos, observaciones o imágenes incluidas en tu cuaderno.
 
-1. **Procedimiento:** ¿Qué paso del cálculo, pesada, disolución o dispensación consideras más crítico para obtener un medio útil y cómo comprobaste que se realizó correctamente?
+**1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
    [Respuesta del alumnado]
 
-2. **Interpretación:** ¿Qué controles permiten valorar que el medio está correctamente preparado y qué control debe permanecer pendiente hasta que se complete el procedimiento establecido por el centro?
+**2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
    [Respuesta del alumnado]
 
-3. **Conclusiones:** ¿Qué evidencia de tu cuaderno respalda mejor que el medio es trazable y apto para continuar su control de calidad? ¿Qué limitación evita afirmar que está listo para cualquier uso?
+**3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
    [Respuesta del alumnado]
 
-4. **Aprendizaje y transferencia:** ¿Cómo aplicarás los cálculos y el etiquetado de esta práctica cuando prepares otro medio o debas interpretar un resultado de cultivo posterior?
+**4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
    [Respuesta del alumnado]
 
@@ -214,7 +258,8 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha | [dd/mm/aaaa] |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
 | Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula y volumen final | [Completa] |
+| Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
+| Dispensación y esterilización | [Seis tubos: volumen dispensado, identificación, ciclo y controles; indica incidencias y modalidad] |
 | Componentes, lotes y caducidades relevantes | [Completa] |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9] |

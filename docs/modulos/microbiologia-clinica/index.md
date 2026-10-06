@@ -53,7 +53,7 @@ Plantilla digital para documentar, interpretar y comunicar el trabajo práctico 
 | P04 | [Tinción de Gram](practicas-generadas/P04_Tincion_de_Gram.md) | [ ] Pendiente |
 | P05 | [Tinción de Ziehl-Neelsen](practicas-generadas/P05_Ziehl_Neelsen.md) | [ ] Pendiente |
 | P06 | [Tinción de endosporas](practicas-generadas/P06_Tincion_de_endosporas.md) | [ ] Pendiente |
-| P07 | [Elaboración de medio de cultivo líquido](practicas-generadas/P07_Medio_liquido.md) | [ ] Pendiente |
+| P07 | [Elaboración de caldo BHI: seis tubos de 8 mL por grupo](practicas-generadas/P07_Medio_liquido.md) | [ ] Pendiente |
 | P08 | [Recuperación de cultivos liofilizados](practicas-generadas/P08_Recuperacion_de_liofilizados.md) | [ ] Pendiente |
 | P09 | [Elaboración de medio de cultivo sólido en placa](practicas-generadas/P09_Medio_solido_en_placa.md) | [ ] Pendiente |
 | P10 | [Siembra en estría simple o continua](practicas-generadas/P10_Siembra_en_estria.md) | [ ] Pendiente |
