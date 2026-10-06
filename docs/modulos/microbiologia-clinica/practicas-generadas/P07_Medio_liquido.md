@@ -226,7 +226,7 @@ Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo de preparar 50 mL de BHI y obtener seis tubos con 8 mL dispensados antes de esterilizar el medio en los propios tubos. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
+¿El resultado obtenido y el procedimiento realizado cumplen el objetivo de obtener un medio de cultivo listo para la inoculación y el cultivo de bacterias? Justifica brevemente tu conclusión.
 
 [Escribe aquí tu conclusión.]
 
