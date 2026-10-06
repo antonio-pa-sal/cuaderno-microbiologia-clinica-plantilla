@@ -247,19 +247,19 @@ Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo
 
 Responde individualmente y relaciona cada respuesta con datos, observaciones o imágenes de esta ficha.
 
-**1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente?
+**1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente? ¿Qué medidas de bioseguridad específicas aplicaste durante el destaponado de los tubos y el trasvase de líquidos?
 
    [Respuesta del alumnado]
 
-**2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? ¿Qué límite tuvo su identificación?
+**2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
 
    [Respuesta del alumnado]
 
-**3. Conclusiones:** ¿Qué demuestra el trasvase del plasma y por qué no equivale a preparar componentes para transfusión?
+**3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
    [Respuesta del alumnado]
 
-**4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica qué condición de calidad aplicarías también allí.
+**4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica y justifica tu respuesta.
 
    [Respuesta del alumnado]
 
