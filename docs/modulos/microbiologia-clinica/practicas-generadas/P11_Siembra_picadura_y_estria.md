@@ -179,34 +179,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y trazabilidad correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Tubo y medio identificados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Actividad ejecutada u observada según la instrucción | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Zona profunda o picadura registrada | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Zona inclinada o estría registrada | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Lectura autorizada y control/referencia disponibles | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Descripción de resultados
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Zona o evidencia | Descripción objetiva de lo observado | Fuente de la evidencia | Interpretación prudente y limitación |
-| --- | --- | --- | --- |
-| Zona profunda / picadura | [Ubicación, continuidad, extensión, aspecto u otra observación] | [Propia / demostración / imagen docente / simulación] | [Escribe aquí] |
-| Zona inclinada / estría | [Ubicación, continuidad, extensión, aspecto u otra observación] | [Propia / demostración / imagen docente / simulación] | [Escribe aquí] |
-| Comparación o control | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-> Resume en 3–5 líneas qué evidencia se obtuvo y qué se puede afirmar con ella.
+### 9.1 Registro de observaciones y cálculos
 
-[Escribe aquí]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

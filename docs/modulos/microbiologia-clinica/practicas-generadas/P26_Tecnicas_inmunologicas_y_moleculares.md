@@ -189,47 +189,33 @@ Antes de revisar los resultados, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Identificación y trazabilidad del ensayo | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
-| Control positivo o calibrador | [Válido / inválido / no disponible] | [Escribe aquí] | [Escribe aquí] |
-| Control negativo/blanco | [Válido / inválido / no disponible] | [Escribe aquí] | [Escribe aquí] |
-| Control interno de extracción/amplificación | [Válido / inválido / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Fondo, autofluorescencia o señal inespecífica | [Normal / elevado / dudoso] | [Escribe aquí] | [Escribe aquí] |
-| Umbral, unidad y criterio disponibles | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Lectura inmunológica
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Ensayo/código | Señal observada | Control y umbral | Categoría | Limitación o posible interferencia |
-| --- | --- | --- | --- | --- |
-| [Escribe aquí] | [Color/fluorescencia/línea/absorbancia] | [Escribe aquí] | [Positivo/negativo/indeterminado/inválido] | [Escribe aquí] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Lectura molecular
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Diana/código | Curva o señal | Cq/Ct o unidad | Control interno | Categoría | Limitación |
-| --- | --- | --- | --- | --- | --- |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Válido/inválido/no aplica] | [Positivo/negativo/indeterminado] | [Escribe aquí] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Válido/inválido/no aplica] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Comparación y decisión
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Resultado o técnica | Evidencia a favor | Evidencia en contra | Discordancia posible | Decisión |
-| --- | --- | --- | --- | --- |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Repetir/confirmar/derivar/cerrar] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-
-### Resultados simulados del caso
-
-Se incorporan aquí las imágenes, curvas, tablas, controles y criterios necesarios. No se incluyen datos clínicos identificables.
-
-| Técnica/código | Resultado aportado | Controles y criterio | Observación docente |
-| --- | --- | --- | --- |
-| [Completar] | [Completar] | [Completar] | [Completar] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

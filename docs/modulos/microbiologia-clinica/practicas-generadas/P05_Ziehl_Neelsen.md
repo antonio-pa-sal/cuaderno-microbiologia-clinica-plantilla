@@ -117,49 +117,31 @@ El PDF adjunto describe una técnica clásica con calor y reactivos concretos. S
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Modalidad segura y origen del material | [Completa] |
-| Información de seguridad recibida | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Controles disponibles en el material docente | [Completa / No disponibles] |
-| Configuración microscópica utilizada | [Completa] |
-| Ruta de residuos o devolución del material | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis de lectura
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Antes de observar, describe qué aspecto esperarías encontrar en una preparación compatible con una reacción ácido-alcohol resistente y qué control o condición deberías comprobar antes de aceptarla como válida.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis.]
+### 9.1 Registro de observaciones y cálculos
 
-## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 10.1 Comprobación de calidad
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
-| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
-|---|---|---|---|
-| Material identificado como seguro y autorizado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Preparación o imagen de calidad suficiente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Control positivo, si procede | [Completa / No disponible] | [Sí / No / No aplicaba] | [Completa] |
-| Control negativo, si procede | [Completa / No disponible] | [Sí / No / No aplicaba] | [Completa] |
-| Diferenciación de artefactos y estructuras teñidas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Gestión de residuos o devolución correcta | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-
-### 10.2 Registro de hallazgos
-
-| Campo o preparación observada | Morfología y disposición | Coloración o contraste observado | Interpretación orientativa | Limitación o duda |
-|---|---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### Resultado principal
-
-Resume la interpretación obtenida y el apoyo que aportan los controles. Indica expresamente la modalidad de la evidencia y por qué el resultado no equivale a un diagnóstico ni a una identificación definitiva.
-
-[Escribe aquí el resultado principal.]
-
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, una imagen diagnóstica o una demostración docente, indícalo: no puede presentarse como una ejecución propia.
 
@@ -187,25 +169,25 @@ Resume la interpretación obtenida y el apoyo que aportan los controles. Indica 
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la lectura]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la morfología, disposición y coloración observadas. Explica cómo los controles apoyan o limitan la lectura, qué artefactos podrían confundirse con estructuras teñidas y por qué una observación compatible con BAAR no identifica por sí sola un microorganismo ni establece un diagnóstico.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de reconocer e interpretar una tinción de Ziehl-Neelsen mediante material seguro. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, la imagen, los controles o la modalidad empleada.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -225,7 +207,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -235,10 +217,10 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Reactivos o referencias, si proceden | [Completa o escribe “No aplicaba”] |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 10.2] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 

@@ -109,44 +109,29 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis u observación inicial
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis u observación inicial.]
+### 9.1 Registro de observaciones y cálculos
 
-## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 9.1 Comprobación de calidad
-
-| Control o criterio | Evidencia observada | ¿Adecuado? | Justificación |
-|---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Método/fórmula/criterio aplicado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Modalidad y límites correctamente registrados | [Completa] | [Sí / No / Parcial] | [Completa] |
-
-### 9.2 Registro de observaciones o cálculos
-
-| Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
-|---|---|---|---|---|
-| [Registro 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### 9.3 Resultado principal
-
-Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
-
-[Escribe aquí el resultado principal.]
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -257,8 +242,8 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen de evidencia | [Completa] |
 | Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
 | Ruta de residuos | [Completa o «No aplica»] |

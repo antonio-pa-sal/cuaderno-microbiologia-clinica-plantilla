@@ -186,62 +186,33 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad, código y procedencia correctamente declarados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Material contenido y no manipulado fuera del [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia21.pdf) | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Preparación sin burbujas o artefactos relevantes | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Reactivo y cubreobjetos adecuados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Aumento y zona de observación registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Clave o guía aplicable y disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Descripción macroscópica
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Rasgo | Observación | Condición o limitación |
-| --- | --- | --- |
-| Velocidad/edad aparente del crecimiento | [Escribe aquí] | [Escribe aquí] |
-| Textura (algodonosa, aterciopelada, pulverulenta u otra) | [Escribe aquí] | [Escribe aquí] |
-| Relieve y topografía | [Escribe aquí] | [Escribe aquí] |
-| Color del anverso | [Escribe aquí] | [Escribe aquí] |
-| Color del reverso | [Escribe aquí] | [Escribe aquí] |
-| Pigmento difusible o exudados | [Escribe aquí] | [Escribe aquí] |
-| Diámetro/forma o borde, si el material lo permite | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Descripción microscópica
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Estructura o rasgo | Observación | Aumento/zona | Calidad o limitación |
-| --- | --- | --- | --- |
-| Hifas y septos | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Ramificación y disposición | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Conidióforos, esporangióforos u otras estructuras | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Conidios, esporangios o estructuras reproductoras | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Forma, agrupación y ornamentación | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Artefactos, contaminación o estructuras no valorables | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Decisiones de la clave
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Paso de la clave | Rasgo observado | Opción elegida | Evidencia/imagen | Si no es valorable, ¿por qué? |
-| --- | --- | --- | --- | --- |
-| 1 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 2 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 3 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 4 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Identificación y confianza
-
-| Resultado | Registro |
-| --- | --- |
-| Grupo o género compatible | [Escribe aquí] |
-| Especie propuesta, si la clave permite llegar a ella | [Escribe aquí] |
-| Nivel de identificación | [Compatible / presuntiva / confirmatoria / inconclusa] |
-| Rasgos decisivos | [Escribe aquí] |
-| Rasgos discordantes o ausentes | [Escribe aquí] |
-| Prueba o preparación adicional necesaria | [Escribe aquí] |
-| Confianza | [Alta / media / baja; justifica] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

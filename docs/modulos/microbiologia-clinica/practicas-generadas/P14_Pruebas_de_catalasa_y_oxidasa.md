@@ -187,33 +187,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Control de validez
+### 8.1 Verificación previa
 
-| Prueba | Control | Respuesta esperada | Respuesta observada | ¿Control válido? | Consecuencia para la muestra |
-| --- | --- | --- | --- | --- | --- |
-| Catalasa | Positivo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
-| Catalasa | Negativo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
-| Oxidasa | Positivo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
-| Oxidasa | Negativo | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-> Si un control no es válido, no interpretes la muestra como positiva o negativa. Registra el resultado como no válido o no valorable y sigue la indicación del centro.
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### [ALUMNADO · RELLENABLE] Registro de resultados de la muestra
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-| Prueba | Observación dentro de la ventana válida | Resultado inicial | Fuente de evidencia | Limitación o incidencia |
-| --- | --- | --- | --- | --- |
-| Catalasa | [Escribe aquí] | [Positivo / negativo / no válido / no valorable] | [Propia / demostración / imagen docente / simulación] | [Escribe aquí] |
-| Oxidasa | [Escribe aquí] | [Positivo / negativo / no válido / no valorable] | [Propia / demostración / imagen docente / simulación] | [Escribe aquí] |
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
+### 9.1 Registro de observaciones y cálculos
 
-> Resume en 3–5 líneas qué pruebas fueron válidas, qué resultado se obtuvo en cada una y qué información de identificación puede orientar ese patrón sin afirmar una especie.
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

@@ -185,54 +185,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados, lectura y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Itinerario y autorización correctamente declarados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Escala/patrón identificado, vigente e íntegro | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Método de lectura o comparación definido | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Condición de iluminación o instrumento registrada | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control o referencia de lectura disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Residuos y cierre de actividad registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro de comparación
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Referencia | Aspecto observado o lectura | Coincidencia o intervalo más próximo | Método y condición | Resultado de la comparación |
-| --- | --- | --- | --- | --- |
-| Patrón 1 | [Escribe aquí] | [Escribe aquí] | [Visual / instrumental; condición] | [Escribe aquí] |
-| Patrón 2 | [Escribe aquí] | [Escribe aquí] | [Visual / instrumental; condición] | [Escribe aquí] |
-| Patrón elegido o intervalo | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Registro de preparación, si procede
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Elemento del patrón | Registro |
-| --- | --- |
-| Composición o material autorizado | [Escribe aquí; no inventes concentraciones] |
-| Cálculo o proporción indicada por el [PNT](https://www.eucast.org/bacteria/methodology-and-instructions/disk-diffusion-and-quality-control/) | [Escribe aquí] |
-| Volúmenes o cantidades realmente utilizadas | [Escribe aquí] |
-| Identificación de cada tubo o nivel | [Escribe aquí] |
-| Fecha, responsable y conservación | [Escribe aquí] |
-| Control de uniformidad o aceptación | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Decisión técnica
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Pregunta | Decisión y justificación |
-| --- | --- |
-| ¿La escala o patrón es utilizable? | [Aceptar / revisar / rechazar / no valorar] — [Escribe aquí] |
-| ¿La suspensión coincide con el nivel previsto? | [Sí / no / intervalo / no valorable] — [Escribe aquí] |
-| ¿Requiere ajuste o repetición? | [Sí / no / no aplica] — [Escribe aquí] |
-| ¿Puede emplearse para el propósito docente indicado? | [Sí / no / solo con limitaciones] — [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas el nivel o intervalo observado, la validez de la referencia, la decisión técnica y la principal limitación.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

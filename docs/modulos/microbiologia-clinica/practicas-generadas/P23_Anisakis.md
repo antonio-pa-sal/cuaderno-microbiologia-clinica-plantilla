@@ -189,45 +189,33 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad, código y procedencia correctamente declarados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| EPI, control de cortes y alérgenos | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Ejemplar/material contenido y no destinado al consumo | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Zona inspeccionada y alcance registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Lupa/estereomicroscopio y aumento disponibles | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Guía, control o comparación aplicable disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro del ejemplar y la búsqueda
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Zona examinada | Condición observada | Tiempo/alcance de búsqueda | Estructuras encontradas | Limitación |
-| --- | --- | --- | --- | --- |
-| Cavidad visceral | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Superficie muscular | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Otra zona/preparación | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Descripción de estructuras
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Código de estructura | Número observado | Forma/tamaño relativo | Extremos/enrollamiento | Relación con tejido | Clasificación provisional |
-| --- | ---: | --- | --- | --- | --- |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Compatible / artefacto / no concluyente] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Compatible / artefacto / no concluyente] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Identificación y confianza
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Resultado | Registro |
-| --- | --- |
-| Estructura o grupo compatible | [Escribe aquí] |
-| Rasgos decisivos | [Escribe aquí] |
-| Alternativas descartadas y por qué | [Escribe aquí] |
-| Nivel de identificación | [Compatible / presuntiva / confirmatoria / artefacto / no observado / inconclusa] |
-| Confirmación o técnica adicional necesaria | [Escribe aquí] |
-| Acción de seguridad/comunicación | [Escribe aquí] |
-| Confianza | [Alta / media / baja; justifica] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

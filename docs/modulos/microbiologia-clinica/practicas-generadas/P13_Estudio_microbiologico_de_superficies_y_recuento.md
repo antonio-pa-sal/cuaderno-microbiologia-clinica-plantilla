@@ -186,48 +186,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados, recuento y cálculo
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y trazabilidad correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Escenario y método autorizados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Unidad de referencia y regla de cálculo disponibles | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Lectura o dato de partida identificable | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control, comparación o referencia disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Residuos y cierre de actividad registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro de resultados
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Código | Condición o momento | Dato bruto de recuento o conjunto de datos | Unidad inicial | Observación de lectura | Fuente de la evidencia |
-| --- | --- | --- | --- | --- | --- |
-| Muestra / condición A | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / demostración / dato docente / simulación] |
-| Muestra / condición B | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / demostración / dato docente / simulación] |
-| Control o referencia | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / demostración / dato docente / simulación] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Cálculo trazable
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Elemento | Registro |
-| --- | --- |
-| Regla de cálculo indicada por el [PNT](https://www.iso.org/standard/64950.html) o por el conjunto de datos | [Escribe aquí] |
-| Dato de partida utilizado | [Escribe aquí] |
-| Área, factor o unidad de conversión aplicable | [Escribe aquí] |
-| Operación realizada | [Escribe aquí] |
-| Resultado calculado | [Escribe aquí] |
-| Unidad final de expresión | [Escribe aquí] |
-| Control de plausibilidad o revisión por pares | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-> Muestra el cálculo con claridad. Si no se dispone de la unidad, del área o de la regla de conversión, registra el dato bruto y explica por qué no puede expresarse un resultado normalizado.
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas la comparación observada, el resultado calculado o no calculable y una limitación que afecte a su interpretación.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

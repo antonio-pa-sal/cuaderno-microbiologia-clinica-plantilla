@@ -113,52 +113,31 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Modalidad de práctica y autorización del material | [Completa] |
-| Placa, medio y evidencia correctamente identificados | [Completa] |
-| EPI, desinfección y medidas de bioseguridad aplicadas | [Completa] |
-| Patrón de estría indicado por el centro | [Completa] |
-| Control o evidencia de referencia disponible | [Completa / No disponible] |
-| Ruta de residuos y límite de lectura confirmados | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis de resultado
-
-Antes de ejecutar u observar la práctica, explica qué patrón de crecimiento o distribución esperarías si la técnica se aplica correctamente. Indica qué dato necesitarías para distinguir un patrón técnico de una posible incidencia.
-
-[Escribe aquí tu hipótesis.]
-
-## 10. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
-
-### 10.1 Comprobación de calidad
-
-| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
-|---|---|---|---|
-| Modalidad y material declarados con trazabilidad | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Técnica aséptica o simulación correctamente aplicada | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Placa identificada y gestionada conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Patrón de estría o evidencia de referencia interpretable | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Lectura autorizada y registro macroscópico suficiente | [Completa] | [Sí / No / Pendiente / No aplicaba] | [Completa] |
-| Incidencias y acciones registradas | [Completa] | [Sí / No / No hubo] | [Completa] |
-
-### 10.2 Descripción macroscópica del resultado
-
-| Aspecto observado | Registro |
+| Residuo previsto | Tipo |
 |---|---|
-| Evidencia utilizada para la lectura | [Placa segura / imagen docente / registro docente / no disponible] |
-| Presencia o ausencia de crecimiento | [Completa] |
-| Distribución o patrón | [Completa] |
-| Densidad relativa o aspecto general | [Completa] |
-| Indicio de contaminación o limitación | [Completa] |
-| Interpretación inicial | [Completa] |
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### Resultado principal
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes afirmar sobre la técnica y qué no puedes concluir sin controles adicionales o procedimientos de identificación.
+### 9.1 Registro de observaciones y cálculos
 
-[Escribe aquí el resultado principal.]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas sensibles ni material biológico cuya fotografía o apertura esté prohibida. Si la evidencia procede de una simulación, placa preparada, imagen o registro docente, indícalo: no puede presentarse como una ejecución propia.
 
@@ -186,25 +165,25 @@ Resume el patrón de crecimiento o la evidencia interpretada. Indica qué puedes
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la calidad de la técnica y el patrón de crecimiento observado. Explica qué controles apoyan la lectura, qué incidencia podría explicar un resultado no esperado y por qué una descripción macroscópica no permite identificar de forma definitiva un microorganismo ni declarar pureza sin controles posteriores.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de ejecutar, simular o interpretar una siembra en estría simple o continua de forma segura. Sustenta tu conclusión con registros, controles e imágenes, e identifica una limitación o resultado pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -224,7 +203,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -234,10 +213,10 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Placa, medio y referencia autorizada | [Completa] |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 10.2] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 12] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
 | Ruta de residuos y estado final de la placa | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 

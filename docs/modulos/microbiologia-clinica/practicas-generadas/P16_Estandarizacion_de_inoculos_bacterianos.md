@@ -187,54 +187,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados, controles y decisión
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y autorización correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Patrón identificado, íntegro y vigente | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Suspensión o cultivo de partida trazable | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Equipo o condición de lectura adecuado | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Comparación o ajuste repetible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Uso posterior y límite temporal documentados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro de lectura y ajuste
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Momento o muestra | Observación inicial | Patrón o intervalo comparado | Ajuste realizado | Lectura final | Fuente de evidencia |
-| --- | --- | --- | --- | --- | --- |
-| Suspensión de partida | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| Revisión o repetición | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| Control o referencia | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Fuentes de variabilidad
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Posible fuente de error | ¿Se observó? | Efecto posible | Medida adoptada o propuesta |
-| --- | --- | --- | --- |
-| Patrón deteriorado, sin identificar o no vigente | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Suspensión no homogénea o con agregados | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Diferencia de iluminación, fondo o instrumento | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Material de partida de edad o estado no documentado | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Variación entre operadores o tubos | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Tiempo o condición de uso no registrada | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Decisión técnica
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Pregunta | Decisión y justificación |
-| --- | --- |
-| ¿El patrón era utilizable? | [Aceptar / revisar / rechazar / no valorar] — [Escribe aquí] |
-| ¿La suspensión alcanzó el nivel previsto? | [Sí / no / intervalo / no valorable] — [Escribe aquí] |
-| ¿Requiere ajuste o repetición? | [Sí / no / no aplica] — [Escribe aquí] |
-| ¿Puede utilizarse para el propósito indicado? | [Sí / no / solo con limitaciones] — [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas el nivel alcanzado, la validez del ajuste, las fuentes de error y la decisión de uso.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

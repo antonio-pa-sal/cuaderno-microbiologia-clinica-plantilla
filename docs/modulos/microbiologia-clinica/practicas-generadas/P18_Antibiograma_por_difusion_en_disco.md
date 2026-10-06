@@ -190,60 +190,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y trazabilidad correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Inóculo estandarizado o documentado | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Medio adecuado e íntegro | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Discos identificados, vigentes y bien conservados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Siembra uniforme y distribución legible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control de calidad dentro de lo esperado | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Estándar vigente y aplicable disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Medida de halos
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Disco / antimicrobiano | Código, carga o identificación | Diámetro del halo (mm) | Forma y borde | Observaciones o incidencias | Fuente de evidencia |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| 2 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| 3 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| 4 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| 5 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
-| 6 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Propia / docente / simulación / datos] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Interpretación según estándar vigente
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Disco / antimicrobiano | Diámetro medido | Tabla o punto de corte consultado | Categoría resultante | ¿Aplicable y válida? | Comentario |
-| --- | --- | --- | --- | --- | --- |
-| 1 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
-| 2 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
-| 3 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
-| 4 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
-| 5 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
-| 6 | [mm] | [Referencia] | [Categoría / no interpretable] | [Sí / no / dudosa] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Control de anomalías
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Observación | ¿Se observó? | Posible efecto | Acción o limitación registrada |
-| --- | --- | --- | --- |
-| Crecimiento no uniforme | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Colonias dentro del halo | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Halo irregular o doble | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Halos solapados | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Contaminación o cultivo mixto | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Disco desplazado, deteriorado o sin identificar | [Sí / no / no valorable] | [Escribe aquí] | [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas los diámetros obtenidos, la validez del ensayo, las categorías asignadas y la principal limitación o necesidad de repetición.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

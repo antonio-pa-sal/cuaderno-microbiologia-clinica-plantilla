@@ -116,41 +116,31 @@ El PDF adjunto introduce el fundamento de la liofilización y remite al procedim
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Modalidad seleccionada y motivo | [Completa] |
-| Identidad/riesgo/procedimiento verificados por el responsable | [Completa / No se comunicó; explica] |
-| Infraestructura y ruta de residuos confirmadas | [Completa / No aplicaba por simulación] |
-| Materiales o registros disponibles | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Límite de actuación autorizado al alumnado | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis de calidad
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Antes de analizar el caso o el registro, explica qué evidencias necesitarías para considerar que una recuperación es trazable y que sus resultados de viabilidad/pureza pueden evaluarse. Indica qué ausencia de información te obligaría a detener la decisión.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis.]
+### 9.1 Registro de observaciones y cálculos
 
-## 10. Trazabilidad, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 10.1 Matriz de verificación
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
-| Control o criterio | Evidencia disponible | ¿Resultado válido? | Decisión o justificación |
-|---|---|---|---|
-| Modalidad de práctica correctamente declarada | [Completa] | [Sí / No] | [Completa] |
-| Identidad y referencia de procedimiento trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Autorización, infraestructura y residuos confirmados | [Completa] | [Sí / No / No aplicaba] | [Completa] |
-| Registro de viabilidad disponible e interpretable | [Completa] | [Sí / No / Pendiente] | [Completa] |
-| Registro de pureza disponible e interpretable | [Completa] | [Sí / No / Pendiente] | [Completa] |
-| Incidencias documentadas y escaladas si procede | [Completa] | [Sí / No / No hubo] | [Completa] |
-
-### 10.2 Resultado principal
-
-Resume el estado de la recuperación o del caso analizado. Indica qué puedes concluir sobre la trazabilidad, viabilidad y pureza; qué evidencia falta, si la hubiera; y cuál es la decisión correcta: continuar, repetir, detener o escalar.
-
-[Escribe aquí el resultado principal.]
-
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, códigos confidenciales, etiquetas sensibles ni imágenes de material biológico no autorizadas. Si la evidencia procede de una simulación, demostración o registro docente, indícalo de manera expresa: no puede presentarse como una ejecución biológica propia.
 
@@ -178,25 +168,25 @@ Resume el estado de la recuperación o del caso analizado. Indica qué puedes co
 - **Relación con la interpretación:** [Explica cómo la evidencia respalda o limita la conclusión]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la trazabilidad, la viabilidad y la pureza a partir de los registros disponibles. Explica por qué la modalidad elegida era adecuada, qué condición habría impedido una ejecución real y cómo una incidencia de identificación, contaminación o falta de registro modifica la decisión profesional.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de comprender o, solo si fue autorizado, participar en el flujo de recuperación de una cepa docente conservada. Sustenta tu conclusión con evidencias de trazabilidad y controles, e identifica cualquier límite que impida declarar la recuperación válida.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -216,7 +206,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -226,10 +216,10 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja / equipo; especifica] |
 | Modalidad y origen de la evidencia | [Completa] |
 | Referencia autorizada de protocolo o caso | [Completa] |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 10.2] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 12] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
 | Ruta de residuos o devolución del material | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 

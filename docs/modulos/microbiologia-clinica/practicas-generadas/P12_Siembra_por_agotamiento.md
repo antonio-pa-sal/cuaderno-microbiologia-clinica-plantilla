@@ -185,47 +185,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y trazabilidad correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Placa y medio identificados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Actividad ejecutada u observada según la instrucción | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Secuencia de zonas o sectores identificable | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Lectura autorizada y control/referencia disponibles | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Residuos y cierre de actividad registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro por zonas o sectores
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Zona o sector | Densidad o distribución del crecimiento | Colonias separadas observadas | Descripción objetiva | Fuente de la evidencia |
-| --- | --- | --- | --- | --- |
-| Inicial | [Confluente / abundante / escaso / sin crecimiento / no aplica] | [Sí / no / no valorable] | [Escribe aquí] | [Propia / demostración / placa docente / simulación] |
-| Intermedio | [Confluente / abundante / escaso / sin crecimiento / no aplica] | [Sí / no / no valorable] | [Escribe aquí] | [Propia / demostración / placa docente / simulación] |
-| Final | [Confluente / abundante / escaso / sin crecimiento / no aplica] | [Sí / no / no valorable] | [Escribe aquí] | [Propia / demostración / placa docente / simulación] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Descripción de una colonia potencialmente aislada
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Característica observable | Registro |
-| --- | --- |
-| Código de colonia o zona | [Escribe aquí] |
-| Posición respecto al patrón de agotamiento | [Escribe aquí] |
-| Tamaño aproximado | [Escribe aquí] |
-| Forma, borde y elevación | [Escribe aquí] |
-| Color, brillo, opacidad o textura | [Escribe aquí] |
-| Limitación de la observación | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-> Si no se observan colonias separadas, indícalo con claridad y explica qué evidencia apoya esa afirmación. No selecciones ni manipules colonias fuera de lo autorizado.
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas si el patrón observado permite valorar, impide valorar o no aporta datos suficientes para valorar el aislamiento de colonias. Incluye al menos una limitación.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

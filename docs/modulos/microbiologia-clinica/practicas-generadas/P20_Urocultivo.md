@@ -191,78 +191,33 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad, código y procedencia correctamente declarados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Medio íntegro y correctamente identificado | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Volumen del asa o del inóculo conocido | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Condiciones de incubación o fuente del dato disponibles | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control, comparación o criterio vigente disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Ausencia de datos identificables y cierre seguro | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Recuento y morfología
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Medio | Código | Colonias totales | Morfotipos observados | Colonias por morfotipo | Observaciones de crecimiento |
-| --- | --- | ---: | --- | --- | --- |
-| Agar sangre | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Agar CLED | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Otro/control | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Cálculo de UFC/mL
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Medio o morfotipo | Colonias contadas | Volumen inoculado (mL) | Factor de dilución | Operación | Resultado (UFC/mL) |
-| --- | ---: | ---: | ---: | --- | ---: |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-> Si no puede calcularse un valor normalizado porque falta el volumen, la dilución o la regla del método, conserva el dato bruto y declara el resultado como no calculable.
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### [ALUMNADO · RELLENABLE] Interpretación del medio CLED
-
-¿Qué información cualitativa aporta el CLED en este caso —crecimiento, morfología, fermentación u otra característica indicada por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia14a.pdf)— y qué no permite concluir por sí solo?
-
-[Escribe aquí]
-
-### Tabla de referencia para la actividad
-
-Se debe incorporar la tabla o el criterio vigente aplicable al tipo de muestra y al contexto del caso. Como mínimo, debe indicar tipo de muestra, población o situación relevante, umbral o regla, condiciones de validez, interpretación de crecimiento mixto y fuente/fecha.
-
-| Tipo de muestra o situación | Criterio/umbral aportado por el centro | Condiciones de validez | Interpretación |
-| --- | --- | --- | --- |
-| [Completar] | [Completar] | [Completar] | [Completar] |
-
-### [ALUMNADO · RELLENABLE] Valoración del resultado
-
-| Aspecto | Registro |
-| --- | --- |
-| ¿El recuento es interpretable? | [Sí / no / dudoso; justifica] |
-| ¿Cuántos morfotipos aparecen en agar sangre? | [Escribe aquí] |
-| ¿El crecimiento parece predominante, mixto, contaminante o ausente? | [Escribe aquí] |
-| Comparación con el criterio vigente | [Escribe aquí] |
-| Identificación o prueba posterior necesaria | [Escribe aquí] |
-| Resultado que se comunicaría | [Negativo / positivo presuntivo / mixto-contaminado / no interpretable / otro] |
-
-### [ALUMNADO · RELLENABLE] Preguntas técnicas del caso
-
-1. Calcula el número de UFC/mL en el agar sangre y valora el resultado según el criterio proporcionado por el centro.
-
-   [Respuesta y operación]
-
-2. En función de la morfología de las colonias del agar sangre, ¿cuántos morfotipos o posibles especies se distinguen? Explica por qué la morfología no confirma por sí sola la especie.
-
-   [Respuesta]
-
-3. ¿Qué información cualitativa puede obtenerse del agar CLED en este caso?
-
-   [Respuesta]
-
-4. ¿Cuál sería el procedimiento profesional siguiente ante un resultado positivo o relevante al recuento? Incluye confirmación, identificación, sensibilidad y comunicación, sin prescribir tratamiento.
-
-   [Respuesta]
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

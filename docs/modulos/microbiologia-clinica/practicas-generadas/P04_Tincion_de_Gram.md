@@ -116,49 +116,31 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Autorización del material o modalidad alternativa | [Completa] |
-| Kit vigente y FDS disponibles | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Estado e identificación del frotis | [Completa] |
-| Ruta de residuos comunicada | [Completa] |
-| Configuración microscópica utilizada | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis de lectura
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Antes de observar, indica qué esperas distinguir mediante la tinción de Gram y qué dato deberás comprobar antes de aceptar una clasificación como válida.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis.]
+### 9.1 Registro de observaciones y cálculos
 
-## 10. Controles y resultados de la tinción [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 10.1 Comprobación de calidad
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
-| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
-|---|---|---|---|
-| Kit y reactivos aptos para uso | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Frotis de calidad adecuada | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Secuencia y decoloración controladas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Control Gram positivo, si procede | [Completa / No disponible] | [Sí / No / No aplicaba] | [Completa] |
-| Control Gram negativo, si procede | [Completa / No disponible] | [Sí / No / No aplicaba] | [Completa] |
-| Gestión correcta de residuos y limpieza | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-
-### 10.2 Registro de hallazgos
-
-| Campo o preparación observada | Morfología y disposición | Reacción tintorial observada | Clasificación orientativa | Limitación o duda |
-|---|---|---|---|---|
-| [Observación 1] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Observación 2] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Observación 3] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### Resultado principal
-
-Resume la clasificación orientativa obtenida, su apoyo en los controles y cualquier limitación que impida una conclusión firme. Indica si el resultado procede de una ejecución propia, una preparación permanente o material docente.
-
-[Escribe aquí el resultado principal.]
-
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, una imagen docente o un vídeo, indícalo: no puede presentarse como una ejecución propia.
 
@@ -186,25 +168,25 @@ Resume la clasificación orientativa obtenida, su apoyo en los controles y cualq
 - **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita la clasificación]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la morfología, disposición y reacción tintorial observadas. Explica si los controles permiten aceptar la práctica, qué efecto tendría una sobredecoloración o una decoloración insuficiente y por qué el resultado no equivale a una identificación definitiva de especie.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de realizar o analizar una tinción de Gram válida. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, de los controles o del material utilizado.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -224,7 +206,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -234,10 +216,10 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / pareja; especifica] |
 | Modalidad y origen del material o evidencia | [Completa] |
 | Kit, reactivos y lotes o referencias | [Completa] |
-| Controles | [Resume o enlaza al apartado 10.1] |
-| Resultado | [Resume o enlaza al apartado 10.2] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos aplicada | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 

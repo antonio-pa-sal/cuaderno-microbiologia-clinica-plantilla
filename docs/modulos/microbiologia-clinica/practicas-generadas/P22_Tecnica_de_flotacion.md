@@ -187,48 +187,33 @@ Antes de realizar o revisar la actividad, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad, código y procedencia correctamente declarados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Solución de flotación identificada y válida | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Secuencia de filtrado/separación documentada | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Preparación sin burbujas o detritos que impidan leer | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Aumento, campos y calidad registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control o clave aplicable disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro de observaciones
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Preparación/código | Aumento | Campos o zona revisada | Estructura observada | Frecuencia cualitativa | Calidad/limitación |
-| --- | --- | --- | --- | --- | --- |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Aislada / varias / abundante / no valorable] | [Escribe aquí] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Aislada / varias / abundante / no valorable] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Descripción morfológica
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Rasgo | Observación | Hipótesis que apoya | Alternativa que debe descartarse |
-| --- | --- | --- | --- |
-| Forma general y simetría | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Pared, cubierta, opérculo o tapones | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Contenido y estructuras internas | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Tamaño relativo o medida con escala | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Movimiento, si se observa y es interpretable | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Aspecto compatible con artefacto | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Identificación y confianza
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Resultado | Registro |
-| --- | --- |
-| Forma compatible o grupo identificado | [Escribe aquí] |
-| Rasgos decisivos | [Escribe aquí] |
-| Rasgos discordantes o ausentes | [Escribe aquí] |
-| Artefactos considerados | [Escribe aquí] |
-| Nivel de identificación | [Compatible / presuntiva / confirmatoria / inconclusa / artefacto] |
-| Prueba o técnica complementaria necesaria | [Escribe aquí] |
-| Confianza | [Alta / media / baja; justifica] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

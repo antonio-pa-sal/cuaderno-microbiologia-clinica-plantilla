@@ -185,52 +185,33 @@ Antes de resolver el caso, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Selección de muestra y técnica
+### 8.1 Verificación previa
 
-| Pregunta | Muestra elegida | Momento/condición | Técnica inicial | Justificación | Limitación |
-| --- | --- | --- | --- | --- | --- |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Detección directa/indirecta/otra] | [Escribe aquí] | [Escribe aquí] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Identificación y trazabilidad del caso | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
-| Muestra y momento adecuados | [Conforme / no conforme / no disponible] | [Escribe aquí] | [Escribe aquí] |
-| Control interno del ensayo | [Válido / inválido / no disponible] | [Escribe aquí] | [Escribe aquí] |
-| Control positivo/negativo o externo | [Válido / inválido / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Posible contaminación, inhibición o reactividad cruzada | [No / posible / confirmada] | [Escribe aquí] | [Escribe aquí] |
-| Criterio y versión consultados | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### Resultados simulados del caso
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-Se incorporan aquí los resultados, controles y condiciones necesarios para resolver el algoritmo. No se deben añadir datos clínicos identificables.
+### 9.1 Registro de observaciones y cálculos
 
-| Prueba/código | Resultado aportado | Control/validez | Observación docente |
-| --- | --- | --- | --- |
-| [Completar] | [Completar] | [Completar] | [Completar] |
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### [ALUMNADO · RELLENABLE] Interpretación del resultado
-
-| Resultado | Clasificación | Evidencia que lo sustenta | Acción siguiente |
-| --- | --- | --- | --- |
-| [Escribe aquí] | [Positivo / negativo / inválido / indeterminado / discordante] | [Escribe aquí] | [Repetir / confirmar / derivar / cerrar] |
-| [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Algoritmo de decisión
-
-Inserta un diagrama de flujo con, como mínimo: **caso → pregunta → muestra/momento → técnica → control → resultado → decisión → comunicación**.
-
-| Nodo del algoritmo | Criterio o pregunta | Resultado posible | Salida/decisión |
-| --- | --- | --- | --- |
-| 1 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 2 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 3 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 4 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| 5 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

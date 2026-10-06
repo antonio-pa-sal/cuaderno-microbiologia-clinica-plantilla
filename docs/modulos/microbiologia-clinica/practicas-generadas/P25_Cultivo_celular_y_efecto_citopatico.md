@@ -188,48 +188,33 @@ Antes de revisar la serie, responde:
 
 [Escribe aquí]
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Caso e imágenes correctamente codificados | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
-| Control normal comparable | [Disponible / no disponible / dudoso] | [Escribe aquí] | [Escribe aquí] |
-| Tiempo y aumento registrados | [Conforme / no conforme / no disponible] | [Escribe aquí] | [Escribe aquí] |
-| Calidad de enfoque e iluminación | [Adecuada / limitada / no valorable] | [Escribe aquí] | [Escribe aquí] |
-| Ausencia/presencia de contaminación o detritos | [No / posible / confirmada] | [Escribe aquí] | [Escribe aquí] |
-| Guía o criterio de interpretación disponible | [Conforme / no conforme] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Registro de morfología celular
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Código/tiempo | Forma y adhesión | Confluencia/distribución | Detritos o vacuolas | Cambios observados | Calidad de imagen |
-| --- | --- | --- | --- | --- | --- |
-| Control normal | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Condición/caso 1 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Condición/caso 2 | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Clasificación del efecto citopático
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Rasgo o patrón | ¿Se observa? | Evidencia | Causa alternativa | Interpretación provisional |
-| --- | --- | --- | --- | --- |
-| Redondeamiento/refractilidad celular | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Desprendimiento o pérdida de monocapa | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Vacuolización/granularidad | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Lisis o destrucción celular | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Sincitios u otras células multinucleadas | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
-| Cambio compatible con artefacto | [Sí / no / dudoso] | [Escribe aquí] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-### [ALUMNADO · RELLENABLE] Identificación y confianza
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-| Resultado | Registro |
-| --- | --- |
-| Patrón observado | [Normal / CPE compatible / alteración no vírica / no interpretable] |
-| Rasgos decisivos | [Escribe aquí] |
-| Control que lo sustenta | [Escribe aquí] |
-| Alternativas consideradas | [Escribe aquí] |
-| Técnica adicional necesaria | [Escribe aquí] |
-| Nivel de confianza | [Alta / media / baja; justifica] |
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

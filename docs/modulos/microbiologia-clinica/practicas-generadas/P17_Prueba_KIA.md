@@ -187,53 +187,33 @@ Antes de realizar o revisar la actividad, responde:
 
 ---
 
-## 9. Resultados y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-### [ALUMNADO · RELLENABLE] Comprobación de controles
+### 8.1 Verificación previa
 
-| Elemento que se revisa | Resultado | Evidencia | Consecuencia para la interpretación |
-| --- | --- | --- | --- |
-| Modalidad y trazabilidad correctamente declaradas | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Tubo KIA y medio identificados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control positivo o patrón esperado | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Control negativo o comparación disponible | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Momento y condición de lectura adecuados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
-| Cierre, residuos e incidencias registrados | [Conforme / no conforme / no aplica] | [Escribe aquí] | [Escribe aquí] |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-### [ALUMNADO · RELLENABLE] Lectura diferenciada del tubo
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-| Parámetro | Observación objetiva | Resultado de lectura | Fuente de evidencia | Limitación |
-| --- | --- | --- | --- | --- |
-| Superficie inclinada | [Color, extensión, homogeneidad, cambio u otra observación] | [Ácida / alcalina / sin cambio / dudosa / no valorable] | [Propia / docente / simulación / datos] | [Escribe aquí] |
-| Fondo | [Color, extensión, homogeneidad, cambio u otra observación] | [Ácido / alcalino / sin cambio / dudoso / no valorable] | [Propia / docente / simulación / datos] | [Escribe aquí] |
-| Gas | [Desplazamiento, fisuras, burbujas, ninguno, dudoso] | [Positivo / negativo / dudoso / no valorable] | [Propia / docente / simulación / datos] | [Escribe aquí] |
-| Sulfuro compatible con H₂S | [Ennegrecimiento localizado, difuso, ninguno, dudoso] | [Positivo / negativo / dudoso / no valorable] | [Propia / docente / simulación / datos] | [Escribe aquí] |
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-### [ALUMNADO · RELLENABLE] Matriz de patrón KIA
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-| Superficie | Fondo | Gas | Sulfuro compatible | Patrón resumido | Observación sobre validez |
-| --- | --- | --- | --- | --- | --- |
-| [Ácida / alcalina / otra] | [Ácido / alcalino / otra] | [+/−/dudoso] | [+/−/dudoso] | [Escribe aquí] | [Escribe aquí] |
+### 9.1 Registro de observaciones y cálculos
 
-> Si el ennegrecimiento impide observar el color del fondo, registra esa limitación y aplica únicamente la regla de lectura que indique el [PNT](https://asm.org/asm/media/protocol-images/triple-sugar-iron-agar-protocols.pdf?ext=.pdf). No rellenes el color que no puede observarse.
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### [ALUMNADO · RELLENABLE] Interpretación presuntiva
-
-| Pregunta | Respuesta razonada |
-| --- | --- |
-| ¿El patrón es técnicamente válido? | [Sí / no / dudoso / no valorable] — [Escribe aquí] |
-| ¿Qué reacción o reacciones orienta el KIA? | [Escribe aquí] |
-| ¿Qué hipótesis de grupo o algoritmo permite considerar? | [Escribe aquí] |
-| ¿Qué prueba complementaria sería necesaria? | [Escribe aquí] |
-| ¿Qué no puede concluirse con este tubo? | [Escribe aquí] |
-
-### [ALUMNADO · RELLENABLE] Síntesis del resultado
-
-> Resume en 3–5 líneas la lectura de superficie, fondo, gas y sulfuro, la validez del resultado y su significado presuntivo.
-
-[Escribe aquí]
-
----
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

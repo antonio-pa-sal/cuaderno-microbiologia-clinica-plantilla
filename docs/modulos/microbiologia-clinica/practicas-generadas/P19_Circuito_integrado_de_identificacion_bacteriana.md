@@ -125,35 +125,33 @@ Hipótesis inicial 1: ⟦...⟧
 Hipótesis inicial 2: ⟦...⟧
 Hipótesis inicial 3 o “no concluyente”: ⟦...⟧
 
-## 9. Matriz de evidencias y controles
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
-**[ALUMNADO · RELLENABLE]** Registra tanto resultados positivos como negativos, dudosos o no realizados.
+### 8.1 Verificación previa
 
-| Evidencia | Resultado observado | Control/validez | Hipótesis que apoya | Hipótesis que contradice | Limitación |
-|---|---|---|---|---|---|
-| Tinción de Gram | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Morfología colonial y crecimiento | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Catalasa/oxidasa u otra prueba rápida | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| KIA u otra prueba bioquímica | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Sistema multiprueba | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
-| Perfil de sensibilidad | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 
-Concordancias relevantes: ⟦...⟧
-Discordancias o datos que requieren revisión: ⟦...⟧
-Controles ausentes o no válidos y su efecto: ⟦...⟧
+| Elemento | Listado del alumnado |
+|---|---|
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### Algoritmo razonado e identificación final
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-**[ALUMNADO · RELLENABLE]** Inserta un diagrama de flujo (dibujo, tabla o imagen) con flechas entre cada pregunta, prueba, resultado y decisión. El algoritmo debe permitir reconstruir el circuito sin consultar explicaciones externas.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-Esquema mínimo que debe aparecer: **dato inicial → hipótesis → prueba elegida → resultado/control → hipótesis revisada → prueba pendiente o identificación → comunicación**.
+### 9.1 Registro de observaciones y cálculos
 
-| Hipótesis final | Evidencias a favor | Evidencias en contra | Prueba pendiente | Nivel de identificación | Confianza (alta/media/baja) |
-|---|---|---|---|---|---|
-| ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦...⟧ | ⟦presuntiva/confirmatoria/inconclusa/incompatible⟧ | ⟦...⟧ |
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-**Comunicación del resultado (redacción individual):**
-“Con los datos disponibles, la identificación se informa como ⟦...⟧ porque ⟦...⟧. La principal limitación es ⟦...⟧ y sería necesario ⟦...⟧ para confirmarla o resolver la discrepancia.”
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
 ## 10. Evidencias visuales
 

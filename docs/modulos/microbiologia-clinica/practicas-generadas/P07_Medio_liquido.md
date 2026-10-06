@@ -116,51 +116,31 @@ El documento adjunto presenta ejemplos históricos de formulaciones, escalado y 
 
 ### 8.1 Verificación previa
 
-| Comprobación | Registro |
+Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+
+| Elemento | Listado del alumnado |
 |---|---|
-| Fórmula, volumen y propósito del medio confirmados | [Completa] |
-| FDS y riesgos de los componentes revisados | [Completa] |
-| Balanza, material volumétrico y recipientes verificados | [Completa] |
-| EPI y medidas de seguridad aplicadas | [Completa] |
-| Autoclave o alternativa de esterilización autorizada | [Completa] |
-| Etiqueta y ruta de residuos preparadas | [Completa] |
+| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Equipos | [Enumera los equipos que vas a utilizar] |
+| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
-### 8.2 Hipótesis de calidad
+| Residuo previsto | Tipo |
+|---|---|
+| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
 
-Antes de preparar el medio, indica qué aspecto, homogeneidad y trazabilidad esperas obtener si la fórmula, las cantidades y el acondicionamiento son correctos. Explica qué posible error alteraría más el resultado.
+## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
-[Escribe aquí tu hipótesis.]
+### 9.1 Registro de observaciones y cálculos
 
-## 10. Cálculos, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
+Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
-### 10.1 Hoja de cálculo de la fórmula
+| Aspecto | Registro del alumnado |
+|---|---|
+| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
+| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
+| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
 
-> Usa la fórmula: **cantidad para el volumen de trabajo = cantidad de referencia × volumen final solicitado / volumen de referencia**. Conserva las unidades en todos los pasos y registra la comprobación del centro antes de pesar.
-
-| Componente | Cantidad de referencia | Volumen de referencia | Volumen final solicitado | Cálculo | Cantidad pesada o medida | Lote/caducidad, si procede |
-|---|---:|---:|---:|---|---:|---|
-| [Componente 1] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Componente 2] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-| [Componente 3] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] | [Completa] |
-
-### 10.2 Comprobación de calidad
-
-| Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
-|---|---|---|---|
-| Cálculos y unidades verificados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Componentes y lotes correctamente registrados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Medio homogéneo y aspecto esperado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Volumen, recipiente, cierre y etiqueta adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Esterilización o alternativa trazable | [Completa] | [Sí / No / No aplicaba] | [Completa] |
-| Control de esterilidad y conservación registrado | [Completa] | [Sí / No / Pendiente] | [Completa] |
-
-### Resultado principal
-
-Resume el medio obtenido, su aspecto, identificación y estado de control. Indica claramente qué partes realizaste, observaste como demostración o documentaste mediante evidencia docente.
-
-[Escribe aquí el resultado principal.]
-
-## 11. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
+## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de material preparado, indícalo: no puede presentarse como ejecución propia.
 
@@ -188,25 +168,25 @@ Resume el medio obtenido, su aspecto, identificación y estado de control. Indic
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
-## 12. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
+## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
 | [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
 
-## 13. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
+## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta si el medio obtenido cumple los criterios de fórmula, homogeneidad, acondicionamiento, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
 [Escribe aquí tu interpretación técnica.]
 
-## 14. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
+## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de seleccionar, preparar, acondicionar y documentar un medio líquido. Sustenta tu conclusión con cálculos, registros y evidencias visuales, e identifica una limitación o control pendiente si lo hubiera.
 
 [Escribe aquí tu conclusión.]
 
-## 15. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
+## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con cálculos, observaciones o imágenes incluidas en tu cuaderno.
 
@@ -226,7 +206,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-## 16. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
@@ -236,10 +216,10 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | [Individual / equipo; especifica] |
 | Medio, fórmula y volumen final | [Completa] |
 | Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 10.2] |
-| Resultado | [Resume o enlaza al apartado 10] |
-| Interpretación | [Resume o enlaza al apartado 13] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 12] |
+| Controles | [Resume o enlaza al apartado 9.1] |
+| Resultado | [Resume o enlaza al apartado 9] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos y conservación | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
