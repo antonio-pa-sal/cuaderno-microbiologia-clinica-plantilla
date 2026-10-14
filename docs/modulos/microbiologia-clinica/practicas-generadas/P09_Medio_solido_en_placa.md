@@ -88,9 +88,11 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 7. El pH de los medios comerciales viene ajustado. No suele ser necesario medirlo ni corregirlo con soluciones tamponadoras, salvo que lo indique el fabricante.
 8. Acondiciona el recipiente según el fabricante. Si utilizas botella autoclavable, afloja media vuelta la rosca para evitar el cierre hermético y permitir el acceso de vapor y presión al medio.
 9. Autoclava con el ciclo validado para producto, volumen, recipiente y equipo, bajo supervisión. Registra autoclave, ciclo, indicador y desviaciones.
-10. Manipula con guantes térmicos y enfría hasta la condición de vertido indicada por fabricante o PNT. Mantén el recipiente protegido según el procedimiento.
-11. Etiqueta las placas según el PNT y dispensa asépticamente en la zona autorizada: cabina de seguridad biológica o entorno de la llama. Reparte uniformemente sin tocar superficies internas.
-12. Deja solidificar la pila de seis placas. Embolsa las placas y almacénalas boca abajo en refrigeración, entre 4 y 7 °C, según el procedimiento del centro.
+10. Retira del autoclave con guantes térmicos y deja enfriar hasta la condición de vertido indicada por el fabricante (45–50 °C aproximadamente).
+11. Rotula cada placa con nombre del medio, fecha de elaboración y grupo o persona responsable. Escribe legible y pequeño en el borde de la superficie inferior; para recuentos, en el borde lateral.
+12. Tras la esterilización, dispensa el medio asépticamente en la zona autorizada: cabina de seguridad biológica o entorno de la llama. Evita tocar las superficies internas.
+13. Vierte unos 20–25 mL en cada placa para obtener, tras la solidificación, un grosor aproximado de 3–4 mm.
+14. Deja solidificar las seis placas. Embolsa la pila y almacénala boca abajo en refrigeración, entre 4 y 7 °C, según el procedimiento del centro.
 
 ### Controles de calidad
 
@@ -156,19 +158,35 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
 - **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
 
-### Imagen 2 — Dispensación segura o demostración
+### Imagen 2 — Calentamiento del medio tras la mezcla
 
-![Dispensación segura o demostración](../assets/P09/dispensacion_segura_o_demostracion_02.jpg)
+![Calentamiento del medio tras la mezcla](../assets/P09/calentamiento_del_medio_tras_la_mezcla_02.jpg)
 
-- **Pie de foto:** [Qué se observa y en qué fase se tomó]
-- **Control de temperatura, asepsia o decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** [Recipiente con el medio mezclado durante el calentamiento hasta ebullición]
+- **Control o decisión técnica que demuestra:** [Disolución del agar y desaparición de grumos; indica el equipo utilizado]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
 
-### Imagen 3 — Placas finales etiquetadas o control de calidad
+### Imagen 3 — Recipiente dentro del autoclave
 
-![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_03.jpg)
+![Botella o matraz con el medio en el interior del autoclave](../assets/P09/recipiente_en_el_autoclave_03.jpg)
 
-- **Pie de foto:** [Aspecto, consistencia, etiqueta o control de las placas]
+- **Pie de foto:** [Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo]
+- **Dato de trazabilidad o seguridad que demuestra:** [Identificación del recipiente y acondicionamiento para esterilización; no fotografíes el equipo abierto durante el ciclo]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+
+### Imagen 4 — Dispensación aséptica en placas
+
+![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
+
+- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
+- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
+- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+
+### Imagen 5 — Placas finales etiquetadas o control de calidad
+
+![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
+
+- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
 - **Autoría y origen:** [Completa]
 
@@ -198,15 +216,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
    [Respuesta del alumnado]
 
-2. **Interpretación:** ¿Qué controles permiten distinguir entre una placa aparentemente correcta y una placa que puede considerarse apta para su uso previsto? ¿Qué control permanece pendiente hasta completar el procedimiento del centro?
+2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
    [Respuesta del alumnado]
 
-3. **Conclusiones:** ¿Qué evidencia de tu cuaderno respalda mejor que las placas son uniformes y trazables? ¿Qué limitación evita afirmar que están listas para cualquier uso?
+3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
    [Respuesta del alumnado]
 
-4. **Aprendizaje y transferencia:** ¿Cómo aplicarás el control de temperatura, la técnica aséptica y el etiquetado de esta práctica antes de realizar una siembra o interpretar un crecimiento posterior?
+4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
    [Respuesta del alumnado]
 
