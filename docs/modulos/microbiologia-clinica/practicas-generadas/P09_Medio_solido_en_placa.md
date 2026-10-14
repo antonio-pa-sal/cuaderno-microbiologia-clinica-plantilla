@@ -25,12 +25,12 @@ reference_document: "Copia de P3_Elaboración de medios de cultivo sólidos en
 | Aprendizaje transversal | `RA01 — bioseguridad` |
 | Agrupamiento | Estaciones en grupos pequeños; cálculos y registro individual. |
 | Instrumentos vinculados | Prueba práctica y cuaderno o portfolio de prácticas. |
-| Modalidad prevista | Preparación de 125 mL de Agar nutritivo en polvo desecado, esterilización autorizada y dispensación aséptica en placas. |
+| Modalidad prevista | Práctica real en el laboratorio de Microbiología: preparación de 125 mL de Agar nutritivo en polvo, esterilización autorizada y dispensación aséptica. |
 | Condición operativa | Confirmar polvo y dosis de fabricante, agua destilada, placas estériles, autoclave y PNT local de preparación y vertido. |
 
 ## 2. Resumen
 
-En esta práctica prepararás o analizarás 125 mL de Agar nutritivo a partir de medio desecado comercial, para unas seis placas según el protocolo docente adjunto. Calcularás la masa usando la dosificación de la ficha técnica o etiqueta del fabricante, prepararás la mezcla con agua destilada y registrarás lotes y condiciones reales. No medirás ni ajustarás el pH: el preparado incorpora correctores. La esterilización, el enfriamiento y el vertido seguirán el PNT local y las instrucciones del fabricante. Si la actividad es demostrativa, simulada o documental, indícalo sin presentarla como ejecución propia.
+La práctica se realizará de forma real en el laboratorio de Microbiología. Prepararás 125 mL de Agar nutritivo en polvo desecado, volumen aproximado para seis placas según el protocolo docente adjunto. Calcularás la masa según la ficha técnica o etiqueta del fabricante, prepararás la mezcla con agua destilada y registrarás lotes y condiciones reales. La esterilización, el enfriamiento y el vertido seguirán el PNT local y las instrucciones del fabricante.
 
 ## 3. Finalidad y resultados esperados
 
@@ -47,7 +47,7 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Materiales previstos:** Agar nutritivo comercial en polvo; agua destilada; barquilla o papel de pesada; espátula; probeta; varilla de vidrio; matraz Erlenmeyer o botella autoclavable; tapón compatible; algodón y papel de aluminio si el recipiente lo requiere; placas de Petri estériles; etiquetas; y bolsa limpia para el almacenamiento, si lo indica el PNT.
+**Materiales previstos:** Agar nutritivo comercial en polvo; agua destilada; vidrio de reloj; espátula; probeta; varilla de vidrio; matraz Erlenmeyer o botella autoclavable; tapón compatible; algodón y papel de aluminio si el recipiente lo requiere; seis placas de Petri estériles; etiquetas; y bolsa limpia para almacenarlas.
 
 **Equipos previstos:** balanza, placa calefactora con agitación, autoclave validado y cabina de flujo o área de vertido autorizada. Guantes térmicos para manipular recipientes calientes. No se añaden componentes por separado ni se emplea microondas salvo autorización expresa del procedimiento local.
 
@@ -69,33 +69,28 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 
 ### Secuencia general
 
-1. Identificar el Agar nutritivo en polvo, consultar su ficha técnica o etiqueta y confirmar el PNT local, la FDS, los 125 mL y unas seis placas previstas.
-2. Calcular la masa desde la dosificación del fabricante: g/L × 0,125 L. Anota la operación y verifica las unidades antes de pesar.
-3. Reunir los materiales; comprobar balanza, recipiente autoclavable, placas estériles y disponibilidad de autoclave y zona de vertido autorizados.
-4. Pesar el polvo en barquilla o papel de pesada, evitando generar polvo; registrar fabricante, lote, caducidad y masa pesada.
-5. Medir el agua destilada según la ficha técnica o etiqueta. Respeta si indica volumen de agua o volumen final; no ajustes pH ni añadas tampón.
-6. Añadir el polvo al agua en el recipiente indicado y mezclar con varilla o agitación. Calentar solo como especifique el fabricante y el PNT local, evitando ebullición o derrames.
-7. Cerrar o cubrir el recipiente de forma compatible con el autoclave y el procedimiento local; no sellarlo herméticamente si el ciclo requiere intercambio de vapor.
-8. Esterilizar únicamente con el ciclo validado para el medio, volumen, recipiente y equipo. Registrar identificación del autoclave, ciclo y resultado del indicador previsto.
-9. Tras el ciclo, manipular con guantes térmicos y enfriar a la condición de vertido fijada por el fabricante o PNT. No verter hasta alcanzarla.
-10. Etiquetar las placas según el PNT. Dispensar asépticamente en placas estériles dentro de la zona autorizada; procurar distribución uniforme sin tocar superficies internas.
-11. Dejar solidificar, inspeccionar aspecto e identificación y aplicar el control de esterilidad y conservación establecidos por el centro. Registrar incidencias y modalidad realizada.
+1. Consulta la ficha técnica o etiqueta del Agar nutritivo, confirma la dosis para 125 mL y reúne el material, seis placas estériles y los equipos autorizados.
+2. Calcula y pesa el polvo en vidrio de reloj; transfiérelo al recipiente que se usará para mezclar y esterilizar. Añade agua destilada previamente calentada.
+3. Homogeneiza y calienta la mezcla hasta ebullición para disolver el agar y eliminar grumos, evitando derrames.
+4. Autoclava con el ciclo validado. Si utilizas botella autoclavable, deja media vuelta de rosca sin apretar para evitar el cierre hermético y permitir el acceso de vapor y presión.
+5. Enfría según el PNT, vierte asépticamente en seis placas, deja solidificar y almacena la pila embolsada, boca abajo, a 4–7 °C.
 
 ### Procedimiento específico
 
 **Referencia técnica general:** [ISO 11133: preparación, producción, almacenamiento y control de medios de cultivo](https://www.iso.org/standard/53610.html). Esta norma no reemplaza el PNT local, que debe confirmarse antes de ejecutar el autoclave y el vertido.
 
-1. Confirma Agar nutritivo en polvo, ficha técnica o etiqueta, FDS, PNT local, agua destilada, volumen de 125 mL y disponibilidad de unas seis placas.
-2. Calcula masa: dosificación del fabricante (g/L) × 0,125 L. Anota la dosis consultada y comprueba unidades antes de pesar.
-3. Reúne balanza, barquilla, espátula, probeta, recipiente autoclavable, varilla, placas estériles, etiquetas y equipos autorizados; prepara el EPI indicado.
-4. Pesa la masa calculada sin dispersar polvo. Registra fabricante, lote, caducidad, masa y referencia de la ficha o etiqueta.
-5. Mide agua destilada según la instrucción del fabricante. Respeta si prescribe añadir el polvo a cierto volumen o completar hasta 125 mL.
-6. Incorpora el polvo y homogeneiza con varilla o agitación. Calienta solo si lo indican el fabricante y el PNT local; evita ebullición y derrames.
-7. No añadas componentes ni tampón y no midas ni ajustes pH: el preparado incorpora correctores. Acondiciona el recipiente para autoclave según el fabricante.
-8. Esteriliza con el ciclo validado para este producto, volumen, recipiente y equipo, bajo supervisión. Registra autoclave, ciclo, indicador y desviaciones.
-9. Manipula con guantes térmicos y enfría hasta la condición de vertido indicada por fabricante o PNT. Mantén el recipiente cerrado o protegido según el procedimiento.
-10. Etiqueta las placas según el PNT y dispensa asépticamente en la zona autorizada. Reparte el medio de forma uniforme sin tocar superficies internas.
-11. Deja solidificar e inspecciona las placas. Registra aspecto, incidencias y ubicación; aplica control de esterilidad, conservación y gestión de residuos según el PNT local.
+1. Confirma Agar nutritivo en polvo, FDS, ficha técnica o etiqueta, dosis para 125 mL, PNT local, agua destilada y seis placas estériles.
+2. Calcula la masa con la dosificación del fabricante: g/L × 0,125 L. Anota la dosis consultada y comprueba las unidades.
+3. Reúne balanza, vidrio de reloj, espátula, probeta, varilla, recipiente autoclavable, placas estériles, etiquetas y equipos autorizados; prepara el EPI.
+4. Pesa el polvo en el vidrio de reloj evitando dispersarlo. Registra fabricante, lote, caducidad, masa pesada y fuente de la dosis.
+5. Tras la pesada, transfiere el polvo al recipiente que emplearás para mezclar y esterilizar. Mide el agua según fabricante y añádela previamente calentada para mejorar la solubilidad.
+6. Mezcla con varilla o agitación y calienta hasta ebullición para disolver correctamente el agar y hacer desaparecer los grumos. Evita derrames.
+7. El pH de los medios comerciales viene ajustado. No suele ser necesario medirlo ni corregirlo con soluciones tamponadoras, salvo que lo indique el fabricante.
+8. Acondiciona el recipiente según el fabricante. Si utilizas botella autoclavable, afloja media vuelta la rosca para evitar el cierre hermético y permitir el acceso de vapor y presión al medio.
+9. Autoclava con el ciclo validado para producto, volumen, recipiente y equipo, bajo supervisión. Registra autoclave, ciclo, indicador y desviaciones.
+10. Manipula con guantes térmicos y enfría hasta la condición de vertido indicada por fabricante o PNT. Mantén el recipiente protegido según el procedimiento.
+11. Etiqueta las placas según el PNT y dispensa asépticamente en la zona autorizada: cabina de seguridad biológica o entorno de la llama. Reparte uniformemente sin tocar superficies internas.
+12. Deja solidificar la pila de seis placas. Embolsa las placas y almacénalas boca abajo en refrigeración, entre 4 y 7 °C, según el procedimiento del centro.
 
 ### Controles de calidad
 
@@ -117,7 +112,7 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 - **Grupo:** [Indica tu grupo]
 - **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación y vertido supervisados / preparación sin autoclave o vertido / demostración / análisis de placas docentes / otra; descríbela]
+- **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
 - **Nombre o código del medio preparado:** [Completa]
 - **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
@@ -129,9 +124,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Barquilla o papel de pesada, espátula, probeta, varilla y material de dispensación realmente utilizado] |
+| Instrumental | [Vidrio de reloj, espátula, probeta, varilla y material de dispensación realmente utilizado] |
 | Equipos | [Balanza, placa calefactora/agitación, autoclave y zona autorizada realmente utilizados; «No aplica» si procede] |
-| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada, recipiente autoclavable, placas estériles, etiquetas y EPI realmente utilizados] |
+| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados] |
 
 | Residuo previsto | Tipo |
 |---|---|
@@ -153,11 +148,11 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 > Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una demostración, de un registro docente o de placas ya preparadas, indícalo: no puede presentarse como ejecución propia.
 
-### Imagen 1 — Pesada o preparación de componentes
+### Imagen 1 — Pesada y transferencia del medio desecado
 
-![Pesada o preparación de componentes](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
+![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, agente gelificante, material volumétrico o medida de seguridad]
+- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
 - **Dato de trazabilidad o calidad que demuestra:** [Completa]
 - **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
 
