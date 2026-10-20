@@ -28,7 +28,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P04"
 
 ## 2. Resumen
 
-Aplicar, con supervisión, la secuencia de fijación y tinción panóptico rápido a un frotis sanguíneo elaborado en P03; después, valorar su calidad técnica mediante el contraste, los precipitados, los artefactos y la zona de lectura. Si falta una condición de autorización, se trabajará con una imagen o preparación docente y se indicará la modalidad real.
+Aplicar, con supervisión, la secuencia de fijación y tinción panóptico rápido a un frotis sanguíneo elaborado según lo indicado en P03; después, valorar su calidad técnica: forma, grosor, los precipitados, los artefactos, etc. Tras validar su condición, se realizará la técnica de tinción indicada y la observación al microscopio de la preparación final.
 
 ## 3. Finalidad y resultados esperados
 
@@ -37,14 +37,14 @@ Reconocer la secuencia funcional de fijación/tinción y evaluar una preparació
 Al finalizar deberás poder:
 
 - explicar el fundamento de la actividad;
-- seguir el flujo de trabajo permitido para la modalidad asignada;
+- seguir el flujo de trabajo correcto;
 - registrar observaciones y evidencias con trazabilidad;
 - distinguir datos observados, simulados e inferencias; y
 - comunicar una conclusión proporcionada a la evidencia.
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** Frotis sanguíneo seco y trazable procedente de P03; kit panóptico rápido con soluciones nº 1, nº 2 y nº 3; tampón de aclarado indicado por el inserto; tres recipientes de boca ancha, gradilla o puente de tinción, papel absorbente, frasco lavador, microscopio óptico y aceite de inmersión si procede. Bata, guantes y protección ocular según PNT/FDS. Confirmar disponibilidad y compatibilidad antes de la sesión.
+**Recursos previstos:** Frotis sanguíneo seco y trazable procedente de P03; kit panóptico rápido con soluciones nº 1, nº 2 y nº 3; tampón de aclarado o,en su defecto, agua destilada; tres recipientes de boca ancha, gradilla o puente de tinción (opcional), papel absorbente, frasco lavador, microscopio óptico. Bata, guantes y protección ocular según PNT/FDS. Confirmar disponibilidad y compatibilidad antes de la sesión.
 
 **Riesgos y límites:** Toda muestra sanguínea se considera potencialmente infecciosa. Revisar el PNT, las FDS de las tres soluciones, ventilación, EPI y respuesta a exposiciones. El fijador puede ser inflamable y las soluciones usadas pueden requerir gestión como residuo químico peligroso. No verterlas al desagüe. La muestra, su origen y el procedimiento requieren autorización local.
 
@@ -52,36 +52,36 @@ Al finalizar deberás poder:
 
 ## 5. Fundamento técnico
 
-El panóptico rápido es una tinción diferencial tipo Romanowsky por inmersión. El fijador conserva las estructuras celulares; la eosina y el colorante azul generan contraste entre componentes celulares. El resultado depende del estado y secado del frotis, la secuencia, las inmersiones y el aclarado. Cada kit puede tener instrucciones distintas.
+El panóptico rápido es una tinción diferencial tipo Romanowsky por inmersión. El fijador conserva las estructuras celulares; la eosina y el colorante azul generan contraste entre componentes celulares. El resultado depende del estado y secado del frotis, la secuencia, las inmersiones y el aclarado. Cada kit puede tener instrucciones distintas por lo que se aconseja revisar la ficha técnica del kit utilizado.
 
-Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro ni autorizan parámetros que no documenten. Si no existe un procedimiento público aplicable al producto/equipo concreto, se indica expresamente y se reserva la ejecución para una validación local.
+Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro, si existe, ni autorizan parámetros que no documenten. 
 
 ## 6. Procedimiento y controles de calidad
 
 ### Flujo general
 
-Frotis P03 seco e identificado → verificación de autorización, kit y riesgos → inmersiones sucesivas en fijador, eosina y azul → aclarado y secado → observación microscópica → registro de calidad y residuos.
+Frotis según P03 seco e identificado → verificación de autorización, kit y riesgos → inmersiones sucesivas en fijador, eosina y azul → aclarado y secado → observación microscópica → registro de calidad y residuos.
 
 ### Procedimiento específico
 
-La secuencia y el inventario se han revisado a partir del documento docente adjunto *P6_Tinción panóptico rápido* y de las instrucciones del [fabricante PanReac AppliChem para su kit de tinción rápida en hematología](https://www.itwreagents.com/download_file/ce_ivd_instructions/CEIVD23/es/CEIVD23_es.pdf), que describe el frotis sanguíneo, el método por inmersión y el orden fijador–eosina–azul. Los pasos 5–8 aplican únicamente al kit identificado en ese inserto (código 254807): cinco inmersiones de un segundo por solución y aclarado con tampón pH 7,2. Si el centro dispone de otro producto, el docente debe sustituir esos pasos por su secuencia validada antes de realizar la práctica.
+La secuencia del procedimiento se ha revisado a partir de las instrucciones del [fabricante PanReac AppliChem para su kit de tinción rápida en hematología](https://www.itwreagents.com/download_file/ce_ivd_instructions/CEIVD23/es/CEIVD23_es.pdf), que describe el frotis sanguíneo, el método por inmersión y el orden fijador–eosina–azul. Los pasos 5–8 aplican únicamente al kit identificado en ese procedimiento (código 254807): cinco inmersiones de un segundo por solución y aclarado con tampón pH 7,2. Si el centro dispone de otro producto, el docente debe sustituir esos pasos por su secuencia validada antes de realizar la práctica.
 
 1. El docente confirma autorización, PNT, evaluación de riesgos, supervisión, muestra de P03, kit, FDS, equipos, respuesta a exposiciones y residuos. Si falta una condición, asigna imagen o preparación docente ya teñida.
 2. Comprueba fabricante, referencia, lote, caducidad, aspecto e instrucciones de las tres soluciones. Revisa las FDS y prepara los recipientes rotulados nº 1, nº 2 y nº 3; mantén tapado el fijador.
-3. Selecciona un frotis seco preparado en P03. Comprueba código no identificativo, origen de la sangre y anticoagulante; para PanReac 254807, confirma el secado al aire indicado por el fabricante (aproximadamente dos horas).
-4. Coloca cada solución en un recipiente de boca ancha, estable y compatible, suficiente para cubrir la extensión. Sitúalos en el orden de uso sobre puente o soporte de tinción, con papel absorbente disponible.
+3. Selecciona un frotis seco preparado según P03.
+4. Coloca cada solución en un recipiente de boca ancha, estable y compatible, suficiente para cubrir la extensión. 
 5. Sujeta el portaobjetos por el extremo rotulado. Sumérgelo en fijador nº 1 cinco veces, un segundo por inmersión; deja escurrir sobre papel absorbente.
-6. Pasa el portaobjetos al recipiente nº 2. Sumérgelo en eosina cinco veces, un segundo por inmersión; deja escurrir sin tocar la extensión.
-7. Pasa el portaobjetos al recipiente nº 3. Sumérgelo en azul cinco veces, un segundo por inmersión; deja escurrir sin mezclar soluciones.
-8. Aclara la extensión con tampón pH 7,2. Evita dirigir el chorro con presión sobre la película sanguínea.
-9. Deja secar el portaobjetos al aire, en posición horizontal y protegida. No seques con calor, no frotes la extensión y no montes la preparación salvo indicación del protocolo local.
-10. Observa primero la extensión con el objetivo indicado por el docente; utiliza aceite de inmersión únicamente con el objetivo compatible y según las instrucciones del microscopio.
-11. Valora la zona de lectura, el contraste, el fondo, los precipitados, la conservación celular y los artefactos. Compara con el control docente disponible y registra también los resultados no válidos.
-12. Gestiona soluciones y papel con colorante según FDS, inserto y PNT de residuos químicos; deposita material con sangre en la ruta biológica correspondiente. No viertas soluciones al desagüe; comunica incidentes.
+6. Pasa el portaobjetos al recipiente nº 2. Sumérgelo en eosina cinco veces, un segundo por inmersión; deja escurrir sobre papel absorbente.
+7. Pasa el portaobjetos al recipiente nº 3. Sumérgelo en azul cinco veces, un segundo por inmersión; deja escurrir sobre papel absorbente.
+8. Aclara la extensión con tampón pH 7,2 o agua destilada. Evita dirigir el chorro con presión sobre la película sanguínea.
+9. Deja secar el portaobjetos al aire, en posición horizontal y protegida. No seques con calor, no frotes la extensión y no montes la preparación con cubreobjetos o similar salvo indicación del protocolo local.
+10. Observa al microscopio la extensión comenzando con el objetivo 4x y subiendo hasta 40x. Para esta P04 no es necesario utilizar el objetivo de inmersión.
+11. Valora la zona de lectura, el contraste, el fondo, los precipitados, la conservación celular y los artefactos. Localiza cada uno de los elementos formes presentes en la sangre.
+12. Clasifica y gestiona los residuos generados ségun corresponda.
 
 ### Controles de calidad
 
-- Frotis seco de P03 identificado sin datos personales; se registra origen y anticoagulante, pues condicionan la interpretación técnica.
+- Frotis seco según P03 identificado sin datos personales; se registra origen y anticoagulante, pues condicionan la interpretación técnica.
 - Fabricante, referencia, lote, caducidad, orden, inmersiones y aclarado coinciden con el inserto vigente; no se extrapolan parámetros entre marcas.
 - Se documentan zona legible, contraste, fondo, precipitados, artefactos e incidencias. Se usa control docente cuando esté disponible.
 - La tinción valora la calidad técnica de la preparación en esta actividad; no constituye diagnóstico ni valida por sí misma un resultado clínico.
@@ -91,7 +91,6 @@ La secuencia y el inventario se han revisado a partir del documento docente adju
 
 ### Referencias técnicas
 
-- Documento docente adjunto: *P6_Tinción panóptico rápido*. Se usa como referencia de materiales, equipos y secuencia de tinción. El resultado fallido descrito corresponde a una sesión anterior y no se traslada como resultado de esta práctica ni sustituye el PNT del centro.
 - PanReac AppliChem. [Kit de tinción rápida en hematología (Panóptico rápido), instrucciones CEIVD23ES](https://www.itwreagents.com/download_file/ce_ivd_instructions/CEIVD23/es/CEIVD23_es.pdf), versión 1, JMBMAY20. Aplicable únicamente al producto y referencia indicados en su etiqueta. Consultado el 19/10/2026.
 - [SEHH, programa de garantía de calidad: revisión del frotis periférico](https://sehh.es/images/stories/recursos/2018/08/28/PGCLC-2019.pdf). Referencia para criterios de revisión del frotis; no sustituye el PNT local ni el inserto del colorante.
 
