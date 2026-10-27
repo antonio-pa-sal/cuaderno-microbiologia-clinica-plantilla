@@ -98,9 +98,9 @@ El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/c
 Esta alternativa resulta útil si se quiere reservar parte del liófilo seco para intentar reavivados posteriores. La CECT no especifica esta conservación en una ampolla abierta: el algodón original y el tubo secundario no restituyen el sellado ni el vacío de fábrica. El centro debe validar la técnica, el recipiente y las condiciones de almacenamiento; la reserva no se considerará estéril ni viable sin comprobación.
 
 1. Realiza los pasos 1–6 de la ruta A para verificar y abrir la ampolla; conserva el tapón original de algodón en condiciones asépticas, sin apoyarlo en superficies.
-2. Usa una cucharilla/microespátula estéril o un asa estéril para tomar una pequeña cantidad de polvo, evitando dispersarlo; inocúlala directamente en el tubo de BHI de P07.
-3. Si reutilizas el utensilio, aplica el método aprobado. Si el protocolo indica inmersión en alcohol y flameado, espera a que el alcohol evapore por completo y aléjalo de la fuente antes de encender; no uses llama en cabina sin autorización expresa.
-4. Recoloca el algodón original con pinzas estériles únicamente si permaneció íntegro y aséptico. Si se humedeció, contaminó o desplazó sobre el polvo, descarta esta ruta y avisa al responsable.
+2. Esteriliza a la llama un asa de siembra o una cucharilla/microespátula tras sumergirlas en etanol; deja evaporar el etanol por completo y usa llama solo donde esté autorizada.
+3. Toma con el utensilio estéril una pequeña cantidad de polvo, evitando dispersarlo, e inocúlala directamente en el tubo de BHI de P07.
+4. Recoloca el algodón original de manera aséptica, siempre que permanezca íntegro y no contaminado.
 5. Introduce la ampolla tapada en un tubo de muestras estéril con tapón de rosca, identifícalo y almacénalo solo bajo las condiciones validadas por el centro; anota fecha y responsable.
 6. Registra la reserva como provisional: no se ha recuperado el cierre original y su esterilidad/viabilidad posterior no está garantizada. Para reavivarla, sigue el procedimiento aprobado y verifica el cultivo.
 
