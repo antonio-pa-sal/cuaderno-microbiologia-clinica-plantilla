@@ -12,7 +12,7 @@ reference_document: "P4_Recuperación-de-cultivos-liofiliados.docx; Instruccion
 
 # P08 — Recuperación de cultivos liofilizados
 
-> **Estado de esta página:** Práctica prevista como ejecución real supervisada. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después. Si una condición de seguridad, autorización o protocolo no se confirma, detén la manipulación y registra la incidencia; no sustituyas la ejecución por una simulación sin indicación docente.
+> **Estado de esta página:** Práctica prevista como ejecución real supervisada. Completa individualmente los bloques **[ALUMNADO · RELLENABLE]** durante o después. La ruta B de conservación del polvo solo se realizará si está validada y autorizada por el centro. Si falta una condición de seguridad o protocolo, detén la manipulación y registra la incidencia.
 
 ## 1. Identificación de la práctica
 
@@ -25,11 +25,11 @@ reference_document: "P4_Recuperación-de-cultivos-liofiliados.docx; Instruccion
 | Aprendizaje transversal | `RA01 — bioseguridad` |
 | Estado de diseño | `CONDITIONAL_PRACTICE` |
 | Instrumentos vinculados | Ejecución supervisada y cuaderno/portfolio, condicionados a la autorización y a la verificación previa de la cepa y del laboratorio. |
-| Modalidad prevista | Ejecución real de recuperación de una cepa docente liofilizada; cualquier parada o cambio de modalidad se registra. |
+| Modalidad prevista | Ejecución real supervisada de recuperación por ruta A o B; cualquier parada o ruta aplicada se registra. |
 
 ## 2. Resumen
 
-En esta práctica recuperarás de forma segura y trazable una cepa docente liofilizada. Utilizarás como medio de reavivación caldo BHI líquido en tubo, preparado y esterilizado en la P07. Antes de abrir la ampolla comprobarás la identificación, el grupo de riesgo, las instrucciones específicas de la cepa, la idoneidad del BHI y las condiciones del laboratorio. Registrarás el crecimiento observado y sus límites; la recuperación no se considerará confirmada solo por haber inoculado el tubo.
+En esta práctica recuperarás de forma segura y trazable una cepa docente liofilizada en caldo BHI líquido de P07. La ruta A rehidrata el contenido completo; la ruta B toma una pequeña porción de polvo seco y conserva provisionalmente el remanente para posibles reavivados posteriores. La ruta B solo se aplicará con un procedimiento local validado: reponer el algodón y usar un tubo secundario no restablece el cierre de fábrica ni garantiza esterilidad o viabilidad.
 
 ## 3. Finalidad y resultados esperados
 
@@ -46,13 +46,13 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** ampolla liofilizada de una cepa docente autorizada; ficha de la cepa e instrucciones vigentes de la colección/proveedor; un tubo de caldo BHI líquido preparado y esterilizado en P07 (8 mL); agua destilada estéril para abrir la ampolla; pipeta Pasteur estéril; pinzas metálicas; recipiente rígido para vidrio; gradilla; material de etiquetado; EPI; y el sistema de trabajo microbiológico y la incubación definidos por el protocolo local.
+**Recursos previstos:** ampolla liofilizada de una cepa docente autorizada; ficha de la cepa e instrucciones vigentes de la colección/proveedor; un tubo de caldo BHI líquido preparado y esterilizado en P07 (8 mL); agua destilada estéril; pipeta Pasteur estéril; pinzas metálicas; recipiente rígido para vidrio; y, para ruta B, cucharilla/microespátula estéril o asa de siembra estéril, algodón original conservado asépticamente y tubo secundario estéril con tapón de rosca. Añade EPI y sistema de trabajo/incubación autorizados localmente.
 
 **Condiciones críticas que debe confirmar el centro:** identidad y grupo de riesgo; autorización y supervisión docente; integridad y trazabilidad de la ampolla; instrucciones específicas de recuperación; compatibilidad del caldo BHI de P07 con la cepa; esterilidad e idoneidad del tubo; sistema de contención y competencia del personal; condiciones de incubación; y rutas de residuos. Si la ficha de la cepa exige otro medio o condición incompatible, no abras la ampolla hasta resolverlo con el responsable.
 
 **Riesgos:** exposición a material biológico, generación de aerosoles, pérdida de trazabilidad, contaminación cruzada, error de identificación y gestión incorrecta de residuos.
 
-**Medidas obligatorias:** no abrir ni manipular la ampolla sin autorización; trabajar con la contención, EPI y técnica aséptica establecidos localmente; proteger los ojos y no tocar vidrio roto con los dedos; mantener trazabilidad; y comunicar de inmediato cualquier rotura, salpicadura, pérdida de material o desviación.
+**Medidas obligatorias:** no abrir ni manipular la ampolla sin autorización; trabajar con la contención, EPI y técnica aséptica establecidos localmente; proteger los ojos y no tocar vidrio roto con los dedos; mantener trazabilidad; y comunicar de inmediato cualquier rotura, salpicadura, pérdida de material o desviación. No acerques a una llama utensilios aún húmedos con alcohol. En cabinas de seguridad biológica evita las llamas; usa material desechable o esterilizador eléctrico, salvo autorización expresa tras evaluación del centro ([CDC, BMBL](https://www.cdc.gov/labs/bmbl/index.html)).
 
 > **Aviso de seguridad.** La ejecución real queda condicionada a que el responsable confirme todas las condiciones críticas antes de abrir la ampolla. Ante una condición ausente o una incidencia, detén el trabajo y sigue las instrucciones del centro; este cuaderno no autoriza por sí mismo la manipulación.
 
@@ -62,7 +62,7 @@ La liofilización combina congelación y eliminación de agua por sublimación e
 
 La calidad de una recuperación no se demuestra por abrir un vial ni por observar un registro aislado. Exige que la identidad permanezca trazable, que se haya seguido el procedimiento autorizado y que los controles posteriores de viabilidad y pureza se interpreten conforme a los criterios establecidos. Una falta de datos, contaminación, crecimiento no esperado o discrepancia de identificación obliga a detener y escalar la incidencia, no a asumir que el material es válido.
 
-El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/coleccion-espanola-cultivos-tipo/es/documentacion/instrucciones-tecnicas-procedimientos/instrucciones-uso-productos-cect-1285953961369.html) describen la apertura de la ampolla, la rehidratación y la inoculación. El BHI líquido de P07 sustituye al medio líquido de recuperación únicamente si la ficha vigente de la cepa lo considera adecuado. En esta adaptación se inocula el tubo de BHI disponible y no se añade una siembra en medio sólido. La ficha de la cepa y el procedimiento local prevalecen para el medio, la contención y la incubación.
+El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/coleccion-espanola-cultivos-tipo/es/documentacion/instrucciones-tecnicas-procedimientos/instrucciones-uso-productos-cect-1285953961369.html) describen la apertura de la ampolla, la rehidratación y la inoculación. La ruta A sigue la transferencia de la suspensión completa. La ruta B es una opción docente adicional: la guía CECT no describe conservar el polvo en una ampolla abierta ni avala la reposición del tapón. El BHI de P07 solo se usará si la ficha de la cepa lo considera adecuado y el centro valida ambas rutas.
 
 ## 6. Flujo de trabajo y controles de calidad
 
@@ -71,14 +71,14 @@ El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/c
 1. Verificar identidad, grupo de riesgo, integridad, trazabilidad y ficha vigente de la cepa.
 2. Confirmar autorización, supervisión, contención, EPI, protocolo local, residuos y condiciones de incubación.
 3. Comprobar que el caldo BHI de P07 y el tubo de 8 mL son adecuados para la cepa y están disponibles en condiciones válidas.
-4. Abrir asépticamente la ampolla, rehidratar el liófilo con una pequeña alícuota de BHI y transferir la suspensión al mismo tubo.
+4. Elegir la ruta autorizada: A, rehidratación completa; o B, transferencia de una pequeña porción del polvo al BHI y conservación provisional del resto.
 5. Incubar el tubo según la ficha de la cepa y el procedimiento local; registrar crecimiento, ausencia de crecimiento e incidencias.
 6. Valorar viabilidad y pureza conforme a los controles previstos; no asumir pureza por el aspecto del caldo.
 7. Cerrar la trazabilidad, gestionar ampolla, material y residuos según el centro, y subcultivar antes de usar la cepa como cultivo de trabajo.
 
 ### Procedimiento específico
 
-**[Instrucciones técnicas de la CECT para recuperación de cultivos liofilizados](https://www.uv.es/uvweb/coleccion-espanola-cultivos-tipo/es/documentacion/instrucciones-tecnicas-procedimientos/instrucciones-uso-productos-cect-1285953961369.html):** aplicar junto con la ficha de la cepa y el protocolo de seguridad local.
+**[Instrucciones técnicas de la CECT para recuperación de cultivos liofilizados](https://www.uv.es/uvweb/coleccion-espanola-cultivos-tipo/es/documentacion/instrucciones-tecnicas-procedimientos/instrucciones-uso-productos-cect-1285953961369.html):** ruta A; aplicar junto con la ficha de la cepa y el protocolo de seguridad local.
 
 1. Antes de abrir, confirma autorización, cepa, riesgo, integridad, trazabilidad, ficha específica, compatibilidad del BHI de P07, contención y residuos.
 2. Prepara el tubo de BHI de 8 mL, el agua destilada estéril, una pipeta Pasteur estéril, pinzas y un recipiente rígido para vidrio.
@@ -93,11 +93,24 @@ El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/c
 11. Registra crecimiento e incidencias en los tiempos de lectura indicados. Algunas cepas presentan latencia prolongada; no declares inviabilidad antes del límite del protocolo.
 12. Valora viabilidad y pureza mediante los controles autorizados. Subcultiva al menos una vez después de la activación y antes de usar la cepa como cultivo de trabajo.
 
+#### Procedimiento específico B — Recuperación de una porción y conservación provisional del polvo restante
+
+Esta alternativa resulta útil si se quiere reservar parte del liófilo seco para intentar reavivados posteriores. La CECT no especifica esta conservación en una ampolla abierta: el algodón original y el tubo secundario no restituyen el sellado ni el vacío de fábrica. El centro debe validar la técnica, el recipiente y las condiciones de almacenamiento; la reserva no se considerará estéril ni viable sin comprobación.
+
+1. Realiza los pasos 1–6 de la ruta A para verificar y abrir la ampolla; conserva el tapón original de algodón en condiciones asépticas, sin apoyarlo en superficies.
+2. Usa una cucharilla/microespátula estéril o un asa estéril para tomar una pequeña cantidad de polvo, evitando dispersarlo; inocúlala directamente en el tubo de BHI de P07.
+3. Si reutilizas el utensilio, aplica el método aprobado. Si el protocolo indica inmersión en alcohol y flameado, espera a que el alcohol evapore por completo y aléjalo de la fuente antes de encender; no uses llama en cabina sin autorización expresa.
+4. Recoloca el algodón original con pinzas estériles únicamente si permaneció íntegro y aséptico. Si se humedeció, contaminó o desplazó sobre el polvo, descarta esta ruta y avisa al responsable.
+5. Introduce la ampolla tapada en un tubo de muestras estéril con tapón de rosca, identifícalo y almacénalo solo bajo las condiciones validadas por el centro; anota fecha y responsable.
+6. Registra la reserva como provisional: no se ha recuperado el cierre original y su esterilidad/viabilidad posterior no está garantizada. Para reavivarla, sigue el procedimiento aprobado y verifica el cultivo.
+
 ### Controles de calidad
 
 - Autorización, identidad, riesgo, ficha de la cepa y responsable registrados antes de abrir.
 - Compatibilidad del BHI de P07, estado del tubo y condiciones de incubación confirmados.
 - Integridad de la ampolla, trazabilidad y desviaciones registradas.
+- Ruta A o B identificada; en la ruta B, algodón y utensilio manejados asépticamente, ampolla contenida en tubo secundario y condiciones de almacenamiento anotadas.
+- La reserva de la ruta B se considera provisional; no se declara conservación validada sin control posterior de esterilidad y viabilidad.
 - Crecimiento y controles de viabilidad/pureza interpretados conforme a la ficha; ausencia de turbidez no se convierte automáticamente en inviabilidad.
 - Incidencias documentadas con su decisión asociada.
 - Imágenes o evidencias identificadas como ejecución real o demostración autorizada, sin atribuir una modalidad distinta.
@@ -113,7 +126,7 @@ El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/c
 - **Grupo:** [Indica tu grupo]
 - **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada / demostración parcial / práctica detenida antes de abrir; especifica]
+- **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
 - **Responsable que autorizó y supervisó la ejecución:** [Completa]
 
@@ -121,7 +134,7 @@ El guion P4 y las [instrucciones de la CECT aportadas](https://www.uv.es/uvweb/c
 
 ### 8.1 Verificación previa
 
-Enumera los recursos reales: incluye el tubo de BHI de 8 mL preparado en P07, el material de apertura y el equipo de incubación validado para la cepa. Escribe «No aplica» cuando corresponda. Clasifica los residuos previstos según las instrucciones del centro.
+Enumera los recursos reales: incluye el tubo de BHI de 8 mL de P07 y el material de la ruta aplicada. Para B añade utensilio estéril y tubo secundario de rosca. Escribe «No aplica» cuando corresponda y clasifica los residuos según el centro.
 
 | Elemento | Listado del alumnado |
 |---|---|
@@ -143,7 +156,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 |---|---|
 | Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
 | Configuración de equipos (si procede) | [Identifica el sistema de contención y la incubadora; anota los parámetros reales y su fuente: ficha de cepa o protocolo local] |
-| Características del producto o resultado final | [Describe el tubo de BHI inoculado y el crecimiento observado en cada lectura; indica el tiempo, origen del dato y límites. No afirmes pureza sin control] |
+| Características del producto o resultado final | [Indica la ruta A/B, el crecimiento observado y, para B, cómo quedó el remanente y dónde se almacenó; anota tiempos y límites. No afirmes pureza sin control] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -173,11 +186,11 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 - **Control de seguridad asociado:** [Completa]
 - **Autoría y origen:** [Completa]
 
-### Imagen 4 — Rehidratación y transferencia
+### Imagen 4 — Rehidratación o toma de polvo y cierre secundario
 
-![Material cerrado tras la rehidratación y transferencia asépticas, si la evidencia está autorizada](../assets/P08/rehidratacion_y_transferencia_04.jpg)
+![Material cerrado tras la rehidratación de A o la toma de polvo y cierre secundario de B, si está autorizado](../assets/P08/rehidratacion_o_reserva_04.jpg)
 
-- **Pie de foto:** [Documenta la fase solo después de cerrarla y si fotografiarla está autorizado; nunca interrumpas la técnica para tomar una imagen]
+- **Pie de foto:** [Indica ruta A o B; fotografía solo después de cerrar la operación y sin interrumpir la técnica]
 - **Modalidad y momento:** [Ejecución real / registro docente autorizado]
 - **Autoría y origen:** [Completa]
 
@@ -211,7 +224,7 @@ Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los regist
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-¿En qué medida el resultado obtenido y el procedimiento seguido permitieron alcanzar el objetivo de recuperar la cepa en BHI líquido? Justifica tu valoración y señala si queda algún límite que impida aceptar la recuperación.
+¿En qué medida el procedimiento seguido y el resultado obtenido permitieron alcanzar el objetivo de recuperar la cepa en BHI líquido? Si aplicaste B, valora además si el remanente puede considerarse una reserva fiable. Justifica ambas valoraciones.
 
 [Escribe aquí tu conclusión.]
 
@@ -219,7 +232,7 @@ Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los regist
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
-1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa?
+1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
    [Respuesta del alumnado]
 
