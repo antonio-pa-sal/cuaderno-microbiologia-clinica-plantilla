@@ -85,7 +85,7 @@ Los valores de preparación y tinción indicados a continuación solo se aplican
 #### Preparación extemporánea de la solución de Giemsa
 
 3. Confirma, a través de las instrucciones del fabricante, la dilución extemporánea con agua destilada o tampón pH 7,2.
-4. Con esos parámetros validados por el fabricante, añade 2 mL del diluyente indicado a un tubo y agrega 0,2 mL de Giemsa. Confirma la proporción y el volumen final antes de usarla.
+4. Con esos parámetros validados por el fabricante, mezcla 0,2 mL de solución madre de Giemsa con 1,8 mL del diluyente indicado para obtener 2 mL de solución 1:10. Confirma la proporción y el volumen final antes de usarla.
 
 Utiliza los recursos descritos en el apartado 4. El material de obtención capilar pertenece a P03 y solo se emplea si se realiza allí esa ruta autorizada.
 
