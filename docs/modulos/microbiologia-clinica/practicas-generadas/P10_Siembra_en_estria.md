@@ -24,12 +24,11 @@ student_completion: individual
 | Aprendizaje transversal | `RA01 — bioseguridad` |
 | Agrupamiento | Ejecución por parejas cuando proceda; registro y descripción macroscópica individual. |
 | Instrumentos vinculados | Prueba práctica y cuaderno o portfolio de prácticas. |
-| Modalidad prevista | Placas con medio, asa o material de inoculación y cultivo docente autorizado. |
-| Alternativa | Simulación técnica con material no biológico, placas preparadas, imágenes o resultados docentes para interpretar el patrón de crecimiento. |
+| Modalidad prevista | Ejecución real supervisada con cultivo en medio líquido procedente de P08 y material autorizado. |
 
 ## 2. Resumen
 
-En esta práctica realizarás o analizarás una siembra en estría simple o continua para distribuir un inóculo sobre la superficie de un medio y obtener un patrón de crecimiento interpretable. Identificarás la placa, el medio, el material de inoculación y la modalidad real de trabajo. Aplicarás la técnica aséptica y registrarás el recorrido de la estría, la densidad observada, los controles, las incidencias y la lectura posterior. Cuando uses una placa preparada, una imagen o una simulación, lo declararás expresamente. El resultado esperado es una descripción del gradiente de crecimiento y de la calidad de la siembra, con evidencias visuales autorizadas y una interpretación que no permita afirmar pureza o identidad sin confirmación.
+En esta práctica sembrarás en una placa una alícuota del cultivo en medio líquido obtenido en P08, siguiendo la técnica de estría simple o continua. Mantendrás la trazabilidad entre ambas prácticas, aplicarás el procedimiento de manipulación aséptica del centro y registrarás el patrón de crecimiento tras la lectura autorizada. La siembra permite describir la distribución del crecimiento; por sí sola no confirma identidad ni pureza.
 
 ## 3. Finalidad y resultados esperados
 
@@ -46,19 +45,19 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** placas con medio, asa u otro material de inoculación, cultivo docente autorizado, equipo de protección individual, sistema de desinfección y contenedores de residuos establecidos por el centro.
+**Recursos previstos:** cultivo de trabajo en medio líquido procedente de P08, placa con medio sólido, asa estéril desechable o reutilizable compatible con la ruta aprobada, gradilla si procede, EPI, desinfectante y recipientes de residuos del centro.
 
-**Condición operativa:** solo se utilizará un cultivo docente expresamente autorizado, con técnica aséptica, procedimiento local validado y gestión de residuos confirmada. No se presupone el uso de muestras clínicas, flora desconocida ni cultivos no autorizados.
+**Condición operativa:** se prevé ejecución real supervisada con el cultivo de trabajo procedente de P08, después de la subcultivación y los controles previstos en esa práctica. Antes de iniciar, el responsable confirmará la autorización del material y de la ruta, la supervisión, el equipo, el EPI y los residuos conforme al [PNT-010 del centro](#16-fuentes-tecnicas-y-documentales).
 
 **Riesgos:** contacto con material biológico, generación de aerosoles, contaminación cruzada, derrame, corte o quemadura si el protocolo usa material que lo requiera, y gestión inadecuada de residuos.
 
-**Medidas obligatorias:** usar el EPI indicado; preparar y desinfectar el puesto; mantener la placa identificada y abierta solo el tiempo imprescindible según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf); evitar movimientos que generen aerosoles; no reutilizar material fuera del procedimiento; eliminar los residuos por la ruta establecida; y no abrir placas tras el crecimiento si el protocolo no lo permite.
+**Medidas obligatorias:** usar el EPI indicado; preparar y desinfectar el puesto respetando el tiempo de contacto; trabajar por una sola ruta aprobada (banco con Bunsen o CSB II); mantener placa y tubo cerrados salvo durante la transferencia; evitar salpicaduras y aerosoles; y gestionar los residuos según el procedimiento local. En CSB no se utilizará llama abierta.
 
-> **Aviso de seguridad.** La ejecución real exige material docente autorizado, protocolo de técnica aséptica confirmado, supervisión y ruta de residuos validada. Si falta alguna condición, se realizará una simulación técnica o se analizarán placas, imágenes o registros docentes, declarando siempre la modalidad real.
+> **Aviso de seguridad.** Esta ficha está diseñada para una ejecución real supervisada. El docente comprobará antes de la sesión las condiciones locales requeridas por el [PNT-010](#16-fuentes-tecnicas-y-documentales). Si falta una condición crítica, no se manipulará el cultivo y la sesión quedará pendiente de autorización y reprogramación.
 
 ## 5. Fundamento técnico
 
-La siembra en estría distribuye un inóculo sobre la superficie de una placa mediante un patrón controlado. La técnica permite observar la distribución del crecimiento y entrenar la manipulación aséptica. El patrón resultante depende de la calidad de la siembra, del medio, de las condiciones autorizadas de trabajo y de la integridad de la placa.
+La siembra en estría simple o continua transfiere un inóculo desde un medio líquido a la superficie de un medio sólido mediante un recorrido continuo en zigzag. La separación de las líneas y la cantidad de inóculo influyen en la distribución observada. La guía aportada describe líneas más próximas al inicio y más separadas al final para facilitar la observación de colonias.
 
 La descripción macroscópica debe limitarse a lo realmente observable: presencia o ausencia de crecimiento, distribución, densidad relativa, aspecto general y posibles indicios de contaminación. No permite por sí sola identificar una especie ni confirmar pureza sin los controles y procedimientos correspondientes. La ausencia de crecimiento tampoco debe interpretarse automáticamente como un fallo técnico: debe revisarse la trazabilidad, el material y las condiciones del proceso.
 
@@ -66,32 +65,37 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ### Secuencia general
 
-1. Confirmar la modalidad de práctica: ejecución supervisada, simulación técnica o análisis de evidencia docente.
-2. Verificar la autorización del material, la identificación de la placa, los controles, el EPI y la ruta de residuos.
-3. Preparar el puesto y aplicar el patrón de estría exclusivamente según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y las indicaciones del centro.
-4. Cerrar, identificar y entregar o conservar la placa conforme al procedimiento; no decidir por cuenta propia condiciones de incubación o lectura.
-5. Cuando la lectura posterior esté autorizada, observar el resultado seguro o el registro docente y describir el patrón de crecimiento.
-6. Registrar controles, incidencias, medidas correctoras y límites de la interpretación.
+1. Confirmar que el cultivo de trabajo de P08 completó la subcultivación y los controles previstos, además de las condiciones locales de autorización.
+2. Preparar EPI, puesto, materiales y ruta autorizada conforme al [PNT-010 del centro](#16-fuentes-tecnicas-y-documentales).
+3. Marcar la placa con la cepa o muestra, la fecha de inoculación y la persona o grupo responsable.
+4. Transferir el inóculo y realizar la estría continua en zigzag, manteniendo la placa abierta el mínimo tiempo.
+5. Cerrar, invertir y poner a incubar la placa según las condiciones de crecimiento autorizadas para la bacteria inoculada.
+6. Registrar la trazabilidad, los controles, las incidencias y el patrón observado en la lectura autorizada.
 
 ### Procedimiento específico
 
-**[PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) de referencia:** [SEIMC, procedimiento 1a: procesamiento general de muestras](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf)
+**[PNT-010 de referencia](#16-fuentes-tecnicas-y-documentales):** Manipulación aséptica en bacteriología, v1.2. Sus apartados de preparación y manejo de placas/tubos fijan las comprobaciones previas y la ruta de trabajo. El centro confirmará la ruta y el equipo antes de ejecutar.
 
-1. Confirma modalidad, placa, medio, cultivo docente, asa, EPI, [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y residuos; no manipules material no autorizado.
-2. Etiqueta la placa y organiza el puesto; verifica que el medio está íntegro y la superficie seca.
-3. Carga el asa o analiza el inóculo según la demostración; aplica técnica aséptica y evita aerosoles.
-4. Realiza la estría simple o continua siguiendo el patrón indicado, reduciendo la carga sin dañar el agar.
-5. Cierra y entrega la placa para incubación conforme al procedimiento; no decidas condiciones por cuenta propia.
-6. Observa el crecimiento autorizado o su registro; describe continuidad, densidad y colonias aisladas.
-7. Elimina asa y residuos, limpia el puesto y documenta técnica, control e incidencias.
+1. Confirma que el cultivo de trabajo de P08 completó la subcultivación y los controles previstos, y verifica trazabilidad, supervisión, ruta y recursos. Si falta una condición crítica, no inicies.
+2. Comprueba la identificación e integridad del tubo y de la placa, y que el medio sólido está íntegro. Separa cualquier material dañado, con fuga o identificación dudosa y avisa al docente.
+3. Colócate el EPI indicado. Marca la placa en el lateral o la zona inferior con la cepa o muestra, la fecha de inoculación y la persona o grupo responsable.
+4. Desinfecta el puesto con el producto aprobado y respeta su tiempo de contacto; deja secar antes de iniciar.
+5. Prepara el asa según la ruta autorizada: esteriliza en llama la reutilizable antes de inocular; en CSB II usa asa desechable o dispositivo eléctrico cerrado aprobado, nunca llama.
+6. Homogeneiza suavemente el cultivo líquido de P08 según el procedimiento autorizado, evitando salpicaduras. Abre el tubo con la técnica del [PNT-010](#16-fuentes-tecnicas-y-documentales) correspondiente a la ruta elegida.
+7. Toma el inóculo con el asa estéril sin tocar bordes ni superficies ajenas. Cierra el tubo conforme al [PNT-010](#16-fuentes-tecnicas-y-documentales) y devuélvelo a su gradilla.
+8. Abre una sola placa lo mínimo necesario y deposita el inóculo en un extremo.
+9. Traza las estrías de lado a lado en zigzag con el asa paralela al medio, sin tocar los bordes; sepáralas progresivamente hasta agotar el inóculo y evita perforar la superficie.
+10. Cierra e invierte la placa; ponla a incubar en la estufa bajo las condiciones establecidas para el crecimiento de la bacteria inoculada, confirmadas por el docente.
+11. Esteriliza en la llama el asa reutilizable únicamente en la ruta de banco autorizada; desecha el asa de un solo uso según la ruta local. En CSB II no uses llama. Limpia el puesto y comunica cualquier incidencia.
 
 ### Controles de calidad
 
-- Modalidad de práctica y origen del material claramente declarados.
-- Placa, medio, cultivo docente y trazabilidad identificados antes de la técnica.
-- Técnica aséptica, desinfección y ruta de residuos aplicadas según el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf).
-- Patrón de siembra o simulación registrado sin atribuir resultados no observados.
-- Lectura macroscópica realizada solo sobre material autorizado o evidencia docente.
+- Origen y código de trazabilidad del cultivo líquido de P08 registrados.
+- Autorización, supervisión, ruta y recursos comprobados antes de manipular.
+- Placa marcada con la cepa o muestra, la fecha de inoculación y la persona o grupo responsable; tubo y medio íntegros; EPI y desinfección aplicados conforme al [PNT-010 del centro](#16-fuentes-tecnicas-y-documentales).
+- Estría continua realizada sin perforar el agar ni cruzar líneas; modalidad real anotada.
+- Placa invertida e incubada bajo las condiciones confirmadas para la bacteria inoculada; asa esterilizada o desechada según el tipo y la ruta autorizada.
+- Lectura macroscópica autorizada descrita sin afirmar identidad ni pureza.
 - Incidencias, posibles contaminaciones y decisiones de seguimiento documentadas.
 
 ---
@@ -106,8 +110,8 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución supervisada / simulación técnica / análisis de placa o imagen docente / otra; descríbela]
-- **Código autorizado de placa, medio o evidencia:** [Completa sin incluir datos sensibles]
+- **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
+- **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -129,7 +133,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 ### 9.1 Registro de observaciones y cálculos
 
-Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
+Registra los datos de tu ejecución real y su relación trazable con P08. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
 | Aspecto | Registro del alumnado |
 |---|---|
@@ -139,27 +143,27 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-> Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas sensibles ni material biológico cuya fotografía o apertura esté prohibida. Si la evidencia procede de una simulación, placa preparada, imagen o registro docente, indícalo: no puede presentarse como una ejecución propia.
+> Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas sensibles ni material biológico cuya fotografía o apertura esté prohibida. Identifica la fase de la ejecución real que muestra cada imagen.
 
 ### Imagen 1 — Preparación segura
 
 ![Preparación segura](../assets/P10/preparacion_segura_01.jpg)
 
-- **Pie de foto:** [Qué se observa: EPI, puesto desinfectado, placa etiquetada o material de simulación]
+- **Pie de foto:** [Qué se observa: EPI, puesto desinfectado, placa etiquetada o material dispuesto]
 - **Control de seguridad o trazabilidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+- **Autoría:** [Propia / compartida con tu pareja]
 
-### Imagen 2 — Patrón de siembra o demostración
+### Imagen 2 — Patrón de siembra
 
-![Patrón de siembra o demostración](../assets/P10/patron_de_siembra_o_demostracion_02.jpg)
+![Patrón de siembra](../assets/P10/patron_de_siembra_o_demostracion_02.jpg)
 
-- **Pie de foto:** [Qué se observa y en qué modalidad de práctica]
+- **Pie de foto:** [Qué se observa durante la estría]
 - **Decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia supervisada / simulación / demostración docente; especifica]
+- **Origen de la imagen:** [Ejecución propia supervisada; indica quién la tomó]
 
-### Imagen 3 — Lectura macroscópica o resultado docente
+### Imagen 3 — Lectura macroscópica
 
-![Lectura macroscópica o resultado docente](../assets/P10/lectura_macroscopica_o_resultado_docente_03.jpg)
+![Lectura macroscópica](../assets/P10/lectura_macroscopica_o_resultado_docente_03.jpg)
 
 - **Pie de foto:** [Patrón, aspecto general o resultado que se interpreta]
 - **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
@@ -179,7 +183,7 @@ Interpreta la calidad de la técnica y el patrón de crecimiento observado. Expl
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo de ejecutar, simular o interpretar una siembra en estría simple o continua de forma segura. Sustenta tu conclusión con registros, controles e imágenes, e identifica una limitación o resultado pendiente si lo hubiera.
+Valora si alcanzaste el objetivo de realizar una siembra en estría simple o continua de forma segura. Relaciona razonadamente el objetivo con el procedimiento y el resultado registrado; identifica cualquier limitación o resultado pendiente.
 
 [Escribe aquí tu conclusión.]
 
@@ -187,21 +191,21 @@ Indica si alcanzaste el objetivo de ejecutar, simular o interpretar una siembra 
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con registros, observaciones o imágenes incluidas en tu cuaderno.
 
-1. **Procedimiento:** ¿Qué aspecto de la técnica aséptica o del patrón de estría consideras más determinante para evitar contaminación cruzada y obtener un resultado interpretable? ¿Cómo lo comprobaste?
+**1. Procedimiento.** ¿Por qué es crítico el tiempo de enfriamiento del asa de siembra tras esterilizarla a la llama, y cómo te aseguraste de hacerlo correctamente sin comprometer la zona de esterilidad?
 
-   [Respuesta del alumnado]
+[Respuesta del alumnado]
 
-2. **Interpretación:** ¿Qué rasgos del patrón de crecimiento te permiten describir la placa y qué evidencia adicional necesitarías para diferenciar una incidencia técnica de otra causa?
+**2. Interpretación.** Si aparecen colonias con morfologías claramente distintas a lo largo de las estrías, ¿qué evidencia visual te ayudaría a discernir si el cultivo líquido original era mixto o si hubo una contaminación ambiental durante la apertura de la placa?
 
-   [Respuesta del alumnado]
+[Respuesta del alumnado]
 
-3. **Conclusiones:** ¿Qué conclusión sobre la calidad de la siembra puedes sostener con tus evidencias y qué conclusión sobre identidad o pureza no puedes sostener todavía?
+**3. Conclusiones.** Basándote en la presencia, cantidad y separación de las colonias aisladas, ¿qué puedes concluir de forma definitiva sobre la viabilidad y la concentración del cultivo líquido de partida?
 
-   [Respuesta del alumnado]
+[Respuesta del alumnado]
 
-4. **Aprendizaje y transferencia:** ¿Qué acción concreta aplicarás en una siembra posterior para mejorar la trazabilidad, la asepsia o la calidad del patrón de crecimiento?
+**4. Aprendizaje y transferencia.** Si tuvieras que redactar el Procedimiento Normalizado de Trabajo (PNT) para enseñar esta siembra continua a un técnico recién contratado, ¿qué «vicio» procedimental o error de postura destacarías como el más urgente de prevenir desde el primer intento?
 
-   [Respuesta del alumnado]
+[Respuesta del alumnado]
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -219,5 +223,12 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
 | Ruta de residuos y estado final de la placa | [Completa] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+
+## 16. Fuentes técnicas y documentales
+
+- Centro educativo. *PNT-010. Manipulación aséptica en bacteriología*. Versión 1.2, 27 de octubre de 2026. Documento interno consultado por el profesorado; aplicar la copia controlada vigente y las confirmaciones locales.
+- *Prácticas de Microbiología Clínica: Siembra en estría simple o continua en medio sólido a partir de suspensión bacteriana en medio líquido*. Curso 2018–2019. PDF aportado por el profesorado.
+- LaDonaBacteria. [«Práctica 6: Técnicas de siembra»](https://ladonabacteriablog.wordpress.com/2016/11/17/practica-6-tecnicas-de-siembra/), apartado «Siembra en estrías continuas o estrías simples». Consulta: 3 de noviembre de 2026.
+- P08 — *Recuperación de liofilizados*, ficha del cuaderno de Microbiología Clínica; fuente del cultivo líquido y de su trazabilidad.
 
 ---
