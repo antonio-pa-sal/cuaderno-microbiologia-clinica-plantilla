@@ -276,15 +276,19 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Comparar la tinción combinada con otras preparaciones hematológicas sin mezclar secuencias ni protocolos. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
+A partir de la preparación observada, indica qué células o estructuras celulares se tiñen, qué coloración presentan y por qué. Relaciona la coloración con la afinidad de los colorantes ácidos y básicos de May-Grünwald-Giemsa por los componentes celulares. Puedes considerar eritrocitos, núcleos, citoplasma, gránulos de granulocitos y plaquetas. Distingue lo observado directamente de la explicación teórica y no formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+| Célula o estructura | Color observado | Explicación de la afinidad tintorial |
+|---|---|---|
+| [Completa] | [Completa] | [Completa] |
+
+[Continúa la tabla si es necesario.]
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
+Concluye qué ventajas e inconvenientes observas en la tinción de May-Grünwald-Giemsa con respecto a la tinción de Giemsa. Basa la comparación en la preparación realizada, el contraste y la diferenciación de los elementos formes, la secuencia de trabajo y cualquier limitación o incidencia observada. Distingue tus observaciones de la información teórica.
 
-[Escribe aquí tu conclusión.]
+[Escribe aquí tu conclusión comparativa.]
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
