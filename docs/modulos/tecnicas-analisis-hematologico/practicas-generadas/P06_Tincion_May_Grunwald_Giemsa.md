@@ -292,21 +292,21 @@ Concluye qué ventajas e inconvenientes observas en la tinción de May-Grünwald
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Responde individualmente y relaciona cada respuesta con datos, observaciones o imágenes de esta ficha.
+Responde individualmente y relaciona cada respuesta con observaciones, resultados o decisiones de esta práctica.
 
-**1. Procedimiento:** ¿Qué decisión del flujo influyó más en la calidad del trabajo y cómo lo comprobaste?
-
-   [Respuesta del alumnado]
-
-**2. Interpretación:** ¿Qué hallazgo o cálculo requiere mayor cautela y qué otra explicación considerarías?
+**1. Procedimiento. Control del tiempo de fijación y tinción:** ¿Cómo afectó el tiempo exacto de exposición al colorante May-Grünwald (fijación con metanol) a la adherencia de la muestra o al contraste final?
 
    [Respuesta del alumnado]
 
-**3. Conclusiones:** ¿Qué evidencia respalda mejor tu conclusión y cuál es su principal limitación?
+**2. Interpretación. Identificación de agregados plaquetarios vs. inclusiones:** Si detectas acumulaciones violáceas de pequeño tamaño, ¿qué características morfológicas o metodológicas te permiten diferenciar si se trata de agrupaciones plaquetarias reales o de un precipitado de azures de metileno?
 
    [Respuesta del alumnado]
 
-**4. Aprendizaje y transferencia:** ¿Qué mejorarías y cómo aplicarías este aprendizaje a otra técnica hematológica?
+**3. Conclusiones. Nitidez de estructuras citoplasmáticas y nucleares:** ¿En qué elementos formes específicos o estructuras celulares se aprecia con mayor claridad la ventaja del efecto Romanowsky de la tinción combinada?
+
+   [Respuesta del alumnado]
+
+**4. Aprendizaje y transferencia. Bioseguridad y gestión de residuos químicos:** ¿Qué hábito o medida de seguridad de la manipulación de metanol y colorantes es más eficaz para reducir riesgos ambientales y laborales?
 
    [Respuesta del alumnado]
 
