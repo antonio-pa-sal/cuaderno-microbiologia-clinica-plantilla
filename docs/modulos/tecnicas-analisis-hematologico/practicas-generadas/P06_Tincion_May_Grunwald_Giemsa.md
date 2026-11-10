@@ -4,7 +4,7 @@ practice_id: "P06"
 unit: "UD1"
 learning_outcomes: "RA01"
 assessment_criteria: "CE01.c, CE01.d, CE01.e, CE01.f"
-practice_status: "CONDITIONAL"
+practice_status: "REAL"
 page_type: practical-notebook
 student_completion: individual
 reference_document: "PRACTICAL_PROGRAM.md — P06"
@@ -12,7 +12,7 @@ reference_document: "PRACTICAL_PROGRAM.md — P06"
 
 # P06 — Tinción de May-Grünwald-Giemsa
 
-> **Estado de esta página:** Completa individualmente los bloques **[ALUMNADO · RELLENABLE]**. La modalidad inicial es **CONDITIONAL** según el programa canónico. Una demostración, imagen o conjunto de datos no acredita una ejecución real.
+> **Modalidad:** Práctica real en el laboratorio del centro educativo, bajo supervisión docente y con aplicación de las normas de seguridad y gestión de residuos del centro.
 
 ## 1. Identificación de la práctica
 
@@ -23,12 +23,12 @@ reference_document: "PRACTICAL_PROGRAM.md — P06"
 | Resultado(s) de aprendizaje | `RA01` |
 | Criterios de evaluación | `CE01.c, CE01.d, CE01.e, CE01.f` |
 | Agrupamiento | Trabajo guiado; interpretación, registro y reflexión individuales. |
-| Modalidad prevista | Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. |
-| Estado de ejecución | **CONDITIONAL**; no equivale a autorización del centro. |
+| Modalidad prevista | Real en el laboratorio del centro educativo. |
+| Estado de ejecución | **REAL**; práctica presencial supervisada. |
 
 ## 2. Resumen
 
-Comparar la tinción combinada con otras preparaciones hematológicas sin mezclar secuencias ni protocolos. Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. Registrarás observaciones, cálculos o decisiones como datos reales, simulados o documentales según corresponda, y mantendrás explícitos los límites de interpretación.
+Realizar una extensión sanguínea y aplicar la tinción de May-Grünwald-Giemsa en el laboratorio del centro. Registrarás observaciones y resultados reales, con trazabilidad y límites de interpretación.
 
 ## 3. Finalidad y resultados esperados
 
@@ -44,38 +44,34 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** Comparación documental o visual por defecto; tinción solo con productos compatibles y autorización local. El equipo, los reactivos, los materiales y su disponibilidad deben confirmarse antes de la sesión.
+**Recursos previstos:** Portaobjetos y portaobjetos biselado, lancetas o muestra de sangre anticoagulada con EDTA, capilares microhematocrito heparinizados, cristalizador, puente de tinción, pipetas Pasteur, frasco lavador, EPI, colorantes May-Grünwald y Giemsa, agua/tampón, microscopio óptico y aceite de inmersión.
 
-**Riesgos y límites:** La fijación, reactivos, ventilación y residuos dependen de kit, FDS y evaluación local. Las fuentes docentes no son autorización para una ejecución real.
-
-> **Aviso de seguridad.** La ficha conserva el estado **CONDITIONAL** del programa. La aprobación de diseño no autoriza por sí misma la ejecución. Si faltan PNT, evaluación de riesgos, recursos, supervisión o autorización local, utiliza exclusivamente la modalidad alternativa indicada por el profesorado.
+**Seguridad y residuos:** La sangre se considerará potencialmente infecciosa. Usar EPI, consultar las FDS de los colorantes (incluido el metanol) y seguir las normas del centro. Segregar los residuos químicos, biológicos y punzocortantes; no verter colorantes al desagüe.
 
 ## 5. Fundamento técnico
 
-May-Grünwald-Giemsa combina colorantes Romanowsky y permite valorar componentes celulares en frotis. La calidad depende de extensión, reactivos, agua/tampón y condiciones del protocolo validado.
-
-Las fuentes enlazadas apoyan el fundamento o el control de calidad indicado; no sustituyen el PNT del centro ni autorizan parámetros que no documenten. Si no existe un procedimiento público aplicable al producto/equipo concreto, se indica expresamente y se reserva la ejecución para una validación local.
+La técnica combina colorantes Romanowsky. La eosina Y es un colorante ácido/aniónico que se une a componentes celulares básicos y proteínas, como la hemoglobina y proteínas citoplasmáticas, dando tonos rosados o rojizos a los eritrocitos y gránulos eosinófilos. El azul de metileno y sus derivados azures son colorantes básicos/catiónicos: se unen a componentes ácidos, en especial ADN y ARN de núcleos y ribosomas, que aparecen azulados o violáceos. La interacción entre eosina y azures produce el efecto Romanowsky, con tonos púrpura en cromatina y gránulos azurófilos. El metanol de May-Grünwald fija la extensión al desnaturalizar/precipitar proteínas. El pH influye en el equilibrio de coloración y contraste.
 
 ## 6. Procedimiento y controles de calidad
 
 ### Procedimiento base
 
-Examina láminas comparables → registra procedencia y calidad → compara contraste/artefactos → reconstruye la secuencia documental sin convertirla en receta local.
+Extensión sanguínea → secado al aire → May-Grünwald (fijación/tinción) → lavado → Giemsa → lavado → secado → observación microscópica → registro → segregación de residuos.
 
 ### Procedimiento específico
 
-Los pasos siguientes describen una ruta didáctica segura. Para cualquier operación húmeda, reactivo o equipo, el PNT local y las instrucciones vigentes del fabricante prevalecen; si no están confirmados, usa imagen, caso o datos simulados.
+Secuencia adaptada al procedimiento docente adjunto y contrastada con procedimientos publicados. Los tiempos varían entre fabricantes; seguir el inserto del producto empleado y las indicaciones del docente.
 
-**Fuente técnica de referencia (no constituye un PNT específico):** [SEHH, Manual del médico residente de Hematología: preparación y tinción de frotis](https://www.sehh.es/images/stories/recursos/2015/virtual/Manual_Medico_Residente_Hematologia_2015.pdf). El manual de la SEHH describe fundamentos de la tinción May-Grünwald-Giemsa en hematología, pero no es el PNT del kit disponible en el centro. No se ha identificado en esta ficha un SOP público específico para el producto; sigue el inserto y procedimiento local validados.
+1. Colócate los EPI. Sitúa el puente de tinción sobre un cristalizador con agua en el fondo para evitar que los colorantes se adhieran a la batea.
+2. Realiza la extensión de sangre en un portaobjetos limpio y déjala secar al aire.
+3. Coloca el portaobjetos horizontal sobre el puente y cubre la extensión con colorante May-Grünwald durante **2–3 min**.
+4. Lava con agua y deja la extensión cubierta con agua durante **1 min**.
+5. Sin escurrir ni dejar secar, añade **12–14 gotas de Giemsa** y distribúyelo suavemente con pera o pipeta Pasteur. Deja actuar **10–15 min**.
+6. Lava con abundante agua destilada hasta retirar el exceso de colorante y deja secar al aire.
+7. Observa al microscopio óptico; emplea aceite de inmersión con el objetivo correspondiente. Registra las estructuras y coloraciones observadas.
+8. Gestiona los residuos: soluciones/colorantes como residuos químicos según FDS y norma del centro; material con sangre como residuo biológico; lancetas y otros punzantes en contenedor rígido de punzocortantes. No mezcles residuos ni viertas reactivos al desagüe. Limpia la zona y retira los EPI según el protocolo del centro.
 
-1. Selecciona imágenes o láminas autorizadas y registra su procedencia.
-2. Comprueba que las preparaciones sean comparables en tipo de muestra, zona y calidad.
-3. Describe la secuencia general indicada en la documentación del kit, sin añadir parámetros ausentes.
-4. Compara tonalidad, contraste, conservación celular y precipitados entre las preparaciones.
-5. Anota qué diferencias pueden deberse a la tinción y cuáles a la extensión o captura.
-6. Si hay ejecución, verifica autorización, compatibilidad de productos, FDS y PNT antes de comenzar.
-7. Registra estructuras visibles sin inferencia clínica y etiqueta imágenes simuladas o docentes.
-8. Guarda material y gestiona reactivos según instrucciones del centro.
+**Referencias de procedimiento:** BioGnost. (2025). *May-Gruenwald solution: Instructions for use* (MG-IFU EN12, 09.04.2025), apartados A3–A4 (método Pappenheim) y seguridad/medio ambiente. [PDF](https://www.biognost.com/wp-content/uploads/2020/05/MAY-GRUENWALD-SOLUTION-IFU_v12-1.pdf). Merck. (s. f.). *Giemsa stain for microscopy*, sección “Pappenheim Staining of Blood Samples”. [Merck Millipore](https://www.merckmillipore.com/INTL/es/ivd-oem-materials-and-reagents/learning-center/giemsa-solution/r2ab.qB.aBwAAAFOqm81lSAJ%2Cnav). Guiguan, S. S., et al. (2015). *Technical recommendations and best practice guidelines for May-Grünwald-Giemsa staining: literature review and insights from the quality assurance*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26188673/).
 
 ### Controles de calidad
 
@@ -91,7 +87,7 @@ Los pasos siguientes describen una ruta didáctica segura. Para cualquier operac
 
 Fecha de consulta de las referencias enlazadas: **28/09/2026**.
 
-Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan contexto o control de calidad, no una receta lista para ejecutar. El docente debe confirmar el PNT específico antes de autorizar un procedimiento real.
+La práctica se realiza bajo supervisión docente, siguiendo el protocolo aprobado por el centro y las instrucciones del fabricante del reactivo disponible.
 
 # Tu cuaderno de prácticas
 
