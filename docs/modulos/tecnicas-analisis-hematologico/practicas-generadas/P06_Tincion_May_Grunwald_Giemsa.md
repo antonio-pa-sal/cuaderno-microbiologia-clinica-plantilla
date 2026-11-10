@@ -60,25 +60,28 @@ Extensión sanguínea → secado al aire → May-Grünwald (fijación/tinción) 
 
 ### Procedimiento específico
 
-Secuencia adaptada al procedimiento docente adjunto y contrastada con procedimientos publicados. Los tiempos varían entre fabricantes; seguir el inserto del producto empleado y las indicaciones del docente.
+Secuencia adaptada al procedimiento docente y contrastada con procedimientos publicados. Los tiempos varían entre fabricantes; sigue el inserto del producto empleado y las indicaciones del docente.
 
 1. Colócate los EPI. Sitúa el puente de tinción sobre un cristalizador con agua en el fondo para evitar que los colorantes se adhieran a la batea.
 2. Realiza la extensión de sangre en un portaobjetos limpio y déjala secar al aire.
-3. Coloca el portaobjetos horizontal sobre el puente y cubre la extensión con colorante May-Grünwald durante **2–3 min**.
-4. Lava con agua y deja la extensión cubierta con agua durante **1 min**.
-5. Sin escurrir ni dejar secar, añade **12–14 gotas de Giemsa** y distribúyelo suavemente con pera o pipeta Pasteur. Deja actuar **10–15 min**.
-6. Lava con abundante agua destilada hasta retirar el exceso de colorante y deja secar al aire.
-7. Observa al microscopio óptico; emplea aceite de inmersión con el objetivo correspondiente. Registra las estructuras y coloraciones observadas.
-8. Gestiona los residuos: soluciones/colorantes como residuos químicos según FDS y norma del centro; material con sangre como residuo biológico; lancetas y otros punzantes en contenedor rígido de punzocortantes. No mezcles residuos ni viertas reactivos al desagüe. Limpia la zona y retira los EPI según el protocolo del centro.
+3. Prepara extemporáneamente la solución de trabajo de Giemsa siguiendo las indicaciones del fabricante y las instrucciones de la práctica P05. Identifica la solución preparada y respeta las medidas de seguridad y el tiempo de uso indicados.
+4. Coloca el portaobjetos horizontal sobre el puente y cubre la extensión con colorante May-Grünwald durante **2–3 min**.
+5. Lava con agua y deja la extensión cubierta con agua durante **1 min**.
+6. Sin escurrir ni dejar secar, añade **12–14 gotas de la solución de trabajo de Giemsa recién preparada** y distribúyela suavemente con pera o pipeta Pasteur. Deja actuar **10–15 min**.
+7. Lava con abundante agua destilada hasta retirar el exceso de colorante y deja secar al aire.
+8. Observa la preparación al microscopio óptico. Identifica y describe los distintos elementos formes (células) presentes en la sangre y su coloración.
+9. Gestiona los residuos: soluciones y colorantes como residuos químicos según sus FDS y la norma del centro; material con sangre como residuo biológico; lancetas y otros punzantes en contenedor rígido de punzocortantes. No mezcles residuos ni viertas reactivos al desagüe. Limpia la zona y retira los EPI según el protocolo del centro.
 
 **Referencias de procedimiento:** BioGnost. (2025). *May-Gruenwald solution: Instructions for use* (MG-IFU EN12, 09.04.2025), apartados A3–A4 (método Pappenheim) y seguridad/medio ambiente. [PDF](https://www.biognost.com/wp-content/uploads/2020/05/MAY-GRUENWALD-SOLUTION-IFU_v12-1.pdf). Merck. (s. f.). *Giemsa stain for microscopy*, sección “Pappenheim Staining of Blood Samples”. [Merck Millipore](https://www.merckmillipore.com/INTL/es/ivd-oem-materials-and-reagents/learning-center/giemsa-solution/r2ab.qB.aBwAAAFOqm81lSAJ%2Cnav). Guiguan, S. S., et al. (2015). *Technical recommendations and best practice guidelines for May-Grünwald-Giemsa staining: literature review and insights from the quality assurance*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/26188673/).
 
 ### Controles de calidad
 
-- Origen de cada lámina; comparabilidad de zona y captura; productos identificados; diferencias interpretadas con cautela.
-- La fuente y la modalidad de cada imagen, registro o dato quedan identificadas.
-- Los datos simulados no se presentan como resultados de paciente ni como ejecución del alumnado.
-- Las incidencias, resultados no válidos y limitaciones se conservan en el registro.
+- Extensión homogénea y correctamente ejecutada, con **cabeza, cuerpo y cola** reconocibles; zona de lectura con distribución adecuada de células y sin acumulaciones o defectos que impidan la observación.
+- Preparación de la solución de trabajo de Giemsa en el momento de uso, según el fabricante y la práctica P05; reactivos identificados, vigentes y correctamente conservados.
+- Aplicación uniforme de May-Grünwald y Giemsa, respetando secuencia y tiempos indicados; lavado suficiente y secado completo al aire.
+- Tinción nítida y diferencial, con **contraste adecuado** entre los elementos formes y el fondo, sin precipitados, contaminación ni coloración excesiva que dificulte la morfología.
+- Observación de una zona representativa de la extensión y registro de los elementos formes identificados, su aspecto y coloración.
+- Anota incidencias o defectos observados y valora su posible efecto sobre la calidad de la preparación y la interpretación.
 
 ### Referencia técnica
 
