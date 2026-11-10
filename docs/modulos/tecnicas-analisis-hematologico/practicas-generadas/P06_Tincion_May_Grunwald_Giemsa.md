@@ -147,51 +147,126 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 *Figura 1. ¿Qué materiales, fuente o condición se prepararon? Indica su procedencia y modalidad.*
 
-### Imagen 2 — Identificación y preparación
+### Imagen 2 — Extensión sanguínea
 
-- **Archivo previsto:** `../assets/P06/P06_02_identificacion.jpg`
-- **Texto alternativo:** Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_02_extension_sanguinea.jpg`
+- **Texto alternativo:** Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.
+- **Pie de foto:** [Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta la identificación y preparación de la muestra, el material o la fuente de trabajo.](../assets/P06/P06_02_identificacion.jpg)
+![Extensión sanguínea extendida sobre un portaobjetos antes de la tinción.](../assets/P06/P06_02_extension_sanguinea.jpg)
 
-*Figura 2. ¿Cómo se identificó y preparó el material o la fuente antes de la fase principal?*
+*Figura 2. Describe la preparación de la extensión y señala si se distinguen cabeza, cuerpo y cola. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 3 — Fase principal del procedimiento
+### Imagen 3 — Procedimiento de tinción: adición de May-Grünwald
 
-- **Archivo previsto:** `../assets/P06/P06_03_procedimiento.jpg`
-- **Texto alternativo:** Documenta una fase principal del procedimiento o el análisis de la fuente asignada.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_03_adicion_may_grunwald.jpg`
+- **Texto alternativo:** Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.
+- **Pie de foto:** [Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta una fase principal del procedimiento o el análisis de la fuente asignada.](../assets/P06/P06_03_procedimiento.jpg)
+![Adición del colorante May-Grünwald sobre la extensión sanguínea durante el procedimiento de tinción.](../assets/P06/P06_03_adicion_may_grunwald.jpg)
 
-*Figura 3. ¿Qué fase principal se observa y qué acción o criterio se aplicó?*
+*Figura 3. Documenta la adición del colorante May-Grünwald y el momento de la secuencia. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 4 — Control, lectura o registro
+### Imagen 4 — Extensión teñida lista para observación
 
-- **Archivo previsto:** `../assets/P06/P06_04_control_lectura.jpg`
-- **Texto alternativo:** Documenta el control de calidad, la lectura o el registro de datos.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_04_extension_tenida.jpg`
+- **Texto alternativo:** Extensión sanguínea teñida y seca, preparada para su observación microscópica.
+- **Pie de foto:** [Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el control de calidad, la lectura o el registro de datos.](../assets/P06/P06_04_control_lectura.jpg)
+![Extensión sanguínea teñida y seca, preparada para su observación microscópica.](../assets/P06/P06_04_extension_tenida.jpg)
 
-*Figura 4. ¿Qué control o lectura permite valorar la calidad del registro?*
+*Figura 4. Describe el aspecto general de la preparación teñida y si presenta contraste adecuado. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-### Imagen 5 — Resultado final
+### Imagen 5 — Eritrocitos
 
-- **Archivo previsto:** `../assets/P06/P06_05_resultado_final.jpg`
-- **Texto alternativo:** Documenta el resultado final y la evidencia que apoya la interpretación limitada.
-- **Pie de foto:** [Describe lo que se observa en Tinción de May-Grünwald-Giemsa, el momento, el origen/modalidad y qué conclusión limitada apoya.]
+- **Archivo previsto:** `../assets/P06/P06_05_eritrocitos.jpg`
+- **Texto alternativo:** Eritrocitos observados en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en los eritrocitos. Indica procedencia/modalidad y la conclusión limitada que apoya.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Documenta el resultado final y la evidencia que apoya la interpretación limitada.](../assets/P06/P06_05_resultado_final.jpg)
+![Eritrocitos observados en la extensión sanguínea teñida.](../assets/P06/P06_05_eritrocitos.jpg)
 
-*Figura 5. ¿Cuál es el resultado final y qué conclusión limitada permite sostener?*
+*Figura 5. Describe la morfología y coloración observadas en los eritrocitos. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
-Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; conserva la secuencia y la misma convención de nombres.
+### Imagen 6 — Neutrófilo
+
+- **Archivo previsto:** `../assets/P06/P06_06_neutrofilo.jpg`
+- **Texto alternativo:** Neutrófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración que permiten reconocer el neutrófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Neutrófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_06_neutrofilo.jpg)
+
+*Figura 6. Describe los rasgos morfológicos y la coloración que permiten reconocer el neutrófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 7 — Eosinófilo
+
+- **Archivo previsto:** `../assets/P06/P06_07_eosinofilo.jpg`
+- **Texto alternativo:** Eosinófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración de los gránulos del eosinófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Eosinófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_07_eosinofilo.jpg)
+
+*Figura 7. Describe los rasgos morfológicos y la coloración de los gránulos del eosinófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 8 — Basófilo
+
+- **Archivo previsto:** `../assets/P06/P06_08_basofilo.jpg`
+- **Texto alternativo:** Basófilo observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe los rasgos morfológicos y la coloración de los gránulos del basófilo. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Basófilo observado en la extensión sanguínea teñida.](../assets/P06/P06_08_basofilo.jpg)
+
+*Figura 8. Describe los rasgos morfológicos y la coloración de los gránulos del basófilo. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 9 — Monocito
+
+- **Archivo previsto:** `../assets/P06/P06_09_monocito.jpg`
+- **Texto alternativo:** Monocito observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en el monocito. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Monocito observado en la extensión sanguínea teñida.](../assets/P06/P06_09_monocito.jpg)
+
+*Figura 9. Describe la morfología y coloración observadas en el monocito. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 10 — Linfocito
+
+- **Archivo previsto:** `../assets/P06/P06_10_linfocito.jpg`
+- **Texto alternativo:** Linfocito observado en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe la morfología y coloración observadas en el linfocito. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Linfocito observado en la extensión sanguínea teñida.](../assets/P06/P06_10_linfocito.jpg)
+
+*Figura 10. Describe la morfología y coloración observadas en el linfocito. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 11 — Plaqueta
+
+- **Archivo previsto:** `../assets/P06/P06_11_plaqueta.jpg`
+- **Texto alternativo:** Plaqueta observada en la extensión sanguínea teñida.
+- **Pie de foto:** [Describe el aspecto y la coloración observados en la plaqueta. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Plaqueta observada en la extensión sanguínea teñida.](../assets/P06/P06_11_plaqueta.jpg)
+
+*Figura 11. Describe el aspecto y la coloración observados en la plaqueta. Indica procedencia/modalidad; evita inferencias diagnósticas.*
+
+### Imagen 12 — Gestión de residuos: colorantes
+
+- **Archivo previsto:** `../assets/P06/P06_12_gestion_residuos_colorantes.jpg`
+- **Texto alternativo:** Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.
+- **Pie de foto:** [Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad y la conclusión limitada que apoya.]
+- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+
+![Recipiente etiquetado para la segregación de residuos de colorantes conforme a las normas del centro.](../assets/P06/P06_12_gestion_residuos_colorantes.jpg)
+
+*Figura 12. Documenta la gestión de los residuos de colorantes sin mostrar datos personales ni prácticas inseguras. Indica procedencia/modalidad; evita inferencias diagnósticas.*
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
