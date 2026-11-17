@@ -6,7 +6,6 @@ learning_outcomes: "RA04 (CE04.a–CE04.e)"
 transversal_learning_outcome: "RA01"
 page_type: "Página de práctica y cuaderno digital del alumnado"
 student_completion: "Individual o por pareja, según la organización del grupo"
-reference_document: "P7_Siembras en picadura.pdf"
 ---
 
 # P11 — Siembra por picadura y estría en tubo
@@ -22,8 +21,8 @@ reference_document: "P7_Siembras en picadura.pdf"
 | Resultado de aprendizaje | RA04: realización de operaciones de preparación, siembra y cultivo siguiendo el procedimiento establecido |
 | Criterios vinculados | CE04.a–CE04.e |
 | Resultado transversal | RA01: aplicación de medidas de seguridad, higiene, organización y trazabilidad |
-| Finalidad | Aplicar una inoculación en un medio contenido en tubo y relacionar el patrón de siembra con el propósito analítico o docente previsto. |
-| Evidencia principal | Inoculación o actividad simulada trazable, registro técnico e interpretación prudente del resultado. |
+| Finalidad | Realizar tres siembras de una misma colonia en medios sólidos en tubo: dos tubos inclinados y uno recto, y comparar sus trayectorias. |
+| Evidencia principal | Tres tubos inoculados de forma trazable, registro técnico e interpretación prudente del resultado. |
 
 ### [ALUMNADO · RELLENABLE] Datos de realización
 
@@ -34,29 +33,30 @@ reference_document: "P7_Siembras en picadura.pdf"
 | Fecha de realización | [dd/mm/aaaa] |
 | Fecha de lectura o revisión | [dd/mm/aaaa] |
 | Rol desempeñado | [Operador/a, observador/a, registrador/a u otro] |
-| Modalidad de trabajo | [Ejecución autorizada / demostración docente / simulación / análisis de resultado docente] |
-| Código del tubo o evidencia analizada | [Escribe aquí, sin datos sensibles] |
+| Modalidad de trabajo | Ejecución real supervisada en el laboratorio docente |
+| Cultivo previo y colonia asignada | [Código trazable autorizado; no añadas datos sensibles] |
+| Códigos de los tubos A, B y C | [Escribe aquí, sin datos sensibles] |
 
 ---
 
 ## 2. Resumen
 
-En esta práctica compararás dos patrones de inoculación en tubo: la siembra por picadura y la estría sobre la superficie inclinada. Identificarás el medio, el material de partida y la modalidad autorizada, y registrarás cómo se introduce el inóculo y qué zonas se pretende estudiar. Observarás o analizarás el crecimiento en profundidad y en la superficie, comprobarás los controles y describirás cualquier desviación, contaminación o ausencia de crecimiento. El resultado esperado es un registro que relacione cada patrón con su finalidad y permita valorar si la evidencia es interpretable. Añadirás fotografías autorizadas del proceso y del resultado, una conclusión prudente y propuestas de comprobación posterior cuando sean necesarias.
+En esta práctica inocularás tres tubos con medio sólido a partir de una colonia asignada de un cultivo procedente de una práctica anterior. Usarás dos tubos con agar inclinado y uno con agar recto. En el primero realizarás una estría superficial; en el segundo, una picadura; y en el tercero, una picadura seguida de estría. Registrarás cada tubo por separado y aplicarás las indicaciones de seguridad y manipulación aséptica del [PNT-010. Manipulación aséptica en bacteriología](#pnt-010).
 
 ## 3. Finalidad y resultados esperados
 
 
-En esta práctica se trabaja el uso de un medio sólido o semisólido dispuesto en tubo. Según el diseño docente y el procedimiento normalizado de trabajo ([PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf)) vigente, el medio puede presentar una zona profunda, una superficie inclinada o ambas. La siembra por picadura y la estría sobre la superficie inclinada permiten registrar dónde se ha depositado el inóculo y describir el resultado observable en cada zona.
+Se emplean tres tubos con medio sólido: dos con agar inclinado (A y C) y uno con agar recto (B). Una misma colonia asignada del cultivo docente previo sirve de inóculo. En A se estría la superficie; en B se punciona en línea recta el medio; en C se punciona y, al retirar el hilo, se estría la superficie inclinada. Las guías técnicas describen la estría ascendente, la picadura central y la combinación en medios de tubo ([WCJC, Media Inoculation Technique](https://facultyweb.wcjc.edu/users/biology/documents/MicroLabHandouts2013F13.pdf); [SUNY Geneseo, Bacteriological Culture Methods](https://milnepublishing.geneseo.edu/suny-microbiology-lab/chapter/bacteriological-culture-methods/); [CDC, Preparation of Media and Reagents](https://stacks.cdc.gov/view/cdc/52473/cdc_52473_DS1.pdf)).
 
 Al finalizar, el alumnado deberá ser capaz de:
 
 - identificar la finalidad de una siembra en medio de tubo;
-- aplicar o analizar una técnica autorizada de forma segura y trazable;
-- diferenciar en el registro la zona profunda de la zona superficial inclinada;
+- realizar tres siembras de forma segura y trazable, utilizando dos tubos inclinados y uno recto;
+- ejecutar y distinguir tres técnicas: estría en inclinado, picadura en tubo recto y picadura seguida de estría en inclinado;
 - describir el resultado sin sobreinterpretarlo; y
 - justificar qué controles, medio específico o información adicional serían necesarios para emitir una conclusión más concreta.
 
-> **Límite de interpretación.** La apariencia observada en un tubo no permite, por sí sola, identificar un microorganismo ni confirmar movilidad, metabolismo o relación con el oxígeno. Esas conclusiones requieren el medio adecuado, controles, condiciones definidas y el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) aplicable.
+> **Límite de interpretación.** La trayectoria de crecimiento no identifica el microorganismo ni confirma por sí sola movilidad, metabolismo o relación con el oxígeno. Estas conclusiones requieren medios apropiados y controles definidos para cada prueba.
 
 ### [ALUMNADO · RELLENABLE] Objetivo personal
 
@@ -72,50 +72,46 @@ Completa antes de empezar:
 
 | Recurso | Uso previsto |
 | --- | --- |
-| Tubos con medio sólido o semisólido apropiado | Soporte de la actividad práctica, demostración o análisis de resultados. |
-| Asa, hilo o aguja de inoculación autorizada | Instrumental definido por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) y por la modalidad de trabajo. |
-| Cultivo docente autorizado o material alternativo seguro | Material de partida únicamente cuando el centro lo autorice. |
-| EPI y recursos de desinfección | Aplicación de las medidas de protección y de organización del puesto. |
-| [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente, hoja de trazabilidad y sistema de residuos | Referencia para la ejecución, el registro y la eliminación segura. |
+| Tres tubos con medio sólido, identificados A, B y C | A y C: agar inclinado. B: agar recto. |
+| Asa y aguja/hilo de siembra estériles | Asa para la estría superficial; hilo recto para la picadura y la técnica combinada. Aplicar el [PNT-010](#pnt-010) en la manipulación aséptica. |
+| Cultivo docente previo con una colonia asignada | Inóculo procedente de una práctica anterior del laboratorio docente. |
+| EPI y recursos de desinfección | Aplicación de las medidas de protección y organización definidas por el centro. |
+| [PNT-010](#pnt-010), hoja de trazabilidad y contenedores de residuos | Referencia de manipulación aséptica, registro y eliminación de materiales. |
 
 ### Condiciones de seguridad
 
-- Solo se utilizarán materiales, cultivos docentes y condiciones expresamente autorizados por el centro.
-- La técnica concreta se realizará exclusivamente conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) vigente del centro y bajo la supervisión prevista.
+- La práctica se realiza de forma real y supervisada con el cultivo docente previo y la colonia asignada para la sesión.
+- Aplica las indicaciones de seguridad y manipulación aséptica del [PNT-010. Manipulación aséptica en bacteriología](#pnt-010) durante la preparación, apertura y cierre de los tubos y el uso del instrumental.
 - Se deben prevenir la punción accidental, la generación de aerosoles, la rotura del tubo, las contaminaciones y la exposición a material biológico.
-- No se abrirán, manipularán ni reincubarán tubos fuera de la instrucción recibida.
-- Todo residuo se gestionará por la ruta indicada por el centro. No se deducirá la ruta de eliminación a partir de la apariencia del material.
-
-> **Alternativa segura.** Si no se cumplen las condiciones para la ejecución con material biológico, la actividad se desarrollará mediante simulación, demostración docente, tubos preparados o imágenes/resultados docentes. Indica siempre la modalidad real; observar una demostración no equivale a haber ejecutado la técnica.
+- No se abrirán, manipularán ni reincubarán tubos fuera de las indicaciones del [PNT-010](#pnt-010) y de la supervisión docente.
+- Deposita los residuos en los contenedores indicados para la práctica; no deduzcas la clasificación por la apariencia del material.
 
 ### [ALUMNADO · RELLENABLE] Comprobación previa
 
 | Verificación | Sí / No / No aplica | Observación o referencia |
 | --- | --- | --- |
-| Conozco la modalidad autorizada de esta sesión | [ ] | [Escribe aquí] |
+| La sesión se realiza de forma real y supervisada | [ ] | [Escribe aquí] |
 | Dispongo de los EPI requeridos y del puesto preparado | [ ] | [Escribe aquí] |
-| He identificado el tubo, el medio y su código de trazabilidad | [ ] | [Escribe aquí] |
-| Sé qué [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) o instrucción docente debo seguir | [ ] | [Escribe aquí] |
-| Conozco el límite de manipulación y la ruta de residuos | [ ] | [Escribe aquí] |
+| He identificado los tres tubos, sus medios y códigos de trazabilidad | [ ] | [Escribe aquí] |
+| He comprobado el cultivo previo, la colonia asignada y las etiquetas de los tres tubos | [ ] | [Escribe aquí] |
+| Conozco las indicaciones del [PNT-010](#pnt-010) y los contenedores de residuos | [ ] | [Escribe aquí] |
 
 ---
 
 ## 5. Fundamento técnico
 
 
-Los medios contenidos en tubo permiten organizar la inoculación y la lectura en espacios físicos diferenciados. Una zona profunda o semisólida puede revisarse separadamente de una superficie inclinada. La técnica de picadura deposita el inóculo en la zona indicada por el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf); la estría se realiza sobre la superficie inclinada cuando esa es la finalidad prevista. En una práctica combinada, ambos registros deben mantenerse diferenciados.
+Los tubos permiten comparar tres patrones de distribución del inóculo. En A y C, el agar está inclinado; B contiene agar recto. La estría se extiende sobre la superficie inclinada. La picadura sigue una trayectoria única por el centro del medio recto. En C se combinan ambas trayectorias: primero la picadura y, durante la retirada del hilo, la estría superficial. Estas maniobras se realizan con la técnica aséptica descrita en el [PNT-010](#pnt-010). Las guías técnicas describen la estría ascendente, la picadura central y la combinación en tubos ([WCJC](https://facultyweb.wcjc.edu/users/biology/documents/MicroLabHandouts2013F13.pdf); [SUNY Geneseo](https://milnepublishing.geneseo.edu/suny-microbiology-lab/chapter/bacteriological-culture-methods/); [CDC](https://stacks.cdc.gov/view/cdc/52473/cdc_52473_DS1.pdf)).
 
-La lectura técnica comienza por una descripción objetiva: ubicación del crecimiento o de la evidencia, extensión, continuidad, aspecto y comparación con los controles o imágenes de referencia. La interpretación debe ser proporcional a los datos disponibles. Si la finalidad es estudiar una propiedad concreta, se necesita el medio apropiado, un protocolo validado y los controles definidos para esa propiedad.
-
-El documento histórico de referencia puede ayudar a reconocer la denominación general de las técnicas, pero no sustituye al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) actual ni establece por sí mismo las condiciones de ejecución de esta sesión.
+La lectura técnica comienza por una descripción objetiva: ubicación del crecimiento, extensión, continuidad y aspecto. La interpretación debe ser proporcional a los datos disponibles. Para estudiar una propiedad concreta se necesitan el medio apropiado y los controles definidos para esa prueba.
 
 ### [ALUMNADO · RELLENABLE] Predicción razonada
 
 Antes de realizar o revisar la actividad, responde:
 
-> ¿Qué diferencia esperas encontrar entre el registro de la zona profunda y el de la zona inclinada, y qué información adicional necesitarías para interpretarla con seguridad?
+> ¿Qué diferencias esperas entre los tres patrones de siembra y qué información adicional necesitarías para interpretar los crecimientos con seguridad?
 
-[Escribe aquí. Si trabajas con simulación o resultado docente, formula la predicción a partir de esa modalidad.]
+[Escribe aquí. Relaciona la predicción con las tres trayectorias de siembra.]
 
 ---
 
@@ -123,34 +119,57 @@ Antes de realizar o revisar la actividad, responde:
 
 ### Flujo general
 
-1. Confirmar la modalidad de trabajo, la autorización, los EPI y el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) aplicable.
-2. Identificar el tubo, el tipo de medio, el material de partida o la evidencia docente y los controles previstos.
-3. Ejecutar la técnica autorizada, observar una demostración o desarrollar la simulación, sin apartarse de las instrucciones del centro.
-4. Asegurar el cierre, la identificación y la custodia del material conforme al [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf).
-5. Realizar la lectura o revisión en el momento y las condiciones indicadas por el centro.
-6. Registrar por separado las evidencias de la zona profunda y de la zona inclinada, cuando proceda.
-7. Documentar incidencias, limitaciones, medidas adoptadas y ruta de residuos.
+1. Prepara el puesto, el EPI, el cultivo previo, una colonia asignada y los materiales siguiendo el [PNT-010](#pnt-010).
+2. Identifica los tubos A, B y C; comprueba que A y C tienen agar inclinado y B agar recto.
+3. Realiza cada siembra con un instrumento estéril, aplicando las trayectorias específicas descritas abajo.
+4. Cierra los tubos y gestiona el material usado conforme a las indicaciones de manipulación aséptica del [PNT-010](#pnt-010).
+5. Registra por separado la trayectoria y el resultado observado en cada tubo, los controles y cualquier incidencia.
+6. Desinfecta el puesto y elimina los residuos en los contenedores correspondientes.
 
 ### Procedimiento específico
 
-**[PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf) de referencia:** [SEIMC, procedimiento 1a: procesamiento general de muestras](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf)
+Aplica en cada técnica las indicaciones de manipulación aséptica del [PNT-010. Manipulación aséptica en bacteriología](#pnt-010), en especial las relativas a apertura y cierre de tubos e instrumental. Las trayectorias descritas se apoyan además en las guías de [WCJC](https://facultyweb.wcjc.edu/users/biology/documents/MicroLabHandouts2013F13.pdf), [SUNY Geneseo](https://milnepublishing.geneseo.edu/suny-microbiology-lab/chapter/bacteriological-culture-methods/) y, para la combinación, [CDC](https://stacks.cdc.gov/view/cdc/52473/cdc_52473_DS1.pdf) (consultadas el 17/11/2026).
 
-1. Confirma tubo, medio, cultivo, aguja o asa, EPI, autorización y [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf); organiza el puesto y etiqueta.
-2. Selecciona el material de inoculación indicado y verifica su integridad; evita superficies no estériles.
-3. Realiza la picadura en profundidad y la estría en superficie inclinada según el patrón autorizado.
-4. Mantén el tubo abierto el mínimo tiempo y ciérralo inmediatamente; evita aerosoles y derrames.
-5. Entrega o conserva el tubo según el procedimiento; no modifiques incubación ni lectura sin indicación.
-6. Registra por separado crecimiento en profundidad y superficie, controles y limitaciones.
-7. Desecha el material, desinfecta y documenta trazabilidad y desviaciones.
+### Tubo A — Estría en superficie inclinada
+
+1. Comprueba que el tubo A está identificado y contiene agar sólido inclinado; colócalo en la posición de trabajo indicada en el [PNT-010](#pnt-010).
+2. Toma una porción pequeña de la colonia asignada con un asa estéril, aplicando la técnica aséptica del [PNT-010](#pnt-010).
+3. Abre el tubo según el [PNT-010](#pnt-010), manteniendo bajo control el tapón y la boca del tubo.
+4. Apoya suavemente el asa en el extremo inferior de la superficie inclinada para depositar el inóculo.
+5. Traza una estría continua en zigzag ascendente sobre la superficie, sin perforar ni rayar el agar.
+6. Retira el asa, cierra el tubo y deja el material identificado en la gradilla correspondiente.
+7. Esteriliza o elimina el asa y gestiona los residuos siguiendo las indicaciones del [PNT-010](#pnt-010).
+
+### Tubo B — Picadura en tubo recto
+
+1. Comprueba que el tubo B está identificado y contiene agar sólido recto; mantenlo en posición vertical.
+2. Toma una porción pequeña de la misma colonia con un hilo recto estéril, siguiendo el [PNT-010](#pnt-010).
+3. Abre el tubo de acuerdo con las indicaciones de manejo aséptico de tubos del [PNT-010](#pnt-010).
+4. Introduce el hilo por el centro del agar, siguiendo el eje del tubo y una sola trayectoria recta; la tuerca del asa no debe tocar la superficie del agar.
+5. Detén la picadura cerca del fondo, sin atravesar el medio ni tocar el vidrio inferior.
+6. Retira el hilo por el mismo trayecto, sin movimientos laterales que ensanchen o desvíen el canal.
+7. Cierra el tubo y esteriliza o elimina el hilo conforme al [PNT-010](#pnt-010).
+
+### Tubo C — Picadura seguida de estría
+
+1. Comprueba que el tubo C está identificado y contiene agar sólido inclinado con zona suficiente para la picadura y la estría.
+2. Toma una porción de la misma colonia con un hilo de siembra estéril, siguiendo el [PNT-010](#pnt-010).
+3. Abre el tubo según las indicaciones del [PNT-010](#pnt-010) y mantén el manejo aséptico del tapón y la boca.
+4. Introduce el hilo en línea recta por el centro de la zona profunda, sin alcanzar ni perforar el vidrio del fondo; la tuerca del asa no debe tocar la superficie del agar.
+5. Retira el hilo por la misma trayectoria; al llegar a la superficie inclinada, apóyalo suavemente sobre el agar.
+6. Sin volver a entrar en profundidad, traza una estría en zigzag ascendente sobre la superficie inclinada.
+7. Cierra el tubo, conserva su identificación y esteriliza o elimina el hilo según el [PNT-010](#pnt-010).
+
+En los tres procedimientos, mantén la manipulación aséptica y la apertura/cierre del tubo según el [PNT-010](#pnt-010). No se indican aquí condiciones de incubación: la práctica se centra en la trayectoria de inoculación y su registro.
 
 ### Criterios de calidad del registro
 
 | Aspecto | Criterio verificable |
 | --- | --- |
-| Modalidad | Queda claro si hubo ejecución, demostración, simulación o análisis de resultado docente. |
+| Ejecución | Se registra la realización real de las tres siembras supervisadas. |
 | Trazabilidad | El tubo, medio, material y evidencia se registran mediante código o descripción autorizada. |
-| Técnica | Se declara que se siguió el [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf), sin incorporar instrucciones no autorizadas. |
-| Diferenciación de zonas | La zona profunda y la zona inclinada se describen por separado cuando existan. |
+| Técnica | Se distingue la técnica asignada a cada uno de los tres tubos y se registran las desviaciones. |
+| Diferenciación de zonas | En el tubo combinado, la zona profunda y la superficie inclinada se describen por separado. |
 | Interpretación | Las conclusiones se limitan a lo que permiten el medio, los controles y la evidencia disponible. |
 | Seguridad | Se anotan incidencias, acciones correctoras y ruta de residuos. |
 
@@ -164,12 +183,13 @@ Antes de realizar o revisar la actividad, responde:
 
 | Elemento | Registro del alumnado |
 | --- | --- |
-| Tipo de actividad asignada | [Picadura / estría en tubo / picadura y estría / simulación / análisis de resultado] |
-| Tipo de medio y disposición | [Sólido / semisólido; profundo / inclinado / combinado] |
-| Código o descripción autorizada del material | [Escribe aquí] |
-| Control, referencia o comparación disponible | [Escribe aquí] |
-| Evidencia que espero poder registrar | [Escribe aquí] |
-| Límite de lectura comunicado por el centro | [Escribe aquí] |
+| Técnica asignada al tubo A | Estría en superficie inclinada |
+| Técnica asignada al tubo B | Picadura en tubo recto |
+| Técnica asignada al tubo C | Picadura seguida de estría |
+| Cultivo previo y colonia asignada | [Código autorizado comunicado por el docente] |
+| Medio y disposición de cada tubo | A: medio sólido inclinado; B: medio sólido recto; C: medio sólido inclinado |
+| Controles o comparación docente | [Indica control previsto o «No aplica»] |
+| Límite de lectura indicado para la sesión | [Escribe aquí] |
 
 ### [ALUMNADO · RELLENABLE] Decisión de seguridad
 
@@ -189,7 +209,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Instrumental | [Enumera el instrumental que vas a utilizar] |
 | Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Reactivos/materiales | [Incluye la colonia asignada y tres tubos con medio sólido: A y C inclinados; B recto.] |
 
 | Residuo previsto | Tipo |
 |---|---|
@@ -199,49 +219,61 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 ### 9.1 Registro de observaciones y cálculos
 
-Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
+Registra los datos observados en la ejecución real de los tubos A, B y C. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
 
 | Aspecto | Registro del alumnado |
 |---|---|
 | Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
 | Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
 
 ## 10. Evidencias visuales
 
 ### [ALUMNADO · RELLENABLE]
 
-Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen procede del centro, de una simulación o de un material de referencia, indícalo expresamente. Evita mostrar rostros, datos personales o etiquetas no autorizadas.
+Incluye fotografías propias de la práctica real solo si su captura está autorizada. Evita mostrar rostros, datos personales o etiquetas de identificación del cultivo. En las lecturas, registra el resultado observado tras la incubación indicada por el docente; no presupongas crecimiento ni atribuyas propiedades no evaluadas.
 
-### Imagen 1 — Preparación e identificación segura
+### Imagen 1 — Cultivo o colonias que se van a sembrar
 
-![Preparación e identificación segura](../assets/P11/preparacion_e_identificacion_segura_01.jpg)
+**Evidencia:** [Inserta aquí la fotografía autorizada de la colonia asignada, sin datos sensibles.]<br>
+**Pie de foto técnico:** [Describe el cultivo y señala la colonia seleccionada.]<br>
+**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
-> **Indicaciones:** Puede mostrar el puesto preparado, el material no sensible o una representación de la simulación.
+### Imagen 2 — Siembra en estría en superficie inclinada (tubo A)
 
-- Pie de foto técnico: [Escribe aquí]
-- Autoría y procedencia: [Propia / docente / simulación / material de referencia]
-- Qué demuestra: [Escribe aquí]
+**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la estría en el agar inclinado.]<br>
+**Pie de foto técnico:** [Describe la trayectoria realizada sobre la superficie.]<br>
+**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
-### Imagen 2 — Desarrollo de la actividad
+### Imagen 3 — Siembra en picadura en tubo recto (tubo B)
 
-![Desarrollo de la actividad](../assets/P11/desarrollo_de_la_actividad_02.jpg)
+**Evidencia:** [Inserta aquí la fotografía autorizada de la realización de la picadura en el medio sólido recto.]<br>
+**Pie de foto técnico:** [Describe la trayectoria de entrada y retirada del hilo.]<br>
+**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
-> **Indicaciones:** Puede mostrar una demostración autorizada, el material de simulación o una evidencia del seguimiento de la actividad.
+### Imagen 4 — Siembra en picadura y estría (tubo C)
 
-- Pie de foto técnico: [Escribe aquí]
-- Autoría y procedencia: [Propia / docente / simulación / material de referencia]
-- Qué demuestra: [Escribe aquí]
+**Evidencia:** [Inserta aquí la fotografía autorizada de la técnica combinada en el agar inclinado.]<br>
+**Pie de foto técnico:** [Describe por separado la picadura y la estría superficial.]<br>
+**Autoría y procedencia:** [Propia / fotografía docente autorizada / material de referencia]
 
-### Imagen 3 — Lectura o resultado
+### Imagen 5 — Resultado tras incubación de la siembra en estría (tubo A)
 
-![Lectura o resultado](../assets/P11/lectura_o_resultado_03.jpg)
+**Evidencia:** [Inserta aquí la fotografía autorizada del tubo A tras la incubación indicada.]<br>
+**Pie de foto técnico:** [Describe el crecimiento observado en la superficie inclinada o indica que no se observa.]<br>
+**Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
-> **Indicaciones:** Debe permitir identificar si corresponde a la zona profunda, la zona inclinada, un control o un resultado docente.
+### Imagen 6 — Resultado tras incubación de la siembra en picadura (tubo B)
 
-- Pie de foto técnico: [Escribe aquí]
-- Autoría y procedencia: [Propia / docente / simulación / material de referencia]
-- Qué demuestra y qué no permite concluir: [Escribe aquí]
+**Evidencia:** [Inserta aquí la fotografía autorizada del tubo B tras la incubación indicada.]<br>
+**Pie de foto técnico:** [Describe el crecimiento observado en la trayectoria de picadura o indica que no se observa.]<br>
+**Qué demuestra y qué no permite concluir:** [Escribe aquí]
+
+### Imagen 7 — Resultado tras incubación de la siembra en picadura y estría (tubo C)
+
+**Evidencia:** [Inserta aquí la fotografía autorizada del tubo C tras la incubación indicada.]<br>
+**Pie de foto técnico:** [Describe por separado el crecimiento en profundidad y en la superficie inclinada, o indica que no se observa.]<br>
+**Qué demuestra y qué no permite concluir:** [Escribe aquí]
 
 ---
 
@@ -261,13 +293,13 @@ Incluye imágenes propias solo cuando su captura esté autorizada. Si la imagen 
 
 Redacta una interpretación breve y fundamentada:
 
-1. Describe qué diferencia o relación se aprecia entre la zona profunda y la zona inclinada, si ambas están presentes.
-2. Indica qué control, dato del medio o condición de lectura respalda esa descripción.
-3. Explica qué conclusión no es posible extraer a partir de esta sola práctica.
+1. Compara el patrón de crecimiento de los tubos A, B y C; en C separa la picadura en profundidad de la estría superficial.
+2. Indica qué controles, datos del medio y condiciones de lectura respaldan la descripción, o qué información falta.
+3. Explica qué conclusión no es posible extraer a partir de estas siembras por sí solas.
 
 [Escribe aquí]
 
-> **Recordatorio.** No atribuyas movilidad, metabolismo, identificación ni significado clínico a una observación si no dispones del medio, los controles y el procedimiento específicos que lo sustenten.
+> **Recordatorio.** No atribuyas movilidad, metabolismo, identificación ni significado clínico a una observación si no dispones del medio y los controles específicos que lo sustenten.
 
 ---
 
@@ -275,7 +307,7 @@ Redacta una interpretación breve y fundamentada:
 
 ### [ALUMNADO · RELLENABLE]
 
-> Redacta una conclusión de 4–6 líneas. Debe diferenciar entre: (a) si la actividad se ejecutó, observó o simuló conforme a la modalidad asignada; (b) qué resultado quedó registrado; y (c) qué limitación mantiene la interpretación.
+> Valora razonadamente si las tres técnicas y sus resultados permiten cumplir el objetivo. Relaciona la valoración con los registros de A, B y C y con el procedimiento seguido; indica una limitación relevante sin repetir datos ya registrados.
 
 [Escribe aquí]
 
@@ -285,19 +317,19 @@ Redacta una interpretación breve y fundamentada:
 
 ### [ALUMNADO · RELLENABLE]
 
-1. **Procedimiento.** ¿Qué decisión o momento de la actividad consideras más crítico para evitar punciones accidentales, aerosoles, roturas o contaminaciones? Justifica tu respuesta.
+**1. Procedimiento — Integridad de la trayectoria.** Durante la picadura en el tubo B y la zona profunda del tubo C, ¿por qué se debe retirar el hilo exactamente por el mismo canal de entrada, sin perforar el vidrio del fondo ni realizar movimientos laterales?
 
    [Respuesta]
 
-2. **Interpretación.** ¿Qué información debes conservar separada al registrar la zona profunda y la zona inclinada, y por qué sería un error interpretarlas como una única evidencia?
+**2. Interpretación.** Dado que los tubos A, B y C proceden de una misma colonia asignada, ¿cómo deberías interpretar una discrepancia evidente entre ellos (por ejemplo, ausencia total de crecimiento en la estría del tubo A frente a crecimiento abundante en la superficie inclinada del tubo C)?
 
    [Respuesta]
 
-3. **Conclusiones.** A partir de los resultados disponibles, ¿qué puedes afirmar sobre la realización o la evidencia observada y qué no puedes afirmar todavía sobre el microorganismo o la muestra?
+**3. Conclusiones — Evaluación de la destreza motriz y el control del instrumental.** A partir de tu desempeño real al manipular el asa y el hilo recto en los tres tubos, ¿qué evidencia física en el agar (ausencia de desgarros, canal único centrado y profundidad controlada sin tocar el fondo) te permite concluir que has dominado las tres trayectorias mecánicas de inoculación?
 
    [Respuesta]
 
-4. **Aprendizaje y transferencia.** ¿Cómo aplicarías lo aprendido sobre trazabilidad, técnica aséptica y lectura prudente en una futura siembra o en el análisis de un cultivo en placa?
+**4. Aprendizaje y transferencia — Aplicación a medios bioquímicos diferenciales.** La técnica combinada de picadura y estría (tubo C) es la base de medios como el agar TSI o KIA. ¿Cómo te ayudará el dominio de esta doble trayectoria a evitar falsos positivos o lecturas erróneas cuando evalúes fermentaciones o producción de gases en el futuro?
 
    [Respuesta]
 
@@ -312,10 +344,21 @@ Redacta una interpretación breve y fundamentada:
 | Código de práctica | P11 |
 | Fecha de entrega | [dd/mm/aaaa] |
 | Enlace o ubicación de las evidencias | [Escribe aquí] |
-| Modalidad declarada | [Escribe aquí] |
-| [PNT](https://seimc.org/wp-content/uploads/2025/06/seimc-procedimientomicrobiologia1a.pdf), instrucción o recurso docente consultado | [Escribe aquí] |
+| Modalidad declarada | Ejecución real supervisada |
+| Procedimiento técnico consultado | [PNT-010. Manipulación aséptica en bacteriología, v1.2](#pnt-010) |
 | Control o referencia utilizada | [Escribe aquí] |
 | Ruta de residuos o cierre de actividad | [Escribe aquí] |
 | Autoevaluación | [Logrado / en proceso / necesito revisión] |
 
 ---
+
+## 16. Fuentes técnicas y documentales
+
+<a id="pnt-010"></a>
+
+- PNT-010. *Manipulación aséptica en bacteriología*. Versión 1.2, 27 de octubre de 2026.
+- [WCJC, Media Inoculation Technique](https://facultyweb.wcjc.edu/users/biology/documents/MicroLabHandouts2013F13.pdf) (consultado el 17/11/2026): técnica de estría en agar inclinado y picadura en agar profundo.
+- [SUNY Geneseo, Bacteriological Culture Methods](https://milnepublishing.geneseo.edu/suny-microbiology-lab/chapter/bacteriological-culture-methods/) (consultado el 17/11/2026): inoculación básica de tubos y medios de cultivo.
+- [CDC, Preparation of Media and Reagents](https://stacks.cdc.gov/view/cdc/52473/cdc_52473_DS1.pdf) (consultado el 17/11/2026): ejemplo técnico de inoculación combinada mediante picadura y estría en un medio diferencial.
+
+Las condiciones de incubación y la interpretación de propiedades microbiológicas dependen del medio y quedan fuera del alcance de esta práctica.
