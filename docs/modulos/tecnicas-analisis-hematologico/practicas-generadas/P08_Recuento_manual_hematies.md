@@ -146,79 +146,52 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-Registra visualmente las operaciones realizadas con **8 evidencias** que cubren preparación, dilución, carga de la cámara y lectura de los cinco cuadrados eritrocitarios en cinco imágenes individuales, todas del mismo lado de la cámara. Incorpora solo imágenes cuya captura y publicación estén autorizadas. Identifica si cada imagen es propia, de demostración, simulada o documental; no atribuyas al alumnado imágenes que no haya generado. No incluyas etiquetas, identificadores personales o clínicos, ni formules diagnósticos. Añade aumento o escala solo si se conocen.
+Registra visualmente el resultado del recuento con **cinco imágenes individuales**, una de cada cuadrante eritrocitario contado (cuatro esquinas y centro) del mismo lado de la cámara. Incorpora solo imágenes cuya captura y publicación estén autorizadas. Identifica si cada imagen es propia, de demostración, simulada o documental; no atribuyas al alumnado imágenes que no haya generado. No incluyas etiquetas, identificadores personales o clínicos, ni formules diagnósticos. Añade aumento o escala solo si se conocen.
 
-### Imagen 1 — Materiales y preparación inicial
+### Imagen 1 — Cuadrante 1
 
-- **Archivo previsto:** `../assets/P08/P08_01_preparacion.jpg`
-- **Texto alternativo:** Materiales preparados para realizar el recuento manual de hematíes.
-- **Pie de foto:** [Describe los materiales y la muestra codificada; indica procedencia y modalidad, sin fotografiar etiquetas identificativas.]
+- **Archivo previsto:** `../assets/P08/P08_01_cuadrante_1.jpg`
+- **Texto alternativo:** Imagen individual del cuadrante eritrocitario 1, una de las cuatro esquinas del área de recuento, en el lado seleccionado de la cámara.
+- **Pie de foto:** [Identifica el cuadrante 1, confirma el lado de la cámara y registra modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Materiales preparados para realizar el recuento manual de hematíes.](../assets/P08/P08_01_preparacion.jpg)
+![Cuadrante eritrocitario 1 en el lado seleccionado de la cámara.](../assets/P08/P08_01_cuadrante_1.jpg)
 
-### Imagen 2 — Preparación de la dilución
+### Imagen 2 — Cuadrante 2
 
-- **Archivo previsto:** `../assets/P08/P08_02_dilucion.jpg`
-- **Texto alternativo:** Preparación de 0,5 mL de sangre diluida para el recuento de hematíes.
-- **Pie de foto:** [Indica si se preparó dilución 1:200 o 1:100, el diluyente y la modalidad/origen de la muestra; no muestres datos identificativos.]
+- **Archivo previsto:** `../assets/P08/P08_02_cuadrante_2.jpg`
+- **Texto alternativo:** Imagen individual del cuadrante eritrocitario 2, una de las cuatro esquinas del área de recuento, en el mismo lado de la cámara.
+- **Pie de foto:** [Identifica el cuadrante 2, confirma que corresponde al mismo lado que la imagen 1 y registra modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Preparación de la dilución de sangre para el recuento de hematíes.](../assets/P08/P08_02_dilucion.jpg)
+![Cuadrante eritrocitario 2 en el lado seleccionado de la cámara.](../assets/P08/P08_02_cuadrante_2.jpg)
 
-### Imagen 3 — Carga de la cámara
+### Imagen 3 — Cuadrante 3
 
-- **Archivo previsto:** `../assets/P08/P08_03_carga_camara.jpg`
-- **Texto alternativo:** Carga por capilaridad de la cámara Improved Neubauer con la dilución preparada.
-- **Pie de foto:** [Documenta la carga y señala si se observan burbujas, rebose o llenado irregular; indica la modalidad y el origen de la imagen.]
+- **Archivo previsto:** `../assets/P08/P08_03_cuadrante_3.jpg`
+- **Texto alternativo:** Imagen individual del cuadrante eritrocitario 3, una de las cuatro esquinas del área de recuento, en el mismo lado de la cámara.
+- **Pie de foto:** [Identifica el cuadrante 3, confirma que corresponde al mismo lado que la imagen 1 y registra modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Carga por capilaridad de la cámara Improved Neubauer.](../assets/P08/P08_03_carga_camara.jpg)
+![Cuadrante eritrocitario 3 en el lado seleccionado de la cámara.](../assets/P08/P08_03_cuadrante_3.jpg)
 
-### Imagen 4 — Cuadrante 1
+### Imagen 4 — Cuadrante 4
 
-- **Archivo previsto:** `../assets/P08/P08_04_cuadrante_1.jpg`
-- **Texto alternativo:** Microfotografía individual del cuadrante eritrocitario 1 en el lado seleccionado de la cámara.
-- **Pie de foto:** [Registra cuadrante 1 y confirma que corresponde al mismo lado de la cámara que las imágenes 5–8; indica modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
+- **Archivo previsto:** `../assets/P08/P08_04_cuadrante_4.jpg`
+- **Texto alternativo:** Imagen individual del cuadrante eritrocitario 4, una de las cuatro esquinas del área de recuento, en el mismo lado de la cámara.
+- **Pie de foto:** [Identifica el cuadrante 4, confirma que corresponde al mismo lado que la imagen 1 y registra modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Cuadrante eritrocitario 1 en el lado seleccionado de la cámara.](../assets/P08/P08_04_cuadrante_1.jpg)
+![Cuadrante eritrocitario 4 en el lado seleccionado de la cámara.](../assets/P08/P08_04_cuadrante_4.jpg)
 
-### Imagen 5 — Cuadrante 2
+### Imagen 5 — Cuadrante 5 (centro)
 
-- **Archivo previsto:** `../assets/P08/P08_05_cuadrante_2.jpg`
-- **Texto alternativo:** Microfotografía individual del cuadrante eritrocitario 2 en el lado seleccionado de la cámara.
-- **Pie de foto:** [Registra cuadrante 2, confirma el mismo lado de cámara de la imagen 4, modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
+- **Archivo previsto:** `../assets/P08/P08_05_cuadrante_5_centro.jpg`
+- **Texto alternativo:** Imagen individual del cuadrante eritrocitario central del área de recuento, en el mismo lado de la cámara.
+- **Pie de foto:** [Identifica el cuadrante central, confirma que corresponde al mismo lado que las imágenes 1–4 y registra modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
-![Cuadrante eritrocitario 2 en el lado seleccionado de la cámara.](../assets/P08/P08_05_cuadrante_2.jpg)
-
-### Imagen 6 — Cuadrante 3
-
-- **Archivo previsto:** `../assets/P08/P08_06_cuadrante_3.jpg`
-- **Texto alternativo:** Microfotografía individual del cuadrante eritrocitario 3 en el lado seleccionado de la cámara.
-- **Pie de foto:** [Registra cuadrante 3, confirma el mismo lado de cámara de la imagen 4, modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
-![Cuadrante eritrocitario 3 en el lado seleccionado de la cámara.](../assets/P08/P08_06_cuadrante_3.jpg)
-
-### Imagen 7 — Cuadrante 4
-
-- **Archivo previsto:** `../assets/P08/P08_07_cuadrante_4.jpg`
-- **Texto alternativo:** Microfotografía individual del cuadrante eritrocitario 4 en el lado seleccionado de la cámara.
-- **Pie de foto:** [Registra cuadrante 4, confirma el mismo lado de cámara de la imagen 4, modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
-![Cuadrante eritrocitario 4 en el lado seleccionado de la cámara.](../assets/P08/P08_07_cuadrante_4.jpg)
-
-### Imagen 8 — Cuadrante 5
-
-- **Archivo previsto:** `../assets/P08/P08_08_cuadrante_5.jpg`
-- **Texto alternativo:** Microfotografía individual del cuadrante eritrocitario 5 en el lado seleccionado de la cámara.
-- **Pie de foto:** [Registra cuadrante 5, confirma el mismo lado de cámara de la imagen 4, modalidad, aumento si se conoce y limitaciones de enfoque o distribución.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
-
-![Cuadrante eritrocitario 5 en el lado seleccionado de la cámara.](../assets/P08/P08_08_cuadrante_5.jpg)
+![Cuadrante eritrocitario central en el lado seleccionado de la cámara.](../assets/P08/P08_05_cuadrante_5_centro.jpg)
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
