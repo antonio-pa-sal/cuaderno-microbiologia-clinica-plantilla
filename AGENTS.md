@@ -11,3 +11,9 @@ En revisiones, limita la migración a las fichas autorizadas. P01/P02 de TAH y P
 Revisa `git status` y el diff antes de operar; no incluyas archivos ajenos al encargo. Commit, push y publicación requieren autorización expresa.
 
 En el apartado de conclusión, pide una valoración razonada que conecte el objetivo con el resultado y/o el procedimiento. No solicites de nuevo cálculos, datos, registros o imágenes ya incluidos en la ficha.
+
+## Rúbricas y ejemplos resueltos
+
+En cada módulo, reserva `docs/modulos/<slug>/rubricas/<Pnn>/`, con una carpeta por cada práctica del programa vigente e identificada por su código estable (`P01`, `P02`, etc.). Estas carpetas se destinan a la futura rúbrica de evaluación y calificación de la práctica y a un ejemplo de práctica correctamente resuelto. La estructura de carpetas no autoriza a redactar ninguno de esos materiales: créalos únicamente ante una solicitud humana explícita y contrástalos con las fuentes canónicas del módulo, sus RA/CE y los criterios de evaluación aprobados. No añadas archivos de marcador dentro de las carpetas vacías.
+
+Mantén `modulos/**/rubricas/**` excluido de la documentación generada por MkDocs para que los materiales docentes futuros no se publiquen automáticamente con el cuaderno del alumnado.
