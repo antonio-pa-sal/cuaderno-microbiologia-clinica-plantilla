@@ -7,7 +7,6 @@ assessment_criteria: CE02.a–CE02.g
 transversal_learning_outcome: RA01
 page_type: practical-notebook
 student_completion: individual
-reference_document: "práctica7_TincióndeGram.pdf"
 ---
 
 # P04 — Tinción de Gram
@@ -25,11 +24,11 @@ reference_document: "práctica7_TincióndeGram.pdf"
 | Aprendizaje transversal | `RA01 — bioseguridad` |
 | Agrupamiento | Ejecución por parejas cuando proceda; interpretación y registro individual. |
 | Instrumentos vinculados | Prueba práctica, cuaderno o portfolio de prácticas y caso clínico o profesional. |
-| Modalidad prevista | Kit de Gram vigente y preparaciones o cultivos docentes autorizados. Alternativa: preparaciones permanentes, imágenes o resultados docentes. |
+| Modalidad prevista | Ejecución real a partir de colonias de cepas didácticas no patógenas usadas en el laboratorio, con kit de Gram vigente y autorización del centro. |
 
 ## 2. Resumen
 
-En esta práctica realizarás o interpretarás una tinción de Gram para diferenciar bacterias según la retención del complejo de colorante y relacionar el resultado con su morfología. Prepararás el frotis, aplicarás la secuencia de colorante primario, mordiente, decoloración y contraste conforme al procedimiento vigente, y observarás la preparación al microscopio. Registrarás controles, tiempos, aspecto celular, agrupación y posibles errores de decoloración o contaminación. El resultado esperado es una clasificación Gram positiva o Gram negativa justificada por la evidencia, acompañada de imágenes con pie técnico. También explicarás qué información aporta la tinción y qué pruebas adicionales serían necesarias para identificar el microorganismo.
+En esta práctica realizarás una tinción de Gram a partir de colonias de cepas didácticas no patógenas empleadas en el laboratorio. Prepararás el frotis, aplicarás la secuencia del kit vigente, observarás al microscopio y registrarás controles, tiempos, morfología y reacción tintorial. Justificarás la clasificación orientativa con evidencias y explicarás por qué no identifica por sí sola una especie. Si el centro no autoriza alguna condición, el docente asignará una alternativa y se identificará como tal.
 
 ## 3. Finalidad y resultados esperados
 
@@ -37,8 +36,7 @@ La tinción de Gram es una tinción diferencial central en bacteriología. Permi
 
 Al finalizar deberás poder:
 
-- preparar o analizar un frotis conforme al protocolo autorizado;
-- aplicar o describir con orden la secuencia de la tinción de Gram;
+- preparar un frotis fino a partir de una colonia didáctica autorizada y aplicar la secuencia vigente de Gram;
 - reconocer los puntos críticos que pueden provocar una tinción débil, sobredecolorada o no interpretable;
 - describir la morfología, disposición y reacción tintorial observadas;
 - utilizar controles para valorar la validez de la práctica; y
@@ -46,15 +44,17 @@ Al finalizar deberás poder:
 
 ## 4. Recursos, seguridad y autorización
 
-**Recursos previstos:** kit de Gram vigente, microscopio óptico, portaobjetos, puente de tinción, sistema de lavado y recogida de residuos, material absorbente y preparaciones o cultivos docentes autorizados. El kit suele incluir colorante primario, mordiente, decolorante y colorante de contraste; el centro confirmará los reactivos concretos, su estado y sus FDS.
+**Instrumental y materiales:** portaobjetos, asa de siembra, pipeta Pasteur, papel de filtro, puente de tinción, frasco lavador y cubeta o cristalizador para recoger los líquidos. **Equipo:** microscopio óptico; mechero Bunsen solo si el centro autoriza la fijación por calor y sus medidas de seguridad. **Reactivos:** suero fisiológico estéril, agua destilada y kit vigente con cristal violeta, Lugol, decolorante y safranina. El docente confirmará composición, compatibilidad, cantidades, tiempos, FDS y residuos del kit concreto.
+
+**Material biológico:** colonias disponibles de cultivos previos de cepas didácticas no patógenas usadas en el laboratorio, como las obtenidas en [P12 — Siembra por agotamiento](P12_Siembra_por_agotamiento.md). El docente asignará e identificará el cultivo y confirmará su autorización. La condición «no patógena» no sustituye la evaluación local de riesgos ni la supervisión. No se usarán muestras clínicas, ambientales ni cultivos de origen desconocido.
 
 **Condición operativa:** el inventario histórico identificó un kit de Gram caducado. La reposición o verificación documental de un kit vigente es obligatoria antes de la ejecución real.
 
 **Riesgos:** exposición a colorantes y decolorante, salpicaduras, vapores del decolorante, rotura o corte con vidrio y, si procede, contacto con material biológico autorizado.
 
-**Medidas obligatorias:** consultar las FDS, usar el EPI indicado, minimizar salpicaduras y aerosoles, manipular el vidrio con seguridad, seguir el procedimiento de fijación autorizado, emplear únicamente material docente autorizado y gestionar por separado los residuos químicos, biológicos y de vidrio conforme al protocolo del centro.
+**Medidas obligatorias:** consultar las FDS y las instrucciones de seguridad comunicadas por el centro; usar el EPI indicado, minimizar salpicaduras y aerosoles, manipular el vidrio con seguridad y emplear técnica aséptica bajo supervisión. Usar llama solo con autorización. Separar residuos químicos, biológicos y punzocortantes según el circuito del centro.
 
-> **Aviso de seguridad.** La práctica es `CONDITIONAL`: requiere kit vigente, FDS, preparaciones o cultivos docentes autorizados, EPI y rutas de residuos confirmadas. Si alguna condición no se cumple, se trabajará con preparaciones permanentes, imágenes de alta calidad o resultados docentes, identificándolos expresamente como tales.
+> **Aviso de seguridad.** La ejecución real es `CONDITIONAL`: requiere cepas didácticas identificadas y autorizadas, colonias disponibles, evaluación de riesgos, supervisión, kit vigente, FDS, EPI, rutas de residuos y condiciones operativas definidas y autorizadas por el centro. Si falta alguna condición, el docente asignará una preparación permanente, imagen o resultado docente, identificado expresamente como alternativa.
 
 ## 5. Fundamento técnico
 
@@ -62,38 +62,33 @@ La tinción de Gram diferencia bacterias según su comportamiento tintorial, rel
 
 La lectura depende de la calidad del frotis, del orden de los reactivos, del lavado y, especialmente, de la decoloración. Una tinción no válida o unos controles incorrectos impiden concluir la reacción de Gram con seguridad. El resultado debe interpretarse junto con morfología, disposición celular, edad de la preparación y controles; no identifica por sí solo una especie.
 
-El documento adjunto aporta la secuencia tradicional de colorante primario, mordiente, decoloración y contraste. Sus tiempos, formulaciones y condiciones son una referencia histórica. El protocolo operativo será exclusivamente el validado por el centro a partir del kit vigente y de las FDS.
+La tinción de Gram comprende colorante primario, mordiente, decoloración, contraste y lavados. El centro debe definir y autorizar las condiciones operativas compatibles con el kit vigente antes de la ejecución real; no se presuponen tiempos, formulaciones ni métodos de fijación.
 
 ## 6. Procedimiento y controles de calidad
 
-### Procedimiento base
+**Referencia técnica general:** [ASM, Gram Stain Protocols](https://asm.org/protocols/gram-stain-protocols). Para preparar un frotis desde colonia, [LSUHSC, DM Lab 05: The Gram Stain](https://www.medschool.lsuhsc.edu/microbiology/DMIP/dmex05.htm) describe emulsificar una pequeña cantidad en una gota de suero fisiológico y extender una capa fina. El centro debe definir y autorizar las condiciones operativas para las cepas y el kit disponibles.
 
-1. Verificar la autorización del material, el estado del kit, las FDS, el EPI y la ruta de residuos.
-2. Preparar o recibir un frotis autorizado, correctamente identificado, y aplicar la fijación solo conforme al protocolo del centro.
-3. Colocar el portaobjetos en el puente de tinción y aplicar, en el orden indicado, el colorante primario, el mordiente, el decolorante y el colorante de contraste.
-4. Respetar los tiempos, volúmenes, lavados y modo de decoloración definidos por el protocolo vigente; recoger los líquidos en el recipiente designado.
-5. Dejar secar la preparación siguiendo la indicación recibida y observar al microscopio con la configuración autorizada.
-6. Registrar morfología, disposición, reacción tintorial, controles y limitaciones de la lectura.
-7. Eliminar el material, limpiar el puesto y registrar la gestión de residuos conforme al procedimiento del centro.
-
-### Procedimiento específico
-
-**[PNT](https://asm.org/protocols/gram-stain-protocols) de referencia:** [ASM, Gram Stain Protocols](https://asm.org/protocols/gram-stain-protocols)
-
-1. Verifica frotis, kit de Gram, fichas de seguridad, controles, puente de tinción y residuos; etiqueta y usa EPI.
-2. Prepara o recibe un frotis fino y fijado según el protocolo autorizado; no calientes fuera de supervisión.
-3. Aplica violeta, lugol, decolorante y contraste en el orden, volumen y tiempo definidos por el [PNT](https://asm.org/protocols/gram-stain-protocols).
-4. Lava suavemente entre reactivos y recoge líquidos en el recipiente químico designado; evita salpicaduras.
-5. Seca y observa con el objetivo indicado; registra morfología, disposición, reacción tintorial y aumento.
-6. Comprueba controles Gram positivo y negativo; anota precipitados, sobredecoloración o frotis demasiado grueso.
-7. Elimina portaobjetos y reactivos por rutas separadas; limpia el puente y documenta limitaciones.
+1. Confirma que las cepas didácticas y sus colonias están identificadas y autorizadas, y que el centro ha definido las condiciones operativas para el kit disponible. Verifica supervisión, FDS, EPI y residuos; si falta algo, no inicies la ejecución real.
+2. Reúne portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta de recogida, microscopio y reactivos previstos; prepara la superficie según las indicaciones de seguridad del centro.
+3. Identifica el portaobjetos con el código docente asignado, sin datos personales.
+4. Deposita una gota de suero fisiológico estéril en el portaobjetos; con un asa estéril y enfriada, toma una pequeña porción de colonia y emulsiónala hasta obtener una suspensión homogénea.
+5. Extiende la suspensión en una capa fina y uniforme. Deja secar completamente al aire antes de fijar el frotis; evita que quede una preparación gruesa.
+6. Fija el frotis seco conforme a las condiciones autorizadas por el centro. Usa el mechero Bunsen solo si se ha autorizado esa forma de fijación y bajo supervisión.
+7. Coloca el portaobjetos horizontal en el puente y aplica cristal violeta durante el tiempo y volumen indicados por el inserto o etiqueta del kit.
+8. Lava suavemente con agua destilada según las instrucciones del kit; aplica Lugol durante el tiempo establecido por el centro y recoge los líquidos por la ruta comunicada.
+9. Enjuaga con ayuda del frasco lavador sin arrastrar el frotis y decolora con el reactivo especificado; sigue el modo y la duración autorizados, evitando salpicaduras y sobredecoloración.
+10. Detén la decoloración, tras el tiempo indicado, añadiendo agua con el frasco lavador. Aplica safranina durante el tiempo establecido y realiza el lavado final.
+11. Deja secar la preparación al aire. Observa con el microscopio, comenzando por menor aumento y llegando hasta 100× con aceite de inmersión.
+12. Presta atención a la morfología, agrupación, coloración y coincidencias o discrepancias con el material de origen; no atribuyas una identificación de especie a la tinción.
+13. Si son cepas conocidas, contrasta la lectura con los controles esperados. Si no hay controles válidos o la preparación es deficiente, registra la limitación y revisa la descripción de la observación para facilitar su identificación posterior mediante pruebas bioquímicas.
+14. Clasifica los residuos generados y procésalos según corresponda en cada caso (portaobjetos, posible material contaminado y líquidos con colorantes). Limpia el puesto y el equipo según sus instrucciones y comunica cualquier incidencia.
 
 ### Controles de calidad
 
 - Kit de Gram vigente, reactivos identificados y FDS disponibles.
-- Frotis de grosor adecuado, identificado y correctamente fijado según el protocolo.
+- Colonia de procedencia conocida, identificada con código docente y autorizada; frotis fino, homogéneo, seco y fijado según las condiciones autorizadas.
 - Secuencia y lavados realizados en el orden establecido.
-- Control Gram positivo y control Gram negativo, cuando estén disponibles y autorizados, con el resultado esperado.
+- Cepas de control Gram positiva y Gram negativa designadas por el docente, cuando estén disponibles y autorizadas, con la reacción esperada.
 - Ausencia de sobredecoloración, precipitados u otros artefactos que invaliden la lectura.
 - Imagen o esquema suficiente para apoyar la clasificación, con pie de foto técnico y origen declarado.
 
@@ -108,21 +103,21 @@ El documento adjunto aporta la secuencia tradicional de colorante primario, mord
 - **Grupo:** [Indica tu grupo]
 - **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
 - **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución con material autorizado / preparación permanente / imagen o resultado docente / otra; descríbela]
-- **Código o descripción del material observado:** [Completa sin incluir datos personales o clínicos]
-- **Kit o referencia de reactivos utilizado:** [Completa]
+- **Modalidad realmente realizada:** [Ejecución real con colonia autorizada / alternativa docente; describe cuál]
+- **Código de cepa y colonia asignada:** [Registra el código docente, medio/origen conocido y fecha de lectura; no inventes datos]
+- **Kit de Gram utilizado:** [Fabricante o referencia, lote y caducidad disponibles]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
 ### 8.1 Verificación previa
 
-Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
+Enumera los materiales y equipos previstos para teñir colonias autorizadas. Incluye por separado los líquidos con reactivos, el material contaminado y el vidrio; clasifica cada residuo según el circuito confirmado por el centro.
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | [Portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta u otro] |
+| Equipos | [Microscopio y objetivo; mechero Bunsen solo si está autorizado] |
+| Reactivos/materiales | [Colonia y código docente, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
 
 | Residuo previsto | Tipo |
 |---|---|
@@ -132,41 +127,71 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 ### 9.1 Registro de observaciones y cálculos
 
-Registra los datos de tu actividad e indica si proceden de ejecución propia, demostración, simulación o material documental. Escribe «No aplica» en cálculos o equipos cuando corresponda; no inventes datos que no estén disponibles.
+Registra la ejecución real o la alternativa asignada. Anota la cepa y colonia codificadas, kit empleado, tiempos y parámetros autorizados, configuración microscópica, controles, reacción, morfología y limitaciones. No completes datos no disponibles.
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) | [No previstos para la tinción; escribe «No aplica» salvo que las condiciones autorizadas requieran alguno] |
+| Configuración de equipos (si procede) | [Microscopio, objetivos usados, aceite de inmersión si procede y ajustes relevantes] |
+| Características del producto o resultado final | [Código de cepa/colonia, aspecto del frotis, secuencia y tiempos aplicados, controles, reacción tintorial, morfología y limitaciones] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
-> Sube imágenes propias, pertinentes y tomadas de acuerdo con las normas del centro. No incluyas rostros, datos personales, etiquetas con información sensible ni material cuya fotografía esté prohibida. Si la evidencia procede de una preparación permanente, una imagen docente o un vídeo, indícalo: no puede presentarse como una ejecución propia.
+> Añade entre cinco y ocho imágenes propias de las fases realizadas y autorizadas. No incluyas rostros, datos personales ni etiquetas sensibles. Si alguna imagen procede de material docente o de una alternativa, identifica su origen y no la presentes como ejecución propia.
 
-### Imagen 1 — Proceso o frotis seguro
+### Imagen 1 — Colonia didáctica asignada
 
-![Proceso o frotis seguro](../assets/P04/proceso_o_frotis_seguro_01.jpg)
+**Archivo previsto:** `../assets/P04/colonia_didactica_asignada_01.jpg`
 
-- **Pie de foto:** [Qué se observa: preparación, puente de tinción, frotis o una medida de seguridad]
-- **Punto crítico de calidad o seguridad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
+![Colonia didáctica asignada para la tinción de Gram](../assets/P04/colonia_didactica_asignada_01.jpg)
 
-### Imagen 2 — Campo microscópico teñido
+**Pie de foto técnico:** [Describe la colonia y añade su código docente, sin datos sensibles.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja / material docente autorizado]
 
-![Campo microscópico teñido](../assets/P04/campo_microscopico_tenido_02.jpg)
+### Imagen 2 — Preparación del frotis
 
-- **Pie de foto:** [Qué se observa y con qué configuración microscópica]
-- **Morfología y reacción tintorial señaladas:** [Completa]
-- **Origen de la imagen:** [Observación propia / preparación permanente / material docente; especifica]
+**Archivo previsto:** `../assets/P04/preparacion_frotis_desde_colonia_02.jpg`
 
-### Imagen 3 — Resultado interpretado o control
+![Preparación del frotis a partir de la colonia didáctica](../assets/P04/preparacion_frotis_desde_colonia_02.jpg)
 
-![Resultado interpretado o control](../assets/P04/resultado_interpretado_o_control_03.jpg)
+**Pie de foto técnico:** [Describe la preparación real del frotis y el paso de fijación aplicado.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja]
 
-- **Pie de foto:** [Qué control o conclusión técnica apoya]
-- **Relación con la interpretación:** [Explica cómo esta evidencia respalda o limita la clasificación]
-- **Autoría y origen:** [Completa]
+### Imagen 3 — Aplicación de colorantes y mordiente
+
+**Archivo previsto:** `../assets/P04/aplicacion_colorante_y_lugol_03.jpg`
+
+![Aplicación del colorante primario y Lugol en el puente de tinción](../assets/P04/aplicacion_colorante_y_lugol_03.jpg)
+
+**Pie de foto técnico:** [Describe la fase de tinción que realmente se observa.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja]
+
+### Imagen 4 — Decoloración y contraste
+
+**Archivo previsto:** `../assets/P04/decoloracion_y_safranina_04.jpg`
+
+![Decoloración y aplicación del colorante de contraste en la tinción de Gram](../assets/P04/decoloracion_y_safranina_04.jpg)
+
+**Pie de foto técnico:** [Describe la decoloración y/o el contraste sin anticipar el resultado.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja]
+
+### Imagen 5 — Campo microscópico de la preparación teñida a 40x
+
+**Archivo previsto:** `../assets/P04/campo_microscopico_40x_05.jpg`
+
+![Campo microscópico de la preparación teñida a 40x](../assets/P04/campo_microscopico_40x_05.jpg)
+
+**Pie de foto técnico:** [Describe el campo y registra el objetivo y el aumento observado.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja]
+
+### Imagen 6 — Campo microscópico de la preparación teñida a 100x
+
+**Archivo previsto:** `../assets/P04/campo_microscopico_100x_06.jpg`
+
+![Campo microscópico de la preparación teñida a 100x](../assets/P04/campo_microscopico_100x_06.jpg)
+
+**Pie de foto técnico:** [Describe el campo y registra el objetivo, el aumento y si utilizaste aceite de inmersión.]<br>
+**Autoría y procedencia:** [Propia / compartida con la pareja]
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -182,7 +207,7 @@ Interpreta la morfología, disposición y reacción tintorial observadas. Explic
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Indica si alcanzaste el objetivo de realizar o analizar una tinción de Gram válida. Sustenta tu conclusión con evidencias concretas e indica una limitación de la preparación, de los controles o del material utilizado.
+Valora razonadamente en qué medida el procedimiento aplicado y el resultado obtenido permitieron alcanzar el objetivo de realizar una tinción de Gram interpretable. Apoya la valoración en tus evidencias e indica una limitación relevante.
 
 [Escribe aquí tu conclusión.]
 
@@ -190,19 +215,19 @@ Indica si alcanzaste el objetivo de realizar o analizar una tinción de Gram vá
 
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 
-1. **Procedimiento:** ¿Qué paso de la secuencia de Gram consideras más determinante para no alterar la reacción tintorial y cómo verificaste que se controló adecuadamente?
+**1. Procedimiento:** ¿Qué paso de la secuencia de Gram consideras más determinante para no alterar la reacción tintorial y cómo verificaste que se controló adecuadamente?
 
    [Respuesta del alumnado]
 
-2. **Interpretación:** ¿Qué combinación de morfología, disposición, coloración y controles utilizaste para proponer una clasificación orientativa? ¿Qué dato impediría considerarla válida?
+**2. Interpretación — Sobre la edad del cultivo:** ¿De qué manera la edad o el estado fisiológico de la colonia empleada puede modificar la respuesta tintorial esperada en bacterias Gram positivas?
 
    [Respuesta del alumnado]
 
-3. **Conclusiones:** ¿Qué evidencia de tu cuaderno respalda mejor la conclusión sobre la reacción de Gram y qué limitación evita que esa evidencia se convierta en una identificación definitiva?
+**3. Conclusiones — Sobre el alcance diagnóstico:** Más allá de orientar el grupo tintorial y la morfología, ¿qué información crítica sobre la cepa no puede obtenerse mediante esta técnica y qué pruebas posteriores requeriría?
 
    [Respuesta del alumnado]
 
-4. **Aprendizaje y transferencia:** ¿Qué precaución de seguridad o control de calidad aplicarás en futuras tinciones diferenciales y cómo reducirá un posible error técnico o de interpretación?
+**4. Aprendizaje y transferencia — Sobre otras técnicas:** De las habilidades desarrolladas al preparar el frotis y controlar tiempos críticos en Gram, ¿cuáles consideras directamente transferibles a otras tinciones diferenciales (como Ziehl-Neelsen)?
 
    [Respuesta del alumnado]
 
