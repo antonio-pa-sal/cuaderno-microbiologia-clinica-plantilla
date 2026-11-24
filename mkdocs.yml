@@ -104,5 +104,6 @@ nav:
               - "P20 · Riesgo, protección y residuos en prácticas hematológicas": modulos/tecnicas-analisis-hematologico/practicas-generadas/P20_Riesgo_proteccion_residuos_practicas_hematologicas.md
 exclude_docs: |
   /modulos/**/fuentes-canonicas/**
+  /modulos/**/rubricas/**
 plugins:
   - search
