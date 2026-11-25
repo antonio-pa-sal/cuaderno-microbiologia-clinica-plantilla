@@ -48,8 +48,6 @@ Al finalizar deberás poder:
 
 **Material biológico:** colonias disponibles de cultivos previos de cepas didácticas no patógenas usadas en el laboratorio, como las obtenidas en [P12 — Siembra por agotamiento](P12_Siembra_por_agotamiento.md). El docente asignará e identificará el cultivo y confirmará su autorización. La condición «no patógena» no sustituye la evaluación local de riesgos ni la supervisión. No se usarán muestras clínicas, ambientales ni cultivos de origen desconocido.
 
-**Condición operativa:** el inventario histórico identificó un kit de Gram caducado. La reposición o verificación documental de un kit vigente es obligatoria antes de la ejecución real.
-
 **Riesgos:** exposición a colorantes y decolorante, salpicaduras, vapores del decolorante, rotura o corte con vidrio y, si procede, contacto con material biológico autorizado.
 
 **Medidas obligatorias:** consultar las FDS y las instrucciones de seguridad comunicadas por el centro; usar el EPI indicado, minimizar salpicaduras y aerosoles, manipular el vidrio con seguridad y emplear técnica aséptica bajo supervisión. Usar llama solo con autorización. Separar residuos químicos, biológicos y punzocortantes según el circuito del centro.
@@ -70,7 +68,7 @@ La tinción de Gram comprende colorante primario, mordiente, decoloración, cont
 
 1. Confirma que las cepas didácticas y sus colonias están identificadas y autorizadas, y que el centro ha definido las condiciones operativas para el kit disponible. Verifica supervisión, FDS, EPI y residuos; si falta algo, no inicies la ejecución real.
 2. Reúne portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta de recogida, microscopio y reactivos previstos; prepara la superficie según las indicaciones de seguridad del centro.
-3. Identifica el portaobjetos con el código docente asignado, sin datos personales.
+3. Identifica el portaobjetos con los datos habituales sobre cepa, fecha y nombre de grupo o persona responsable.
 4. Deposita una gota de suero fisiológico estéril en el portaobjetos; con un asa estéril y enfriada, toma una pequeña porción de colonia y emulsiónala hasta obtener una suspensión homogénea.
 5. Extiende la suspensión en una capa fina y uniforme. Deja secar completamente al aire antes de fijar el frotis; evita que quede una preparación gruesa.
 6. Fija el frotis seco conforme a las condiciones autorizadas por el centro. Usa el mechero Bunsen solo si se ha autorizado esa forma de fijación y bajo supervisión.
